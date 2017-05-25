@@ -13,7 +13,7 @@ insert into contraindicacao (nome) values ('Alergia a Y');
 insert into contraindicacao (nome) values ('Intolerância a Z');
 
 -- Tabela medicamento
-insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Abacavir, sulfato de', 145345, 
+insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Abacavir, sulfato de', "00000000", 
 'APRESENTAÇÃO
 • Comprimido 300 mg. • Solução oral 20 mg/mL 
 
@@ -60,7 +60,7 @@ que apresentam sintomas sistêmicos respiratórios e/ou gastrintestinais, em ger
 Sempre que houver qualquer suspeita dessas reações, o uso do medicamento deve ser imediatamente suspenso. 
 Se houver melhora após a retirada, sua reintrodução está contraindicada.', 'http://linkimagem.com/img.png', 1);
 
-insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Acetato de Medroxiprogesterona', 56245, '
+insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Acetato de Medroxiprogesterona', "00000001", '
 APRESENTAÇÃO
 • Comprimido 2,5 e 10 mg. • Suspensão injetável 150 mg/mL. 
 
@@ -103,7 +103,7 @@ ASPECTOS FARMACEUTICOS
 
 
                                                                                       
-insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Acetazolamida', 99,'
+insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Acetazolamida', "00000002",'
 APRESENTAÇÃO
 • Comprimido 250 mg
 
@@ -144,7 +144,7 @@ ASPECTOS FARMACEUTICOS
 • Armazenar à temperatura ambiente, entre 15 e 30 °C. Proteger do calor, da umidade e da luz direta. • Medicamentos produzidos por laboratórios diferentes só podem ser inter- cambiáveis quando houver informação sobre a bioequivalência. • Comprimidos de acetazolamida podem ser triturados. São relatadas prepa- rações extemporâneas a partir dos comprimidos, tanto sob forma de suspen- sões como de soluções (que devem ser tamponadas a pH 4,0). Trituram-se os comprimidos, suspendendo o pó resultante em xarope de gosto forte (cereja, framboesa, chocolate, etc). Pode suspender-se até 500 mg em 5 mL de xarope, mas uma suspensão que contenha 250 mg por 5 mL tem melhor palatabilida- de. Esta suspensão é estável por uma semana. A refrigeração pode melhorar o sabor, mas não aumenta a estabilidade. Os elixires ou outros veículos que contenham álcool ou glicerina não proporcionam suspensão de sabor palatável. O armazenamento deve ser feito entre 15 e 30 ºC e ao abrigo da luz direta. 
 ', 'http://linkimagem.com/img.png', 1);                                                                                      
                                                                                       
-insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Acido valproico (ou Valproato de sódio)',99,
+insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Acido valproico (ou Valproato de sódio)',"00000003",
 'APRESENTAÇÃO
 • Comprimido ou cápsula 288 mg (equivalente a 250 mg ácido valproico). • Comprimido 576 mg (equivalente a 500 mg ácido valproico) • Solução oral ou xarope 57,624 mg/mL (equivalente a 50 mg de ácido valproico/mL) 
 
@@ -187,9 +187,9 @@ ASPECTOS FARMACEUTICOS
 
 ATENÇÃO
 ATENÇÃO: mortalidade por insuficiência hepática tem ocorrido em pacientes que fazem uso de valproato de sódio e outros derivados do ácido valproico. O risco de hepatotoxicidade fatal é maior em crianças com 2 anos e menos de idade, em pacientes que fazem uso concomitante de vários anticonvulsivantes, retardo mental ou doença orgânica de origem cerebral. Este risco diminui consideravelmente com a progressão da idade. Testes de função hepática devem ser realizados em todos os pacientes que irão receber valproato, e periodicamente nos primeiros seis meses de tratamento. Casos de pancreatite fulminante têm sido relatados com o uso de valproato, independente do período de uso e da idade do paciente. Este fármaco apresenta um número elevado de interações de medicamentos, por isso é necessário uma pesquisa específica sobre este aspecto ao avaliar a terapia com este fármaco.
-', 'http://linkimagem.com/img.png', 1)
+', 'http://linkimagem.com/img.png', 1);
 
-insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Albendazol',99,
+insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Albendazol',"00000004",
 'APRESENTAÇÃO
 • Comprimido mastigável 400 mg. • Suspensão oral 40 mg/mL. 
 
@@ -230,7 +230,7 @@ ASPECTOS FARMACEUTICOS
 • Armazenar os comprimidos em local seco, ao abrigo de luz e calor. 
 ', 'http://linkimagem.com/img.png', 1);
 
-insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Alopurinol',99,
+insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Alopurinol',"00000005",
 'APRESENTAÇÃO
 • Comprimidos de 100 mg e 300 mg
 
@@ -271,7 +271,7 @@ ASPECTOS FARMACEUTICOS
 • Os comprimidos devem ser armazenados em frascos bem fechados, à tempe- ratura entre 15 a 30 °C, em locais secos e protegidos da luz. • Preparação extemporânea: triturar comprimidos para fazer uma suspensão na concentração de 5 mg/mL em xarope simples; estável por 14 dias sob re- frigeração. 
 ', 'http://linkimagem.com/img.png', 1);
 
-insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Amiodarona, cloridrato de',99,
+insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Amiodarona, cloridrato de',"00000006",
 'APRESENTAÇÃO
 • Comprimido de 200 mg. • Solução injetável 50 mg/mL 
 
@@ -314,9 +314,9 @@ ASPECTOS FARMACEUTICOS
 
 ATENÇÃO
 Amiodarona apresenta número elevado de interações de medicamentos, por isso é necessário uma pesquisa específica ao avaliar a terapia com este fármaco. Sinais/sintomas de toxicidade: alteração de ECG e PA, letargia, edema de mãos e pés, perda de peso, alterações na função pulmonar, hepática e da tireoide.
-', 'http://linkimagem.com/img.png', 1)
+', 'http://linkimagem.com/img.png', 1);
 
-insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Amitriptilina, cloridrato de',99,
+insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Amitriptilina, cloridrato de',"00000007",
 'APRESENTAÇÃO
 • Comprimido 25 mg. 
 
@@ -361,7 +361,7 @@ ATENÇÃO
 ATENÇÃO: os efeitos terapêuticos podem demorar até 15 dias para se manifestar. Acompanhamento contínuo de pressão arterial e frequência cardíaca nas semanas iniciais.
 ', 'http://linkimagem.com/img.png', 1);
 
-insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Amoxicilina',99,
+insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Amoxicilina',"00000008",
 'APRESENTAÇÃO
 • Cápsula ou comprimido 500 mg. • Pó para suspensão oral 50 mg/mL. 
 
@@ -402,7 +402,7 @@ ASPECTOS FARMACEUTICOS
 • Cada grama de amoxicilina sódica contém 2,6 mmol de sódio. • Armazenar cápsulas sob temperatura inferior a 20 ºC. Armazenar o compri- mido ou pó para suspensão oral (antes da reconstituição) sob temperatura até 25 ºC. Proteger de calor, umidade e luz direta. • Após reconstituição, a suspensão deve ser preferentemente mantida sob refrigeração (entre 2 e 8 ºC), mas também é estável à temperatura ambiente. Descartar 14 dias após a reconstituição. 
 ', 'http://linkimagem.com/img.png', 1);
 
-insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Amoxicilina com Clavulanato de Potassio',99,
+insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Amoxicilina com Clavulanato de Potassio',"00000009",
 'APRESENTAÇÃO
 • Comprimido 500 mg + 125 mg. • Suspensão oral 50 mg + 12,5 mg/mL. 
 
@@ -443,7 +443,7 @@ ASPECTOS FARMACEUTICOS
 • Armazenar comprimidos abaixo de 25 ºC. Proteger de calor, umidade e luz direta. • Suspensão oral deve ser mantida sob refrigeração depois de reconstituída. Evitar congelamento. Descartar 10 dias depois de aberto o frasco. 
 ', 'http://linkimagem.com/img.png', 1);
 
-insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Anlodipino, besilato de',99,
+insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Anlodipino, besilato de',"000000010",
 'APRESENTAÇÃO
 • Comprimidos 5 mg e 10 mg. 
 
@@ -488,7 +488,7 @@ ATENÇÃO
 Este fármaco apresenta número elevado de interações de medicamentos. Segurança e eficácia deste medicamento em menores de 6 anos ainda não foram estabelecidas . Sinal/sintoma de toxicidade: hipotensão, enrubescimento, cefaleia e edema periférico.
 ', 'http://linkimagem.com/img.png', 1);
 
-insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Atenolol',99,
+insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Atenolol',"000000011",
 'APRESENTAÇÃO
 • Comprimidos de 50 mg e 100 mg. 
 
@@ -533,7 +533,7 @@ ATENÇÃO
 Atenolol é um betabloqueador cardiosseletivo sem atividadesimpaticomimética intrinseca e propriedades estabilizantes de membrana . Substituido pelo metoprolol no tratamento de arritmia . Em hipertensão não é recomendado para pacientes com mais de 60 anos, grávidas e aqueles com intervalo QT longo. A segurança e eficácia não está estabelecido em crianças
 ', 'http://linkimagem.com/img.png', 1);
 
-insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Azitromicina',99,
+insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Azitromicina',"000000012",
 'APRESENTAÇÃO
 • Comprimido de 500 mg. • Pó para suspensão oral de 40 mg/mL. 
 
@@ -574,7 +574,7 @@ ASPECTOS FARMACEUTICOS
 • Manter ao abrigo de luz e calor. • Suspensão: manter à temperatura entre 5 e 30 °C após reconstituição. Descartar após 10 dias. • Comprimidos: manter à temperatura entre 15 e 30 °C. 
 ', 'http://linkimagem.com/img.png', 1);
 
-insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Beclometasona, dipropionato',99,
+insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Beclometasona, dipropionato',"000000013",
 'APRESENTAÇÃO
 • Pó, solução inalante ou aerossol 50, 200 e/ou 250 microgramas/dose. • Aerossol nasal 50 microgramas (equivalente a 42 microgramas de beclometasona/dose). 
 
@@ -615,7 +615,7 @@ ASPECTOS FARMACEUTICOS
 • Armazenar as formas aerossol a temperaturas entre 15 e 30 ºC. Há risco de explosão do frasco aerossol quando exposto a temperaturas acima de 50 ºC. • Armazenar as cápsulas com o pó à temperatura ambiente, entre 15 e 30 ºC. Manter em frascos bem fechados e proteger da umidade. O frasco deve ser aberto e a cápsula inserida no dispensador somente no momento do uso. 
 ', 'http://linkimagem.com/img.png', 1);
 
-insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Benzilpenicilina Benzatina',99,
+insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Benzilpenicilina Benzatina',"000000014",
 'APRESENTAÇÃO
 • Pó para suspensão injetável de 600.000 UI e 1.200.000 UI. 
 
@@ -656,7 +656,7 @@ ASPECTOS FARMACEUTICOS
 • Armazenar a temperaturas entre 15 e 30 °C. • Armazenar a suspensão reconstituída sob refrigeração, entre 2 e 8 °C. • Não administrar por via intravenosa: via associada a parada cardiorespiratória e morte. • Administrar por via intramuscular profunda, longe de artérias e nervos. 
 ', 'http://linkimagem.com/img.png', 1);
 
-insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Biperideno (cloridrato/lactato)',99,
+insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Biperideno (cloridrato/lactato)',"000000015",
 'APRESENTAÇÃO
 • Comprimido 2 mg (cloridrato de biperideno) • Solução injetável 5 mg/mL (lactato de biperideno) 
 
@@ -697,7 +697,7 @@ ASPECTOS FARMACEUTICOS
 • Conservar sob temperatura ambiente, entre 15 e 30 ºC, em recipientes bem fechados e ao abrigo da luz. Evitar o congelamento. 
 ', 'http://linkimagem.com/img.png', 1);
 
-insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Budesonida',99,
+insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Budesonida',"000000016",
 'APRESENTAÇÃO
 • Aerossol nasal 50 microgramas (equivale a 32 microgramas de budesonida por dose). 
 
@@ -738,7 +738,7 @@ ASPECTOS FARMACEUTICOS
 • Armazenar as formas aerossol a temperaturas entre 15 e 30 ºC. Há risco de explosão do frasco com aerossol quando exposto a temperaturas acima de 50ºC. Manter ao abrigo da luz. Não congelar. 
 ', 'http://linkimagem.com/img.png', 1);
 
-insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Bupropiona, cloridrato',99,
+insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Bupropiona, cloridrato',"000000017",
 'APRESENTAÇÃO
 • Comprimido de 150 mg 
 
@@ -779,7 +779,7 @@ ASPECTOS FARMACEUTICOS
 • Manter ao abrigo de luz e à temperatura ambiente, entre 15 e 30 ºC. 
 ', 'http://linkimagem.com/img.png', 1);
 
-insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Calcitriol',99,
+insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Calcitriol',"000000018",
 'APRESENTAÇÃO
 • Cápsula 0,25 microgramas 
 
@@ -824,7 +824,7 @@ ATENÇÃO
 Sinonímia: 1,25-dihidroxicolecalciferol, vitamina D3 ativa.
 ', 'http://linkimagem.com/img.png', 1);
 
-insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Captopril',99,
+insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Captopril',"000000019",
 'APRESENTAÇÃO
 • Comprimido 25 mg. 
 
@@ -865,7 +865,7 @@ ASPECTOS FARMACEUTICOS
 • Armazenar entre 15 e 30 °C, proteger do calor, umidade e luz direta. • Comprimidos podem apresentar leve odor sulfuroso. • Existe descrita formulação extemporânea para uso em criança. 
 ', 'http://linkimagem.com/img.png', 1);
 
-insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Carbamazepina',99,
+insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Carbamazepina',"000000020",
 'APRESENTAÇÃO
 • Comprimido 200 mg. • Suspensão oral 20 mg/mL. 
 
@@ -910,7 +910,7 @@ ATENÇÃO
 Antes do início e durante o tratamento, a cada 6 meses, devem ser realizados hemograma (especialmente plaquetas e reticulócitos), ferro plasmático e testes de função hepática . Este medicamento possui um número elevado de interações de medicamentos: avaliar em particular cada uma .
 ', 'http://linkimagem.com/img.png', 1);
 
-insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Carvedilol',99,
+insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Carvedilol',"000000021",
 'APRESENTAÇÃO
 • Comprimido 3,125 mg, 6,25 mg, 12,5 mg e 25 mg. 
 
@@ -955,7 +955,7 @@ ATENÇÃO
 Início do efeito na ICC após 3 meses; não é tratamento de emergência .
 ', 'http://linkimagem.com/img.png', 1);
 
-insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Ciprofloxacino, cloridrato',99,
+insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Ciprofloxacino, cloridrato',"000000022",
 'APRESENTAÇÃO
 • Comprimido 500 mg. • Solução injetável 2 mg/mL. 
 
@@ -996,7 +996,7 @@ ASPECTOS FARMACEUTICOS
 • Comprimidos: Armazenar a temperatura ambiente, 15 a 25 ºC, e proteger da luz. • Solução injetável: Armazenar em local fresco, 8 a 15 ºC, ou a temperatura ambiente, 15 a 25 ºC, e proteger da luz. Não congelar. Medicamento fotos- sensível. • Observar orientação específica do produtor quanto a diluição, compatibilidade e estabilidade da solução. • Ciprofloxacino injetável é compatível com soro fisiológico 0,9%, soluções de Ringer e Ringer + lactato, soluções de glicose a 5% e 10%, solução de frutose a 10% e solução de glicose a 5% com 0,225% ou 0,45% de cloreto de sódio. • Administrar logo depois do preparo. • Incompatível com heparina. 
 ', 'http://linkimagem.com/img.png', 1);
 
-insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Clindamicina (cloridrato/fosfato)',99,
+insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Clindamicina (cloridrato/fosfato)',"000000023",
 'APRESENTAÇÃO
 • Cloridrato de clindamicina: cápsula de 150 e 300 mg • Fosfato de clindamicina: solução injetável de 150 mg/mL 
 
@@ -1037,7 +1037,7 @@ ASPECTOS FARMACEUTICOS
 • Armazenar a cápsula e a solução injetável a temperatura de 20 a 25°C. • Observar orientação específica do produtor quanto a diluição, compatibilidade e estabilidade da solução. • Ao usar pela via intravenosa, a concentração final não deve exceder 18 mg/ mL. Nunca administrar a solução em bolo. • Solução injetável compatível com solução fisiológica 0,9%, glicose 5% e Ringer + lactato por 8 semanas a 10 °C, 32 dias a 4 °C e 16 dias a 25 °C, quando acondicionada em recipiente de vidro ou PVC. • Incompatível com: ampicilina, aminofilina, barbitúricos, gliconato de cálcio, ceftriaxona, idarrubicina, sulfato de magnésio, fenitoína, filgrastim, fluconazol, alopurinol e ranitidina. 
 ', 'http://linkimagem.com/img.png', 1);
 
-insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Clomipramina, cloridrato',99,
+insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Clomipramina, cloridrato',"000000024",
 'APRESENTAÇÃO
 • Comprimido 10 e 25 mg. 
 
@@ -1083,7 +1083,7 @@ Os efeitos terapêuticos podem demorar de 15 a 21 dias para se manifestar. Acomp
 
 ', 'http://linkimagem.com/img.png', 1);
 
-insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Clonazepam',99,
+insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Clonazepam',"000000025",
 'APRESENTAÇÃO
 • Solução oral 2,5 mg/mL 
 
@@ -1128,7 +1128,7 @@ ATENÇÃO
 Clonazepam é medicamento de segunda linha para a indicação apontada . Como os demais benzodiazepínicos, causa dependência física .
 ', 'http://linkimagem.com/img.png', 1);
 
-insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Clorpromazina, cloridrato',99,
+insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Clorpromazina, cloridrato',"000000026",
 'APRESENTAÇÃO
 • Comprimido de 25 mg e 100 mg. • Solução oral 40 mg/mL. • Solução injetável 5 mg/mL. 
 
@@ -1173,7 +1173,7 @@ ATENÇÃO
 Após injeção intramuscular o paciente deve permanecer deitado e sua pressão arterial deve ser monitorada por 30 minutos . Este medicamento apresenta interações com um grande número de fármacos, com destaque para as interações que podem resultar em aumento do risco de cardiotoxicidade . Assim, uma consulta à literatura específica deve ser realizada antes de incluir este ou outros medicamentos no esquema terapêutico do paciente . 
 ', 'http://linkimagem.com/img.png', 1);
 
-insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Dapsona',99,
+insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Dapsona',"000000027",
 'APRESENTAÇÃO
 Apresentação • Comprimido de 50 mg e 100 mg. 
 
@@ -1214,7 +1214,7 @@ ASPECTOS FARMACEUTICOS
 Aspectos farmacêuticos • Manter na embalagem original, bem fechada, ao abrigo do ar, luz e umidade e à temperatura de 15 a 30 ºC. 
 ', 'http://linkimagem.com/img.png', 1);
 
-insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Dexametasona e Acetato de Dexametasona',99,
+insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Dexametasona e Acetato de Dexametasona',"000000028",
 'APRESENTAÇÃO
 Apresentações • Comprimido 4 mg • Creme 0,1% (acetato) • Colírio 0,1% 
 
@@ -1259,7 +1259,7 @@ ATENÇÃO
 ATENÇÃO: a descontinuação deste medicamento após uso prolongado deve ser feita de forma gradual. Efeitos adversos sistêmicos associam-se ao uso do medicamento além de uma semana após sua descontinuação.
 ', 'http://linkimagem.com/img.png', 1);
 
-insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Diazepam',99,
+insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Diazepam',"000000029",
 'APRESENTAÇÃO
 Apresentações • Comprimido de 5 mg • Solução injetável 5 mg/mL 
 
@@ -1304,7 +1304,7 @@ ATENÇÃO
 ATENÇÃO: este fármaco apresenta um número elevado de interações de medicamentos, por isto deve ser realizada pesquisa específica sobre este aspecto antes de introduzir ou descontinuar o diazepam ou outros medicamentos no esquema terapêutico do paciente.
 ', 'http://linkimagem.com/img.png', 1);
 
-insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Digoxina',99,
+insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Digoxina',"000000030",
 'APRESENTAÇÃO
 Apresentações • Comprimido 0,25 mg. • Elixir 0,05 mg/mL. 
 
@@ -1349,7 +1349,7 @@ ATENÇÃO
 ATENÇÃO: digoxina apresenta um número elevado de interações de medicamentos, por isso é necessária uma pesquisa específica quanto a este aspecto antes de introduzir ou descontinuar a digoxina ou outro medicamento no esquema do paciente. Idosos podem apresentar intoxicação digitálica em função do decréscimo da função renal e redução da massa muscular .
 ', 'http://linkimagem.com/img.png', 1);
 
-insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Doxiciclina, cloridrato',99,
+insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Doxiciclina, cloridrato',"000000031",
 'APRESENTAÇÃO
 Apresentação • Comprimido 100 mg 
 
@@ -1395,7 +1395,7 @@ ATENÇÃO: no Brasil, onde a malária tem baixa incidência e há predomínio de
 
 ', 'http://linkimagem.com/img.png', 1);
 
-insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Espironolactona',99,
+insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Espironolactona',"000000032",
 'APRESENTAÇÃO
 Apresentação • Comprimidos de 25 mg e 100 mg. 
 
@@ -1440,7 +1440,7 @@ ATENÇÃO
 ATENÇÃO: monitorar potássio sérico regularmente
 ', 'http://linkimagem.com/img.png', 1);
 
-insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Estearato de eritromicina',99,
+insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Estearato de eritromicina',"000000033",
                                                                                       'APRESENTAÇÃO
 Apresentações • Cápsula ou comprimido 500 mg. • Suspensão oral 50 mg/mL. 
 
@@ -1485,7 +1485,7 @@ ATENÇÃO
 ATENÇÃO: este fármaco apresenta um número elevado de interações de medicamentos, por isto deve ser realizada pesquisa específica sobre este aspecto antes de introduzir ou descontinuar a eritromicina ou outros medicamentos no esquema terapêutico do paciente 
 ', 'http://linkimagem.com/img.png', 1);
 
-insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Estriol',99,
+insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Estriol',"000000034",
                                                                                       'APRESENTAÇÃO
 Apresentação • Creme vaginal 1 mg/g. 
 
@@ -1526,7 +1526,7 @@ ASPECTOS FARMACEUTICOS
 Aspecto farmacêutico • Armazenar à temperatura ambiente, de 15 a 30 ºC. Manter ao abrigo do ar e da luz. 
 ', 'http://linkimagem.com/img.png', 1);
 
-insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Etambutol, cloridrato',99,
+insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Etambutol, cloridrato',"000000035",
                                                                                       'APRESENTAÇÃO
 Apresentações • Comprimido de 400 mg. • Solução oral 25 mg/mL. 
 
@@ -1571,7 +1571,7 @@ ATENÇÃO
 ATENÇÃO: como sinonímia para etambutol (nome correspondente à Denominação Comum Brasileira) também é empregada a abreviatura E, entretanto, não se recomenda a prescrição de fármacos por abreviaturas ou siglas .
 ', 'http://linkimagem.com/img.png', 1);
 
-insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Etinilestradiol com Levonorgestrel',99,
+insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Etinilestradiol com Levonorgestrel',"000000036",
                                                                                       'APRESENTAÇÃO
 Apresentação • Comprimido 0,03 mg + 0,15 mg. 
 
@@ -1612,7 +1612,7 @@ ASPECTOS FARMACEUTICOS
 Aspecto farmacêutico • Armazenar à temperatura ambiente, entre 15 a 30 ºC. Manter ao abrigo do ar e luz. 
 ', 'http://linkimagem.com/img.png', 1);
 
-insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Fluconazol',99,
+insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Fluconazol',"000000037",
                                                                                       '
 APRESENTAÇÃO
 Apresentações • Cápsula 100 mg e 150 mg. • Solução injetável 2 mg/mL. • Pó para suspensão oral 10 mg/mL 
@@ -1658,7 +1658,7 @@ ATENÇÃO
 ATENÇÃO: este fármaco apresenta um número muito elevado de interações de medicamentos, sendo necessária uma pesquisa específica sobre este aspecto antes de introduzir ou descontinuar o fluconazol ou outros medicamentos no esquema do paciente .
 ', 'http://linkimagem.com/img.png', 1);
 
-insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Fluoxetina, cloridrato',99,
+insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Fluoxetina, cloridrato',"000000038",
                                                                                       'APRESENTAÇÃO
 Apresentação • Cápsula ou comprimido 20 mg. 
 
@@ -1703,7 +1703,7 @@ ATENÇÃO
 ATENÇÃO: este fármaco apresenta um número elevado de interações de medicamentos e deve ser realizada uma pesquisa específica sobre este aspecto ao introduzir ou descontinuar este ou outros medicamentos no esquema terapêutico do paciente . Em pacientes com doença recidivante, a terapia por longos períodos (mínimo de 6 meses) deve ser considerada . Pacientes devem ser monitorados quando encerrado o tratamento . É recomendada diminuição gradual da dose . 
 ', 'http://linkimagem.com/img.png', 1);
 
-insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Furosemida',99,
+insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Furosemida',"000000039",
                                                                                       'APRESENTAÇÃO
 Apresentações • Comprimido 40 mg • Solução injetável 10 mg/mL • Solução oral 10 mg/mL 
 
@@ -1748,7 +1748,7 @@ ATENÇÃO
 ATENÇÃO: este fármaco apresenta um número elevado de interações de medicamentos, sendo necessário realizar pesquisa específica sobre este aspecto, antes de introduzir ou descontinuar furosemida ou outros medicamentos no esquema terapêutico do paciente . Atentar para risco aumentado de ototoxicidade com uso simultâneo de outros fármacos ototóxicos. Sinal de distúrbio hidreletrolítico: cefaleia, hipotensão, cãibra, xerostomia, sede, fraqueza, letargia, tontura, arritmia, oligúria e distúrbio 
 ', 'http://linkimagem.com/img.png', 1);
 
-insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Glibenclamida',99,
+insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Glibenclamida',"000000040",
                                                                                       'APRESENTAÇÃO
 Apresentação • Comprimido 5 mg. 
 
@@ -1793,7 +1793,7 @@ ATENÇÃO
 ATENÇÃO: como sinonímia para a glibenclamida (Denominação Comum Brasileira) é utilizado ocasionalmente o nome gliburida . Entretanto, não se recomenda a prescrição de fármacos por outros nomes que não a denominação oficial no país .
 ', 'http://linkimagem.com/img.png', 1);
 
-insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Gliclazida',99,
+insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Gliclazida',"000000041",
                                                                                       'APRESENTAÇÃO
 Apresentações • Comprimido 30 mg (liberação controlada) • Comprimido 80 mg. 
 
@@ -1834,7 +1834,7 @@ ASPECTOS FARMACEUTICOS
 Aspecto farmacêutico • Armazenar à temperatura ambiente, de 15 a 30 ºC. Manter ao abrigo do ar e luz. 
 ', 'http://linkimagem.com/img.png', 1);
 
-insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Haloperidol e Decanoato de Haloperidol',99,
+insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Haloperidol e Decanoato de Haloperidol',"000000042",
                                                                                       'APRESENTAÇÃO
 Apresentações Haloperidol • Comprimidos de 1 mg e 5 mg. • Solução oral 2 mg/mL. • Solução injetável 5 mg/mL. Decanoato de haloperidol • Solução injetável com 50 mg/mL (forma injetável de depósito). 
 
@@ -1874,118 +1874,6 @@ Orientações aos pacientes • Orientar para evitar o uso de bebidas alcoólica
 ASPECTOS FARMACEUTICOS
 Aspectos farmacêuticos • Conservar a temperaturas entre 15 e 30 ºC, em recipientes bem fechados e ao abrigo da luz. • Evitar o congelamento das formas líquidas. Não refrigerar a forma injetável de deposição. • Observar orientação específica do produtor quanto a diluição, compatibilidade e estabilidade da solução. • Incompatibilidades: solução oral de haloperidol com xarope de citrato de lítio; solução injetável de haloperidol (5 mg/mL) com heparina sódica e nitroprusseto de sódio. 
 ', 'http://linkimagem.com/img.png', 1);
-
-insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Hidralazina, cloridrato',99,
-                                                                                      '', 'http://linkimagem.com/img.png', 1);
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('',99,'', 'http://linkimagem.com/img.png', 1);
-
-insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Amoxil', 0029600923, 
-'Formas farmacêuticas, vias de administração e apresentações comercializadas 
-− Suspensão oral: embalagem com frasco de 150 mL (125 mg/5 mL, 250 mg/5 mL e 500 mg/5 mL), acompanhado de colher dosadora. 
-− Cápsulas de 500 mg: embalagens com 15, 21 ou 30 cápsulas. 
-Uso oral 
-Composição 
-Pó para suspensão oral de 125 mg/5 mL, 250 mg/5 mL e 500 mg/5 mL 
-Cada 5 mL de suspensão oral de 125 mg/5 mL contêm: 
-− amoxicilina triidratada (equivalentes a 125 mg de amoxicilina): 143,7 mg 
-− excipientes1 q.s.p.: 5 mL 
-Cada 5 mL de suspensão oral de 250 mg/5 mL contêm: 
-− amoxicilina triidratada (equivalentes a 250 mg de amoxicilina): 287,5 mg 
-− excipientes1 q.s.p.: 5 mL 
-Cada 5 mL de suspensão oral 500 mg/5 mL contêm: 
-− amoxicilina triidratada (equivalentes a 500 mg de amoxicilina): 575 mg 
-− excipientes1 q.s.p.: 5 mL 
-1Excipientes: benzoato de sódio, carboximetilcelulose sódica, celulose microcristalina (125 mg/5 mL), dióxido de silício coloidal (125 mg/5 mL), ácido cítrico anidro, citrato de sódio diidratado, corante vermelho n° 40 (125 mg/5 mL e 250 mg/5 mL), edetato disódico (250 mg/5 mL e 500 mg/5 mL), sabor chiclete e sacarose. 
-Cápsulas 
-Cada cápsula contém: 
-− amoxicilina triidratada (equivalentes a 500 mg de amoxicilina): 574 mg 
-− excipiente2 q.s.p. 1 cáps. 
-', 
-'http://linkimagem.com/img.png', 1);
-insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Amoxilfake', 13600923,
-'Formas farmacêuticas, vias de administração e apresentações comercializadas 
-− Suspensão oral: embalagem com frasco de 150 mL (125 mg/5 mL, 250 mg/5 mL e 500 mg/5 mL), acompanhado de colher dosadora. 
-− Cápsulas de 500 mg: embalagens com 15, 21 ou 30 cápsulas. 
-Uso oral 
-Composição 
-Pó para suspensão oral de 125 mg/5 mL, 250 mg/5 mL e 500 mg/5 mL 
-Cada 5 mL de suspensão oral de 125 mg/5 mL contêm: 
-− amoxicilina triidratada (equivalentes a 125 mg de amoxicilina): 143,7 mg 
-− excipientes1 q.s.p.: 5 mL 
-Cada 5 mL de suspensão oral de 250 mg/5 mL contêm: 
-− amoxicilina triidratada (equivalentes a 250 mg de amoxicilina): 287,5 mg 
-− excipientes1 q.s.p.: 5 mL 
-Cada 5 mL de suspensão oral 500 mg/5 mL contêm: 
-− amoxicilina triidratada (equivalentes a 500 mg de amoxicilina): 575 mg 
-− excipientes1 q.s.p.: 5 mL 
-1Excipientes: benzoato de sódio, carboximetilcelulose sódica, celulose microcristalina (125 mg/5 mL), dióxido de silício coloidal (125 mg/5 mL), ácido cítrico anidro, citrato de sódio diidratado, corante vermelho n° 40 (125 mg/5 mL e 250 mg/5 mL), edetato disódico (250 mg/5 mL e 500 mg/5 mL), sabor chiclete e sacarose. 
-Cápsulas 
-Cada cápsula contém: 
-− amoxicilina triidratada (equivalentes a 500 mg de amoxicilina): 574 mg 
-− excipiente2 q.s.p. 1 cáps. 
-', 
-'http://linkimagem.com/img.png', 2);
-insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('NoSleep 4Ever', 
-'Formas farmacêuticas, vias de administração e apresentações comercializadas 
-− Suspensão oral: embalagem com frasco de 150 mL (125 mg/5 mL, 250 mg/5 mL e 500 mg/5 mL), acompanhado de colher dosadora. 
-− Cápsulas de 500 mg: embalagens com 15, 21 ou 30 cápsulas. 
-Uso oral 
-Composição 
-Pó para suspensão oral de 125 mg/5 mL, 250 mg/5 mL e 500 mg/5 mL 
-Cada 5 mL de suspensão oral de 125 mg/5 mL contêm: 
-− amoxicilina triidratada (equivalentes a 125 mg de amoxicilina): 143,7 mg 
-− excipientes1 q.s.p.: 5 mL 
-Cada 5 mL de suspensão oral de 250 mg/5 mL contêm: 
-− amoxicilina triidratada (equivalentes a 250 mg de amoxicilina): 287,5 mg 
-− excipientes1 q.s.p.: 5 mL 
-Cada 5 mL de suspensão oral 500 mg/5 mL contêm: 
-− amoxicilina triidratada (equivalentes a 500 mg de amoxicilina): 575 mg 
-− excipientes1 q.s.p.: 5 mL 
-1Excipientes: benzoato de sódio, carboximetilcelulose sódica, celulose microcristalina (125 mg/5 mL), dióxido de silício coloidal (125 mg/5 mL), ácido cítrico anidro, citrato de sódio diidratado, corante vermelho n° 40 (125 mg/5 mL e 250 mg/5 mL), edetato disódico (250 mg/5 mL e 500 mg/5 mL), sabor chiclete e sacarose. 
-Cápsulas 
-Cada cápsula contém: 
-− amoxicilina triidratada (equivalentes a 500 mg de amoxicilina): 574 mg 
-− excipiente2 q.s.p. 1 cáps. 
-', 
-'http://linkimagem.com/img.png', 1);
-insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Para, cê tá mal', 
-'Formas farmacêuticas, vias de administração e apresentações comercializadas 
-− Suspensão oral: embalagem com frasco de 150 mL (125 mg/5 mL, 250 mg/5 mL e 500 mg/5 mL), acompanhado de colher dosadora. 
-− Cápsulas de 500 mg: embalagens com 15, 21 ou 30 cápsulas. 
-Uso oral 
-Composição 
-Pó para suspensão oral de 125 mg/5 mL, 250 mg/5 mL e 500 mg/5 mL 
-Cada 5 mL de suspensão oral de 125 mg/5 mL contêm: 
-− amoxicilina triidratada (equivalentes a 125 mg de amoxicilina): 143,7 mg 
-− excipientes1 q.s.p.: 5 mL 
-Cada 5 mL de suspensão oral de 250 mg/5 mL contêm: 
-− amoxicilina triidratada (equivalentes a 250 mg de amoxicilina): 287,5 mg 
-− excipientes1 q.s.p.: 5 mL 
-Cada 5 mL de suspensão oral 500 mg/5 mL contêm: 
-− amoxicilina triidratada (equivalentes a 500 mg de amoxicilina): 575 mg 
-− excipientes1 q.s.p.: 5 mL 
-1Excipientes: benzoato de sódio, carboximetilcelulose sódica, celulose microcristalina (125 mg/5 mL), dióxido de silício coloidal (125 mg/5 mL), ácido cítrico anidro, citrato de sódio diidratado, corante vermelho n° 40 (125 mg/5 mL e 250 mg/5 mL), edetato disódico (250 mg/5 mL e 500 mg/5 mL), sabor chiclete e sacarose. 
-Cápsulas 
-Cada cápsula contém: 
-− amoxicilina triidratada (equivalentes a 500 mg de amoxicilina): 574 mg 
-− excipiente2 q.s.p. 1 cáps. 
-', 
-'http://linkimagem.com/img.png', 1);
 
 -- Tabela medicamento_has_principioativo
 insert into medicamento_has_principioativo (medicamento, principioativo) values (1, 1);

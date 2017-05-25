@@ -33,6 +33,9 @@
     $prefix = "<div class=\"py-5\"><div class=\"container\"><div class=\"row\"><div class=\"col-md-6 w-25\"><img src=\"https://pingendo.com/assets/photos/user_placeholder.png\" class=\"img-fluid d-block rounded\"></div><div class=\"col-md-6 w-75\"><p class=\"\">";
     $print = "";
     $ending = "</p></div></div><div class=\"row\"> </div></div></div>";
+    $textprefix = "<div class=\"\"><div class=\"container\"><div class=\"row\"><div class=\"col-md-12\"><p class=\"\">";
+    $textprint = "";
+    $textending = "</div></div></div></div>";
 
     $conexao = new mysqli($server, $user, $senha, $nomebd);
 
@@ -55,23 +58,17 @@
         {
           $print = "Nome: ".$row["nome"]."<br>
                     Id: ".$row["id"]."<br>";
+
+          $textprint = nl2br($row["descricao"]);
+          $textprint = strtr($textprint, array("–" => "<br>&emsp;-", "•" => "<br>•"));
         }
       }
     }
   
-    echo $prefix.$print.$ending;     
+    echo $prefix.$print.$ending;
+    echo $textprefix.$textprint.$textending;     
   ?>
-  
-  <div class="">
-    <div class="container">
-      <div class="row">
-        <div class="col-md-12">
-          <p class="">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute
-            irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-        </div>
-      </div>
-    </div>
-  </div>
+
   <div class="py-5 bg-faded">
     <div class="container">
       <div class="row">
