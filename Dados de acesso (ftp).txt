@@ -1,0 +1,3 @@
+Hostname: ftp.gear.host
+Username: infomedicine\$infomedicine
+Password: F2MHK6RCmrfujlYwmJFs8ppB8KYhF5FRQdQnoQvJ7C65NHHEbH9nrq7b1Me2
