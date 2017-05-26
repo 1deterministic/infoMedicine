@@ -1875,7 +1875,7 @@ ASPECTOS FARMACEUTICOS
 Aspectos farmacêuticos • Conservar a temperaturas entre 15 e 30 ºC, em recipientes bem fechados e ao abrigo da luz. • Evitar o congelamento das formas líquidas. Não refrigerar a forma injetável de deposição. • Observar orientação específica do produtor quanto a diluição, compatibilidade e estabilidade da solução. • Incompatibilidades: solução oral de haloperidol com xarope de citrato de lítio; solução injetável de haloperidol (5 mg/mL) com heparina sódica e nitroprusseto de sódio. 
 ', 'http://linkimagem.com/img.png', 1);
 
-insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Hidralazina, cloridrato',"cod", 
+insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Hidralazina, cloridrato',"000000043", 
 'APRESENTAÇÃO
 Apresentações • Comprimido 50 mg. • Solução injetável 20 mg/mL. 
 
@@ -1916,7 +1916,7 @@ ASPECTOS FARMACEUTICOS
 Aspectos farmacêuticos • Armazenar os comprimidos e ampolas entre 15 a 30 ºC e protegidos de luz. Ampolas não devem ser congeladas. • Observar orientação específica do produtor quanto a diluição, compatibilidade e estabilidade da solução. • É estável em veículos como manitol e sorbitol por 21 dias. • Incompatível com: glicose, frutose, lactose e maltose. • A adição de fosfato e citrato à solução não tem efeito sobre a estabilidade do veículo. • Pode haver mudança de cor em solução, o que não indica perda da eficácia. • A solução injetável deve ser utilizada imediatamente após a preparação. 
 ','http://linkimagem.com/img.png', 1);
 
-insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Hidroclorotiazida',"cod", 
+insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Hidroclorotiazida',"000000044", 
 'APRESENTAÇÃO
 Apresentação • Comprimidos 12,5 mg e 25 mg. 
 
@@ -1961,7 +1961,7 @@ ATENÇÃO
 ATENÇÃO: as principais reações adversas da hidroclorotiazida são dose dependentes, doses acima de 50 mg são raramente necessárias preferindo associar um diurético mais potente (por exemplo: diurético de alça) para aumentar a efetividade sem aumentar risco de reação adversa
 ','http://linkimagem.com/img.png', 1);
 
-insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Ibuprofeno',"cod", 
+insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Ibuprofeno',"000000045", 
 'APRESENTAÇÃO
 Apresentações • Comprimidos 200 mg, 300 mg e 600 mg. • Suspensão oral 50 mg/mL (gotas) 
 
@@ -2002,7 +2002,7 @@ ASPECTOS FARMACEUTICOS
 Aspectos farmacêuticos • Armazenar a suspensão oral entre 15 e 30 ºC, evitar congelamento. • Agitar a suspensão oral antes do uso. • Armazenar o comprimido à temperatura ambiente, entre 15 e 30 ºC, em embalagens bem fechadas e protegidas da luz. 
 ','http://linkimagem.com/img.png', 1);
 
-insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Insulina humana NPH e Insulina humana regular',"cod", 
+insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Insulina humana NPH e Insulina humana regular',"000000046", 
 'APRESENTAÇÃO
 Apresentações • Suspensão injetável 100 UI/mL (NPH). • Solução injetável 100 UI/mL (Regular). 
 
@@ -2043,7 +2043,7 @@ ASPECTOS FARMACEUTICOS
 Aspecto farmacêutico • Armazenar o frasco sob refrigeração, entre 2 e 8 ºC. Manter o frasco fechado ao abrigo de ar e da luz. • Manter o frasco após aberto à temperatura ambiente, entre 15 e 30 ºC, ou sob refrigeração, atentando para aquecer entres as mãos antes de administrar. • Observar orientação específica do produtor quanto a diluição, compatibilidade e estabilidade da insulina regular para administração intravenosa 
 ','http://linkimagem.com/img.png', 1);
 
-insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Ipratropio, brometo',"cod", 
+insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Ipratropio, brometo',"000000047", 
 'APRESENTAÇÃO
 Apresentações • Solução inalante 0,25 mg/mL (equivalente a 0,202 mg/mL). • Aerossol oral 0,02 mg/dose 
 
@@ -2084,7 +2084,7 @@ ASPECTOS FARMACEUTICOS
 Aspectos farmacêuticos • A solução de brometo de ipratrópio para inalação deve ser conservada à temperatura de 15-30 ºC, e protegida da luz. Soluções de brometo de ipratrópio para inalação que contiverem cloreto de benzalcônio como conservante não devem ser misturadas a cromoglicato dissódico. • O aerossol deve ser conservado à temperatura de 15-30 ºC. 
 ','http://linkimagem.com/img.png', 1);
 
-insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Isoniazida',"cod", 
+insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Isoniazida',"000000048", 
 'APRESENTAÇÃO
 Apresentação • Comprimido 100 mg. 
 
@@ -2129,7 +2129,7 @@ ATENÇÃO
 ATENÇÃO: profilaxia com isoniazida pode evitar o aparecimento de doença clínica em comunicantes bacilíferos e em pessoas de alto risco, especialmente imunodeficientes . Como sinonímia para isoniazida (nome correspondente a Denominação Comum Brasileira) também é empregada a abreviatura H, entretanto, não se recomenda a prescrição de fármacos por abreviaturas ou siglas 
 ','http://linkimagem.com/img.png', 1);
 
-insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Isoniazida com Rifampicina',"cod", 
+insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Isoniazida com Rifampicina',"000000049", 
 'APRESENTAÇÃO
 Apresentações • Comprimido 75 mg + 150 mg. • Cápsula 100 mg + 150 mg. • Cápsula 200 mg + 300 mg. 
 
@@ -2174,7 +2174,7 @@ ATENÇÃO
 ATENÇÃO: como sinonímia para a associação isoniazida + rifampicina (nomes correspondentes a Denominação Comum Brasileira) também é empregada a abreviatura RH, entretanto, não se recomenda a prescrição de fármacos por abreviaturas ou siglas .
 ','http://linkimagem.com/img.png', 1);
 
-insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Rifampicina com Isoniazida com Pirazinamida com CL',"cod", 
+insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Rifampicina com Isoniazida com Pirazinamida com CL',"000000050", 
 'APRESENTAÇÃO
 • Comprimido 150 mg (rifampicina) + 75 mg (isoniazida) + 400 mg (pirazinamida) + 275 mg (cloridrato de etambutol).
 
@@ -2219,7 +2219,7 @@ ATENÇÃO
 ATENÇÃO: como sinonímia para a associação rifampicina + isoniazida + pirazinamida + etambutol (nomes correspondentes a Denominação Comum Brasileira) também é empregada a abreviatura RHZE, entretanto, não se re- comenda a prescrição de fármacos por abreviaturas ou siglas .
 ','http://linkimagem.com/img.png', 1);
 
-insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Isoniazida com Rifampicina',"cod", 
+insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Isoniazida com Rifampicina',"000000051", 
 'APRESENTAÇÃO
 Apresentações • Comprimido 75 mg + 150 mg. • Cápsula 100 mg + 150 mg. • Cápsula 200 mg + 300 mg. 
 
@@ -2264,7 +2264,7 @@ ATENÇÃO
 ATENÇÃO: como sinonímia para a associação isoniazida + rifampicina (nomes correspondentes a Denominação Comum Brasileira) também é empregada a abreviatura RH, entretanto, não se recomenda a prescrição de fármacos por abreviaturas ou siglas .
 ','http://linkimagem.com/img.png', 1);
 
-insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Isossorbida, dinitrato',"cod", 
+insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Isossorbida, dinitrato',"000000052", 
 'APRESENTAÇÃO
 Apresentação • Comprimido sublingual 5 mg. 
 
@@ -2305,7 +2305,7 @@ ASPECTOS FARMACEUTICOS
 Aspectos farmacêuticos • Manter à temperatura de 15 a 30 ºC, protegido de calor e umidade. 
 ','http://linkimagem.com/img.png', 1);
 
-insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Isossorbida, mononitrato',"cod", 
+insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Isossorbida, mononitrato',"000000053", 
 'APRESENTAÇÃO
 Apresentações • Comprimido 40 mg (liberação imediata) • Solução injetável 10 mg/mL. 
 
@@ -2346,7 +2346,7 @@ ASPECTOS FARMACEUTICOS
 Aspectos farmacêuticos • Manter à temperatura de 15 a 30 ºC, proteger da luz e umidade. • Verificar orientação do produtor quanto a soluções compatíveis para diluição. 
 ','http://linkimagem.com/img.png', 1);
 
-insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Itraconazol',"cod", 
+insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Itraconazol',"000000054", 
 'APRESENTAÇÃO
 Apresentações • Cápsula 100 mg. • Solução oral 10 mg/mL. 
 
@@ -2391,7 +2391,7 @@ ATENÇÃO
 ATENÇÃO: este fármaco apresenta um número muito elevado de interações de medicamentos (especialmente com fármacos metabolizados pela CYP3A4), sendo necessária uma pesquisa específica sobre este aspecto antes de introduzir ou descontinuar o itraconazol ou outros medicamentos no esquema do paciente .
 ','http://linkimagem.com/img.png', 1);
 
-insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Ivermectina',"cod", 
+insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Ivermectina',"000000055", 
 'APRESENTAÇÃO
 Apresentação • Comprimidos de 6 mg. 
 
@@ -2433,7 +2433,7 @@ Aspectos farmacêuticos • Armazenar à temperatura ambiente, de 15 a 30 ºC, a
 ','http://linkimagem.com/img.png', 1);
 
 
-insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Lamivudina',"cod", 
+insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Lamivudina',"000000056", 
 'APRESENTAÇÃO
 Apresentações • Comprimido 150 mg • Solução oral 10 mg/mL 
 
@@ -2479,7 +2479,7 @@ ATENÇÃO: como sinonímia para lamivudina (nome que corresponde a denominação
 ','http://linkimagem.com/img.png', 1);
 
 
-insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Levodopa com benserazida',"cod", 
+insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Levodopa com benserazida',"000000057", 
 'APRESENTAÇÃO
 Apresentações • Comprimido 50 mg + 12,5 mg • Comprimido 100 mg + 25 mg 
 
@@ -2524,7 +2524,7 @@ ATENÇÃO
 ATENÇÃO: no início do tratamento pode ocorrer sedação excessiva e sono de início súbito; alertar o paciente para execução de atividades que requerem atenção e reflexos rápidos, como dirigir e/ou operar máquinas 
 ','http://linkimagem.com/img.png', 1);
 
-insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Levodopa com Carbidopa',"cod", 
+insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Levodopa com Carbidopa',"000000058", 
 'APRESENTAÇÃO
 Apresentações • comprimido 250 mg + 25 mg • comprimido 100 mg + 25 mg • comprimido 100 mg + 10 mg 
 
@@ -2569,7 +2569,7 @@ ATENÇÃO
 ATENÇÃO: no início do tratamento pode ocorrer sedação excessiva e sono de início súbito; alertar o paciente para execução de atividades que requerem atenção e reflexos rápidos, como dirigir e/ou operar máquinas perigosas .
 ','http://linkimagem.com/img.png', 1);
 
-insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Etinilestradiol com Levonorgestrel',"cod", 
+insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Etinilestradiol com Levonorgestrel',"000000059", 
 'APRESENTAÇÃO
 Apresentação • Comprimido 0,03 mg + 0,15 mg. 
 
@@ -2611,7 +2611,7 @@ Aspecto farmacêutico • Armazenar à temperatura ambiente, entre 15 a 30 ºC. 
 ','http://linkimagem.com/img.png', 1);
 
 
-insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Levonorgestrel',"cod", 
+insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Levonorgestrel',"000000060", 
 'APRESENTAÇÃO
 Apresentação • Comprimido 1,5 mg. 
 
@@ -2653,7 +2653,7 @@ Aspecto farmacêutico • Armazenar sob temperatura ambiente, em recipiente bem 
 ','http://linkimagem.com/img.png', 1);
 
 
-insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Lopinavir com Ritonavir',"cod", 
+insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Lopinavir com Ritonavir',"000000061", 
 'APRESENTAÇÃO
 Apresentações • Comprimido (200 mg + 50 mg) • Solução oral (80 mg + 20 mg)/mL 
 
@@ -2698,7 +2698,7 @@ ATENÇÃO
 ATENÇÃO: a associação lopinavir + ritonavir apresenta um número elevado de importantes interações de medicamentos, por isto deve ser realizada pesquisa específica sobre este aspecto antes de introduzir ou descontinuar a associação de lopinavir + ritonavir ou outros medicamentos no esquema terapêutico do paciente .
 ','http://linkimagem.com/img.png', 1);
 
-insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Loratadina',"cod", 
+insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Loratadina',"000000062", 
 'APRESENTAÇÃO
 Apresentações • Comprimido 10 mg • Xarope 1 mg/mL. 
 
@@ -2740,7 +2740,7 @@ Aspectos farmacêuticos • Armazenar à temperatura ambiente, entre 15 e 30 ºC
 ','http://linkimagem.com/img.png', 1);
 
 
-insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Maleato de Dexclorfeniramina',"cod", 
+insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Maleato de Dexclorfeniramina',"000000063", 
 'APRESENTAÇÃO
 Apresentações • Comprimido 2 mg • Solução oral ou xarope 0,4 mg/mL. 
 
@@ -2785,7 +2785,7 @@ ATENÇÃO
 ATENÇÃO: este medicamento pode provocar tontura e sonolência . Evitar dirigir, operar maquinário ou realizar qualquer atividade que seja perigosa em caso de comprometimento da atenção ou da vigília .
 ','http://linkimagem.com/img.png', 1);
 
-insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Maleato de enalapril',"cod", 
+insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Maleato de enalapril',"000000064", 
 'APRESENTAÇÃO
 Apresentações • Comprimidos de 5 mg, 10 mg e 20 mg. 
 
@@ -2827,7 +2827,7 @@ Aspectos farmacêuticos • Armazenar preferencialmente entre 15 e 30°C. Proteg
 ','http://linkimagem.com/img.png', 1);
 
 
-insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Maleato de Timolol',"cod", 
+insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Maleato de Timolol',"000000065", 
 'APRESENTAÇÃO
 • Colírio 0,25% e 0,5%.
 
@@ -2868,7 +2868,7 @@ ASPECTOS FARMACEUTICOS
 • Armazenar à temperatura ambiente e ao abrigo da luz. • O maleato de timolol é solúvel em água e álcool. Uma solução a 2% tem pH entre 3,8 e 4,3. 
 ','http://linkimagem.com/img.png', 1);
 
-insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Metformina, cloridrato',"cod", 
+insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Metformina, cloridrato',"000000066", 
 'APRESENTAÇÃO
 • Comprimido 500 mg e 850 mg.
 
@@ -2909,7 +2909,7 @@ ASPECTOS FARMACEUTICOS
 • Manter ao abrigo de ar e luz e à temperatura ambiente, de 15 a 30 ºC.
 ','http://linkimagem.com/img.png', 1);
 
-insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Metildopa',"cod", 
+insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Metildopa',"000000067", 
 'APRESENTAÇÃO
 • Comprimido 250 mg.
 
@@ -2951,7 +2951,7 @@ ASPECTOS FARMACEUTICOS
 ','http://linkimagem.com/img.png', 1);
 
 
-insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Metoclopramida, cloridrato',"cod", 
+insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Metoclopramida, cloridrato',"000000068", 
 'APRESENTAÇÃO
 • Comprimido 10 mg • Solução oral 4 mg/mL • Solução injetável 5 mg/mL 
 
@@ -2994,7 +2994,7 @@ ASPECTOS FARMACEUTICOS
 
 
 
-insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Metronidazol e benzoilmetronidazol',"cod", 
+insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Metronidazol e benzoilmetronidazol',"000000069", 
 'APRESENTAÇÃO
 • Comprimido 250 mg e 400 mg. • Solução injetável 5 mg/mL. • Suspensão oral 40 mg/mL (na forma de benzoilmetronidazol). • Gel vaginal 100 mg/g. • Gel vaginal 10%. 
 
@@ -3039,7 +3039,7 @@ ATENÇÃO
 A solução injetável pode conter sais de sódio como adjuvantes da formulação.
 ','http://linkimagem.com/img.png', 1);
 
-insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Miconazol, nitrato',"cod", 
+insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Miconazol, nitrato',"000000070", 
 'APRESENTAÇÃO
 • Creme 2% • Creme vaginal 2% • Loção 2% • Gel oral 2% • Pó 2% 
 
@@ -3080,7 +3080,7 @@ ASPECTOS FARMACEUTICOS
 • Armazenar sob temperatura ambiente e protegido de calor e luz direta. 
 ','http://linkimagem.com/img.png', 1);
 
-insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Nicotina',"cod", 
+insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Nicotina',"000000071", 
 'APRESENTAÇÃO
 • Adesivo transdérmico 7 mg, 14 mg e 21 mg. • Goma de mascar 2 mg e 4 mg. 
 
@@ -3121,7 +3121,7 @@ ASPECTOS FARMACEUTICOS
 • Manter sob temperatura ambiente, de 15 a 30 ºC. • Não cortar o adesivo, pois perde seu efeito, por evaporação. 
 ','http://linkimagem.com/img.png', 1);
 
-insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Nifedipino',"cod", 
+insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Nifedipino',"000000072", 
 'APRESENTAÇÃO
 • Cápsula ou comprimido 10 mg.
 
@@ -3163,7 +3163,7 @@ ASPECTOS FARMACEUTICOS
 ','http://linkimagem.com/img.png', 1);
 
 
-insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Nistatina',"cod", 
+insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Nistatina',"000000073", 
 'APRESENTAÇÃO
 • Suspensão oral 100.000 UI/mL.
 
@@ -3204,7 +3204,7 @@ ASPECTOS FARMACEUTICOS
 • Hipersensibilidade à nistatina.
 ','http://linkimagem.com/img.png', 1);
 
-insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Noretisterona',"cod", 
+insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Noretisterona',"000000074", 
 'APRESENTAÇÃO
 • Comprimido 0,35 mg
 
@@ -3250,7 +3250,7 @@ A literatura relata diversas interações de medicamentos de contraceptivos orai
 ','http://linkimagem.com/img.png', 1);
 
 
-insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Noretisterona (Enantato) + Estradiol (Valerato)',"cod", 
+insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Noretisterona (Enantato) + Estradiol (Valerato)',"000000075", 
 'APRESENTAÇÃO
 • Solução injetável de (50 mg + 5 mg)/mL.
 
@@ -3291,7 +3291,7 @@ ASPECTOS FARMACEUTICOS
 • Manter ao abrigo de ar e luz e à temperatura ambiente, de 15 a 30 ºC.
 ','http://linkimagem.com/img.png', 1);
 
-insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Nortriptilina, cloridrato',"cod", 
+insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Nortriptilina, cloridrato',"000000076", 
 'APRESENTAÇÃO
 • Cápsulas 10 mg, 25 mg, 50 mg e 75 mg.
 
@@ -3336,7 +3336,7 @@ ATENÇÃO
 este fármaco apresenta um número muito elevado de interações de medicamentos, por isto deve ser feita uma pesquisa específica sobre este aspecto antes de introduzir ou descontinuar nortriptilina ou outros medicamentos no esquema terapêutico do paciente . Os efeitos terapêuticos podem demorar de 15 a 21 dias para se manifestar . Monitorizar pressão arterial e frequência cardíaca nas semanas iniciais
 ','http://linkimagem.com/img.png', 1);
 
-insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Paracetamol',"cod", 
+insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Paracetamol',"000000077", 
 'APRESENTAÇÃO
 • Comprimido 500 mg • Solução oral 200 mg/mL 
 
@@ -3378,7 +3378,7 @@ ASPECTOS FARMACEUTICOS
 ','http://linkimagem.com/img.png', 1);
 
 
-insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Permetrina',"cod", 
+insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Permetrina',"000000078", 
 'APRESENTAÇÃO
 • Loção 1% e 5%.
 
