@@ -3419,7 +3419,7 @@ ASPECTOS FARMACEUTICOS
 • Conservar à temperatura ambiente, em recipientes bem fechados. Evitar congelamento. • Manter ao abrigo de luz, calor e umidade. • Agitar a loção antes do uso. 
 ','http://linkimagem.com/img.png', 1);
 
-insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Pirazinamida',"cod", 
+insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Pirazinamida',"000000079", 
 'APRESENTAÇÃO
 • Comprimido 500 mg. • Solução oral 30 mg/mL. 
 
@@ -3464,7 +3464,7 @@ ATENÇÃO
 ATENÇÃO: como sinonímia para pirazinamida (nome correspondente a Denominação Comum Brasileira) também é empregada a abreviatura Z, entretanto, não se recomenda a prescrição de fármacos por abreviaturas ou siglas .
 ','http://linkimagem.com/img.png', 1);
 
-insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Rifampicina com Isoniazida com Pirazinamida com CL',"cod", 
+insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Rifampicina com Isoniazida com Pirazinamida com CL',"000000080", 
 'APRESENTAÇÃO
 • Comprimido 150 mg (rifampicina) + 75 mg (isoniazida) + 400 mg (pirazinamida) + 275 mg (cloridrato de etambutol).
 
@@ -3509,7 +3509,7 @@ ATENÇÃO
 ATENÇÃO: como sinonímia para a associação rifampicina + isoniazida + pirazinamida + etambutol (nomes correspondentes a Denominação Comum Brasileira) também é empregada a abreviatura RHZE, entretanto, não se re- comenda a prescrição de fármacos por abreviaturas ou siglas .
 ','http://linkimagem.com/img.png', 1);
 
-insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Piridoxina, cloridrato',"cod", 
+insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Piridoxina, cloridrato',"000000081", 
 'APRESENTAÇÃO
 • Comprimido 50 mg. • Solução oral 1 mg/mL e 10 mg/mL 
 
@@ -3550,7 +3550,7 @@ ASPECTOS FARMACEUTICOS
 • Armazenar à temperatura ambiente, de 15 a 30 ºC, em recipientes herméticos e protegido da luz.
 ','http://linkimagem.com/img.png', 1);
 
-insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Pirimetamina',"cod", 
+insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Pirimetamina',"000000082", 
 'APRESENTAÇÃO
 • Comprimido 25 mg.
 
@@ -3595,7 +3595,7 @@ ATENÇÃO
 ATENÇÃO: administrar ácido folínico (5 a 10 mg/dia) durante tratamento com pirimetamina . Interromper uso de pirimetamina na presença de exantema, dor de garganta, palidez, púrpura e glossite
 ','http://linkimagem.com/img.png', 1);
 
-insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Prednisona',"cod", 
+insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Prednisona',"000000083", 
 'APRESENTAÇÃO
 • Comprimido de 5 mg e 20 mg
 
@@ -3641,7 +3641,7 @@ ATENÇÃO: este fármaco apresenta um número elevado de interações de me- dic
 ','http://linkimagem.com/img.png', 1);
 
 
-insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Prometazina, cloridrato',"cod", 
+insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Prometazina, cloridrato',"000000084", 
 'APRESENTAÇÃO
 • Solução injetável 25 mg/mL.
 
@@ -3683,7 +3683,7 @@ ASPECTOS FARMACEUTICOS
 ','http://linkimagem.com/img.png', 1);
 
 
-insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Propafenona, cloridrato',"cod", 
+insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Propafenona, cloridrato',"000000085", 
 'APRESENTAÇÃO
 • Comprimido 150 mg e 300 mg • Solução injetável 3,5 mg/mL 
 
@@ -3728,7 +3728,7 @@ ATENÇÃO
 ATENÇÃO: terapia intravenosa é superior a dose única de 600 mg por via oral apenas nas primeiras duas horas de administração . Este fármaco apresenta um número elevado de interações de medicamentos, por isso é necessário uma pesquisa específica ao avaliar a terapia com este fármaco . Sinais/ sintomas de cardiotoxicidade: prolongamento do intervalo QT, torsades de pointes, parada cardíaca.
 ','http://linkimagem.com/img.png', 1);
 
-insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Propiltiouracila',"cod", 
+insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Propiltiouracila',"000000086", 
 'APRESENTAÇÃO
 • Comprimido 50 mg e 100 mg.
 
@@ -3774,7 +3774,7 @@ ATENÇÃO: possíveis infecções durante o uso de propiltiouracila podem ser in
 ','http://linkimagem.com/img.png', 1);
 
 
-insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Propranolol, cloridrato',"cod", 
+insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Propranolol, cloridrato',"000000087", 
 'APRESENTAÇÃO
 • Comprimidos de 10 mg e 40 mg. • Solução injetável 10 mg/mL. 
 
@@ -3820,7 +3820,7 @@ ATENÇÃO: este fármaco apresenta um número elevado de interações de medicam
 ','http://linkimagem.com/img.png', 1);
 
 
-insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Ranitidina, cloridrato',"cod", 
+insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Ranitidina, cloridrato',"000000088", 
 'APRESENTAÇÃO
 • Comprimido 150 mg. • Solução injetável 25 mg/mL. 
 
@@ -3861,7 +3861,7 @@ ASPECTOS FARMACEUTICOS
 • Armazenar os comprimidos a temperaturas entre 15 e 30 °C, proteger da luz e umidade. • Armazenar a solução injetável entre 4 e 30 °C, proteger da luz e do congela- mento. Leve escurecimento da solução não afeta sua eficácia. • Observar orientação específica do produtor quanto a diluição, compatibilidade e estabilidade da solução. • É estável por até 48 horas à temperatura ambiente, quando diluída em cloreto de sódio 0,9%, glicose 5% ou solução de Ringer + lactato. 
 ','http://linkimagem.com/img.png', 1);
 
-insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Isoniazida com Rifampicina',"cod", 
+insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Isoniazida com Rifampicina',"000000089", 
 'APRESENTAÇÃO
 Apresentações • Comprimido 75 mg + 150 mg. • Cápsula 100 mg + 150 mg. • Cápsula 200 mg + 300 mg. 
 
@@ -3906,7 +3906,7 @@ ATENÇÃO
 ATENÇÃO: como sinonímia para a associação isoniazida + rifampicina (nomes correspondentes a Denominação Comum Brasileira) também é empregada a abreviatura RH, entretanto, não se recomenda a prescrição de fármacos por abreviaturas ou siglas .
 ','http://linkimagem.com/img.png', 1);
 
-insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Rifampicina',"cod", 
+insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Rifampicina',"000000090", 
 'APRESENTAÇÃO
 • Cápsula 300 mg. • Suspensão oral 20 mg/mL. 
 
@@ -3952,7 +3952,7 @@ ATENÇÃO: este fármaco apresenta um número muito elevado de interações de m
 ','http://linkimagem.com/img.png', 1);
 
 
-insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Rifampicina com Isoniazida com Pirazinamida com CL',"cod", 
+insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Rifampicina com Isoniazida com Pirazinamida com CL',"000000091", 
 'APRESENTAÇÃO
 • Comprimido 150 mg (rifampicina) + 75 mg (isoniazida) + 400 mg (pirazinamida) + 275 mg (cloridrato de etambutol).
 
@@ -3997,7 +3997,7 @@ ATENÇÃO
 ATENÇÃO: como sinonímia para a associação rifampicina + isoniazida + pirazinamida + etambutol (nomes correspondentes a Denominação Comum Brasileira) também é empregada a abreviatura RHZE, entretanto, não se re- comenda a prescrição de fármacos por abreviaturas ou siglas .
 ','http://linkimagem.com/img.png', 1);
 
-insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Risperidona',"cod", 
+insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Risperidona',"000000092", 
 'APRESENTAÇÃO
 • Comprimido 1 mg e 3 mg • Solução oral 1 mg/mL 
 
@@ -4043,7 +4043,7 @@ ATENÇÃO: este fármaco apresenta um número elevado de interações de medicam
 ','http://linkimagem.com/img.png', 1);
 
 
-insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Lopinavir com Ritonavir',"cod", 
+insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Lopinavir com Ritonavir',"000000093", 
 'APRESENTAÇÃO
 Apresentações • Comprimido (200 mg + 50 mg) • Solução oral (80 mg + 20 mg)/mL 
 
@@ -4088,7 +4088,7 @@ ATENÇÃO
 ATENÇÃO: a associação lopinavir + ritonavir apresenta um número elevado de importantes interações de medicamentos, por isto deve ser realizada pesquisa específica sobre este aspecto antes de introduzir ou descontinuar a associação de lopinavir + ritonavir ou outros medicamentos no esquema terapêutico do paciente .
 ','http://linkimagem.com/img.png', 1);
 
-insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Ritonavir',"cod", 
+insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Ritonavir',"000000094", 
 'APRESENTAÇÃO
 • Cápsula 100 mg. • Solução oral 80 mg/mL. 
 
@@ -4134,7 +4134,7 @@ ATENÇÃO: este fármaco apresenta um número elevado de interações de medicam
 ','http://linkimagem.com/img.png', 1);
 
 
-insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Salbutamol, sulfato',"cod", 
+insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Salbutamol, sulfato',"000000095", 
 'APRESENTAÇÃO
 • Aerossol 100 microgramas/dose • Solução inalante 6 mg/mL (equivalente a 5 mg de salbutamol/mL) • Solução injetável 0,5 mg/mL 
 
@@ -4175,7 +4175,7 @@ ASPECTOS FARMACEUTICOS
 • Armazenar o sulfato de salbutamol (aerossol sem clorofluorcarbono como propelente) à temperatura ambiente, entre 15 e 25 ºC, longe da umidade. Não expor o inalador a altas temperaturas (aproximadamente 50 ºC). • Armazenar o sulfato de salbutamol (solução inalante gotas) à temperatura entre 2 e 25 ºC e longe de luz direta. • Na concentração de 200 microgramas/mL em solução salina 0,9%, o sulfato de salbutamol permanece estável por 7 dias sob temperatura ambiente e sobre refrigeração (situações em que nebulização contínua é necessário). • Armazenar a solução injetável de sulfato de salbutamol à temperaturas ambiente, entre 15 e 30 ºC, e protegida da luz. • Observar orientação específica do produtor quanto a diluição, compatibilidade e estabilidade da solução. • A solução para infusão deve ser preparada a partir da diluição de uma ampola (0,5 mg/mL) de sulfato de salbutamol em 500 mL de solução injetável de cloreto de sódio 0.9% ou glicose 5%, permanecendo estável por 24 horas sob temperatura ambiente. 
 ','http://linkimagem.com/img.png', 1);
 
-insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Sinvastatina',"cod", 
+insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Sinvastatina',"000000096", 
 'APRESENTAÇÃO
 • Comprimidos de 10 mg, 20 mg e 40 mg.
 
@@ -4221,7 +4221,7 @@ ATENÇÃO: segurança e eficácia não foram estabelecidas em pacientes com meno
 ','http://linkimagem.com/img.png', 1);
 
 
-insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Sulfadiazina',"cod", 
+insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Sulfadiazina',"000000097", 
 'APRESENTAÇÃO
 • Comprimido 500 mg.
 
@@ -4263,7 +4263,7 @@ ASPECTOS FARMACEUTICOS
 ','http://linkimagem.com/img.png', 1);
 
 
-insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Sulfadiazina de prata',"cod", 
+insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Sulfadiazina de prata',"000000098", 
 'APRESENTAÇÃO
 • Creme 1%
 
@@ -4304,7 +4304,7 @@ ASPECTOS FARMACEUTICOS
 • Conservar à temperatura ambiente, em recipientes bem fechados. Manter ao abrigo de luz, calor e umidade. Não congelar. • Conservar à temperatura ambiente, em recipientes bem fechados. Manter ao abrigo de luz, calor e umidade. Não congelar. 
 ','http://linkimagem.com/img.png', 1);
 
-insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Sulfametoxazol com Trimetoprima',"cod", 
+insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Sulfametoxazol com Trimetoprima',"000000099", 
 'APRESENTAÇÃO
 • Comprimido 400 mg + 80 mg. • Suspensão oral (40 mg + 8 mg)/mL. • Solução injetável (80 mg + 16 mg)/mL. 
 
@@ -4346,7 +4346,7 @@ ASPECTOS FARMACEUTICOS
 ','http://linkimagem.com/img.png', 1);
 
 
-insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Sulfato ferroso',"cod", 
+insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Sulfato ferroso',"000000100", 
 'APRESENTAÇÃO
 • Comprimido de 40 mg Fe2+ • Solução oral a 25 mg/mL Fe2+ 
 
@@ -4389,7 +4389,7 @@ ASPECTOS FARMACEUTICOS
 
 
 
-insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Talidomida',"cod", 
+insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Talidomida',"000000101", 
 'APRESENTAÇÃO
 • Comprimido 100 mg
 
@@ -4431,7 +4431,7 @@ ASPECTOS FARMACEUTICOS
 ','http://linkimagem.com/img.png', 1);
 
 
-insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Tiamina (cloridrato/palmitato)',"cod", 
+insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Tiamina (cloridrato/palmitato)',"000000102", 
 'APRESENTAÇÃO
 • Cloridrato de tiamina: comprimido de 300 mg e solução oral 10 mg/mL. • Palmitato de tiamina: solução injetável 100.000 UI/mL (100 mg/mL). 
 
@@ -4470,7 +4470,7 @@ ASPECTOS FARMACEUTICOS
 ','http://linkimagem.com/img.png', 1);
 
 
-insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Tuberculina (Derivado proteico purificado) PPD RT',"cod", 
+insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Tuberculina (Derivado proteico purificado) PPD RT',"000000103", 
 'APRESENTAÇÃO
 • Solução injetável 0,1 mL (PPD-Rt 23, 2 UT – unidades de tuberculina para via intradérmica)
 
@@ -4515,7 +4515,7 @@ ATENÇÃO
 ATENÇÃO: é necessária a disponibilidade de epinefrina para tratamento de possível anafilaxia. Caso ocorram reações fortemente positivas, podem ser usadas preparações tópicas de corticosteroide para alívio sintomático da dor associada, prurido e desconforto. Pacientes que apresentam reação positiva devem ser avaliados por outro diagnóstico complementar. A reação positiva pode não aparecer no período de duas a dez semanas depois da infecção (falso-negativo). Pacientes que apresentam reação positiva não devem ser vacinados com BCG. Tem valor de diagnóstico para tuberculose limitado. Não discrimina exposição prévia a antígenos micobacterianos de infecção com bacilo ou pela vacina BCG. Não distingue entre uma infecção pelo bacilo da tuberculose e outras infecções micobacterianas. 
 ','http://linkimagem.com/img.png', 1);
 
-insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Valproato de Sodio (Acido Valproico)',"cod", 
+insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Valproato de Sodio (Acido Valproico)',"000000104", 
 'APRESENTAÇÃO
 • Comprimido ou cápsula 288 mg (equivalente a 250 mg ácido valproico). • Comprimido 576 mg (equivalente a 500 mg ácido valproico) • Solução oral ou xarope 57,624 mg/mL (equivalente a 50 mg de ácido valproico/mL) 
 
@@ -4561,7 +4561,7 @@ ATENÇÃO: mortalidade por insuficiência hepática tem ocorrido em pacientes qu
 ','http://linkimagem.com/img.png', 1);
 
 
-insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Verapamil, cloridrato',"cod", 
+insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Verapamil, cloridrato',"000000105", 
 'APRESENTAÇÃO
 • Comprimidos 80 mg e 120 mg. • Solução injetável 2,5 mg/mL. 
 
