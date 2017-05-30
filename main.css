@@ -2373,8 +2373,12 @@ select.form-control-lg:not([size]):not([multiple]), .input-group-lg > select.for
     margin-left: 91.66667%; } }
 
 .img-fluid {
-  max-width: 100%;
-  height: auto; }
+  object-fit: cover;
+  //width: 100%;
+  //height: auto;
+  width: 70px;
+  height: 70px;
+ }
 
 .img-thumbnail {
   padding: 0.25rem;

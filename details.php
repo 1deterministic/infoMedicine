@@ -60,7 +60,7 @@
                     Id: ".$row["id"]."<br>";
 
           $textprint = nl2br($row["descricao"]);
-          $textprint = strtr($textprint, array("–" => "<br>&emsp;-", "•" => "<br>•"));
+          //$textprint = strtr($textprint, array("_" => "<br>&emsp;-", "•" => "•")); //"•" => "<br>•"
         }
       }
     }

@@ -69,7 +69,7 @@
             echo "<div class=\"py-5\">
                     <div class=\"container\" onclick=\"location.href='details.php?type=".$tentativas[$i + 3]."&value=".$row["id"]."'\">
                       <div class=\"row\">
-                        <div class=\"col-md-6 w-25\"><img src=\"https://pingendo.com/assets/photos/user_placeholder.png\" class=\"img-fluid d-block rounded\"></div>
+                        <div class=\"col-md-6 w-25\"><img src=\"".$row["imagem"]."\" class=\"img-fluid d-block rounded\"></div>
                           <div class=\"col-md-6 w-75\">
                             <p class=\"\">".$row["nome"]."<br>".$tentativas[$i + 2]."</p>
                           </div>
