@@ -82,7 +82,7 @@ O sulfato de abacavir pode provocar reações graves de hiper-sensibilidade, pot
 que apresentam sintomas sistêmicos respiratórios e/ou gastrintestinais, em geral com febre e sem acometimento de mucosas .
 Sempre que houver qualquer suspeita dessas reações, o uso do medicamento deve ser imediatamente suspenso. 
 Se houver melhora após a retirada, sua reintrodução está contraindicada'
-, 'http://www.icuvita.com.uy/data/vademecum/73.jpg', 1);
+, 'https://static.tuasaude.com/media/article/da/dc/abacavir-ziagenavir_19191_l.jpg', 1);
 
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Acetato de Medroxiprogesterona', "00000001", '
 APRESENTAÇÃO
@@ -123,7 +123,7 @@ ORIENTAÇÕES AOS PACIENTES
 
 ASPECTOS FARMACEUTICOS
 • Conservar à temperatura ambiente (15 a 30 ºC). Manter em recipientes hermeticamente fechados e ao abrigo da luz. 
-• Agitar bem, antes da utilização por via intramuscular.', 'http://linkimagem.com/img.png', 1);
+• Agitar bem, antes da utilização por via intramuscular.', 'http://www.hoyfarma.com/images/stories/virtuemart/product/depo%20provera.png', 1);
 
 
                                                                                       
@@ -166,7 +166,7 @@ ORIENTAÇÕES AOS PACIENTES
 
 ASPECTOS FARMACEUTICOS
 • Armazenar à temperatura ambiente, entre 15 e 30 °C. Proteger do calor, da umidade e da luz direta. • Medicamentos produzidos por laboratórios diferentes só podem ser inter- cambiáveis quando houver informação sobre a bioequivalência. • Comprimidos de acetazolamida podem ser triturados. São relatadas prepa- rações extemporâneas a partir dos comprimidos, tanto sob forma de suspen- sões como de soluções (que devem ser tamponadas a pH 4,0). Trituram-se os comprimidos, suspendendo o pó resultante em xarope de gosto forte (cereja, framboesa, chocolate, etc). Pode suspender-se até 500 mg em 5 mL de xarope, mas uma suspensão que contenha 250 mg por 5 mL tem melhor palatabilida- de. Esta suspensão é estável por uma semana. A refrigeração pode melhorar o sabor, mas não aumenta a estabilidade. Os elixires ou outros veículos que contenham álcool ou glicerina não proporcionam suspensão de sabor palatável. O armazenamento deve ser feito entre 15 e 30 ºC e ao abrigo da luz direta. 
-', 'http://linkimagem.com/img.png', 1);                                                                                      
+', 'http://2.bp.blogspot.com/-sK0pCl6JZ4Q/VgFdrJ456FI/AAAAAAACBNg/3RJQezIAVbI/s1600/ACETAZOLAMIDA.jpg', 1);                                                                                      
                                                                                       
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Acido valproico (ou Valproato de sódio)',"00000003",
 'APRESENTAÇÃO
@@ -211,7 +211,7 @@ ASPECTOS FARMACEUTICOS
 
 ATENÇÃO
 ATENÇÃO: mortalidade por insuficiência hepática tem ocorrido em pacientes que fazem uso de valproato de sódio e outros derivados do ácido valproico. O risco de hepatotoxicidade fatal é maior em crianças com 2 anos e menos de idade, em pacientes que fazem uso concomitante de vários anticonvulsivantes, retardo mental ou doença orgânica de origem cerebral. Este risco diminui consideravelmente com a progressão da idade. Testes de função hepática devem ser realizados em todos os pacientes que irão receber valproato, e periodicamente nos primeiros seis meses de tratamento. Casos de pancreatite fulminante têm sido relatados com o uso de valproato, independente do período de uso e da idade do paciente. Este fármaco apresenta um número elevado de interações de medicamentos, por isso é necessário uma pesquisa específica sobre este aspecto ao avaliar a terapia com este fármaco.
-', 'http://linkimagem.com/img.png', 1);
+', 'http://www.disdroblan.com/images/vademecum/41-acido-valproico-250mg.png', 1);
 
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Albendazol',"00000004",
 'APRESENTAÇÃO
@@ -252,7 +252,7 @@ ORIENTAÇÕES AOS PACIENTES
 
 ASPECTOS FARMACEUTICOS
 • Armazenar os comprimidos em local seco, ao abrigo de luz e calor. 
-', 'http://linkimagem.com/img.png', 1);
+', 'https://t1.uc.ltmcdn.com/pt/images/8/4/3/img_albendazol_bula_17348_600.jpg', 1);
 
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Alopurinol',"00000005",
 'APRESENTAÇÃO
@@ -293,7 +293,7 @@ ORIENTAÇÕES AOS PACIENTES
 
 ASPECTOS FARMACEUTICOS
 • Os comprimidos devem ser armazenados em frascos bem fechados, à tempe- ratura entre 15 a 30 °C, em locais secos e protegidos da luz. • Preparação extemporânea: triturar comprimidos para fazer uma suspensão na concentração de 5 mg/mL em xarope simples; estável por 14 dias sob re- frigeração. 
-', 'http://linkimagem.com/img.png', 1);
+', 'https://2.bp.blogspot.com/-1nK_onyhyO0/VyI48meytpI/AAAAAAACNhw/8q7FGsfVpEMDzT-K5l7xtHS8hll7uzDvgCLcB/s1600/ALOPURINOL.jpg', 1);
 
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Amiodarona, cloridrato de',"00000006",
 'APRESENTAÇÃO
@@ -338,7 +338,7 @@ ASPECTOS FARMACEUTICOS
 
 ATENÇÃO
 Amiodarona apresenta número elevado de interações de medicamentos, por isso é necessário uma pesquisa específica ao avaliar a terapia com este fármaco. Sinais/sintomas de toxicidade: alteração de ECG e PA, letargia, edema de mãos e pés, perda de peso, alterações na função pulmonar, hepática e da tireoide.
-', 'http://linkimagem.com/img.png', 1);
+', 'http://www.bulasderemedios.com/wp-content/uploads/2014/09/Cloridrato-de-Amiodarona-200mg.jpg', 1);
 
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Amitriptilina, cloridrato de',"00000007",
 'APRESENTAÇÃO
@@ -383,7 +383,7 @@ ASPECTOS FARMACEUTICOS
 
 ATENÇÃO
 ATENÇÃO: os efeitos terapêuticos podem demorar até 15 dias para se manifestar. Acompanhamento contínuo de pressão arterial e frequência cardíaca nas semanas iniciais.
-', 'http://linkimagem.com/img.png', 1);
+', 'http://1.bp.blogspot.com/-u2et5eZ5y-Y/Up4jYvPl80I/AAAAAAAAAGE/ZgnroXVNYPA/s1600/amitriti.jpg', 1);
 
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Amoxicilina',"00000008",
 'APRESENTAÇÃO
@@ -424,7 +424,7 @@ ORIENTAÇÕES AOS PACIENTES
 
 ASPECTOS FARMACEUTICOS
 • Cada grama de amoxicilina sódica contém 2,6 mmol de sódio. • Armazenar cápsulas sob temperatura inferior a 20 ºC. Armazenar o compri- mido ou pó para suspensão oral (antes da reconstituição) sob temperatura até 25 ºC. Proteger de calor, umidade e luz direta. • Após reconstituição, a suspensão deve ser preferentemente mantida sob refrigeração (entre 2 e 8 ºC), mas também é estável à temperatura ambiente. Descartar 14 dias após a reconstituição. 
-', 'http://linkimagem.com/img.png', 1);
+', 'https://static.tuasaude.com/media/article/cb/bd/amoxicilina_19945_l.jpg', 1);
 
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Amoxicilina com Clavulanato de Potassio',"00000009",
 'APRESENTAÇÃO
@@ -465,7 +465,7 @@ ORIENTAÇÕES AOS PACIENTES
 
 ASPECTOS FARMACEUTICOS
 • Armazenar comprimidos abaixo de 25 ºC. Proteger de calor, umidade e luz direta. • Suspensão oral deve ser mantida sob refrigeração depois de reconstituída. Evitar congelamento. Descartar 10 dias depois de aberto o frasco. 
-', 'http://linkimagem.com/img.png', 1);
+', 'https://www.onofre.com.br/estatico/Produto/Normal/111848.jpg', 1);
 
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Anlodipino, besilato de',"000000010",
 'APRESENTAÇÃO
@@ -510,7 +510,7 @@ ASPECTOS FARMACEUTICOS
 
 ATENÇÃO
 Este fármaco apresenta número elevado de interações de medicamentos. Segurança e eficácia deste medicamento em menores de 6 anos ainda não foram estabelecidas . Sinal/sintoma de toxicidade: hipotensão, enrubescimento, cefaleia e edema periférico.
-', 'http://linkimagem.com/img.png', 1);
+', 'http://aumentesuasaude.com/wp-content/uploads/2015/06/Norvasc-besilato-de-anlodipino.jpg', 1);
 
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Atenolol',"000000011",
 'APRESENTAÇÃO
@@ -555,7 +555,7 @@ ASPECTOS FARMACEUTICOS
 
 ATENÇÃO
 Atenolol é um betabloqueador cardiosseletivo sem atividadesimpaticomimética intrinseca e propriedades estabilizantes de membrana . Substituido pelo metoprolol no tratamento de arritmia . Em hipertensão não é recomendado para pacientes com mais de 60 anos, grávidas e aqueles com intervalo QT longo. A segurança e eficácia não está estabelecido em crianças
-', 'http://linkimagem.com/img.png', 1);
+', 'http://www.bulasimples.com.br/wp-content/uploads/2016/01/atenolol.png', 1);
 
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Azitromicina',"000000012",
 'APRESENTAÇÃO
@@ -596,7 +596,7 @@ ORIENTAÇÕES AOS PACIENTES
 
 ASPECTOS FARMACEUTICOS
 • Manter ao abrigo de luz e calor. • Suspensão: manter à temperatura entre 5 e 30 °C após reconstituição. Descartar após 10 dias. • Comprimidos: manter à temperatura entre 15 e 30 °C. 
-', 'http://linkimagem.com/img.png', 1);
+', 'https://static.tuasaude.com/media/article/bd/ca/azitromicina-azi_19062_l.jpg', 1);
 
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Beclometasona, dipropionato',"000000013",
 'APRESENTAÇÃO
@@ -637,7 +637,7 @@ ORIENTAÇÕES AOS PACIENTES
 
 ASPECTOS FARMACEUTICOS
 • Armazenar as formas aerossol a temperaturas entre 15 e 30 ºC. Há risco de explosão do frasco aerossol quando exposto a temperaturas acima de 50 ºC. • Armazenar as cápsulas com o pó à temperatura ambiente, entre 15 e 30 ºC. Manter em frascos bem fechados e proteger da umidade. O frasco deve ser aberto e a cápsula inserida no dispensador somente no momento do uso. 
-', 'http://linkimagem.com/img.png', 1);
+', 'http://antiinflamatorios.com.br/wp-content/uploads/2014/11/Dipropionato-de-Beclometasona.jpg', 1);
 
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Benzilpenicilina Benzatina',"000000014",
 'APRESENTAÇÃO
