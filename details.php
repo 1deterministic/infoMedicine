@@ -30,15 +30,12 @@
     $nomebd = "infomedicine";
     $user = "anonnymous";
     $senha = "He!!oWor!d";
-
-    $headerprefix = "<div class=\"py-5\"><div class=\"container\"><div class=\"row\"><div class=\"col-md-6 w-25\"><img src=\"https://pingendo.com/assets/photos/user_placeholder.png\" class=\"img-fluid d-block rounded\"></div><div class=\"col-md-6 w-75\"><p class=\"\">";
-    $headerending = "</p></div></div><div class=\"row\"> </div></div></div>";
-    $headerprint = "";
-    $headerprint2 = "";
-    
+    $prefix = "<div class=\"py-5\"><div class=\"container\"><div class=\"row\"><div class=\"col-md-6 w-25\"><img src=\"https://pingendo.com/assets/photos/user_placeholder.png\" class=\"img-fluid d-block rounded\"></div><div class=\"col-md-6 w-75\"><p class=\"\">";
+    $print = "";
+    $ending = "</p></div></div><div class=\"row\"> </div></div></div>";
     $textprefix = "<div class=\"\"><div class=\"container\"><div class=\"row\"><div class=\"col-md-12\"><p class=\"\">";
-    $textending = "</div></div></div></div>";
     $textprint = "";
+    $textending = "</div></div></div></div>";
 
     $conexao = new mysqli($server, $user, $senha, $nomebd);
 
@@ -61,17 +58,14 @@
         {
           $print = "Nome: ".$row["nome"]."<br>
                     Id: ".$row["id"]."<br>";
-                    //Código de barras: ".$row["codigodebarras"]."<br>";
 
           $textprint = nl2br($row["descricao"]);
           //$textprint = strtr($textprint, array("_" => "<br>&emsp;-", "•" => "•")); //"•" => "<br>•"
         }
       }
     }
-
-    echo $row["nome"];
   
-    echo $headerprefix.$headerprint.$headerending;
+    echo $prefix.$print.$ending;
     echo $textprefix.$textprint.$textending;     
   ?>
 
