@@ -1,5 +1,4 @@
 <html>
-
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -23,7 +22,7 @@
     $conexao = new mysqli($server, $user, $senha, $nomebd);
     
     if ($conexao->connect_error)
-      $print = drawText("Erro na conexao com o banco de dados");
+      drawText("Erro na conexao com o banco de dados");
   
     else // se a conexão funcionar
     {
@@ -46,7 +45,7 @@
           switch ($_GET["type"]) // verifica qual o tipo de dado recuperado
           {
             case "medicamento":
-                drawCard("Nome: ".$row["nome"]."<br>"."Código de barras: ".$row["codigodebarras"]."<br>", $row["imagem"]);
+                drawCard("Nome: ".$row["nome"]."<br>"."Código de barras: ".$row["codigodebarras"]."<br>", $row["imagem"]); // desenha um card com a foto do medicamento e algumas informações ao lado
 
                 $resultado2 = $conexao->query("select * from fabricante where id = ".$row["fabricante"].";"); // além do medicamento, também mostrar o laboratório
                 mysqli_close();
@@ -54,7 +53,7 @@
                 {
                   while ($row2 = $resultado2->fetch_assoc())
                   {
-                    drawCard("Fabricante: ".$row2["nome"]."<br>", $row2["imagem"]);
+                    drawCard("Fabricante: ".$row2["nome"]."<br>", $row2["imagem"]); // desenha um card com a logo do fabricante e algumas informações ao lado
                   }
                 }
 
@@ -64,7 +63,7 @@
                 {
                   while ($row3 = $resultado3->fetch_assoc())
                   {
-                    drawCard("Contra-indicação: ".$row3["nome"]."<br>", $row3["imagem"]);
+                    drawCard("Contra-indicação: ".$row3["nome"]."<br>", $row3["imagem"]); // desenha um card com uma imagem de alerta e a contra-indicação ao lado
                   }
                 }
                 break;
