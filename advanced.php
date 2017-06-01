@@ -36,7 +36,7 @@
   <div class="py-5 bg-faded">
     <div class="container">
       <div class="row">
-        <div class="col-md-12"><a href="index.html" class="btn btn-block btn-primary btn-sm" data-toggle="">Pesquisa básica</a></div>
+        <div class="col-md-12"><a href="index.php" class="btn btn-block btn-primary btn-sm" data-toggle="">Pesquisa básica</a></div>
       </div>
     </div>
   </div>
