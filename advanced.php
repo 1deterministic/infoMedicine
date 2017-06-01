@@ -27,8 +27,8 @@
             <div class="form-group"> <label></label> <input type="email" class="form-control" placeholder="Princípio ativo?"> </div>
             <div class="form-group"> <label></label> <input type="email" class="form-control" placeholder="Contra indicações?"> </div> 
           </form>
-          <a href="results.html" class="btn btn-primary" style="float: right;">Pesquisar</a>
-          <a href="barcode.html" class="btn btn-outline-primary">Possuo o código de barras</a>          
+          <a href="results.php" class="btn btn-primary" style="float: right;">Pesquisar</a>
+          <a href="barcode.php" class="btn btn-outline-primary">Possuo o código de barras</a>          
         </div>
       </div>
     </div>
