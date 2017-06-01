@@ -60,8 +60,8 @@
         while ($row = $resultado->fetch_assoc())
         {
           $print = "Nome: ".$row["nome"]."<br>
-                    Id: ".$row["id"]."<br>
-                    Código de barras: ".$row["codigodebarras"]."<br>";
+                    Id: ".$row["id"]."<br>";
+                    //Código de barras: ".$row["codigodebarras"]."<br>";
 
           $textprint = nl2br($row["descricao"]);
           //$textprint = strtr($textprint, array("_" => "<br>&emsp;-", "•" => "•")); //"•" => "<br>•"
