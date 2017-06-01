@@ -31,14 +31,14 @@
     $user = "anonnymous";
     $senha = "He!!oWor!d";
 
-    $prefix = "<div class=\"py-5\"><div class=\"container\"><div class=\"row\"><div class=\"col-md-6 w-25\"><img src=\"https://pingendo.com/assets/photos/user_placeholder.png\" class=\"img-fluid d-block rounded\"></div><div class=\"col-md-6 w-75\"><p class=\"\">";
-    $print = "";
-    $ending = "</p></div></div><div class=\"row\"> </div></div></div>";
+    $headerprefix = "<div class=\"py-5\"><div class=\"container\"><div class=\"row\"><div class=\"col-md-6 w-25\"><img src=\"https://pingendo.com/assets/photos/user_placeholder.png\" class=\"img-fluid d-block rounded\"></div><div class=\"col-md-6 w-75\"><p class=\"\">";
+    $headerending = "</p></div></div><div class=\"row\"> </div></div></div>";
+    $headerprint = "";
+    $headerprint2 = "";
+    
     $textprefix = "<div class=\"\"><div class=\"container\"><div class=\"row\"><div class=\"col-md-12\"><p class=\"\">";
-    $textprint = "";
     $textending = "</div></div></div></div>";
-
-    $row = "";
+    $textprint = "";
 
     $conexao = new mysqli($server, $user, $senha, $nomebd);
 
@@ -60,7 +60,8 @@
         while ($row = $resultado->fetch_assoc())
         {
           $print = "Nome: ".$row["nome"]."<br>
-                    Id: ".$row["id"]."<br>";
+                    Id: ".$row["id"]."<br>
+                    Código de barras: ".$row["codigodebarras"]."<br>";
 
           $textprint = nl2br($row["descricao"]);
           //$textprint = strtr($textprint, array("_" => "<br>&emsp;-", "•" => "•")); //"•" => "<br>•"
@@ -70,7 +71,7 @@
 
     echo $row["nome"];
   
-    echo $prefix.$print.$ending;
+    echo $headerprefix.$headerprint.$headerending;
     echo $textprefix.$textprint.$textending;     
   ?>
 
