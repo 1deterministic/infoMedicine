@@ -58,7 +58,7 @@ ATENÇÃO
 O sulfato de abacavir pode provocar reações graves de hiper-sensibilidade, potencialmente fatais, 
 que apresentam sintomas sistêmicos respiratórios e/ou gastrintestinais, em geral com febre e sem acometimento de mucosas .
 Sempre que houver qualquer suspeita dessas reações, o uso do medicamento deve ser imediatamente suspenso. 
-Se houver melhora após a retirada, sua reintrodução está contraindicada.', 'http://linkimagem.com/img.png', 1);
+Se houver melhora após a retirada, sua reintrodução está contraindicada.', 'https://www.google.com.br/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwiN_rXEwZzUAhXKhZAKHUo3BUEQjRwIBw&url=https%3A%2F%2Fwww.tuasaude.com%2Fabacavir-ziagenavir%2F&psig=AFQjCNHWGFpAI5yy2_PMMACAsih7oL2NfA&ust=1496401863729294', 1);
 
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Acetato de Medroxiprogesterona', "00000001", '
 APRESENTAÇÃO
