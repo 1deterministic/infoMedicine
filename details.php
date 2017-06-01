@@ -30,12 +30,15 @@
     $nomebd = "infomedicine";
     $user = "anonnymous";
     $senha = "He!!oWor!d";
+
     $prefix = "<div class=\"py-5\"><div class=\"container\"><div class=\"row\"><div class=\"col-md-6 w-25\"><img src=\"https://pingendo.com/assets/photos/user_placeholder.png\" class=\"img-fluid d-block rounded\"></div><div class=\"col-md-6 w-75\"><p class=\"\">";
     $print = "";
     $ending = "</p></div></div><div class=\"row\"> </div></div></div>";
     $textprefix = "<div class=\"\"><div class=\"container\"><div class=\"row\"><div class=\"col-md-12\"><p class=\"\">";
     $textprint = "";
     $textending = "</div></div></div></div>";
+
+    $row = "";
 
     $conexao = new mysqli($server, $user, $senha, $nomebd);
 
@@ -64,6 +67,8 @@
         }
       }
     }
+
+    echo $row["nome"];
   
     echo $prefix.$print.$ending;
     echo $textprefix.$textprint.$textending;     
