@@ -18,55 +18,63 @@
   </div>
   
   <?php
-    $querymodel =
-    [
-      "medicamento" => "select * from medicamento where id = ",
-      "fabricante" => "select * from fabricante where id = ",
-      "principioativo" => "select * from principioativo where id = ",
-      "contraindicacao" => "select * from contraindicacao where id = ",
-    ];
-
-    $server = "mysql4.gear.host";
-    $nomebd = "infomedicine";
-    $user = "anonnymous";
-    $senha = "He!!oWor!d";
-    $prefix = "<div class=\"py-5\"><div class=\"container\"><div class=\"row\"><div class=\"col-md-6 w-25\"><img src=\"https://pingendo.com/assets/photos/user_placeholder.png\" class=\"img-fluid d-block rounded\"></div><div class=\"col-md-6 w-75\"><p class=\"\">";
-    $print = "";
-    $ending = "</p></div></div><div class=\"row\"> </div></div></div>";
-    $textprefix = "<div class=\"\"><div class=\"container\"><div class=\"row\"><div class=\"col-md-12\"><p class=\"\">";
-    $textprint = "";
-    $textending = "</div></div></div></div>";
+    include 'functions.php';
 
     $conexao = new mysqli($server, $user, $senha, $nomebd);
-
+    
     if ($conexao->connect_error)
-      $print = "Erro na conexao com o banco de dados<br>";
+      $print = drawText("Erro na conexao com o banco de dados");
   
-    else
+    else // se a conexão funcionar
     {
-      if (!empty($_GET["barcode"])) 
-        $sql = "select * from medicamento where codigodebarras = ".$_GET["barcode"];
+      if (!empty($_GET["barcode"])) // busca por código de barras
+      {
+        $sql = "select * from medicamento where codigodebarras = ".$_GET["barcode"]; 
+        $_GET["type"] = "medicamento"; // entrada por código de barras sempre resultará na busca por um medicamento
+      }
 
-      else
+      else // usuário redirecionado da página results
         $sql = "select * from ".$_GET["type"]." where id = ".$_GET["value"].";";
 
         
-      $resultado = $conexao->query($sql);
-      if ($resultado->num_rows > 0)
+      $resultado = $conexao->query($sql); // faz a busca no banco de dados
+      mysqli_close(); // fecha a conexão (para permitir que outra seja feita)
+      if ($resultado->num_rows > 0) // se há resultados
       {
-        while ($row = $resultado->fetch_assoc())
+        while ($row = $resultado->fetch_assoc()) // para cada resultado da busca
         {
-          $print = "Nome: ".$row["nome"]."<br>
-                    Id: ".$row["id"]."<br>";
+          switch ($_GET["type"]) // verifica qual o tipo de dado recuperado
+          {
+            case "medicamento":
+                drawCard("Nome: ".$row["nome"]."<br>"."Código de barras: ".$row["codigodebarras"]."<br>", $row["imagem"]);
 
-          $textprint = nl2br($row["descricao"]);
+                $resultado2 = $conexao->query("select * from fabricante where id = ".$row["fabricante"].";"); // além do medicamento, também mostrar o laboratório
+                mysqli_close();
+                if ($resultado2->num_rows > 0)
+                {
+                  while ($row2 = $resultado2->fetch_assoc())
+                  {
+                    drawCard("Fabricante: ".$row2["nome"]."<br>", $row2["imagem"]);
+                  }
+                }
+
+                $resultado3 = $conexao->query("select * from contraindicacao as c inner join medicamento_has_contraindicacao as mc on c.id = mc.contraindicacao and mc.medicamento = ".$row["id"].";"); // mostrar também todas as contra-indicações do medicamento
+                mysqli_close();
+                if ($resultado3->num_rows > 0)
+                {
+                  while ($row3 = $resultado3->fetch_assoc())
+                  {
+                    drawCard("Contra-indicação: ".$row3["nome"]."<br>", $row3["imagem"]);
+                  }
+                }
+                break;
+          }
+
+          drawText(nl2br($row["descricao"])); // exibe o texto descrição do medicamento, quebrando as linhas corretamente
           //$textprint = strtr($textprint, array("_" => "<br>&emsp;-", "•" => "•")); //"•" => "<br>•"
         }
       }
     }
-  
-    echo $prefix.$print.$ending;
-    echo $textprefix.$textprint.$textending;     
   ?>
 
   <div class="py-5 bg-faded">
