@@ -678,7 +678,7 @@ ORIENTAÇÕES AOS PACIENTES
 
 ASPECTOS FARMACEUTICOS
 • Armazenar a temperaturas entre 15 e 30 °C. • Armazenar a suspensão reconstituída sob refrigeração, entre 2 e 8 °C. • Não administrar por via intravenosa: via associada a parada cardiorespiratória e morte. • Administrar por via intramuscular profunda, longe de artérias e nervos. 
-', 'http://linkimagem.com/img.png', 1);
+', 'http://cidadeverde.com/assets/uploads/noticias/a5c5952e19d9501c729487ecb30bc001.jpg', 1);
 
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Biperideno (cloridrato/lactato)',"000000015",
 'APRESENTAÇÃO
@@ -719,7 +719,7 @@ ORIENTAÇÕES AOS PACIENTES
 
 ASPECTOS FARMACEUTICOS
 • Conservar sob temperatura ambiente, entre 15 e 30 ºC, em recipientes bem fechados e ao abrigo da luz. Evitar o congelamento. 
-', 'http://linkimagem.com/img.png', 1);
+', 'http://www.pesquisemedicamentos.com.br/uploads/_thumb/medicamentos/akineton%20retard%2030cpr.jpg', 1);
 
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Budesonida',"000000016",
 'APRESENTAÇÃO
@@ -760,7 +760,7 @@ ORIENTAÇÕES AOS PACIENTES
 
 ASPECTOS FARMACEUTICOS
 • Armazenar as formas aerossol a temperaturas entre 15 e 30 ºC. Há risco de explosão do frasco com aerossol quando exposto a temperaturas acima de 50ºC. Manter ao abrigo da luz. Não congelar. 
-', 'http://linkimagem.com/img.png', 1);
+', 'http://www.bulasimples.com.br/wp-content/uploads/2017/02/busonid-aerossol-nasal-bula-simples.jpg', 1);
 
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Bupropiona, cloridrato',"000000017",
 'APRESENTAÇÃO
@@ -801,7 +801,7 @@ ORIENTAÇÕES AOS PACIENTES
 
 ASPECTOS FARMACEUTICOS
 • Manter ao abrigo de luz e à temperatura ambiente, entre 15 e 30 ºC. 
-', 'http://linkimagem.com/img.png', 1);
+', 'http://www.nursing.com.br/wp-content/uploads/2017/03/cloridrato-de-bupropiona.jpg', 1);
 
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Calcitriol',"000000018",
 'APRESENTAÇÃO
@@ -846,7 +846,7 @@ ASPECTOS FARMACEUTICOS
 
 ATENÇÃO
 Sinonímia: 1,25-dihidroxicolecalciferol, vitamina D3 ativa.
-', 'http://linkimagem.com/img.png', 1);
+', 'http://3.bp.blogspot.com/_0sQsHYMz_jQ/SKyrnd-PLBI/AAAAAAAAAJ8/98pxmOmPFbY/s400/calcitriol.jpg', 1);
 
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Captopril',"000000019",
 'APRESENTAÇÃO
@@ -887,7 +887,7 @@ ORIENTAÇÕES AOS PACIENTES
 
 ASPECTOS FARMACEUTICOS
 • Armazenar entre 15 e 30 °C, proteger do calor, umidade e luz direta. • Comprimidos podem apresentar leve odor sulfuroso. • Existe descrita formulação extemporânea para uso em criança. 
-', 'http://linkimagem.com/img.png', 1);
+', 'http://www.acritica.com/uploads/news/image/36862/show_1.jpg', 1);
 
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Carbamazepina',"000000020",
 'APRESENTAÇÃO
@@ -932,7 +932,7 @@ ASPECTOS FARMACEUTICOS
 
 ATENÇÃO
 Antes do início e durante o tratamento, a cada 6 meses, devem ser realizados hemograma (especialmente plaquetas e reticulócitos), ferro plasmático e testes de função hepática . Este medicamento possui um número elevado de interações de medicamentos: avaliar em particular cada uma .
-', 'http://linkimagem.com/img.png', 1);
+', 'http://3.bp.blogspot.com/-_5zgCqiB43U/VM5qUzZw0ZI/AAAAAAAABhI/LaYvhlXFmUw/s1600/pro116.png', 1);
 
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Carvedilol',"000000021",
 'APRESENTAÇÃO
@@ -977,7 +977,7 @@ ASPECTOS FARMACEUTICOS
 
 ATENÇÃO
 Início do efeito na ICC após 3 meses; não é tratamento de emergência .
-', 'http://linkimagem.com/img.png', 1);
+', 'https://multifarmas-prod-env.s3.amazonaws.com/api/media/product/carvedilol-25-mg-com-bl-al-plas-bco-30/img/carvedilol-25-mg-com-bl-al-plas-bco-30.jpg', 1);
 
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Ciprofloxacino, cloridrato',"000000022",
 'APRESENTAÇÃO
@@ -1018,7 +1018,7 @@ ORIENTAÇÕES AOS PACIENTES
 
 ASPECTOS FARMACEUTICOS
 • Comprimidos: Armazenar a temperatura ambiente, 15 a 25 ºC, e proteger da luz. • Solução injetável: Armazenar em local fresco, 8 a 15 ºC, ou a temperatura ambiente, 15 a 25 ºC, e proteger da luz. Não congelar. Medicamento fotos- sensível. • Observar orientação específica do produtor quanto a diluição, compatibilidade e estabilidade da solução. • Ciprofloxacino injetável é compatível com soro fisiológico 0,9%, soluções de Ringer e Ringer + lactato, soluções de glicose a 5% e 10%, solução de frutose a 10% e solução de glicose a 5% com 0,225% ou 0,45% de cloreto de sódio. • Administrar logo depois do preparo. • Incompatível com heparina. 
-', 'http://linkimagem.com/img.png', 1);
+', 'http://www.bulasimples.com.br/wp-content/uploads/2016/10/9818610.jpg', 1);
 
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Clindamicina (cloridrato/fosfato)',"000000023",
 'APRESENTAÇÃO
@@ -1059,7 +1059,7 @@ ORIENTAÇÕES AOS PACIENTES
 
 ASPECTOS FARMACEUTICOS
 • Armazenar a cápsula e a solução injetável a temperatura de 20 a 25°C. • Observar orientação específica do produtor quanto a diluição, compatibilidade e estabilidade da solução. • Ao usar pela via intravenosa, a concentração final não deve exceder 18 mg/ mL. Nunca administrar a solução em bolo. • Solução injetável compatível com solução fisiológica 0,9%, glicose 5% e Ringer + lactato por 8 semanas a 10 °C, 32 dias a 4 °C e 16 dias a 25 °C, quando acondicionada em recipiente de vidro ou PVC. • Incompatível com: ampicilina, aminofilina, barbitúricos, gliconato de cálcio, ceftriaxona, idarrubicina, sulfato de magnésio, fenitoína, filgrastim, fluconazol, alopurinol e ranitidina. 
-', 'http://linkimagem.com/img.png', 1);
+', 'https://www.onofre.com.br/estatico/Produto/Normal/119920.jpg', 1);
 
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Clomipramina, cloridrato',"000000024",
 'APRESENTAÇÃO
@@ -1105,7 +1105,7 @@ ASPECTOS FARMACEUTICOS
 ATENÇÃO
 Os efeitos terapêuticos podem demorar de 15 a 21 dias para se manifestar. Acompanhamento contínuo de pressão arterial e frequência cardíaca nas semanas iniciais. Não há informação quanto à eficácia e segurança em crianças e adolescentes. Este fármaco apresenta um número muito elevado de interações com medicamentos, sendo necessária uma pesquisa específica sobre este aspecto antes de introduzir ou descontinuar a clomipramina ou outros medicamentos no esquema do paciente.
 
-', 'http://linkimagem.com/img.png', 1);
+', 'http://alceniguerra.com.br/wp-content/uploads/2014/08/cloridrato-de-clomipramina.png', 1);
 
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Clonazepam',"000000025",
 'APRESENTAÇÃO
@@ -1150,7 +1150,7 @@ ASPECTOS FARMACEUTICOS
 
 ATENÇÃO
 Clonazepam é medicamento de segunda linha para a indicação apontada . Como os demais benzodiazepínicos, causa dependência física .
-', 'http://linkimagem.com/img.png', 1);
+', 'http://257cu52hn58148zsaf2jma2c-wpengine.netdna-ssl.com/wp-content/uploads/2016/05/Clonazepam.jpg', 1);
 
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Clorpromazina, cloridrato',"000000026",
 'APRESENTAÇÃO
@@ -1195,7 +1195,7 @@ ASPECTOS FARMACEUTICOS
 
 ATENÇÃO
 Após injeção intramuscular o paciente deve permanecer deitado e sua pressão arterial deve ser monitorada por 30 minutos . Este medicamento apresenta interações com um grande número de fármacos, com destaque para as interações que podem resultar em aumento do risco de cardiotoxicidade . Assim, uma consulta à literatura específica deve ser realizada antes de incluir este ou outros medicamentos no esquema terapêutico do paciente . 
-', 'http://linkimagem.com/img.png', 1);
+', 'http://appsisecommerces3.s3.amazonaws.com/clientes/cliente4241/produtos/33573/Z5329.jpg', 1);
 
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Dapsona',"000000027",
 'APRESENTAÇÃO
@@ -1236,7 +1236,7 @@ Orientações aos pacientes • Orientar para ingerir com alimento para reduzir 
 
 ASPECTOS FARMACEUTICOS
 Aspectos farmacêuticos • Manter na embalagem original, bem fechada, ao abrigo do ar, luz e umidade e à temperatura de 15 a 30 ºC. 
-', 'http://linkimagem.com/img.png', 1);
+', 'https://3.bp.blogspot.com/-rhyrHDQctAw/V6t3DMJ6d8I/AAAAAAAAM64/AvrhRwi6pVETo7ZOfmDoPN84DXigP4iEQCLcB/s1600/92.jpg', 1);
 
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Dexametasona e Acetato de Dexametasona',"000000028",
 'APRESENTAÇÃO
@@ -1281,7 +1281,7 @@ Aspecto farmacêutico • Manter todas as apresentações listadas em recipiente
 
 ATENÇÃO
 ATENÇÃO: a descontinuação deste medicamento após uso prolongado deve ser feita de forma gradual. Efeitos adversos sistêmicos associam-se ao uso do medicamento além de uma semana após sua descontinuação.
-', 'http://linkimagem.com/img.png', 1);
+', 'http://remediando.com.br/wp-content/uploads/2016/10/Dexametasona-300x200.jpg', 1);
 
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Diazepam',"000000029",
 'APRESENTAÇÃO
@@ -1326,7 +1326,7 @@ Aspectos farmacêuticos • Todas as formas farmacêuticas devem ser mantidas ao
 
 ATENÇÃO
 ATENÇÃO: este fármaco apresenta um número elevado de interações de medicamentos, por isto deve ser realizada pesquisa específica sobre este aspecto antes de introduzir ou descontinuar o diazepam ou outros medicamentos no esquema terapêutico do paciente.
-', 'http://linkimagem.com/img.png', 1);
+', 'http://itech.dickinson.edu/chemistry/wp-content/uploads/2008/04/v10all.jpg', 1);
 
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Digoxina',"000000030",
 'APRESENTAÇÃO
@@ -1371,7 +1371,7 @@ Aspectos farmacêuticos • Manter à temperatura entre 15 a 30 ºC. • Armazen
 
 ATENÇÃO
 ATENÇÃO: digoxina apresenta um número elevado de interações de medicamentos, por isso é necessária uma pesquisa específica quanto a este aspecto antes de introduzir ou descontinuar a digoxina ou outro medicamento no esquema do paciente. Idosos podem apresentar intoxicação digitálica em função do decréscimo da função renal e redução da massa muscular .
-', 'http://linkimagem.com/img.png', 1);
+', 'https://marcioantoniassi.files.wordpress.com/2015/06/digoxina-1.jpg', 1);
 
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Doxiciclina, cloridrato',"000000031",
 'APRESENTAÇÃO
@@ -1417,7 +1417,7 @@ Aspectos farmacêuticos • Armazenar a temperatura ambiente (de 15 a 30 ºC). P
 ATENÇÃO
 ATENÇÃO: no Brasil, onde a malária tem baixa incidência e há predomínio de Plasmodium vivax em toda a árATENÇÃO: no Brasil, onde a malária tem baixa incidência e há predomínio de Plasmodium vivax em toda a área endêmica, deve-se lembrar que a eficácia da profilaxia para essa espécie de Plasmodium é baixa, não devendo ser recomendadaea endêmica, deve-se lembrar que a eficácia da profilaxia para essa espécie de Plasmodium é baixa, não devendo ser recomendada
 
-', 'http://linkimagem.com/img.png', 1);
+', 'http://www.cliquefarma.com.br/blog/wp-content/uploads/2015/07/Doxiciclina.jpg', 1);
 
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Espironolactona',"000000032",
 'APRESENTAÇÃO
@@ -1462,7 +1462,7 @@ Aspectos farmacêuticos • Armazenar à temperatura ambiente (entre 15 e 25 ºC
 
 ATENÇÃO
 ATENÇÃO: monitorar potássio sérico regularmente
-', 'http://linkimagem.com/img.png', 1);
+', 'https://static.tuasaude.com/img/co/mo/como-usar-a-espironolactona-1-640-427.jpg', 1);
 
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Estearato de eritromicina',"000000033",
                                                                                       'APRESENTAÇÃO
@@ -1507,7 +1507,7 @@ Aspectos farmacêuticos • Manter os comprimidos ao abrigo de luz, calor e umid
 
 ATENÇÃO
 ATENÇÃO: este fármaco apresenta um número elevado de interações de medicamentos, por isto deve ser realizada pesquisa específica sobre este aspecto antes de introduzir ou descontinuar a eritromicina ou outros medicamentos no esquema terapêutico do paciente 
-', 'http://linkimagem.com/img.png', 1);
+', 'http://www.inpharma.cv/uploads/.produtos/53/IMG_6718%20copy.jpg', 1);
 
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Estriol',"000000034",
                                                                                       'APRESENTAÇÃO
@@ -1548,7 +1548,7 @@ Orientação às pacientes • A dose da forma vaginal é dada pelo aplicador qu
 
 ASPECTOS FARMACEUTICOS
 Aspecto farmacêutico • Armazenar à temperatura ambiente, de 15 a 30 ºC. Manter ao abrigo do ar e da luz. 
-', 'http://linkimagem.com/img.png', 1);
+', 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtm8Na1XbghNbIe60ogOe9m62qLW2SqqRTY_WcaOKbQ7kdGwWX', 1);
 
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Etambutol, cloridrato',"000000035",
                                                                                       'APRESENTAÇÃO
@@ -1593,15 +1593,11 @@ Aspectos farmacêuticos • Deve ser mantido em sua embalagem original, bem fech
 
 ATENÇÃO
 ATENÇÃO: como sinonímia para etambutol (nome correspondente à Denominação Comum Brasileira) também é empregada a abreviatura E, entretanto, não se recomenda a prescrição de fármacos por abreviaturas ou siglas .
-', 'http://linkimagem.com/img.png', 1);
+', 'http://www.antibiotice.ro/wp-content/uploads/2015/07/etambutol_400.png', 1);
 
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Etinilestradiol com Levonorgestrel',"000000036",
                                                                                       'APRESENTAÇÃO
 Apresentação • Comprimido 0,03 mg + 0,15 mg. 
-
-
-INDICAÇÃO
-Indicação • Contracepção. 
 
 
 CONTRAINDICAÇÕES
@@ -1634,7 +1630,7 @@ Orientações às pacientes • Alertar a importância de obedecer rigorosamente
 
 ASPECTOS FARMACEUTICOS
 Aspecto farmacêutico • Armazenar à temperatura ambiente, entre 15 a 30 ºC. Manter ao abrigo do ar e luz. 
-', 'http://linkimagem.com/img.png', 1);
+', 'http://www.fahorro.com/media/catalog/product/cache/1/image/1280x1280/9df78eab33525d08d6e5fb8d27136e95/7/5/7502223704169.jpg', 1);
 
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Fluconazol',"000000037",
                                                                                       '
@@ -1680,7 +1676,7 @@ Aspectos farmacêuticos • Armazenar a cápsula e o pó para suspensão sob tem
 
 ATENÇÃO
 ATENÇÃO: este fármaco apresenta um número muito elevado de interações de medicamentos, sendo necessária uma pesquisa específica sobre este aspecto antes de introduzir ou descontinuar o fluconazol ou outros medicamentos no esquema do paciente .
-', 'http://linkimagem.com/img.png', 1);
+', 'http://www.nursing.com.br/wp-content/uploads/2016/08/fluconazol-comrpimidos.jpg', 1);
 
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Fluoxetina, cloridrato',"000000038",
                                                                                       'APRESENTAÇÃO
@@ -1725,7 +1721,7 @@ Aspectos farmacêuticos • Armazenar em recipiente hermético, à temperatura a
 
 ATENÇÃO
 ATENÇÃO: este fármaco apresenta um número elevado de interações de medicamentos e deve ser realizada uma pesquisa específica sobre este aspecto ao introduzir ou descontinuar este ou outros medicamentos no esquema terapêutico do paciente . Em pacientes com doença recidivante, a terapia por longos períodos (mínimo de 6 meses) deve ser considerada . Pacientes devem ser monitorados quando encerrado o tratamento . É recomendada diminuição gradual da dose . 
-', 'http://linkimagem.com/img.png', 1);
+', 'http://emagrecer.eco.br/wp-content/uploads/2015/11/Cloridrato-de-Fluoxetina-Prozac1.jpg', 1);
 
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Furosemida',"000000039",
                                                                                       'APRESENTAÇÃO
@@ -1770,7 +1766,7 @@ Aspectos farmacêuticos • O armazenamento da formulação oral e parenteral de
 
 ATENÇÃO
 ATENÇÃO: este fármaco apresenta um número elevado de interações de medicamentos, sendo necessário realizar pesquisa específica sobre este aspecto, antes de introduzir ou descontinuar furosemida ou outros medicamentos no esquema terapêutico do paciente . Atentar para risco aumentado de ototoxicidade com uso simultâneo de outros fármacos ototóxicos. Sinal de distúrbio hidreletrolítico: cefaleia, hipotensão, cãibra, xerostomia, sede, fraqueza, letargia, tontura, arritmia, oligúria e distúrbio 
-', 'http://linkimagem.com/img.png', 1);
+', 'http://www.dietaja.org/wp-content/uploads/2015/03/furosemida-40mg-20-comprimidos-teuto-farmacia-robinho__37215_zoom.jpg', 1);
 
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Glibenclamida',"000000040",
                                                                                       'APRESENTAÇÃO
@@ -1815,7 +1811,7 @@ Aspecto farmacêutico • Armazenar à temperatura ambiente, entre 15 a 30 ºC. 
 
 ATENÇÃO
 ATENÇÃO: como sinonímia para a glibenclamida (Denominação Comum Brasileira) é utilizado ocasionalmente o nome gliburida . Entretanto, não se recomenda a prescrição de fármacos por outros nomes que não a denominação oficial no país .
-', 'http://linkimagem.com/img.png', 1);
+', 'http://www.drogariaminasbrasil.com.br/media/catalog/product/8/2/8286_original.jpg', 1);
 
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Gliclazida',"000000041",
                                                                                       'APRESENTAÇÃO
@@ -1856,7 +1852,7 @@ Orientações aos pacientes • Orientar para a necessidade de administrar o med
 
 ASPECTOS FARMACEUTICOS
 Aspecto farmacêutico • Armazenar à temperatura ambiente, de 15 a 30 ºC. Manter ao abrigo do ar e luz. 
-', 'http://linkimagem.com/img.png', 1);
+', 'http://www.actasanitaria.com/wp-content/uploads/2014/09/gliclazida-cinfa-efg.jpg', 1);
 
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Haloperidol e Decanoato de Haloperidol',"000000042",
                                                                                       'APRESENTAÇÃO
@@ -1897,7 +1893,7 @@ Orientações aos pacientes • Orientar para evitar o uso de bebidas alcoólica
 
 ASPECTOS FARMACEUTICOS
 Aspectos farmacêuticos • Conservar a temperaturas entre 15 e 30 ºC, em recipientes bem fechados e ao abrigo da luz. • Evitar o congelamento das formas líquidas. Não refrigerar a forma injetável de deposição. • Observar orientação específica do produtor quanto a diluição, compatibilidade e estabilidade da solução. • Incompatibilidades: solução oral de haloperidol com xarope de citrato de lítio; solução injetável de haloperidol (5 mg/mL) com heparina sódica e nitroprusseto de sódio. 
-', 'http://linkimagem.com/img.png', 1);
+', 'http://3.bp.blogspot.com/-QQQYMJfFOyM/U_9arqe2NDI/AAAAAAAAC4k/L2nYgo6Uwuk/s1600/%C3%8Dndice.jpg', 1);
 
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Hidralazina, cloridrato',"000000043", 
 'APRESENTAÇÃO
@@ -1938,7 +1934,7 @@ Orientações aos pacientes • Alertar que pode afetar a capacidade de realizar
 
 ASPECTOS FARMACEUTICOS
 Aspectos farmacêuticos • Armazenar os comprimidos e ampolas entre 15 a 30 ºC e protegidos de luz. Ampolas não devem ser congeladas. • Observar orientação específica do produtor quanto a diluição, compatibilidade e estabilidade da solução. • É estável em veículos como manitol e sorbitol por 21 dias. • Incompatível com: glicose, frutose, lactose e maltose. • A adição de fosfato e citrato à solução não tem efeito sobre a estabilidade do veículo. • Pode haver mudança de cor em solução, o que não indica perda da eficácia. • A solução injetável deve ser utilizada imediatamente após a preparação. 
-','http://linkimagem.com/img.png', 1);
+','http://saudevital.info/wp-content/uploads/2017/04/Hidralazina_50MG_20C.jpg', 1);
 
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Hidroclorotiazida',"000000044", 
 'APRESENTAÇÃO
@@ -1983,7 +1979,7 @@ Aspectos farmacêuticos • Armazenar sob temperatura ambiente, entre 15 e 30 º
 
 ATENÇÃO
 ATENÇÃO: as principais reações adversas da hidroclorotiazida são dose dependentes, doses acima de 50 mg são raramente necessárias preferindo associar um diurético mais potente (por exemplo: diurético de alça) para aumentar a efetividade sem aumentar risco de reação adversa
-','http://linkimagem.com/img.png', 1);
+','http://www.drogariaminasbrasil.com.br/media/catalog/product/3/3/33631_original.jpg', 1);
 
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Ibuprofeno',"000000045", 
 'APRESENTAÇÃO
@@ -2024,7 +2020,7 @@ Orientações aos pacientes • Orientar para ingerir os comprimidos com 250 mL 
 
 ASPECTOS FARMACEUTICOS
 Aspectos farmacêuticos • Armazenar a suspensão oral entre 15 e 30 ºC, evitar congelamento. • Agitar a suspensão oral antes do uso. • Armazenar o comprimido à temperatura ambiente, entre 15 e 30 ºC, em embalagens bem fechadas e protegidas da luz. 
-','http://linkimagem.com/img.png', 1);
+','http://www.nursing.com.br/wp-content/uploads/2016/08/ibuprofeno-febre.jpeg', 1);
 
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Insulina humana NPH e Insulina humana regular',"000000046", 
 'APRESENTAÇÃO
@@ -2065,7 +2061,7 @@ Orientações aos pacientes • Educar o paciente para reconhecer sintomas de hi
 
 ASPECTOS FARMACEUTICOS
 Aspecto farmacêutico • Armazenar o frasco sob refrigeração, entre 2 e 8 ºC. Manter o frasco fechado ao abrigo de ar e da luz. • Manter o frasco após aberto à temperatura ambiente, entre 15 e 30 ºC, ou sob refrigeração, atentando para aquecer entres as mãos antes de administrar. • Observar orientação específica do produtor quanto a diluição, compatibilidade e estabilidade da insulina regular para administração intravenosa 
-','http://linkimagem.com/img.png', 1);
+','http://www.agravo.blog.br/wp-content/uploads/2017/03/insulina.jpg', 1);
 
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Ipratropio, brometo',"000000047", 
 'APRESENTAÇÃO
@@ -2106,7 +2102,7 @@ Orientações ao paciente • Alertar para a possibilidade de surgirem distúrbi
 
 ASPECTOS FARMACEUTICOS
 Aspectos farmacêuticos • A solução de brometo de ipratrópio para inalação deve ser conservada à temperatura de 15-30 ºC, e protegida da luz. Soluções de brometo de ipratrópio para inalação que contiverem cloreto de benzalcônio como conservante não devem ser misturadas a cromoglicato dissódico. • O aerossol deve ser conservado à temperatura de 15-30 ºC. 
-','http://linkimagem.com/img.png', 1);
+','https://multifarmas-prod-env.s3.amazonaws.com/api/media/product/brometo-de-ipratropio-solucao-inalatorio-025mg-bio/img/brometo-de-ipratropio-solucao-inalatorio-025mg-bio.jpg', 1);
 
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Isoniazida',"000000048", 
 'APRESENTAÇÃO
@@ -2151,7 +2147,7 @@ Aspectos farmacêuticos • Manter à temperatura ambiente, de 15 a 30 ºC, prot
 
 ATENÇÃO
 ATENÇÃO: profilaxia com isoniazida pode evitar o aparecimento de doença clínica em comunicantes bacilíferos e em pessoas de alto risco, especialmente imunodeficientes . Como sinonímia para isoniazida (nome correspondente a Denominação Comum Brasileira) também é empregada a abreviatura H, entretanto, não se recomenda a prescrição de fármacos por abreviaturas ou siglas 
-','http://linkimagem.com/img.png', 1);
+','http://antibioticos.net.br/wp-content/uploads/2014/10/Isoniazida.jpg', 1);
 
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Isoniazida com Rifampicina',"000000049", 
 'APRESENTAÇÃO
@@ -2196,7 +2192,7 @@ Aspectos farmacêuticos • Armazenar à temperatura de 25 ºC, protegido de cal
 
 ATENÇÃO
 ATENÇÃO: como sinonímia para a associação isoniazida + rifampicina (nomes correspondentes a Denominação Comum Brasileira) também é empregada a abreviatura RH, entretanto, não se recomenda a prescrição de fármacos por abreviaturas ou siglas .
-','http://linkimagem.com/img.png', 1);
+','https://farmacosrifampicinas.files.wordpress.com/2010/09/rifampicina_300__4b3247ac0d4341.jpg', 1);
 
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Rifampicina com Isoniazida com Pirazinamida com CL',"000000050", 
 'APRESENTAÇÃO
@@ -2241,7 +2237,7 @@ ASPECTOS FARMACEUTICOS
 
 ATENÇÃO
 ATENÇÃO: como sinonímia para a associação rifampicina + isoniazida + pirazinamida + etambutol (nomes correspondentes a Denominação Comum Brasileira) também é empregada a abreviatura RHZE, entretanto, não se re- comenda a prescrição de fármacos por abreviaturas ou siglas .
-','http://linkimagem.com/img.png', 1);
+','http://farmaciasdejalisco.com/nueva/img/p/322-184-thickbox_leoshoe.jpg', 1);
 
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Isoniazida com Rifampicina',"000000051", 
 'APRESENTAÇÃO
@@ -2286,7 +2282,7 @@ Aspectos farmacêuticos • Armazenar à temperatura de 25 ºC, protegido de cal
 
 ATENÇÃO
 ATENÇÃO: como sinonímia para a associação isoniazida + rifampicina (nomes correspondentes a Denominação Comum Brasileira) também é empregada a abreviatura RH, entretanto, não se recomenda a prescrição de fármacos por abreviaturas ou siglas .
-','http://linkimagem.com/img.png', 1);
+','https://farmacosrifampicinas.files.wordpress.com/2010/09/rifampicina_300__4b3247ac0d4341.jpg', 1);
 
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Isossorbida, dinitrato',"000000052", 
 'APRESENTAÇÃO
@@ -2327,7 +2323,7 @@ Orientações aos pacientes • Orientar para portar sempre os comprimidos, que 
 
 ASPECTOS FARMACEUTICOS
 Aspectos farmacêuticos • Manter à temperatura de 15 a 30 ºC, protegido de calor e umidade. 
-','http://linkimagem.com/img.png', 1);
+','https://static.tuasaude.com/img/is/os/isossorbida-isordil--640-427.jpg', 1);
 
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Isossorbida, mononitrato',"000000053", 
 'APRESENTAÇÃO
@@ -2368,7 +2364,7 @@ Orientação ao paciente • Orientar para ingerir o comprimido com 250 mL de á
 
 ASPECTOS FARMACEUTICOS
 Aspectos farmacêuticos • Manter à temperatura de 15 a 30 ºC, proteger da luz e umidade. • Verificar orientação do produtor quanto a soluções compatíveis para diluição. 
-','http://linkimagem.com/img.png', 1);
+','http://www.bulasderemedios.com/wp-content/uploads/2014/09/Mononitrato-de-Isossorbida-Biosintetica.jpg', 1);
 
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Itraconazol',"000000054", 
 'APRESENTAÇÃO
@@ -2413,7 +2409,7 @@ Aspectos farmacêuticos • A cápsula deve ser mantida ao abrigo de luz e umida
 
 ATENÇÃO
 ATENÇÃO: este fármaco apresenta um número muito elevado de interações de medicamentos (especialmente com fármacos metabolizados pela CYP3A4), sendo necessária uma pesquisa específica sobre este aspecto antes de introduzir ou descontinuar o itraconazol ou outros medicamentos no esquema do paciente .
-','http://linkimagem.com/img.png', 1);
+','https://www.zooloja.com.br/media/catalog/product/a/n/antifungico-itl-100-itraconazol-100mg-10-capsulas.jpg', 1);
 
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Ivermectina',"000000055", 
 'APRESENTAÇÃO
@@ -2454,7 +2450,7 @@ Orientações aos pacientes • Orientar para ingerir o medicamento com 250 mL d
 
 ASPECTOS FARMACEUTICOS
 Aspectos farmacêuticos • Armazenar à temperatura ambiente, de 15 a 30 ºC, ao abrigo de luz e umidade. 
-','http://linkimagem.com/img.png', 1);
+','http://www.drogasul.med.br/admin/thumb.php?acao=fill&width=300&height=300&file=webroot/upload/14044168361399653883.jpg', 1);
 
 
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Lamivudina',"000000056", 
@@ -2500,7 +2496,7 @@ Aspectos farmacêuticos • Manter os comprimidos e solução oral na embalagem 
 
 ATENÇÃO
 ATENÇÃO: como sinonímia para lamivudina (nome que corresponde a denominação comum Brasileira) também é empregada a abreviatura 3TC, entretanto, não se recomenda a prescrição de fármacos por abreviaturas ou siglas .
-','http://linkimagem.com/img.png', 1);
+','http://www.ymed.ro/images/2012/01/lamivudina.jpg', 1);
 
 
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Levodopa com benserazida',"000000057", 
@@ -2546,7 +2542,7 @@ Aspectos farmacêuticos • Armazenar o medicamento sob temperatura de 15 ºC e 
 
 ATENÇÃO
 ATENÇÃO: no início do tratamento pode ocorrer sedação excessiva e sono de início súbito; alertar o paciente para execução de atividades que requerem atenção e reflexos rápidos, como dirigir e/ou operar máquinas 
-','http://linkimagem.com/img.png', 1);
+','http://4.bp.blogspot.com/-N0ufYMS6wsw/UG7E8B7orLI/AAAAAAAABbA/dNI0ju1Zm5Q/s1600/Prolopa+BD.JPG', 1);
 
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Levodopa com Carbidopa',"000000058", 
 'APRESENTAÇÃO
@@ -2591,7 +2587,7 @@ Aspectos farmacêuticos • Armazenar o medicamento sob temperatura de 15 ºC e 
 
 ATENÇÃO
 ATENÇÃO: no início do tratamento pode ocorrer sedação excessiva e sono de início súbito; alertar o paciente para execução de atividades que requerem atenção e reflexos rápidos, como dirigir e/ou operar máquinas perigosas .
-','http://linkimagem.com/img.png', 1);
+','http://www.medicalestudy.com/wp-content/uploads/2016/07/Levodopa.jpg', 1);
 
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Etinilestradiol com Levonorgestrel',"000000059", 
 'APRESENTAÇÃO
@@ -2632,7 +2628,7 @@ Orientações às pacientes • Alertar a importância de obedecer rigorosamente
 
 ASPECTOS FARMACEUTICOS
 Aspecto farmacêutico • Armazenar à temperatura ambiente, entre 15 a 30 ºC. Manter ao abrigo do ar e luz. 
-','http://linkimagem.com/img.png', 1);
+','http://mexmeds4you.com/image/cache/data/products/474-500x500.jpg', 1);
 
 
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Levonorgestrel',"000000060", 
@@ -2674,7 +2670,7 @@ Orientações à paciente • Orientar para ingerir no máximo até 72 horas ap�
 
 ASPECTOS FARMACEUTICOS
 Aspecto farmacêutico • Armazenar sob temperatura ambiente, em recipiente bem fechado. 
-','http://linkimagem.com/img.png', 1);
+','http://ec.princeton.edu/images/Levonorgestrel.jpg', 1);
 
 
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Lopinavir com Ritonavir',"000000061", 
@@ -2720,7 +2716,7 @@ Aspectos farmacêuticos • Armazenar a solução oral e cápsulas, preferenteme
 
 ATENÇÃO
 ATENÇÃO: a associação lopinavir + ritonavir apresenta um número elevado de importantes interações de medicamentos, por isto deve ser realizada pesquisa específica sobre este aspecto antes de introduzir ou descontinuar a associação de lopinavir + ritonavir ou outros medicamentos no esquema terapêutico do paciente .
-','http://linkimagem.com/img.png', 1);
+','https://previews.123rf.com/images/nattapatt/nattapatt1405/nattapatt140500220/28239913-another-package-of-Lopinavir-Ritonavir-ALUVIR-from-ABBOTT-shallow-focus-Stock-Photo.jpg', 1);
 
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Loratadina',"000000062", 
 'APRESENTAÇÃO
@@ -2761,7 +2757,7 @@ Orientações aos pacientes • A administração com alimentos, água ou leite 
 
 ASPECTOS FARMACEUTICOS
 Aspectos farmacêuticos • Armazenar à temperatura ambiente, entre 15 e 30 ºC. Manter em recipiente bem fechado, longe de calor e luz direta. Não congelar (xarope). 
-','http://linkimagem.com/img.png', 1);
+','http://seuguiadesaude.com.br/wp-content/uploads/2016/08/loratadina.jpg', 1);
 
 
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Maleato de Dexclorfeniramina',"000000063", 
@@ -2807,7 +2803,7 @@ Aspectos farmacêuticos • Clorfeniramina é uma mistura racêmica. O isômero 
 
 ATENÇÃO
 ATENÇÃO: este medicamento pode provocar tontura e sonolência . Evitar dirigir, operar maquinário ou realizar qualquer atividade que seja perigosa em caso de comprometimento da atenção ou da vigília .
-','http://linkimagem.com/img.png', 1);
+','http://www.bulasemedicamentos.com.br/wp-content/uploads/2016/06/Maleato-de-Dexclorfeniramina-Para-que-serve-Bula-e1464808770178.jpg', 1);
 
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Maleato de enalapril',"000000064", 
 'APRESENTAÇÃO
@@ -2848,7 +2844,7 @@ Orientações aos pacientes • Evitar uso excessivo de alimentos que contém po
 
 ASPECTOS FARMACEUTICOS
 Aspectos farmacêuticos • Armazenar preferencialmente entre 15 e 30°C. Proteger de calor, umidade e luz direta. 
-','http://linkimagem.com/img.png', 1);
+','http://www.drogariaminasbrasil.com.br/media/catalog/product/3/6/36613_original.jpg', 1);
 
 
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Maleato de Timolol',"000000065", 
@@ -2890,7 +2886,7 @@ ORIENTAÇÕES AOS PACIENTES
 
 ASPECTOS FARMACEUTICOS
 • Armazenar à temperatura ambiente e ao abrigo da luz. • O maleato de timolol é solúvel em água e álcool. Uma solução a 2% tem pH entre 3,8 e 4,3. 
-','http://linkimagem.com/img.png', 1);
+','http://vital.com.br/wp-content/uploads/2013/11/Timolol-283x300.jpg', 1);
 
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Metformina, cloridrato',"000000066", 
 'APRESENTAÇÃO
@@ -2931,7 +2927,7 @@ ORIENTAÇÕES AOS PACIENTES
 
 ASPECTOS FARMACEUTICOS
 • Manter ao abrigo de ar e luz e à temperatura ambiente, de 15 a 30 ºC.
-','http://linkimagem.com/img.png', 1);
+','http://seuguiadesaude.com.br/wp-content/uploads/2016/03/metformina.jpg', 1);
 
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Metildopa',"000000067", 
 'APRESENTAÇÃO
@@ -2972,7 +2968,7 @@ ORIENTAÇÕES AOS PACIENTES
 
 ASPECTOS FARMACEUTICOS
 • Armazenar à temperatura entre 15 e 30 ºC, proteger da umidade.
-','http://linkimagem.com/img.png', 1);
+','http://www.drogariaminasbrasil.com.br/media/catalog/product/1/4/1462_original.jpg', 1);
 
 
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Metoclopramida, cloridrato',"000000068", 
@@ -3014,7 +3010,7 @@ ORIENTAÇÕES AOS PACIENTES
 
 ASPECTOS FARMACEUTICOS
 • Armazenar à temperatura entre 20 e 25 °C. É fotossensível e deve ser protegida da luz. • Para a formulação intravenosa, observar orientação específica do produtor quanto a diluição, compatibilidade e estabilidade da solução. • Para infusão intravenosa, o fármaco pode ser diluído em 50 mL de cloreto de sódio 0,9%, glicose 5%, solução glicofisiológica, solução de Ringer ou Ringer + lactato. • Após diluição, a solução pode ser armazenada por até 48 horas, à temperatura ambiente, protegido da luz, ou por até 24 horas quando não protegida da luz. 
-','http://linkimagem.com/img.png', 1);
+','https://www.onofre.com.br/estatico/Produto/Normal/223301.jpg', 1);
 
 
 
@@ -3061,7 +3057,7 @@ ASPECTOS FARMACEUTICOS
 
 ATENÇÃO
 A solução injetável pode conter sais de sódio como adjuvantes da formulação.
-','http://linkimagem.com/img.png', 1);
+','http://metronidazol.com.br/wp-content/uploads/2014/02/Metronidazol-500mg.jpg', 1);
 
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Miconazol, nitrato',"000000070", 
 'APRESENTAÇÃO
@@ -3102,7 +3098,7 @@ Uso Vaginal • Aplicar na hora de dormir, salvo orientação diferente. • Lav
 
 ASPECTOS FARMACEUTICOS
 • Armazenar sob temperatura ambiente e protegido de calor e luz direta. 
-','http://linkimagem.com/img.png', 1);
+','http://blog.multifarmas.com.br/wp-content/uploads/2015/07/nitrato-de-miconazol.png', 1);
 
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Nicotina',"000000071", 
 'APRESENTAÇÃO
@@ -3143,7 +3139,7 @@ ORIENTAÇÕES AOS PACIENTES
 
 ASPECTOS FARMACEUTICOS
 • Manter sob temperatura ambiente, de 15 a 30 ºC. • Não cortar o adesivo, pois perde seu efeito, por evaporação. 
-','http://linkimagem.com/img.png', 1);
+','https://www.onofre.com.br/estatico/Produto/Super/084310.jpg', 1);
 
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Nifedipino',"000000072", 
 'APRESENTAÇÃO
@@ -3184,7 +3180,7 @@ ORIENTAÇÕES AOS PACIENTES
 
 ASPECTOS FARMACEUTICOS
 • Proteger da umidade e da luz, armazenar sob temperatura ambiente de 15 a 30 ºC.
-','http://linkimagem.com/img.png', 1);
+','http://elembarazo.net/wp-content/uploads/2015/07/nifepidino-embarazo-capsulas.jpg', 1);
 
 
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Nistatina',"000000073", 
@@ -3226,7 +3222,7 @@ ORIENTAÇÕES AOS PACIENTES
 
 ASPECTOS FARMACEUTICOS
 • Hipersensibilidade à nistatina.
-','http://linkimagem.com/img.png', 1);
+','http://renjie007.com/wp-content/uploads/2017/04/thumb.php_.jpeg', 1);
 
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Noretisterona',"000000074", 
 'APRESENTAÇÃO
@@ -3271,7 +3267,7 @@ ASPECTOS FARMACEUTICOS
 
 ATENÇÃO
 A literatura relata diversas interações de medicamentos de contraceptivos orais combinados com antibióticos (que estes reduzem a eficácia contraceptiva, por alterar a flora intestinal e afetar a circulação entero-hepática) e fármacos indutores do metabolismo hepático (como anticonvulsivantes). Em muitas destas combinações, a noretisterona era um dos componentes, mas em muitos casos de interações relatadas, o progestogênio era diferente. As interações descritas nesta monografia foram relatadas especificamente com a noretisterona, mas isto não descarta o risco de que outras interações ainda não descritas na literatura para a noretisterona possam vir a ocorrer. Assim, o uso de método contraceptivo não hormonal (aditivo ou em substituição) deve ser considerado.
-','http://linkimagem.com/img.png', 1);
+','http://www.fahorro.com/media/catalog/product/cache/1/image/1280x1280/9df78eab33525d08d6e5fb8d27136e95/7/5/7502223706477_.JPG', 1);
 
 
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Noretisterona (Enantato) + Estradiol (Valerato)',"000000075", 
@@ -3313,7 +3309,7 @@ ORIENTAÇÕES AOS PACIENTES
 
 ASPECTOS FARMACEUTICOS
 • Manter ao abrigo de ar e luz e à temperatura ambiente, de 15 a 30 ºC.
-','http://linkimagem.com/img.png', 1);
+','http://biosynteclabs.cl/wp-content/uploads/2014/06/norest-300x257.jpg', 1);
 
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Nortriptilina, cloridrato',"000000076", 
 'APRESENTAÇÃO
@@ -3358,7 +3354,7 @@ ASPECTOS FARMACEUTICOS
 
 ATENÇÃO
 este fármaco apresenta um número muito elevado de interações de medicamentos, por isto deve ser feita uma pesquisa específica sobre este aspecto antes de introduzir ou descontinuar nortriptilina ou outros medicamentos no esquema terapêutico do paciente . Os efeitos terapêuticos podem demorar de 15 a 21 dias para se manifestar . Monitorizar pressão arterial e frequência cardíaca nas semanas iniciais
-','http://linkimagem.com/img.png', 1);
+','http://www.bulasimples.com.br/wp-content/uploads/2017/02/pamelor.jpg', 1);
 
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Paracetamol',"000000077", 
 'APRESENTAÇÃO
@@ -3399,7 +3395,7 @@ ORIENTAÇÕES AOS PACIENTES
 
 ASPECTOS FARMACEUTICOS
 • Manter à temperatura ambiente, entre 15°C e 30°C. Proteger da luz, calor e umidade. 
-','http://linkimagem.com/img.png', 1);
+','http://www.drogamaxi.com.br/media/catalog/product/1/7/17989.jpg', 1);
 
 
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Permetrina',"000000078", 
@@ -3441,7 +3437,7 @@ ORIENTAÇÕES AOS PACIENTES
 
 ASPECTOS FARMACEUTICOS
 • Conservar à temperatura ambiente, em recipientes bem fechados. Evitar congelamento. • Manter ao abrigo de luz, calor e umidade. • Agitar a loção antes do uso. 
-','http://linkimagem.com/img.png', 1);
+','http://araujo.vteximg.com.br/arquivos/ids/2771397-465-465/07899547515022img-imagem-id-50478.jpg', 1);
 
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Pirazinamida',"000000079", 
 'APRESENTAÇÃO
@@ -3486,7 +3482,7 @@ ASPECTOS FARMACEUTICOS
 
 ATENÇÃO
 ATENÇÃO: como sinonímia para pirazinamida (nome correspondente a Denominação Comum Brasileira) também é empregada a abreviatura Z, entretanto, não se recomenda a prescrição de fármacos por abreviaturas ou siglas .
-','http://linkimagem.com/img.png', 1);
+','http://www.antibiotice.ro/wp-content/uploads/2015/07/pirazinamida_500.png', 1);
 
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Rifampicina com Isoniazida com Pirazinamida com CL',"000000080", 
 'APRESENTAÇÃO
@@ -3531,7 +3527,7 @@ ASPECTOS FARMACEUTICOS
 
 ATENÇÃO
 ATENÇÃO: como sinonímia para a associação rifampicina + isoniazida + pirazinamida + etambutol (nomes correspondentes a Denominação Comum Brasileira) também é empregada a abreviatura RHZE, entretanto, não se re- comenda a prescrição de fármacos por abreviaturas ou siglas .
-','http://linkimagem.com/img.png', 1);
+','https://super.walmart.com.mx/images/product-images/img_large/00750106101920L.jpg', 1);
 
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Piridoxina, cloridrato',"000000081", 
 'APRESENTAÇÃO
@@ -3572,7 +3568,7 @@ ORIENTAÇÕES AOS PACIENTES
 
 ASPECTOS FARMACEUTICOS
 • Armazenar à temperatura ambiente, de 15 a 30 ºC, em recipientes herméticos e protegido da luz.
-','http://linkimagem.com/img.png', 1);
+','https://dkmedicamentos.com.br/img/produtos/001/21275.jpg', 1);
 
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Pirimetamina',"000000082", 
 'APRESENTAÇÃO
@@ -3617,7 +3613,7 @@ ASPECTOS FARMACEUTICOS
 
 ATENÇÃO
 ATENÇÃO: administrar ácido folínico (5 a 10 mg/dia) durante tratamento com pirimetamina . Interromper uso de pirimetamina na presença de exantema, dor de garganta, palidez, púrpura e glossite
-','http://linkimagem.com/img.png', 1);
+','http://laboratoriosfarsiman.com/LFS/wp-content/uploads/2014/10/pirimetamina.jpg', 1);
 
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Prednisona',"000000083", 
 'APRESENTAÇÃO
@@ -3662,7 +3658,7 @@ ASPECTOS FARMACEUTICOS
 
 ATENÇÃO
 ATENÇÃO: este fármaco apresenta um número elevado de interações de me- dicamentos, por isso deve ser realizada uma pesquisa específica sobre este aspecto antes de introduzir ou descontinuar a prednisona ou outros medi- camentos no esquema do paciente . O uso deste medicamento não deve ser suspenso sem orientação médica . Após uso prolongado (acima de 14 dias), a retirada do fármaco deve ser lenta e gradual, para evitar o risco de supressão suprarrenal de reversão demorada.
-','http://linkimagem.com/img.png', 1);
+','http://www.nursing.com.br/wp-content/uploads/2016/09/Prednisona-2-300x300.png', 1);
 
 
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Prometazina, cloridrato',"000000084", 
@@ -3704,7 +3700,7 @@ ORIENTAÇÕES AOS PACIENTES
 
 ASPECTOS FARMACEUTICOS
 • Armazenar a temperatura entre 15 e 30 ºC. Não congelar. Manter ao abrigo de umidade e luz, em recipiente bem fechado. • Não utilizar se estiver com a coloração alterada ou se houver precipitação. • Observar orientação específica do produtor quanto a diluição, compatibilidade e estabilidade da solução. • Incompatibilidades em solução: alopurinol, gliconato de cálcio, cetorolaco, substâncias alcalinas, aminofilina, barbitúricos, benzilpenicilina, carbeniciina, cloranfenicol, clorotiazida, cefmetazol, cefoperazona, cefotetana, dimenidrinato, heparina, succinato sódico de hidrocortisona, meticilina, morfina, nalbufina, furosemida, doxorrubicina (formulação lipossomal), e alguns meios de contraste e soluções nutritivas. 
-','http://linkimagem.com/img.png', 1);
+','http://pfarma.com.br/images/noticias/fenergan-prometazina.png', 1);
 
 
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Propafenona, cloridrato',"000000085", 
@@ -3750,7 +3746,7 @@ ASPECTOS FARMACEUTICOS
 
 ATENÇÃO
 ATENÇÃO: terapia intravenosa é superior a dose única de 600 mg por via oral apenas nas primeiras duas horas de administração . Este fármaco apresenta um número elevado de interações de medicamentos, por isso é necessário uma pesquisa específica ao avaliar a terapia com este fármaco . Sinais/ sintomas de cardiotoxicidade: prolongamento do intervalo QT, torsades de pointes, parada cardíaca.
-','http://linkimagem.com/img.png', 1);
+','http://locatelcolombia.vteximg.com.br/arquivos/ids/178059-1000-1000/7705959002503-1.png', 1);
 
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Propiltiouracila',"000000086", 
 'APRESENTAÇÃO
@@ -3795,7 +3791,7 @@ ASPECTOS FARMACEUTICOS
 
 ATENÇÃO
 ATENÇÃO: possíveis infecções durante o uso de propiltiouracila podem ser indicativas de depressão da medula óssea . Nesses casos, deve-se realizar avaliação hematológica e, se houver neutropenia ou agranulocitose, o tratamento deverá ser interrompido imediatamente .
-','http://linkimagem.com/img.png', 1);
+','http://2.bp.blogspot.com/-yKEE-8Mvy2I/UTfcUeOgQNI/AAAAAAAAAJg/4WGP2fhdv-g/s1600/035564.jpg', 1);
 
 
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Propranolol, cloridrato',"000000087", 
@@ -3841,7 +3837,7 @@ ASPECTOS FARMACEUTICOS
 
 ATENÇÃO
 ATENÇÃO: este fármaco apresenta um número elevado de interações de medicamentos, por isto deve ser realizada pesquisa específica sobre este aspecto, antes de introduzir ou descontinuar o propranolol ou outros medicamentos no esquema terapêutico do paciente .
-','http://linkimagem.com/img.png', 1);
+','http://nootriment.com/wp-content/themes/shopperpress/thumbs/propranolol-review.gif', 1);
 
 
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Ranitidina, cloridrato',"000000088", 
@@ -3883,7 +3879,7 @@ ORIENTAÇÕES AOS PACIENTES
 
 ASPECTOS FARMACEUTICOS
 • Armazenar os comprimidos a temperaturas entre 15 e 30 °C, proteger da luz e umidade. • Armazenar a solução injetável entre 4 e 30 °C, proteger da luz e do congela- mento. Leve escurecimento da solução não afeta sua eficácia. • Observar orientação específica do produtor quanto a diluição, compatibilidade e estabilidade da solução. • É estável por até 48 horas à temperatura ambiente, quando diluída em cloreto de sódio 0,9%, glicose 5% ou solução de Ringer + lactato. 
-','http://linkimagem.com/img.png', 1);
+','http://www.bulasderemedios.com/wp-content/uploads/2014/09/Cloridrato-de-Ranitidina.jpg', 1);
 
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Isoniazida com Rifampicina',"000000089", 
 'APRESENTAÇÃO
@@ -3928,7 +3924,7 @@ Aspectos farmacêuticos • Armazenar à temperatura de 25 ºC, protegido de cal
 
 ATENÇÃO
 ATENÇÃO: como sinonímia para a associação isoniazida + rifampicina (nomes correspondentes a Denominação Comum Brasileira) também é empregada a abreviatura RH, entretanto, não se recomenda a prescrição de fármacos por abreviaturas ou siglas .
-','http://linkimagem.com/img.png', 1);
+','https://farmacosrifampicinas.files.wordpress.com/2010/09/rifampicina_300__4b3247ac0d4341.jpg', 1);
 
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Rifampicina',"000000090", 
 'APRESENTAÇÃO
