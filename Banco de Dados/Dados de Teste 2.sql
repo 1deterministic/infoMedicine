@@ -89,10 +89,6 @@ APRESENTAÇÃO
 • Comprimido 2,5 e 10 mg. • Suspensão injetável 150 mg/mL. 
 
 
-INDICAÇÃO
-• Contracepção (injeção trimestral). • Distúrbios vasomotores da menopausa. • Endometriose. • Hemorragias uterinas. • Amenorreia secundária. 
-
-
 CONTRAINDICAÇÕES
 • Hipersensibilidade ao acetato de medroxiprogesterona ou a qualquer componente da formulação. • Tumores malignos de mama ou em órgãos genitais. • Disfunções hepáticas. • Porfiria. • Tromboembolismo venoso e doenças arteriais. • Hemorragia geniturinária não diagnosticada. • Histórico de abortos espontâneos. • Histórico de prurido ou icterícia idiopática durante a gravidez. • Gravidez. Categoria de risco na gravidez (FDA): X (ver Apêndice A). 
 
@@ -132,10 +128,6 @@ APRESENTAÇÃO
 • Comprimido 250 mg
 
 
-INDICAÇÃO
-• Glaucoma de ângulo aberto crônico (adjuvante). • Glaucoma secundário. • Pré-operatório de glaucoma de ângulo fechado agudo. 
-
-
 CONTRAINDICAÇÕES
 • Hipersensibilidade a acetazolamida, sulfonamidas ou inibidores da anidrase carbônica, ou a qualquer componente da formulação. • Glaucoma de ângulo fechado crônico (pode mascarar deterioração). • Hipopotassemia. • Hiponatremia. • Acidose hiperclorêmica. • Insuficiência renal grave. • Insuficiência hepática grave. • Insuficiência adrenocortical (doença de Addison). • Cirrose hepática. 
 
@@ -171,10 +163,6 @@ ASPECTOS FARMACEUTICOS
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Acido valproico (ou Valproato de sódio)',"00000003",
 'APRESENTAÇÃO
 • Comprimido ou cápsula 288 mg (equivalente a 250 mg ácido valproico). • Comprimido 576 mg (equivalente a 500 mg ácido valproico) • Solução oral ou xarope 57,624 mg/mL (equivalente a 50 mg de ácido valproico/mL) 
-
-
-INDICAÇÃO
-• Episódio convulsivo mioclônico e tônico-clônico. • Estado de ausência epiléptica, simples ou complexa. • Estado de grande mal epiléptico. • Mal epiléptico parcial complexo. • Transtorno afetivo bipolar (episódio maníaco) 
 
 
 CONTRAINDICAÇÕES
@@ -218,10 +206,6 @@ insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) va
 • Comprimido mastigável 400 mg. • Suspensão oral 40 mg/mL. 
 
 
-INDICAÇÃO
-• Infestações helmínticas pelos nematódios Ascaris lumbricoides, Ancylostoma duodenale e Necator americanus, Larva migrans visceral, Larva migrans cutânea, Trichuris trichiura, Strongyloides stercoralis, Enterobius vermicularis, Trichinella spiralis, Wuchereria bancrofti. • Infestações helmínticas pelos cestódios Echinococcus granulosus (cisto hidá- tico), Taenia saginata, Taenia solium (neurocisticercose). • Giardia intestinalis (Giardia lamblia ou Giardia duodenalis). 
-
-
 CONTRAINDICAÇÕES
 • Hipersensibilidade a algum dos componentes da formulação. 
 
@@ -259,10 +243,6 @@ insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) va
 • Comprimidos de 100 mg e 300 mg
 
 
-INDICAÇÃO
-• Profilaxia da gota. • Profilaxia de hiperuricemia associada à neoplasia. 
-
-
 CONTRAINDICAÇÕES
 • Gota aguda. • Hipersensibilidade ao alopurinol ou a qualquer componente da formulação. 
 
@@ -298,10 +278,6 @@ ASPECTOS FARMACEUTICOS
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Amiodarona, cloridrato de',"00000006",
 'APRESENTAÇÃO
 • Comprimido de 200 mg. • Solução injetável 50 mg/mL 
-
-
-INDICAÇÃO
-• Arritmias supraventriculares • Fibrilação atrial • Taquicardia e fibrilação ventricular em parada cardíaca refratária a desfibri- lação 
 
 
 CONTRAINDICAÇÕES
@@ -345,10 +321,6 @@ insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) va
 • Comprimido 25 mg. 
 
 
-INDICAÇÃO
-• Transtornos e episódios de depressão maior, particularmente quando seda- ção é necessária. • Profilaxia de enxaqueca (tratamento intercrises). Contraindicações 1-3 • Enfarte do miocárdio recente, arritmias cardíacas. • Insuficiência hepática grave (ver apêndice C). • Fase maníaca do transtorno bipolar. • Porfiria. • Hipersensibilidade ao fármaco ou a outros antidepressivos tricíclicos. • Uso de inibidores da monoamina oxidase (IMAO) nos últimos 15 dias (a troca de um IMAO por tricíclico ou vice-versa deve guardar o intervalo mí- nimo de 15 dias). 
-
-
 CONTRAINDICAÇÕES
 • Enfarte do miocárdio recente, arritmias cardíacas. • Insuficiência hepática grave (ver apêndice C). • Fase maníaca do transtorno bipolar. • Porfiria. • Hipersensibilidade ao fármaco ou a outros antidepressivos tricíclicos. • Uso de inibidores da monoamina oxidase (IMAO) nos últimos 15 dias (a troca de um IMAO por tricíclico ou vice-versa deve guardar o intervalo mí- nimo de 15 dias). 
 
@@ -390,10 +362,6 @@ insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) va
 • Cápsula ou comprimido 500 mg. • Pó para suspensão oral 50 mg/mL. 
 
 
-INDICAÇÃO
-• Tratamento de infecções causadas por microrganismos sensíveis no trato urinário e trato respiratório superior, incluindo bronquite, pneumonia, otite média, abscessos dentais e outras infecções orais, osteomielites, doença de Lyme, profilaxia pós-esplenotomia, infecções ginecológicas, antraz, infecções não-graves por Haemophilus influenzae e salmonelose invasiva. • Profilaxia de endocardite bacteriana. • Erradicação de Helicobacter pylori (esquema com claritromicina). 
-
-
 CONTRAINDICAÇÕES
 • Hipersensibilidade a amoxicilina ou a outras penicilinas. 
 
@@ -431,10 +399,6 @@ insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) va
 • Comprimido 500 mg + 125 mg. • Suspensão oral 50 mg + 12,5 mg/mL. 
 
 
-INDICAÇÃO
-• Infecções causadas por bactérias produtoras de betalactamase, originalmente sensíveis à amoxicilina.
-
-
 CONTRAINDICAÇÕES
 • Hipersensibilidade à amoxicilina e a outras penicilinas ou ao ácido clavulânico. • História de icterícia colestática ou disfunção hepática induzidas por penicilina ou pela associação dos fármacos. 
 
@@ -470,10 +434,6 @@ ASPECTOS FARMACEUTICOS
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Anlodipino, besilato de',"000000010",
 'APRESENTAÇÃO
 • Comprimidos 5 mg e 10 mg. 
-
-
-INDICAÇÃO
-• Angina estável (profilaxia). • Hipertensão arterial sistêmica 
 
 
 CONTRAINDICAÇÕES
@@ -517,10 +477,6 @@ insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) va
 • Comprimidos de 50 mg e 100 mg. 
 
 
-INDICAÇÃO
-• Cardiopatia isquêmica: enfarte agudo do miocárdio, angina. • Hipertensão arterial sistêmica: uso não recomendado para pacientes com mais de 60 anos, gravidas e aqueles com intervalo QT longo. 
-
-
 CONTRAINDICAÇÕES
 • Hipersensibilidade ao atenolol. • Choque cardiogênico. • Bradicardia sinusal grave. • Insuficiência cardíaca congestiva descompensada. • Bloqueio atrioventricular de 2º e 3º graus. • Asma brônquica ou doença pulmonar obstrutiva crônica. • Acidose metabólica. 
 
@@ -562,10 +518,6 @@ insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) va
 • Comprimido de 500 mg. • Pó para suspensão oral de 40 mg/mL. 
 
 
-INDICAÇÃO
-• Infecção genital por Chlamydia trachomatis não complicada. • Tracoma. • Profilaxia para endocardite em pacientes alérgicos a penicilina ou em criança em substituição a clindamicina. 
-
-
 CONTRAINDICAÇÕES
 • Hipersensibilidade a azitromicina e outros macrolídeos. • Insuficiência hepática (ver apêndice C). 
 
@@ -601,10 +553,6 @@ ASPECTOS FARMACEUTICOS
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Beclometasona, dipropionato',"000000013",
 'APRESENTAÇÃO
 • Pó, solução inalante ou aerossol 50, 200 e/ou 250 microgramas/dose. • Aerossol nasal 50 microgramas (equivalente a 42 microgramas de beclometasona/dose). 
-
-
-INDICAÇÃO
-• Asma leve persistente, moderada ou grave sem controle adequado com beta-agonista inalante de curta duração (inalante). • Rinite alérgica moderada a grave (aerossol nasal). • Rinite não alérgica (aerossol nasal). 
 
 
 CONTRAINDICAÇÕES
@@ -644,10 +592,6 @@ insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) va
 • Pó para suspensão injetável de 600.000 UI e 1.200.000 UI. 
 
 
-INDICAÇÃO
-• Faringite estreptocócica, difteria, sífilis e outras infecções treponêmicas, profilaxia de febre reumática. 
-
-
 CONTRAINDICAÇÕES
 • História de hipersensibilidade a qualquer penicilina. • njeção intravenosa. • Neurossífilis. 
 
@@ -683,10 +627,6 @@ ASPECTOS FARMACEUTICOS
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Biperideno (cloridrato/lactato)',"000000015",
 'APRESENTAÇÃO
 • Comprimido 2 mg (cloridrato de biperideno) • Solução injetável 5 mg/mL (lactato de biperideno) 
-
-
-INDICAÇÃO
-• Distúrbios motores decorrentes do uso de neurolépticos 
 
 
 CONTRAINDICAÇÕES
@@ -726,10 +666,6 @@ insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) va
 • Aerossol nasal 50 microgramas (equivale a 32 microgramas de budesonida por dose). 
 
 
-INDICAÇÃO
-• Rinite alérgica moderada a grave. • Rinite não alérgica. 
-
-
 CONTRAINDICAÇÕES
 • Alergia grave a proteínas do leite. • Hipersensibilidade à budesonida ou a qualquer componente do produto. 
 
@@ -767,10 +703,6 @@ insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) va
 • Comprimido de 150 mg 
 
 
-INDICAÇÃO
-• Tratamento adjuvante na cessação do tabagismo. 
-
-
 CONTRAINDICAÇÕES
 • Crises convulsivas. • História de descontinuação abrupta de álcool ou sedativos, incluindo benzodiazepínicos. • Bulimia ou anorexia. • Transtorno bipolar. • Hipersensibilidade à bupropiona. • Uso de inibidores da monoamina oxidase (IMAO) nos últimos 14 dias. • Uso de outros produtos contendo bupropiona. 
 
@@ -806,11 +738,7 @@ ASPECTOS FARMACEUTICOS
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Calcitriol',"000000018",
 'APRESENTAÇÃO
 • Cápsula 0,25 microgramas 
-
-
-INDICAÇÃO
-• Hipocalcemia em hipoparatireoidismo e pseudohipoparatireoidismo. • Hipocalcemia em pacientes sob diálise renal crônica. • Hiperparatireoismo secundário em pacientes com insuficiência renal crônica moderada a grave. • Tratamento e prevenção da osteoporose (uso restrito para pacientes com in- suficiência renal). 
-
+										      
 
 CONTRAINDICAÇÕES
 • Hipercalcemia. • Hipersensibilidade a calcitriol. • Hipervitaminose D. • Calcificação metastática. 
@@ -853,10 +781,6 @@ insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) va
 • Comprimido 25 mg. 
 
 
-INDICAÇÃO
-• Urgência hipertensiva 
-
-
 CONTRAINDICAÇÕES
 • Hipersensibilidade ao captopril ou outros inibidores da ECA. • Hipersensibilidade a sulfonamidas. • História de angioedema 
 
@@ -892,10 +816,6 @@ ASPECTOS FARMACEUTICOS
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Carbamazepina',"000000020",
 'APRESENTAÇÃO
 • Comprimido 200 mg. • Suspensão oral 20 mg/mL. 
-
-
-INDICAÇÃO
-• Crises convulsivas parciais simples e complexas (primeira escolha) e secundariamente generalizadas. • Convulsões tônico-clônicas generalizadas. • Transtorno bipolar, durante a latência ou em ausência de resposta ou intolerância ao lítio. 
 
 
 CONTRAINDICAÇÕES
@@ -939,10 +859,6 @@ insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) va
 • Comprimido 3,125 mg, 6,25 mg, 12,5 mg e 25 mg. 
 
 
-INDICAÇÃO
-• Insuficiência cardíaca congestiva (ICC). 
-
-
 CONTRAINDICAÇÕES
 • Hipersensibilidade ao carvedilol ou a outros betabloqueadores. • Bloqueio atrioventricular de segundo ou terceiro grau. • Bradicardia grave. • Asma brônquica ou broncoespasmo. • Choque cardiogênico. • Insuficiência cardíaca descompensada e necessitando de terapia inotrópica intravenosa. • Insuficiência hepática grave (ver Apêndice C). • Síndrome do nó sinoatrial. 
 
@@ -984,10 +900,6 @@ insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) va
 • Comprimido 500 mg. • Solução injetável 2 mg/mL. 
 
 
-INDICAÇÃO
-• Infecções causadas por bacilos gram-negativos aeróbios sensíveis a ciprofloxacino (infecções urinárias complicadas, geniturinárias, respiratórias, sinusite, cutâneas e de tecidos moles, ósseas e articulares, intra-abdominais – junto com metronidazol). 
-
-
 CONTRAINDICAÇÕES
 • Hipersensibilidade ao ciprofloxacino ou a qualquer outra quinolona. • Histórico de doença nos tendões associada ao uso de quinolonas. • Gravidez a termo. 
 
@@ -1025,10 +937,6 @@ insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) va
 • Cloridrato de clindamicina: cápsula de 150 e 300 mg • Fosfato de clindamicina: solução injetável de 150 mg/mL 
 
 
-INDICAÇÃO
-• Infecções causadas por bactérias anaeróbias e aeróbias gram positivas. • Pneumocistose. • Malária por Plasmodium falciparum (em esquema com derivados da artemisinina ou dicloridrato de quinina). • Toxoplasmose. • Profilaxia de endocardite bacteriana em pacientes alérgicos às penicilinas. 
-
-
 CONTRAINDICAÇÕES
 • Hipersensibilidade a clindamicina ou lincosamidas. • Colite pseudomembranosa prévia. • Colite ulcerativa e enterite. 
 
@@ -1064,10 +972,6 @@ ASPECTOS FARMACEUTICOS
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Clomipramina, cloridrato',"000000024",
 'APRESENTAÇÃO
 • Comprimido 10 e 25 mg. 
-
-
-INDICAÇÃO
-• Depressão. • Distúrbios do pânico, associados ou não a agorafobia. • Transtorno obsessivo-compulsivo. 
 
 
 CONTRAINDICAÇÕES
@@ -1112,10 +1016,6 @@ insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) va
 • Solução oral 2,5 mg/mL 
 
 
-INDICAÇÃO
-• epilepsia em crianças (epilepsia mioclônica grave na infância, epilepsia mio- clônica juvenil e síndrome de Gasteaut-Lennox; tratamento de segunda es- colha). 
-
-
 CONTRAINDICAÇÕES
 • Hipersensibilidade a clonazepam ou outros benzodiazepínicos. • Glaucoma de ângulo fechado. • Insuficiência hepática grave (ver Apêndice C). • Categoria de risco na gravidez (FDA): D (ver Apêndice A). 
 
@@ -1155,10 +1055,6 @@ Clonazepam é medicamento de segunda linha para a indicação apontada . Como os
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Clorpromazina, cloridrato',"000000026",
 'APRESENTAÇÃO
 • Comprimido de 25 mg e 100 mg. • Solução oral 40 mg/mL. • Solução injetável 5 mg/mL. 
-
-
-INDICAÇÃO
-• Esquizofrenia e outros transtornos psicóticos. • Controle de agitação psicomotora, fase aguda de mania em transtorno bi- polar, para estabilizar o paciente até que se observem os benefícios do lítio, e em síndromes demenciais, intoxicações exógenas ou síndromes cerebrais orgânicas. • Sedação de pacientes clínicos em ventilação mecânica, quando em surtos psicóticos associados a doença grave. 
 
 
 CONTRAINDICAÇÕES
@@ -1202,10 +1098,6 @@ insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) va
 Apresentação • Comprimido de 50 mg e 100 mg. 
 
 
-INDICAÇÃO
-Indicações • Tratamento da hanseníase paucibacilar e multibacilar. 
-
-
 CONTRAINDICAÇÕES
 Contraindicações • Hipersensibilidade a dapsona ou a sulfonas. • Anemia grave. • Porfiria aguda 
 
@@ -1241,10 +1133,6 @@ Aspectos farmacêuticos • Manter na embalagem original, bem fechada, ao abrigo
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Dexametasona e Acetato de Dexametasona',"000000028",
 'APRESENTAÇÃO
 Apresentações • Comprimido 4 mg • Creme 0,1% (acetato) • Colírio 0,1% 
-
-
-INDICAÇÃO
-Indicações • Náusea e vômito induzidos por quimioterapia antineoplásica. • Diagnóstico da síndrome de Cushing. • Adjuvante do tratamento de meningite tuberculosa. • Triquinose com envolvimento neurológico e/ou miocárdico. • Micose fungoide. • Doenças inflamatórias do sistema musculoesquelético. • Púrpura trombocitopênica idiopática. • Hipercalcemia devido a câncer. • Neutropenia induzida por fármacos. • Exacerbação de esclerose múltipla. • Doenças respiratórias graves. • Doenças hematopoieticas autoimunes. • Insuficiência andrenocortical primária ou secundária; hiperplasia suprarre- nal congênita. • Exacerbação de doenças inflamatórias intestinais. • Dermatites e dermatoses (administração oral ou dermatológica). • Doenças inflamatórias e/ou alérgicas de natureza crônica ou aguda grave dos olhos (administração oral ou oftálmica). • Otite externa alérgica e/ou inflamatória. 
 
 
 CONTRAINDICAÇÕES
@@ -1288,10 +1176,6 @@ insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) va
 Apresentações • Comprimido de 5 mg • Solução injetável 5 mg/mL 
 
 
-INDICAÇÃO
-Indicações • Adjuvante na anestesia geral (fase de pré-anestesia). • Tratamento do estado de mal epiléptico. • Ansiedade generalizada e insônia transitória (tratamento de curta duração). 
-
-
 CONTRAINDICAÇÕES
 Contraindicações • Depressão maior. • Coma. • Choque. • Insuficiência pulmonar aguda. • Depressão respiratória. • Miastenia grave. • Apneia do sono. • Hepatopatia grave (ver Apêndice C). • Glaucoma de ângulo fechado. • Gravidez. Categoria de risco na gravidez (FDA): D. (ver Apêndice A). • Hipersensibilidade a diazepam e outros benzodiazepínicos. 
 
@@ -1333,10 +1217,6 @@ insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) va
 Apresentações • Comprimido 0,25 mg. • Elixir 0,05 mg/mL. 
 
 
-INDICAÇÃO
-Indicações • Insuficiência cardíaca congestiva. • Taquicardias supraventriculares (particularmente fibrilação atrial). 
-
-
 CONTRAINDICAÇÕES
 Contraindicações • Hipersensibilidade à digoxina. • Cardiomiopatia hipertrófica obstrutiva (exceto quando concomitante a fibrilação atrial ou insuficiência cardíaca congestiva). • Síndrome de Wolff-Parkinson-White, ou outra arritmia associada com vias acessórias de condução. • Taquicardia ou fibrilação ventricular. • Bloqueio completo intermitente. • Bloqueio atrioventricular de segundo grau 
 
@@ -1376,10 +1256,6 @@ ATENÇÃO: digoxina apresenta um número elevado de interações de medicamentos
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Doxiciclina, cloridrato',"000000031",
 'APRESENTAÇÃO
 Apresentação • Comprimido 100 mg 
-
-
-INDICAÇÃO
-Indicações • Infecções causadas por Rickettsia, Chlamidia (psitacose, ornitose, tracoma, doença inflamatória pélvica, uretrite, salpingite, linfogranuloma venéreo, conjuntivite e prostatite) e Mycoplasma • Tratamento alternativo de sífilis e gonorreia em paciente alérgico à penicilina. • Peste (Yersinia pestis). • Granuloma inguinal (Calymatobacterium granulomatis). • Brucelose (Brucella spp). • Cólera (Vibrio cholerae). • Primeira escolha para quimioprofilaxia em viajantes que visitarão regiões de alto risco de transmissão de Plasmodium falciparum na Amazônia Legal, que permanecerão na região por tempo maior que o período de incubação da doença (e com duração inferior a seis meses) e em locais cujo acesso ao diagnóstico e tratamento de malária estejam a mais de 24 horas. • Tratamento de segunda escolha de malária por Plasmodium falciparum 
 
 
 CONTRAINDICAÇÕES
@@ -1424,10 +1300,6 @@ insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) va
 Apresentação • Comprimidos de 25 mg e 100 mg. 
 
 
-INDICAÇÃO
-Indicações • Insuficiência cardíaca congestiva grave. • Edema e ascite associados à cirrose. • Síndrome nefrótica. • Diagnóstico e tratamento de hiperaldosteronismo primário. • Hipopotassemia induzida por diuréticos espoliadores de potássio. 
-
-
 CONTRAINDICAÇÕES
 Contraindicações • Hipersensibilidade a espironolactona. • Hiperpotassemia. • Hiponatremia. • Anúria e insuficiência renal grave (taxa de filtração glomerular inferior a 10 mL/minuto). • Doença de Addison. 
 
@@ -1467,10 +1339,6 @@ ATENÇÃO: monitorar potássio sérico regularmente
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Estearato de eritromicina',"000000033",
                                                                                       'APRESENTAÇÃO
 Apresentações • Cápsula ou comprimido 500 mg. • Suspensão oral 50 mg/mL. 
-
-
-INDICAÇÃO
-Indicações • Alternativa para pacientes hipersensíveis à penicilina, no tratamento de infecções do trato respiratório, infecções orais, sífilis, cancro mole, clamídia, conjuntivite neonatal por clamídia, uretrite não gonocócica, prostatite, linfogranuloma venéreo, enterite por Campylobacter, febre recorrente, infecções da pele, difteria (tratamento e profilaxia), profilaxia de coqueluche e febre quartã em crianças. 
 
 
 CONTRAINDICAÇÕES
@@ -1514,10 +1382,6 @@ insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) va
 Apresentação • Creme vaginal 1 mg/g. 
 
 
-INDICAÇÃO
-Indicação • Sintomas urogenitais decorrentes de atrofia vaginal pós-menopausa. 
-
-
 CONTRAINDICAÇÕES
 Contraindicações • Tumores estrógeno-dependentes. • Histórico de tumor mamário. • Tromboembolismo venoso ou histórico de recorrência. • Tromboembolismo arterial ativo ou recente. • Distúrbios hepáticos. • Hiperplasia endometrial. • Hemorragias vaginais não diagnosticadas. • Gravidez. Categoria de risco na gravidez (FDA): X (ver Apêndice A). • Lactação (ver Apêndice B). 
 
@@ -1553,10 +1417,6 @@ Aspecto farmacêutico • Armazenar à temperatura ambiente, de 15 a 30 ºC. Man
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Etambutol, cloridrato',"000000035",
                                                                                       'APRESENTAÇÃO
 Apresentações • Comprimido de 400 mg. • Solução oral 25 mg/mL. 
-
-
-INDICAÇÃO
-Indicação • Tratamento de tuberculose quando há intolerância a rifampicina ou a isoniazida ou a pirazinamida. 
 
 
 CONTRAINDICAÇÕES
@@ -1638,10 +1498,6 @@ APRESENTAÇÃO
 Apresentações • Cápsula 100 mg e 150 mg. • Solução injetável 2 mg/mL. • Pó para suspensão oral 10 mg/mL 
 
 
-INDICAÇÃO
-Indicações • Candidemia • Candidíase disseminada • Candidíase de vias urinárias. • Candidíase esofágica • Candidíase orofaríngea (tratamento em pacientes com HIV). • Candidíase vulvovaginal. • Coccidiomicose (profilaxia e tratamento em pacientes com HIV) • Criptococose pulmonar (tratamento em pacientes com HIV) • Meningite criptocócica • Prevenção de infecções fúngicas em pacientes submetidos a transplante de medula óssea. 
-
-
 CONTRAINDICAÇÕES
 Contraindicações • Hipersensibilidade ao fármaco ou a outro componente da fórmula. • Porfirias agudas. 
 
@@ -1681,10 +1537,6 @@ ATENÇÃO: este fármaco apresenta um número muito elevado de interações de m
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Fluoxetina, cloridrato',"000000038",
                                                                                       'APRESENTAÇÃO
 Apresentação • Cápsula ou comprimido 20 mg. 
-
-
-INDICAÇÃO
-Indicações • Transtorno depressivo. • Transtorno obsessivo compulsivo (TOC). 
 
 
 CONTRAINDICAÇÕES
@@ -1728,10 +1580,6 @@ insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) va
 Apresentações • Comprimido 40 mg • Solução injetável 10 mg/mL • Solução oral 10 mg/mL 
 
 
-INDICAÇÃO
-Indicações • Edema refratário a outros diuréticos, de diversas causas. • Edema agudo de pulmão. • Edema em insuficiência renal crônica 
-
-
 CONTRAINDICAÇÕES
 Contraindicações • Insuficiência renal com anúria (ver Apêndice D). • Estado pré-comatoso associado a cirrose hepática. • Hipersensibilidade a furosemida e sulfonamidas. 
 
@@ -1771,10 +1619,6 @@ ATENÇÃO: este fármaco apresenta um número elevado de interações de medicam
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Glibenclamida',"000000040",
                                                                                       'APRESENTAÇÃO
 Apresentação • Comprimido 5 mg. 
-
-
-INDICAÇÃO
-Indicação • Tratamento de diabete melito tipo 2. 
 
 
 CONTRAINDICAÇÕES
@@ -1818,10 +1662,6 @@ insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) va
 Apresentações • Comprimido 30 mg (liberação controlada) • Comprimido 80 mg. 
 
 
-INDICAÇÃO
-Indicação • Tratamento de diabete melito tipo 2. 
-
-
 CONTRAINDICAÇÕES
 Contraindicações • Diabete melito tipo 1. • Cetoacidose. • Hipersensibilidade ao fármaco e outras sulfonilureias. • Porfiria. • Insuficiência hepática grave (ver Apêndice C). • Insuficiência renal grave (ver Apêndice D). • Gravidez (ver Apêndice A). Categoria de risco na gravidez (ADEC): C. • lactação (ver Apêndice B). 
 
@@ -1857,10 +1697,6 @@ Aspecto farmacêutico • Armazenar à temperatura ambiente, de 15 a 30 ºC. Man
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Haloperidol e Decanoato de Haloperidol',"000000042",
                                                                                       'APRESENTAÇÃO
 Apresentações Haloperidol • Comprimidos de 1 mg e 5 mg. • Solução oral 2 mg/mL. • Solução injetável 5 mg/mL. Decanoato de haloperidol • Solução injetável com 50 mg/mL (forma injetável de depósito). 
-
-
-INDICAÇÃO
-Indicações • Manifestações agudas de esquizofrenia e transtornos psicóticos. • Manutenção do controle em esquizofrenia e transtornos psicóticos. • Manutenção do controle em pacientes psicóticos sem adesão a tratamento oral (decanoato de haloperidol). 
 
 
 CONTRAINDICAÇÕES
@@ -1900,10 +1736,6 @@ insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) va
 Apresentações • Comprimido 50 mg. • Solução injetável 20 mg/mL. 
 
 
-INDICAÇÃO
-Indicações • Hipertensão arterial sistêmica grave e refratária. • Emergência hipertensiva. • Pré-eclâmpsia grave e eclampsia. 
-
-
 CONTRAINDICAÇÕES
 Contraindicações • Hipersensibilidade a hidralazina. • Taquicardia grave. • Insuficiência miocárdica por obstrução mecânica. • Cor pulmonale. • Aneurisma aórtico dissecado. • Doença reumática de valva mitral. • Porfiria. • Lupus eritematoso sistêmico. • Insuficiência cardíaca grave. 
 
@@ -1939,10 +1771,6 @@ Aspectos farmacêuticos • Armazenar os comprimidos e ampolas entre 15 a 30 ºC
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Hidroclorotiazida',"000000044", 
 'APRESENTAÇÃO
 Apresentação • Comprimidos 12,5 mg e 25 mg. 
-
-
-INDICAÇÃO
-Indicações • Insuficiência cardíaca congestiva. • Hipertensão arterial sistêmica. • Edema de diferentes causas 
 
 
 CONTRAINDICAÇÕES
@@ -1986,10 +1814,6 @@ insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) va
 Apresentações • Comprimidos 200 mg, 300 mg e 600 mg. • Suspensão oral 50 mg/mL (gotas) 
 
 
-INDICAÇÃO
-Indicações • Dor leve a moderada, incluindo cefaleia e dismenorréia. • Febre. • Tratamento de inflamações musculoesqueléticas. 
-
-
 CONTRAINDICAÇÕES
 Contraindicações • Hipersensibilidade a ácido acetilsalicílico ou qualquer outro anti-inflamatório não esteroide. • Ulceração péptica ou sangramento intestinal ativos. • Terceiro trimestre da gravidez. 
 
@@ -2025,10 +1849,6 @@ Aspectos farmacêuticos • Armazenar a suspensão oral entre 15 e 30 ºC, evita
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Insulina humana NPH e Insulina humana regular',"000000046", 
 'APRESENTAÇÃO
 Apresentações • Suspensão injetável 100 UI/mL (NPH). • Solução injetável 100 UI/mL (Regular). 
-
-
-INDICAÇÃO
-Indicações • Diabete melito tipo 1. • Diabete melito tipo 2 em pacientes com glicemia não controlada com dieta e antidiabéticos orais. • Cetoacidose, coma hiperosmolar e na vigência de cirurgia, infecção ou traumatismo em diabéticos de tipos 1 e 2. 
 
 
 CONTRAINDICAÇÕES
@@ -2068,10 +1888,6 @@ insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) va
 Apresentações • Solução inalante 0,25 mg/mL (equivalente a 0,202 mg/mL). • Aerossol oral 0,02 mg/dose 
 
 
-INDICAÇÃO
-Indicações • Exacerbação aguda de asma. • Doença pulmonar obstrutiva crônica (DPOC). 
-
-
 CONTRAINDICAÇÕES
 Contraindicações • Hipersensibilidade a ipratrópio, atropina e seus derivados, ou a qualquer componente da formulação. • Hipersensibilidade a lecitina de soja ou alimentos relacionados, como grão de soja e/ou amendoim (somente a forma aerossol, por conter lecitina na formulação). 
 
@@ -2107,10 +1923,6 @@ Aspectos farmacêuticos • A solução de brometo de ipratrópio para inalaçã
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Isoniazida',"000000048", 
 'APRESENTAÇÃO
 Apresentação • Comprimido 100 mg. 
-
-
-INDICAÇÃO
-Indicações • Tratamento de crianças, com menos de 20 kg, em qualquer das formas de tuberculose pulmonar e extrapulmonar, incluindo meningoencefalite e pacientes infectados pelo HIV. • Tratamento de tuberculose quando há intolerância a rifampicina. • Profilaxia de tuberculose. 
 
 
 CONTRAINDICAÇÕES
@@ -2154,10 +1966,6 @@ insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) va
 Apresentações • Comprimido 75 mg + 150 mg. • Cápsula 100 mg + 150 mg. • Cápsula 200 mg + 300 mg. 
 
 
-INDICAÇÃO
-Indicações • Tratamento de tuberculose pulmonar e extrapulmonar, incluindo meningoencefalite em pacientes infectados pelo HIV. • Tratamento de tuberculose quando há intolerância a pirazinamida ou ao cloridrato de etambutol 
-
-
 CONTRAINDICAÇÕES
 Contraindicações • Doença hepática aguda. • História de hepatite associada ao uso de isoniazida. • Hipersensibilidade a isoniazida ou a rifampicina. • Crianças com menos de 20 kg (pela impossibilidade de ajuste de doses). • Icterícia. 
 
@@ -2197,10 +2005,6 @@ ATENÇÃO: como sinonímia para a associação isoniazida + rifampicina (nomes c
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Rifampicina com Isoniazida com Pirazinamida com CL',"000000050", 
 'APRESENTAÇÃO
 • Comprimido 150 mg (rifampicina) + 75 mg (isoniazida) + 400 mg (pirazinamida) + 275 mg (cloridrato de etambutol).
-
-
-INDICAÇÃO
-• Tratamento (fase intensiva) de adultos e crianças a partir de 10 anos de idade, em qualquer das formas de tuberculose pulmonar e extrapulmonar, incluindo meningoencefalite e pacientes infectados pelo HIV.
 
 
 CONTRAINDICAÇÕES
@@ -2244,10 +2048,6 @@ insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) va
 Apresentações • Comprimido 75 mg + 150 mg. • Cápsula 100 mg + 150 mg. • Cápsula 200 mg + 300 mg. 
 
 
-INDICAÇÃO
-Indicações • Tratamento de tuberculose pulmonar e extrapulmonar, incluindo meningoencefalite em pacientes infectados pelo HIV. • Tratamento de tuberculose quando há intolerância a pirazinamida ou ao cloridrato de etambutol 
-
-
 CONTRAINDICAÇÕES
 Contraindicações • Doença hepática aguda. • História de hepatite associada ao uso de isoniazida. • Hipersensibilidade a isoniazida ou a rifampicina. • Crianças com menos de 20 kg (pela impossibilidade de ajuste de doses). • Icterícia. 
 
@@ -2289,10 +2089,6 @@ insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) va
 Apresentação • Comprimido sublingual 5 mg. 
 
 
-INDICAÇÃO
-Indicação • Crise de dor anginosa. 
-
-
 CONTRAINDICAÇÕES
 Contraindicações • Hipersensibilidade a isossorbida e nitratos orgânicos. • Uso concomitante de sildenafila e correlatos. • Glaucoma de ângulo fechado. • Anemia grave. • Trauma craniano, hemorragia cerebral, pressão intracraniana aumentada. 
 
@@ -2330,10 +2126,6 @@ insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) va
 Apresentações • Comprimido 40 mg (liberação imediata) • Solução injetável 10 mg/mL. 
 
 
-INDICAÇÃO
-Indicação • Tratamento de manutenção em angina estável. 
-
-
 CONTRAINDICAÇÕES
 Contraindicações • Hipersensibilidade a isossorbida ou a nitratos orgânicos. • Uso concomitante de sildenafila e análogos. • Glaucoma de ângulo fechado. • Anemia grave. • Trauma craniano e hemorragia cerebral. 
 
@@ -2369,10 +2161,6 @@ Aspectos farmacêuticos • Manter à temperatura de 15 a 30 ºC, proteger da lu
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Itraconazol',"000000054", 
 'APRESENTAÇÃO
 Apresentações • Cápsula 100 mg. • Solução oral 10 mg/mL. 
-
-
-INDICAÇÃO
-Indicações • Uso restrito para tratamento de formas leves e moderadas de: – Esporotricose – Histoplasmose pulmonar e disseminada – Paracoccidioidomicose (blastomicose) pulmonar e extrapulmonar. • Uso restrito para prevenção secundária após a terapêutica de indução nas formas graves de esporotricose e histoplasmose. 
 
 
 CONTRAINDICAÇÕES
@@ -2416,10 +2204,6 @@ insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) va
 Apresentação • Comprimidos de 6 mg. 
 
 
-INDICAÇÃO
-Indicações • Infecções helmínticas causadas por nematódeos: • Onchocerca volvulus • Filaríase linfática (Wuchereria bancrofti) • Strongyloides stercoralis • Larva migrans cutânea • Pediculose (Pediculus humanus capitis e pubis). • Escabiose (Sarcoptes scabiei). 
-
-
 CONTRAINDICAÇÕES
 Contraindicações • Hipersensibilidade ao fármaco. • Dano na barreira hematoencefálica, pois a ivermectina pode interagir com os receptores do GABA. • Gravidez. Fator de risco na gravidez (FDA): C (ver Apêndice A). 
 
@@ -2456,10 +2240,6 @@ Aspectos farmacêuticos • Armazenar à temperatura ambiente, de 15 a 30 ºC, a
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Lamivudina',"000000056", 
 'APRESENTAÇÃO
 Apresentações • Comprimido 150 mg • Solução oral 10 mg/mL 
-
-
-INDICAÇÃO
-Indicações • Tratamento de infecção por HIV (em combinação com outros fármacos antirretrovirais) • Prevenção de transmissão materno-fetal do HIV (em combinação com zidovudina) • Tratamento de infecção crônica por hepatite B 
 
 
 CONTRAINDICAÇÕES
@@ -2504,10 +2284,6 @@ insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) va
 Apresentações • Comprimido 50 mg + 12,5 mg • Comprimido 100 mg + 25 mg 
 
 
-INDICAÇÃO
-Indicação • Doença de Parkinson. 
-
-
 CONTRAINDICAÇÕES
 Contraindicações • Hipersensibilidade conhecida a levodopa ou benserazida. • Lesões de pele não diagnosticadas, melanoma maligno ou história prévia desta doença. • Glaucoma de ângulo fechado. • Uso concomitante de reserpina e inibidores da monoamina oxidase (inclusive duas semanas antes de iniciar levodopa+benserazida). 
 
@@ -2547,10 +2323,6 @@ ATENÇÃO: no início do tratamento pode ocorrer sedação excessiva e sono de i
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Levodopa com Carbidopa',"000000058", 
 'APRESENTAÇÃO
 Apresentações • comprimido 250 mg + 25 mg • comprimido 100 mg + 25 mg • comprimido 100 mg + 10 mg 
-
-
-INDICAÇÃO
-Indicações • Doença de Parkinson. • Outras formas de parkinsonismo não induzidas por fármacos. 
 
 
 CONTRAINDICAÇÕES
@@ -2593,10 +2365,6 @@ insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) va
 'APRESENTAÇÃO
 Apresentação • Comprimido 0,03 mg + 0,15 mg. 
 
-	
-INDICAÇÃO
-Indicação • Contracepção. 
-
 
 CONTRAINDICAÇÕES
 Contraindicações • Hipersensibilidade aos componentes da formulação. • Arritmias. • Valvopatias. • Distúrbios tromboembólicos. • Hipertensão arterial sistêmica não controlada. • Doença cardíaca associada com hipertensão pulmonar ou risco de embolia. • Neoplasia cérebro-vascular. • Enxaqueca com sintomas neurológicos focais. • Diabetes com comprometimento vascular. • Adenomas ou carcinomas hepáticos. • Insuficiência hepática (ver Apêndice C). • Cálculos biliares. • Doença trofoblástica ativa. • Lupus eritematoso sistêmico. • Porfiria. • Tumores mamários ou geniturinários. • Hemorragia vaginal não diagnosticada. • Categoria de risco na gravidez (FDA): X (ver Apêndice A). • Lactação (ver Apêndice B). 
@@ -2636,10 +2404,6 @@ insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) va
 Apresentação • Comprimido 1,5 mg. 
 
 
-INDICAÇÃO
-Indicação • Contracepção de emergência. 
-
-
 CONTRAINDICAÇÕES
 Contraindicações • Hipersensibilidade a qualquer componente da fórmula. • Sangramento genital de etiologia desconhecida. • Porfiria. • Doença arterial grave, distúrbios tromboembólicos • Gravidez. Fator de risco na gravidez (FDA): X (ver apêndice A). 
 
@@ -2676,10 +2440,6 @@ Aspecto farmacêutico • Armazenar sob temperatura ambiente, em recipiente bem 
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Lopinavir com Ritonavir',"000000061", 
 'APRESENTAÇÃO
 Apresentações • Comprimido (200 mg + 50 mg) • Solução oral (80 mg + 20 mg)/mL 
-
-
-INDICAÇÃO
-Indicação • Tratamento de infecção por HIV, em combinação com outros antirretrovirais. 
 
 
 CONTRAINDICAÇÕES
@@ -2723,10 +2483,6 @@ insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) va
 Apresentações • Comprimido 10 mg • Xarope 1 mg/mL. 
 
 
-INDICAÇÃO
-Indicações • Alívio de sintomas de alergia, febre do feno, rinite alérgica ou vasomotora, prurido, urticária. 
-
-
 CONTRAINDICAÇÕES
 Contraindicações • Hipersensibilidade à loratadina. • Porfiria. • Recém-nascidos e bebês prematuros.
 
@@ -2763,11 +2519,7 @@ Aspectos farmacêuticos • Armazenar à temperatura ambiente, entre 15 e 30 ºC
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Maleato de Dexclorfeniramina',"000000063", 
 'APRESENTAÇÃO
 Apresentações • Comprimido 2 mg • Solução oral ou xarope 0,4 mg/mL. 
-
-
-INDICAÇÃO
-Indicações • Alívio dos sintomas de alergia, rinite alérgica, conjuntivite alérgica, urticárias, resfriado comum. • Auxiliar no tratamento de reações anafiláticas e reações alérgicas a sangue ou plasma em transfusões. 
-
+										      
 
 CONTRAINDICAÇÕES
 Contraindicações • Hipersensibilidade a qualquer anti-histamínico. • Crianças menores de 2 anos, principalmente neonatos, por sua maior susceptibilidade aos efeitos anticolinérgicos e risco de convulsões. • Uso concomitante com inibidores da monoamina oxidase (IMAO) e anticoagulantes. • Na forma de comprimido, para crianças com menos de 6 anos de idade 
@@ -2810,10 +2562,6 @@ insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) va
 Apresentações • Comprimidos de 5 mg, 10 mg e 20 mg. 
 
 
-INDICAÇÃO
-Indicações • Hipertensão arterial sistêmica. • Insuficiência cardíaca. • Prevenção de cardiopatia isquêmica 
-
-
 CONTRAINDICAÇÕES
 Contraindicações • Hipersensibilidade ao enalapril ou a outros inibidores da ECA. • Gravidez (ver Apêndice A). • Doença renovascular. • Angioedema induzido por inibidores da ECA. • Angioedema hereditário ou idiopático. 
 
@@ -2850,10 +2598,6 @@ Aspectos farmacêuticos • Armazenar preferencialmente entre 15 e 30°C. Proteg
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Maleato de Timolol',"000000065", 
 'APRESENTAÇÃO
 • Colírio 0,25% e 0,5%.
-
-
-INDICAÇÃO
-• Hipertensão ocular. • Glaucoma crônico de ângulo aberto. • Alguns tipos de glaucoma secundário. 
 
 
 CONTRAINDICAÇÕES
@@ -2893,10 +2637,6 @@ insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) va
 • Comprimido 500 mg e 850 mg.
 
 
-INDICAÇÃO
-• Diabete melito tipo 2 em pacientes obesos.
-
-
 CONTRAINDICAÇÕES
 • Cetoacidose. • Insuficiência renal (ver Apêndice D). • Administração concomitante com contrastes radiológicos iodados. • Anestesia geral. • Alcoolismo. • Hipersensibilidade à metformina. • Diabete gestacional. 
 
@@ -2932,10 +2672,6 @@ ASPECTOS FARMACEUTICOS
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Metildopa',"000000067", 
 'APRESENTAÇÃO
 • Comprimido 250 mg.
-
-
-INDICAÇÃO
-• Hipertensão crônica leve a moderada na gravidez.
 
 
 CONTRAINDICAÇÕES
@@ -2976,10 +2712,6 @@ insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) va
 • Comprimido 10 mg • Solução oral 4 mg/mL • Solução injetável 5 mg/mL 
 
 
-INDICAÇÃO
-• Náusea e vômito associados a quimioterapia ou no pós-cirúrgico, doença do refluxo gastresofágico e estase da gastroparesia diabética.
-
-
 CONTRAINDICAÇÕES
 • Hipersensibilidade à metoclopramida. • Hemorragia, obstrução ou perfuração gastrintestinal. • Feocromocitoma. • Epilepsia e outros distúrbios convulsivos. • Três a quatro dias após cirurgia gastrintestinal. • Uso concomitante de fármacos com efeitos extrapiramidais, como fenotiazinas. 
 
@@ -3017,10 +2749,6 @@ ASPECTOS FARMACEUTICOS
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Metronidazol e benzoilmetronidazol',"000000069", 
 'APRESENTAÇÃO
 • Comprimido 250 mg e 400 mg. • Solução injetável 5 mg/mL. • Suspensão oral 40 mg/mL (na forma de benzoilmetronidazol). • Gel vaginal 100 mg/g. • Gel vaginal 10%. 
-
-	
-INDICAÇÃO
-• Infecções por bactérias anaeróbias (Peptococcus, Peptostreptococcus, Veillonella, Clostridium – incluindo Clostridium difficile, Fusobacterium e Bacteroides, incluindo Bacteroides fragilis, Gardnerella vaginalis, Helicobacter pylori e Campylobacter fetus). • Infecções por protozoários anaeróbios (Entamoeba histolytica, Giardia lamblia, Trichomonas vaginalis e Balantidium coli). • Erradicação de Helicobacter pylori no tratamento de úlcera péptica (com antimicrobianos e antissecretores). 
 
 
 CONTRAINDICAÇÕES
@@ -3064,10 +2792,6 @@ insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) va
 • Creme 2% • Creme vaginal 2% • Loção 2% • Gel oral 2% • Pó 2% 
 
 
-INDICAÇÃO
-• Infecções fúngicas superficiais de pele, mucosas (oral e vaginal) ou fâneros, causadas por dermatófitos e leveduras (incluindo micoses, intertrigo, paroníquia, ptiríase versicolor, vulvovaginite por Candida e tinha).
-
-
 CONTRAINDICAÇÕES
 • Hipersensibilidade a algum dos componentes da fórmula. • Vulvovaginites causadas por Trichomonas vaginalis (os antifúngicos azólicos são ineficazes). • Porfiria (miconazol é porfirinogênico em testes in vitro). • Crianças prematuras não devem utilizar o gel oral nos primeiros 5 a 6 meses de vida. 
 
@@ -3105,10 +2829,6 @@ insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) va
 • Adesivo transdérmico 7 mg, 14 mg e 21 mg. • Goma de mascar 2 mg e 4 mg. 
 
 
-INDICAÇÃO
-• Adjuvante no tratamento para cessação do tabagismo.
-
-
 CONTRAINDICAÇÕES
 • Hipersensibilidade a nicotina ou a algum componentes da fórmula. • Período pós-enfarte do miocárdio. • Angina de peito e arritmias graves. • Comprometimento da articulação temporomandibular (goma de mascar). • Gravidez (ver Apêndice A). • Lactação (ver Apêndice B). 
 
@@ -3144,10 +2864,6 @@ ASPECTOS FARMACEUTICOS
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Nifedipino',"000000072", 
 'APRESENTAÇÃO
 • Cápsula ou comprimido 10 mg.
-
-
-INDICAÇÃO
-• Tratamento tocolítico em ameaça de parto prematuro não complicado, antes de 34 semanas de gravidez.
 
 
 CONTRAINDICAÇÕES
@@ -3188,10 +2904,6 @@ insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) va
 • Suspensão oral 100.000 UI/mL.
 
 
-INDICAÇÃO
-• Tratamento de candidíase oral, esofagiana e intestinal.
-
-
 CONTRAINDICAÇÕES
 • Hipersensibilidade à nistatina.
 
@@ -3227,10 +2939,6 @@ ASPECTOS FARMACEUTICOS
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Noretisterona',"000000074", 
 'APRESENTAÇÃO
 • Comprimido 0,35 mg
-
-
-INDICAÇÃO
-• Contracepção durante a amamentação.
 
 
 CONTRAINDICAÇÕES
@@ -3275,10 +2983,6 @@ insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) va
 • Solução injetável de (50 mg + 5 mg)/mL.
 
 
-INDICAÇÃO
-• Contracepção (mensal)
-
-
 CONTRAINDICAÇÕES
 • Tumores hepáticos benignos ou malignos. • Insuficiência hepática (ver Apêndice C) • Hipersensibilidade ao enantato de noretisterona, ao valerato de estradiol ou a qualquer componente da fórmula. • Porfiria. • Tumores de mama. • Neoplasias estrógeno-dependentes. • Hemorragia vaginal não diagnosticada. • Distúrbios tromboembólicos. • Doença cardiovascular. • Gravidez. Categoria de risco na gravidez (FDA): X (ver Apêndice A). 
 
@@ -3314,10 +3018,6 @@ ASPECTOS FARMACEUTICOS
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Nortriptilina, cloridrato',"000000076", 
 'APRESENTAÇÃO
 • Cápsulas 10 mg, 25 mg, 50 mg e 75 mg.
-
-
-INDICAÇÃO
-• Depressão maior.
 
 
 CONTRAINDICAÇÕES
@@ -3361,10 +3061,6 @@ insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) va
 • Comprimido 500 mg • Solução oral 200 mg/mL 
 
 
-INDICAÇÃO
-• Dor leve a moderada. • Febre. • Enxaqueca. 
-
-
 CONTRAINDICAÇÕES
 • Hipersensibilidade ao paracetamol.
 
@@ -3403,10 +3099,6 @@ insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) va
 • Loção 1% e 5%.
 
 
-INDICAÇÃO
-• Escabiose • Pediculose corporal e do couro cabeludo. 
-
-
 CONTRAINDICAÇÕES
 • Hipersensibilidade à permetrina ou a outras piretrinas, sintéticas ou naturais. • Crianças com menos de 2 meses de idade. 
 
@@ -3442,10 +3134,6 @@ ASPECTOS FARMACEUTICOS
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Pirazinamida',"000000079", 
 'APRESENTAÇÃO
 • Comprimido 500 mg. • Solução oral 30 mg/mL. 
-
-
-INDICAÇÃO
-• Tratamento de crianças com menos de 20 kg em qualquer das formas de tuberculose pulmonar e extrapulmonar, incluindo meningoencefalite e pacientes infectados pelo HIV. • Tratamento de tuberculose quando há intolerância a rifampicina ou a isoniazida ou ao cloridrato de etambutol. 
 
 
 CONTRAINDICAÇÕES
@@ -3489,10 +3177,6 @@ insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) va
 • Comprimido 150 mg (rifampicina) + 75 mg (isoniazida) + 400 mg (pirazinamida) + 275 mg (cloridrato de etambutol).
 
 
-INDICAÇÃO
-• Tratamento (fase intensiva) de adultos e crianças a partir de 10 anos de idade, em qualquer das formas de tuberculose pulmonar e extrapulmonar, incluindo meningoencefalite e pacientes infectados pelo HIV.
-
-
 CONTRAINDICAÇÕES
 • Consultar as monografias individuais referentes aos fármacos desta associação.
 
@@ -3534,10 +3218,6 @@ insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) va
 • Comprimido 50 mg. • Solução oral 1 mg/mL e 10 mg/mL 
 
 
-INDICAÇÃO
-• Profilaxia e tratamento de deficiência de piridoxina. • Prevenção de neurite periférica induzida por fármacos (isoniazida, penicilamina). • Anemia sideroblástica. 
-
-
 CONTRAINDICAÇÕES
 • Hipersensibilidade à piridoxina ou a qualquer componente da formulação.
 
@@ -3573,10 +3253,6 @@ ASPECTOS FARMACEUTICOS
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Pirimetamina',"000000082", 
 'APRESENTAÇÃO
 • Comprimido 25 mg.
-
-
-INDICAÇÃO
-• Tratamento de toxoplasmose, em combinação com sulfadiazina ou clindamicina e folinato de cálcio.
 
 
 CONTRAINDICAÇÕES
@@ -3618,10 +3294,6 @@ ATENÇÃO: administrar ácido folínico (5 a 10 mg/dia) durante tratamento com p
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Prednisona',"000000083", 
 'APRESENTAÇÃO
 • Comprimido de 5 mg e 20 mg
-
-
-INDICAÇÃO
-• Adjuvante em processos inflamatórios do sistema musculoesquelético • Processos alérgicos e adjuvante em anafilaxia. • Adjuvante no tratamento da hanseníase. • Adjuvante no tratamento de pneumonia pneumocística moderada ou grave. • Adjuvante no tratamento com antineoplásico. • Imunossupressão em doença autoimune. • Asma grave persistente e asma aguda grave 
 
 
 CONTRAINDICAÇÕES
@@ -3666,10 +3338,6 @@ insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) va
 • Solução injetável 25 mg/mL.
 
 
-INDICAÇÃO
-• Anafilaxia (adjuvante). • Terapêutica antineoplásica (adjuvante) 
-
-
 CONTRAINDICAÇÕES
 • Hipersensibilidade ou história de reação idiossincrática a prometazina ou a outras fenotiazinas e a sulfitos (ampolas contêm metabissulfito). • Injeção subcutânea ou intra-arterial. • Estado comatoso. • Sintomas do trato respiratório baixo, incluindo asma. • Crianças com menos de 2 anos apresentam maior risco potencial de depressão respiratória fatal. 
 
@@ -3706,10 +3374,6 @@ ASPECTOS FARMACEUTICOS
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Propafenona, cloridrato',"000000085", 
 'APRESENTAÇÃO
 • Comprimido 150 mg e 300 mg • Solução injetável 3,5 mg/mL 
-
-	
-INDICAÇÃO
-• Fibrilação atrial e flúter. • Taquicardia supraventricular paroxística (apenas comprimido de liberação imediata). • Arritmia ventricular (apenas comprimido de liberação imediata). 
 
 
 CONTRAINDICAÇÕES
@@ -3751,10 +3415,6 @@ ATENÇÃO: terapia intravenosa é superior a dose única de 600 mg por via oral 
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Propiltiouracila',"000000086", 
 'APRESENTAÇÃO
 • Comprimido 50 mg e 100 mg.
-
-
-INDICAÇÃO
-• Hipertireoidismo.
 
 
 CONTRAINDICAÇÕES
@@ -3799,10 +3459,6 @@ insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) va
 • Comprimidos de 10 mg e 40 mg. • Solução injetável 10 mg/mL. 
 
 
-INDICAÇÃO
-• Profilaxia da enxaqueca. • Arritmias cardíacas associadas a tirotoxicose, feocromocitoma, anestesia geral, exercício, emoção e uso de cocaína. • Tratamento de cardiopatia isquêmica: angina e enfarte agudo do miocárdio. • Hipertensão arterial sistêmica, em crianças. 
-
-
 CONTRAINDICAÇÕES
 • Hipersensibilidade ao propranolol. • Hipotensão. • Insuficiência cardíaca descompensada. • Choque cardiogênico. • Bradicardia sinusal grave. • Sindrome do nó sinoatrial • Bloqueio atrioventricular de 2º e 3º graus. • Asma ou história de doença pulmonar obstrutiva crônica. • Acidose metabólica. • Angina de Prinzmetal • Doença arterial periférica grave. 
 
@@ -3845,10 +3501,6 @@ insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) va
 • Comprimido 150 mg. • Solução injetável 25 mg/mL. 
 
 
-INDICAÇÃO
-• Úlcera péptica de diversas etiologias e outras condições de hipersecreção gástrica, como síndrome de Zollinger-Ellison. • Doença do refluxo gastresofágico. • Esofagite erosiva. • Dispepsia funcional. 
-
-
 CONTRAINDICAÇÕES
 • Hipersensibilidade à ranitidina.
 
@@ -3884,10 +3536,6 @@ ASPECTOS FARMACEUTICOS
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Isoniazida com Rifampicina',"000000089", 
 'APRESENTAÇÃO
 Apresentações • Comprimido 75 mg + 150 mg. • Cápsula 100 mg + 150 mg. • Cápsula 200 mg + 300 mg. 
-
-
-INDICAÇÃO
-Indicações • Tratamento de tuberculose pulmonar e extrapulmonar, incluindo meningoencefalite em pacientes infectados pelo HIV. • Tratamento de tuberculose quando há intolerância a pirazinamida ou ao cloridrato de etambutol 
 
 
 CONTRAINDICAÇÕES
@@ -3931,10 +3579,6 @@ insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) va
 • Cápsula 300 mg. • Suspensão oral 20 mg/mL. 
 
 
-INDICAÇÃO
-• Tratamento de crianças, com menos de 20 kg, em qualquer das formas de tuberculose pulmonar e extrapulmonar, incluindo meningoencefalite e pacientes infectados pelo HIV. • Tratamento de tuberculose quando há intolerância a isoniazida. • Tratamento de hanseníase, em combinações com outros quimioterápicos. • Profilaxia após contato com indivíduo afetado por meningite (Neisseria meningitidis ou Haemophilus influenzae tipo B) e portador assintomático. 
-
-
 CONTRAINDICAÇÕES
 • Hipersensibilidade a rifampicina. • Icterícia. • Infecção ativa por Neisseria meningitidis. • Uso concomitante com inibidores da protease (saquinavir, lopinavir, atazanavir, fosamprenavir, tipranavir e darunavir) e voriconazol. 
 
@@ -3969,16 +3613,12 @@ ASPECTOS FARMACEUTICOS
 
 ATENÇÃO
 ATENÇÃO: este fármaco apresenta um número muito elevado de interações de medicamentos, devendo-se realizar pesquisa específica quanto a este aspecto ao considerar a introdução ou descontinuação de outros medicamentos no esquema terapêutico do paciente. A rifampicina induz o metabolismo pelo complexo CYP450, reduzindo a concentração de outros fármacos metabolizados por estas enzimas. Na presente monografia estão descritas apenas as interações classificadas como contraindicadas e graves, não sendo incluídas aquelas de gravidade moderada.
-','http://linkimagem.com/img.png', 1);
+','http://www.tqconfiable.com/images/default-source/imagenes-productos-final/416.jpg?sfvrsn=2', 1);
 
 
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Rifampicina com Isoniazida com Pirazinamida com CL',"000000091", 
 'APRESENTAÇÃO
 • Comprimido 150 mg (rifampicina) + 75 mg (isoniazida) + 400 mg (pirazinamida) + 275 mg (cloridrato de etambutol).
-
-
-INDICAÇÃO
-• Tratamento (fase intensiva) de adultos e crianças a partir de 10 anos de idade, em qualquer das formas de tuberculose pulmonar e extrapulmonar, incluindo meningoencefalite e pacientes infectados pelo HIV.
 
 
 CONTRAINDICAÇÕES
@@ -4015,15 +3655,11 @@ ASPECTOS FARMACEUTICOS
 
 ATENÇÃO
 ATENÇÃO: como sinonímia para a associação rifampicina + isoniazida + pirazinamida + etambutol (nomes correspondentes a Denominação Comum Brasileira) também é empregada a abreviatura RHZE, entretanto, não se re- comenda a prescrição de fármacos por abreviaturas ou siglas .
-','http://linkimagem.com/img.png', 1);
+','https://super.walmart.com.mx/images/product-images/img_large/00750106101920L.jpg', 1);
 
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Risperidona',"000000092", 
 'APRESENTAÇÃO
 • Comprimido 1 mg e 3 mg • Solução oral 1 mg/mL 
-
-
-INDICAÇÃO
-• Esquizofrenia resistente ao tratamento com antipsicóticos típicos
 
 
 CONTRAINDICAÇÕES
@@ -4060,16 +3696,12 @@ ASPECTOS FARMACEUTICOS
 
 ATENÇÃO
 ATENÇÃO: este fármaco apresenta um número elevado de interações de medicamentos, devendo-se realizar pesquisa específica quanto a este aspecto ao considerar a introdução ou descontinuação da risperidona ou de outros medicamentos no esquema terapêutico do paciente. 
-','http://linkimagem.com/img.png', 1);
+','http://www.cliquefarma.com.br/blog/wp-content/uploads/2015/03/Risperidona-300x129.jpg', 1);
 
 
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Lopinavir com Ritonavir',"000000093", 
 'APRESENTAÇÃO
 Apresentações • Comprimido (200 mg + 50 mg) • Solução oral (80 mg + 20 mg)/mL 
-
-
-INDICAÇÃO
-Indicação • Tratamento de infecção por HIV, em combinação com outros antirretrovirais. 
 
 
 CONTRAINDICAÇÕES
@@ -4106,15 +3738,11 @@ Aspectos farmacêuticos • Armazenar a solução oral e cápsulas, preferenteme
 
 ATENÇÃO
 ATENÇÃO: a associação lopinavir + ritonavir apresenta um número elevado de importantes interações de medicamentos, por isto deve ser realizada pesquisa específica sobre este aspecto antes de introduzir ou descontinuar a associação de lopinavir + ritonavir ou outros medicamentos no esquema terapêutico do paciente .
-','http://linkimagem.com/img.png', 1);
+','http://lawcaspharmacy.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/l/o/lopinavir-ritonavir-tablets-200mg.jpg', 1);
 
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Ritonavir',"000000094", 
 'APRESENTAÇÃO
 • Cápsula 100 mg. • Solução oral 80 mg/mL. 
-
-
-INDICAÇÃO
-• Tratamento de infecção por HIV em combinação com outros antirretrovirais.
 
 
 CONTRAINDICAÇÕES
@@ -4151,16 +3779,12 @@ ASPECTOS FARMACEUTICOS
 
 ATENÇÃO
 ATENÇÃO: este fármaco apresenta um número elevado de interações de medicamentos, devendo-se realizar pesquisa específica sobre potenciais interações antes de prescrever outros medicamentos a usuários de ritonavir, ou antes de introduzir ou retirar qualquer medicamento do esquema do paciente . 
-','http://linkimagem.com/img.png', 1);
+','http://agenciaaids.com.br/usermedia/images/Ritonavir.jpg', 1);
 
 
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Salbutamol, sulfato',"000000095", 
 'APRESENTAÇÃO
 • Aerossol 100 microgramas/dose • Solução inalante 6 mg/mL (equivalente a 5 mg de salbutamol/mL) • Solução injetável 0,5 mg/mL 
-
-
-INDICAÇÃO
-• Tratamento de manutenção e da exarcerbação aguda da asma. • Profilaxia da asma induzida por exercícios. • Tratamento de doença pulmonar obstrutiva crônica (DPOC). 
 
 
 CONTRAINDICAÇÕES
@@ -4193,15 +3817,11 @@ ORIENTAÇÕES AOS PACIENTES
 
 ASPECTOS FARMACEUTICOS
 • Armazenar o sulfato de salbutamol (aerossol sem clorofluorcarbono como propelente) à temperatura ambiente, entre 15 e 25 ºC, longe da umidade. Não expor o inalador a altas temperaturas (aproximadamente 50 ºC). • Armazenar o sulfato de salbutamol (solução inalante gotas) à temperatura entre 2 e 25 ºC e longe de luz direta. • Na concentração de 200 microgramas/mL em solução salina 0,9%, o sulfato de salbutamol permanece estável por 7 dias sob temperatura ambiente e sobre refrigeração (situações em que nebulização contínua é necessário). • Armazenar a solução injetável de sulfato de salbutamol à temperaturas ambiente, entre 15 e 30 ºC, e protegida da luz. • Observar orientação específica do produtor quanto a diluição, compatibilidade e estabilidade da solução. • A solução para infusão deve ser preparada a partir da diluição de uma ampola (0,5 mg/mL) de sulfato de salbutamol em 500 mL de solução injetável de cloreto de sódio 0.9% ou glicose 5%, permanecendo estável por 24 horas sob temperatura ambiente. 
-','http://linkimagem.com/img.png', 1);
+','http://kcra-kw.com/en/wp-content/uploads/2011/04/images215712_salbutamol.gif', 1);
 
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Sinvastatina',"000000096", 
 'APRESENTAÇÃO
 • Comprimidos de 10 mg, 20 mg e 40 mg.
-
-
-INDICAÇÃO
-• Prevenção primária e secundária de cardiopatia isquêmica. • Dislipidemias, associado a dieta. 
 
 
 CONTRAINDICAÇÕES
@@ -4238,16 +3858,12 @@ ASPECTOS FARMACEUTICOS
 
 ATENÇÃO
 ATENÇÃO: segurança e eficácia não foram estabelecidas em pacientes com menos de 10 anos de idade. Utilizar com precaução em paciente idoso, devido à maior predisposição a miopatias. Este fármaco apresenta número elevado de interações de medicamentos potencialmente graves, devendo ser realizada pesquisa específica sobre este aspecto antes de introduzir ou descontinuar a sinvastatina ou outro medicamento no esquema terapêutico do paciente. 
-','http://linkimagem.com/img.png', 1);
+','http://seuguiadesaude.com.br/wp-content/uploads/2016/10/sinvastatina.jpg', 1);
 
 
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Sulfadiazina',"000000097", 
 'APRESENTAÇÃO
 • Comprimido 500 mg.
-
-
-INDICAÇÃO
-• Infecções urinárias agudas não complicadas. • Toxoplasmose. 
 
 
 CONTRAINDICAÇÕES
@@ -4280,16 +3896,12 @@ ORIENTAÇÕES AOS PACIENTES
 
 ASPECTOS FARMACEUTICOS
 • Manter à temperatura ambiente, entre 15 a 30 °C, proteger da luz.
-','http://linkimagem.com/img.png', 1);
+','http://www.espacovital.com.br/images/201312091301320.jpg', 1);
 
 
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Sulfadiazina de prata',"000000098", 
 'APRESENTAÇÃO
 • Creme 1%
-
-
-INDICAÇÃO
-• Profilaxia e tratamento de infecção em queimaduras. • Tratamento adjuvante, de curto prazo, para infecção em úlcera de perna e úlcera de decúbito. • Profilaxia de infecção em áreas de abrasão em enxerto de pele. 
 
 
 CONTRAINDICAÇÕES
@@ -4322,15 +3934,11 @@ ORIENTAÇÕES AOS PACIENTES
 
 ASPECTOS FARMACEUTICOS
 • Conservar à temperatura ambiente, em recipientes bem fechados. Manter ao abrigo de luz, calor e umidade. Não congelar. • Conservar à temperatura ambiente, em recipientes bem fechados. Manter ao abrigo de luz, calor e umidade. Não congelar. 
-','http://linkimagem.com/img.png', 1);
+','https://c1.staticflickr.com/8/7132/6849299158_5db8bceed9_b.jpg', 1);
 
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Sulfametoxazol com Trimetoprima',"000000099", 
 'APRESENTAÇÃO
 • Comprimido 400 mg + 80 mg. • Suspensão oral (40 mg + 8 mg)/mL. • Solução injetável (80 mg + 16 mg)/mL. 
-
-
-INDICAÇÃO
-• Infecções por microrganismos sensíveis • Tratamento pneumocistose. • Profilaxia de pneumocistose em pessoas com Aids. 
 
 
 CONTRAINDICAÇÕES
@@ -4363,16 +3971,12 @@ ORIENTAÇÕES AOS PACIENTES
 
 ASPECTOS FARMACEUTICOS
 • Armazenar à temperatura ambiente, entre 15 e 30 °C, proteger do calor, umidade e luz direta. • Observar orientação específica do produtor quanto a diluição, compatibilidade e estabilidade da solução. • Para cada ampola de 5 mL deve-se adicionar 125 mL de glicose 5%. Após diluição, a solução não deve ser refrigerada. Administrar dentro de 6 horas. • Em caso de paciente com restrição hídrica, para cada ampola de 5 mL deve-se adicionar 75 mL de glicose 5%. Administrar dentro de 2 horas. • Descartar a solução se cristalizar. • A infusão intravenosa deve ser feita durante 60 a 90 minutos. Devem-se evitar infusões rápidas ou injeções em bolo. 
-','http://linkimagem.com/img.png', 1);
+','http://galenox.com/images/farmacos/img/DEF59/Liomont_ectaprim_tabletas.png', 1);
 
 
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Sulfato ferroso',"000000100", 
 'APRESENTAÇÃO
 • Comprimido de 40 mg Fe2+ • Solução oral a 25 mg/mL Fe2+ 
-
-
-INDICAÇÃO
-• Tratamento de anemia associada à deficiência de ferro. • Profilaxia em situações de alto risco para deficiência de ferro (casos de deficiência dietética, síndrome de má-absorção, menorragia, após gastrectomia total ou subtotal) 
 
 
 CONTRAINDICAÇÕES
@@ -4405,17 +4009,13 @@ ORIENTAÇÕES AOS PACIENTES
 
 ASPECTOS FARMACEUTICOS
 • Manter à temperatura ambiente, de 15 a 30 ºC, em recipiente bem fechado. • Não congelar a solução. 
-','http://linkimagem.com/img.png', 1);
+','http://glicose.com.br/wp-content/uploads/2015/05/sulfato-ferroso-vitafer.jpg', 1);
 
 
 
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Talidomida',"000000101", 
 'APRESENTAÇÃO
 • Comprimido 100 mg
-
-
-INDICAÇÃO
-• Tratamento de eritema nodoso hansênico moderado a grave.
 
 
 CONTRAINDICAÇÕES
@@ -4448,16 +4048,12 @@ ORIENTAÇÕES AOS PACIENTES
 
 ASPECTOS FARMACEUTICOS
 • Armazenar à temperatura ambiente, de 15 a 30 ºC. Manter ao abrigo da luz.
-','http://linkimagem.com/img.png', 1);
+','https://static.tuasaude.com/img/ta/li/talidomida-1-1-640-427.jpg', 1);
 
 
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Tiamina (cloridrato/palmitato)',"000000102", 
 'APRESENTAÇÃO
 • Cloridrato de tiamina: comprimido de 300 mg e solução oral 10 mg/mL. • Palmitato de tiamina: solução injetável 100.000 UI/mL (100 mg/mL). 
-
-
-INDICAÇÃO
-• Prevenção e tratamento de deficiência da tiamina: pelagra, encefalopatia de Wernicke e síndrome de Korsakoff (em alcoólicos), neuropatia periférica (beribéri, grávidas). • Distúrbios genéticos metabólicos. 
 
 
 CONTRAINDICAÇÕES
@@ -4487,16 +4083,12 @@ ORIENTAÇÕES AOS PACIENTES
 
 ASPECTOS FARMACEUTICOS
 • Armazenar à temperatura entre 15 a 30 °C, e protegido da luz. • A forma farmacêutica injetável pode ser administrada por via intravenosa ou intramuscular. • Observar orientação específica do produtor quanto a diluição, compatibilidade e estabilidade da solução. • É instável em soluções neutras ou alcalinas. • Incompatibilidades: agentes oxidantes e redutores (sais de ferro), bicarbonato, carbonatos, citratos, eritromicina, metoexital, pentobarbital, fenobarbital, secobarbital, tiopental. Em soluções com sulfitos e bissulfitos se torna rapidamente inativo. • Compatibilidades: solução de glicose 5%, glicose 10%, cloreto de sódio 0,9%, Ringer + lactato. • A estabilidade das soluções é de aproximadamente 100 dias. • Coloração azulada indica oxidação, sendo aconselhável o descarte da solução. 
-','http://linkimagem.com/img.png', 1);
+','http://2.bp.blogspot.com/_cu4KhRGihFM/TRdNNcgyIFI/AAAAAAAAAJk/Rw-_L-sF1K0/s1600/benerva.jpg', 1);
 
 
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Tuberculina (Derivado proteico purificado) PPD RT',"000000103", 
 'APRESENTAÇÃO
 • Solução injetável 0,1 mL (PPD-Rt 23, 2 UT – unidades de tuberculina para via intradérmica)
-
-
-INDICAÇÃO
-• Teste de hipersensibilidade a tuberculoproteína, para auxiliar no diagnóstico da tuberculose.
 
 
 CONTRAINDICAÇÕES
@@ -4533,17 +4125,13 @@ ASPECTOS FARMACEUTICOS
 
 ATENÇÃO
 ATENÇÃO: é necessária a disponibilidade de epinefrina para tratamento de possível anafilaxia. Caso ocorram reações fortemente positivas, podem ser usadas preparações tópicas de corticosteroide para alívio sintomático da dor associada, prurido e desconforto. Pacientes que apresentam reação positiva devem ser avaliados por outro diagnóstico complementar. A reação positiva pode não aparecer no período de duas a dez semanas depois da infecção (falso-negativo). Pacientes que apresentam reação positiva não devem ser vacinados com BCG. Tem valor de diagnóstico para tuberculose limitado. Não discrimina exposição prévia a antígenos micobacterianos de infecção com bacilo ou pela vacina BCG. Não distingue entre uma infecção pelo bacilo da tuberculose e outras infecções micobacterianas. 
-','http://linkimagem.com/img.png', 1);
+','http://www.br.all.biz/img/br/catalog/84837.jpeg', 1);
 
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Valproato de Sodio (Acido Valproico)',"000000104", 
 'APRESENTAÇÃO
 • Comprimido ou cápsula 288 mg (equivalente a 250 mg ácido valproico). • Comprimido 576 mg (equivalente a 500 mg ácido valproico) • Solução oral ou xarope 57,624 mg/mL (equivalente a 50 mg de ácido valproico/mL) 
 
-
-INDICAÇÃO
-• Episódio convulsivo mioclônico e tônico-clônico. • Estado de ausência epiléptica, simples ou complexa. • Estado de grande mal epiléptico. • Mal epiléptico parcial complexo. • Transtorno afetivo bipolar (episódio maníaco) 
-
-
+										      
 CONTRAINDICAÇÕES
 • Hipersensibilidade ao valproato de sódio ou ao ácido valproico. • Doença hepática ativa, disfunção hepática significante, ou história familiar de hepatopatias. • Encefalopatia hepática ou distúrbios no ciclo da ureia não diagnosticados. • Porfiria. 
 
@@ -4578,16 +4166,12 @@ ASPECTOS FARMACEUTICOS
 
 ATENÇÃO
 ATENÇÃO: mortalidade por insuficiência hepática tem ocorrido em pacientes que fazem uso de valproato de sódio e outros derivados do ácido valproico. O risco de hepatotoxicidade fatal é maior em crianças com 2 anos e menos de idade, em pacientes que fazem uso concomitante de vários anticonvulsivantes, retardo mental ou doença orgânica de origem cerebral. Este risco diminui consideravelmente com a progressão da idade. Testes de função hepática devem ser realizados em todos os pacientes que irão receber valproato, e periodicamente nos primeiros seis meses de tratamento. Casos de pancreatite fulminante têm sido relatados com o uso de valproato, independente do período de uso e da idade do paciente. Este fármaco apresenta um número elevado de interações de medicamentos, por isso é necessário uma pesquisa específica sobre este aspecto ao avaliar a terapia com este fármaco.
-','http://linkimagem.com/img.png', 1);
+','http://www.hipolabor.com.br/wp-content/uploads/2013/10/img3.jpg', 1);
 
 
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Verapamil, cloridrato',"000000105", 
 'APRESENTAÇÃO
 • Comprimidos 80 mg e 120 mg. • Solução injetável 2,5 mg/mL. 
-
-
-INDICAÇÃO
-• Taquiarritmias supraventriculares. • Angina estável, instável e de Prinzmetal. • Hipertensão arterial sistêmica. 
 
 
 CONTRAINDICAÇÕES
@@ -4624,7 +4208,7 @@ ASPECTOS FARMACEUTICOS
 
 ATENÇÃO
 ATENÇÃO: este fármaco apresenta um número muito elevado de interações de medicamentos, sendo necessária uma pesquisa específica sobre este aspecto antes de considerar a introdução ou descontinuação do verapamil ou de outros medicamentos no esquema terapêutico do paciente. Sugere-se considerar, além dos medicamentos individualmente, os grupos na avaliação da interação. O efeito adverso edema periférico ocorre dentro de 2 a 3 semanas após o início do tratamento.
-','http://linkimagem.com/img.png', 1);
+','http://2.bp.blogspot.com/_SuEM_1DgB7Y/TBPB6305zFI/AAAAAAAAAPs/xbuBRhClgJY/s320/verapamil.jpg', 1);
 
 
 
