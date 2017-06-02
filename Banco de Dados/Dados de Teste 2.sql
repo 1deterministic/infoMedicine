@@ -14,11 +14,218 @@ insert into principioativo (nome, descricao, imagem) values ('Cafeína', 'Estimu
 
 -- Tabela contraindicacao ==================================================================================================================================
 -- 1
-insert into contraindicacao (nome, imagem) values ('Hipersensibilidade ao abacavir', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+insert into contraindicacao (nome, imagem) values ('Hipersensibilidade ao abacavir, Insuficiência hepática moderada e grave', 'https://static.tuasaude.com/media/article/da/dc/abacavir-ziagenavir_19191_l.jpg');
 -- 2
-insert into contraindicacao (nome, imagem) values ('Insuficiência hepática moderada e grave', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+insert into contraindicacao (nome, imagem) values ('Hipersensibilidade ao acetato de medroxiprogesterona ou a qualquer componente da formulação. Tumores malignos de mama ou em órgãos genitais. Disfunções hepáticas. Porfiria. Tromboembolismo venoso e doenças arteriais. Hemorragia geniturinária não diagnosticada. Histórico de abortos espontâneos. Histórico de prurido ou icterícia idiopática durante a gravidez. Gravidez. Categoria de risco na gravidez (FDA): X (ver Apêndice A). 
+', 'http://www.hoyfarma.com/images/stories/virtuemart/product/depo%20provera.png');
 -- 3
 insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+--4
+insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+--5
+insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+--6
+insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+--7
+insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+--8
+insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+--9
+insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+--10
+insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+--11
+insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+--12
+insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+--13
+insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+--14
+insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+--15
+insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+--16
+insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+--17
+insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+--18
+insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+--19
+insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+--20
+insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+--21
+insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+--22
+insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+--23
+insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+--24
+insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+--25
+insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+--26
+insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+--27
+insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+--28
+insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+--29
+insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+--30
+insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+--31
+insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+--32
+insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+--33
+insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+--34
+insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+--35
+insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+--36
+insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+--37
+insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+--38
+insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+--39
+insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+--40
+insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+--41
+insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+--42
+insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+--43
+insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+--44
+insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+--45
+insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+--46
+insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+--47
+insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+--48
+insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+--49
+insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+--50
+insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+--51
+insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+--52
+insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+--53
+insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+--54
+insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+--55
+insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+--56
+insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+--57
+insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+--58
+insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+--59
+insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+--60
+insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+--61
+insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+--62
+insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+--63
+insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+--64
+insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+--65
+insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+--66
+insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+--67
+insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+--68
+insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+--69
+insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+--70
+insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+--71
+insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+--72
+insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+--73
+insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+--74
+insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+--75
+insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+--76
+insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+--77
+insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+--78
+insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+--79
+insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+--80
+insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+--81
+insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+--82
+insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+--83
+insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+--84
+insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+--85
+insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+--86
+insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+--87
+insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+--88
+insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+--89
+insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+--90
+insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+--91
+insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+--92
+insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+--93
+insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+--94
+insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+--95
+insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+--96
+insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+--97
+insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+--98
+insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+--99
+insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+--100
+insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+--101
+insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+--102
+insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+--103
+insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+--104
+insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+--105
+insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+
+
 
 -- Tabela medicamento ======================================================================================================================================
 -- 1
@@ -84,6 +291,7 @@ Sempre que houver qualquer suspeita dessas reações, o uso do medicamento deve 
 Se houver melhora após a retirada, sua reintrodução está contraindicada'
 , 'https://static.tuasaude.com/media/article/da/dc/abacavir-ziagenavir_19191_l.jpg', 1);
 
+--2
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Acetato de Medroxiprogesterona', "00000001", '
 APRESENTAÇÃO
 • Comprimido 2,5 e 10 mg. • Suspensão injetável 150 mg/mL. 
@@ -122,7 +330,7 @@ ASPECTOS FARMACEUTICOS
 • Agitar bem, antes da utilização por via intramuscular.', 'http://www.hoyfarma.com/images/stories/virtuemart/product/depo%20provera.png', 1);
 
 
-                                                                                      
+--3                                                                                   
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Acetazolamida', "00000002",'
 APRESENTAÇÃO
 • Comprimido 250 mg
@@ -159,7 +367,8 @@ ORIENTAÇÕES AOS PACIENTES
 ASPECTOS FARMACEUTICOS
 • Armazenar à temperatura ambiente, entre 15 e 30 °C. Proteger do calor, da umidade e da luz direta. • Medicamentos produzidos por laboratórios diferentes só podem ser inter- cambiáveis quando houver informação sobre a bioequivalência. • Comprimidos de acetazolamida podem ser triturados. São relatadas prepa- rações extemporâneas a partir dos comprimidos, tanto sob forma de suspen- sões como de soluções (que devem ser tamponadas a pH 4,0). Trituram-se os comprimidos, suspendendo o pó resultante em xarope de gosto forte (cereja, framboesa, chocolate, etc). Pode suspender-se até 500 mg em 5 mL de xarope, mas uma suspensão que contenha 250 mg por 5 mL tem melhor palatabilida- de. Esta suspensão é estável por uma semana. A refrigeração pode melhorar o sabor, mas não aumenta a estabilidade. Os elixires ou outros veículos que contenham álcool ou glicerina não proporcionam suspensão de sabor palatável. O armazenamento deve ser feito entre 15 e 30 ºC e ao abrigo da luz direta. 
 ', 'http://2.bp.blogspot.com/-sK0pCl6JZ4Q/VgFdrJ456FI/AAAAAAACBNg/3RJQezIAVbI/s1600/ACETAZOLAMIDA.jpg', 1);                                                                                      
-                                                                                      
+   
+--4
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Acido valproico (ou Valproato de sódio)',"00000003",
 'APRESENTAÇÃO
 • Comprimido ou cápsula 288 mg (equivalente a 250 mg ácido valproico). • Comprimido 576 mg (equivalente a 500 mg ácido valproico) • Solução oral ou xarope 57,624 mg/mL (equivalente a 50 mg de ácido valproico/mL) 
@@ -201,6 +410,8 @@ ATENÇÃO
 ATENÇÃO: mortalidade por insuficiência hepática tem ocorrido em pacientes que fazem uso de valproato de sódio e outros derivados do ácido valproico. O risco de hepatotoxicidade fatal é maior em crianças com 2 anos e menos de idade, em pacientes que fazem uso concomitante de vários anticonvulsivantes, retardo mental ou doença orgânica de origem cerebral. Este risco diminui consideravelmente com a progressão da idade. Testes de função hepática devem ser realizados em todos os pacientes que irão receber valproato, e periodicamente nos primeiros seis meses de tratamento. Casos de pancreatite fulminante têm sido relatados com o uso de valproato, independente do período de uso e da idade do paciente. Este fármaco apresenta um número elevado de interações de medicamentos, por isso é necessário uma pesquisa específica sobre este aspecto ao avaliar a terapia com este fármaco.
 ', 'http://www.disdroblan.com/images/vademecum/41-acido-valproico-250mg.png', 1);
 
+
+--5
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Albendazol',"00000004",
 'APRESENTAÇÃO
 • Comprimido mastigável 400 mg. • Suspensão oral 40 mg/mL. 
@@ -238,6 +449,7 @@ ASPECTOS FARMACEUTICOS
 • Armazenar os comprimidos em local seco, ao abrigo de luz e calor. 
 ', 'https://t1.uc.ltmcdn.com/pt/images/8/4/3/img_albendazol_bula_17348_600.jpg', 1);
 
+--6
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Alopurinol',"00000005",
 'APRESENTAÇÃO
 • Comprimidos de 100 mg e 300 mg
@@ -275,6 +487,8 @@ ASPECTOS FARMACEUTICOS
 • Os comprimidos devem ser armazenados em frascos bem fechados, à tempe- ratura entre 15 a 30 °C, em locais secos e protegidos da luz. • Preparação extemporânea: triturar comprimidos para fazer uma suspensão na concentração de 5 mg/mL em xarope simples; estável por 14 dias sob re- frigeração. 
 ', 'https://2.bp.blogspot.com/-1nK_onyhyO0/VyI48meytpI/AAAAAAACNhw/8q7FGsfVpEMDzT-K5l7xtHS8hll7uzDvgCLcB/s1600/ALOPURINOL.jpg', 1);
 
+
+--7
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Amiodarona, cloridrato de',"00000006",
 'APRESENTAÇÃO
 • Comprimido de 200 mg. • Solução injetável 50 mg/mL 
@@ -4224,7 +4438,11 @@ insert into medicamento_has_principioativo (medicamento, principioativo) values 
 
 -- Tabela medicamento_has_contraindicacao ==================================================================================================================
 insert into medicamento_has_contraindicacao (medicamento, contraindicacao) values (1, 1);
-insert into medicamento_has_contraindicacao (medicamento, contraindicacao) values (1, 2);
+insert into medicamento_has_contraindicacao (medicamento, contraindicacao) values (2, 2);
+insert into medicamento_has_contraindicacao (medicamento, contraindicacao) values (3, 3);
+insert into medicamento_has_contraindicacao (medicamento, contraindicacao) values (4, 4);
+insert into medicamento_has_contraindicacao (medicamento, contraindicacao) values (5, 5);
+
 
 insert into medicamento_has_contraindicacao (medicamento, contraindicacao) values (2, 2);
 insert into medicamento_has_contraindicacao (medicamento, contraindicacao) values (3, 3);
