@@ -1,72 +1,300 @@
--- Tabela fabricante
-insert into fabricante (nome, descricao, imagem, contato) values ('Bayer', 'Fabricante alemão bla bla ba bla bla bla', 'http://linkimagem.com/img.png', 'http://www.bayer.com');
+-- Tabela fabricante ======================================================================================================================================
+-- 1
+insert into fabricante (nome, descricao, imagem, contato) values ('ICU-Vita', 'Laboratório uruguaio', 'http://www.smartservices.uy/innovaportal/file/1308/1/icu-vita-directorio.jpg', 'http://www.icuvita.com.uy/esp/');
+-- 2
 insert into fabricante (nome, descricao, imagem, contato) values ('Neo Quimica', 'Fabricante brasileiro bla bla ba bla bla bla', 'http://linkimagem.com/img.png', 'http://www.neoquimica.com');
 
--- Tabela principioativo
+-- Tabela principioativo ==================================================================================================================================
+-- 1
 insert into principioativo (nome, descricao, imagem) values ('Amoxicilina', 'Antibiótico bla bla bla', 'http://linkimagem.com/img.png');
+-- 2
 insert into principioativo (nome, descricao, imagem) values ('Paracetamol', 'Analgésico bla bla bla', 'http://linkimagem.com/img.png');
+-- 3
 insert into principioativo (nome, descricao, imagem) values ('Cafeína', 'Estimulante bla bla bla', 'http://linkimagem.com/img.png');
 
--- Tabela contraindicacao
-insert into contraindicacao (nome) values ('Sensibilidade a X');
-insert into contraindicacao (nome) values ('Alergia a Y');
-insert into contraindicacao (nome) values ('Intolerância a Z');
+-- Tabela contraindicacao ==================================================================================================================================
+-- 1
+insert into contraindicacao (nome, imagem) values ('Hipersensibilidade ao abacavir, Insuficiência hepática moderada e grave', 'https://static.tuasaude.com/media/article/da/dc/abacavir-ziagenavir_19191_l.jpg');
+-- 2
+insert into contraindicacao (nome, imagem) values ('Hipersensibilidade ao acetato de medroxiprogesterona ou a qualquer componente da formulação. Tumores malignos de mama ou em órgãos genitais. Disfunções hepáticas. Porfiria. Tromboembolismo venoso e doenças arteriais. Hemorragia geniturinária não diagnosticada. Histórico de abortos espontâneos. Histórico de prurido ou icterícia idiopática durante a gravidez. Gravidez. Categoria de risco na gravidez (FDA): X (ver Apêndice A). 
+', 'http://www.hoyfarma.com/images/stories/virtuemart/product/depo%20provera.png');
+-- 3
+insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+--4
+insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+--5
+insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+--6
+insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+--7
+insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+--8
+insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+--9
+insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+--10
+insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+--11
+insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+--12
+insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+--13
+insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+--14
+insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+--15
+insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+--16
+insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+--17
+insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+--18
+insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+--19
+insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+--20
+insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+--21
+insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+--22
+insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+--23
+insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+--24
+insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+--25
+insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+--26
+insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+--27
+insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+--28
+insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+--29
+insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+--30
+insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+--31
+insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+--32
+insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+--33
+insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+--34
+insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+--35
+insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+--36
+insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+--37
+insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+--38
+insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+--39
+insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+--40
+insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+--41
+insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+--42
+insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+--43
+insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+--44
+insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+--45
+insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+--46
+insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+--47
+insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+--48
+insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+--49
+insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+--50
+insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+--51
+insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+--52
+insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+--53
+insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+--54
+insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+--55
+insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+--56
+insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+--57
+insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+--58
+insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+--59
+insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+--60
+insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+--61
+insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+--62
+insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+--63
+insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+--64
+insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+--65
+insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+--66
+insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+--67
+insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+--68
+insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+--69
+insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+--70
+insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+--71
+insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+--72
+insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+--73
+insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+--74
+insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+--75
+insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+--76
+insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+--77
+insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+--78
+insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+--79
+insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+--80
+insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+--81
+insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+--82
+insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+--83
+insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+--84
+insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+--85
+insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+--86
+insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+--87
+insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+--88
+insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+--89
+insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+--90
+insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+--91
+insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+--92
+insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+--93
+insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+--94
+insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+--95
+insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+--96
+insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+--97
+insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+--98
+insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+--99
+insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+--100
+insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+--101
+insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+--102
+insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+--103
+insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+--104
+insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+--105
+insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
 
--- Tabela medicamento
-insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Abacavir, sulfato de', "00000000", 
+
+
+-- Tabela medicamento ======================================================================================================================================
+-- 1
+insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Abacavir, sulfato de', "00000000",
 'APRESENTAÇÃO
-• Comprimido 300 mg. • Solução oral 20 mg/mL 
-
-
-INDICAÇÃO
-• Tratamento de infecção por HIV, em combinação com outros antirretrovirais 
-
-
-CONTRAINDICAÇÕES
-• Hipersensibilidade ao abacavir. Em caso de reação de hipersensibilidade, suspender o tratamento e nunca fazer a re-exposição devido ao risco de hi- potensão grave e morte. • Insuficiência hepática moderada e grave (ver Apêndice C). 
-
+• Comprimido 300 mg
+• Solução oral 20 mg/mL 
 
 PRECAUÇÕES
-• Usar com cuidado nos casos de: – acidose lática e insuficiência hepática (suspender o tratamento se achados clínicos sugerirem acidose lática e hepatotoxicidade) (ver Apêndice C). – mulheres, principalmente obesas e em tratamentos prolongados (são mais propensas a desenvolver hepatopatia); utilizar abacavir em combinação com outros antirretrovirais. – insuficiência renal e risco de doenças cardiovasculares. • Categoria de risco na gravidez (FDA): C (ver Apêndice A). 
-
+• Usar com cuidado nos casos de: 
+    _ acidose lática e insuficiência hepática (suspender o tratamento se achados clínicos sugerirem acidose lática e hepatotoxicidade)
+    _ mulheres, principalmente obesas e em tratamentos prolongados (são mais propensas a desenvolver hepatopatia)
+    _ utilizar abacavir em combinação com outros antirretrovirais
+    _ insuficiência renal e risco de doenças cardiovasculares
+• Categoria de risco na gravidez (FDA)
 
 ESQUEMAS DE ADMINISTRAÇÃO
-Crianças de 3 meses a 16 anos • Dose de 8 mg/kg, por via oral, a cada 12 horas, em combinação com outros antirretrovirais. Dose máxima diária 600 mg. Adultos • Dose de 300 mg, por via oral, a cada 12 horas, ou 600 mg, por via oral, a cada 24 horas, em combinação com outros antirretrovirais. 
-
+• Crianças de 3 meses a 16 anos 
+    _ Dose de 8 mg/kg, por via oral, a cada 12 horas, em combinação com outros antirretrovirais. Dose máxima diária 600 mg
+• Adultos 
+    _ Dose de 300 mg, por via oral, a cada 12 horas, ou 600 mg, por via oral, a cada 24 horas, em combinação com outros antirretrovirais
 
 ASPECTOS FARMACOCINÉTICOS CLINICAMENTE RELEVANTES
-• Início de efeito: 4 semanas. • Pico de efeito: 0,7 a 1,7 horas. • Meia-vida: 1,0 a 1,5 horas. • Metabolismo: hepático, pela enzima álcool desidrogenase. • Excreção: renal (aproximadamente 83%) e fecal (16%). • Ligação a proteínas plasmáticas: 50%. 
-
+• Início de efeito: 4 semanas
+• Pico de efeito: 0,7 a 1,7 horas
+• Meia-vida: 1,0 a 1,5 horas
+• Metabolismo: hepático, pela enzima álcool desidrogenase
+• Excreção: renal (aproximadamente 83%) e fecal (16%)
+• Ligação a proteínas plasmáticas: 50%
 
 EFEITOS ADVERSOS
-• Náusea (7 a 19%), vômito (2 a 10%), diarreia (7%), dor abdominal (6%), gastrite (6 a 19%). • Acidose lática, hepatotoxicidade (6 a 8%), elevação das enzimas hepáticas AST e ALT (5 a 6%), pancreatite. • Reações de hipersensibilidade (2,3 a 9%) que podem ser fatais, síndrome de Stevens-Johnson (menos de 1%), exantema (5 a 6%), síndrome da reconstituição imune. • Insônia e outros distúrbios do sono (10%), depressão, ansiedade (5%), convulsão, cefaleia (7 a 13%), fadiga (7 a 12%). • Febre (6%). • Necrólise epidérmica tóxica. • Discrasias sanguíneas. • Anormalidades metabólicas tais como lipodistrofia, hipertrigliceridemia, hipercolesterolemia, resistância a insulina, hiperglicemia. • Distúrbios no sistema cardiovascular. 
-
+• Náusea (7 a 19%), vômito (2 a 10%), diarreia (7%), dor abdominal (6%), gastrite (6 a 19%)
+• Acidose lática, hepatotoxicidade (6 a 8%), elevação das enzimas hepáticas AST e ALT (5 a 6%), pancreatite
+• Reações de hipersensibilidade (2,3 a 9%) que podem ser fatais, síndrome de Stevens-Johnson (menos de 1%), exantema (5 a 6%), síndrome da reconstituição imune
+• Insônia e outros distúrbios do sono (10%), depressão, ansiedade (5%), convulsão, cefaleia (7 a 13%), fadiga (7 a 12%)
+• Febre (6%)
+• Necrólise epidérmica tóxica
+• Discrasias sanguíneas
+• Anormalidades metabólicas tais como lipodistrofia, hipertrigliceridemia, hipercolesterolemia, resistância a insulina, hiperglicemia
+• Distúrbios no sistema cardiovascular
 
 INTERAÇÕES MEDICAMENTOSAS
-• Etanol: aumento em 41% das concentrações de abacavir, devido a compe- tição pela via metabólica comum da álcool desidrogenase. O consumo de álcool durante o tratamento é contraindicado. • Metadona: diminuição dos níveis da metadona devido ao aumento de sua depuração. Monitorar sinais e sintomas e proceder ajuste de dose, se neces- sário. • Ribavirina: aumenta o risco de acidose lática potencialmente fatal. O uso concomitante deve ser realizado com cautela e apenas se o benefício superar o risco. • Tipranavir: diminuição dos níveis séricos do abacavir. Recomenda-se moni- torar os pacientes quanto a eficácia e proceder ajuste da dose. 
-
+• Etanol: aumento em 41% das concentrações de abacavir, devido a competição pela via metabólica comum da álcool desidrogenase. O consumo de álcool durante o tratamento é contraindicado
+• Metadona: diminuição dos níveis da metadona devido ao aumento de sua depuração. Monitorar sinais e sintomas e proceder ajuste de dose, se necessário
+• Ribavirina: aumenta o risco de acidose lática potencialmente fatal. O uso concomitante deve ser realizado com cautela e apenas se o benefício superar o risco
+• Tipranavir: diminuição dos níveis séricos do abacavir. Recomenda-se monitorar os pacientes quanto a eficácia e proceder ajuste da dose
 
 ORIENTAÇÕES AOS PACIENTES
-• Orientar que este medicamento pode ser ingerido com ou sem alimentos. • Orientar para não usar bebida alcoólica durante o tratamento. • Orientar para empregar métodos contraceptivos. • Reforçar orientações sobre prevenção da transmissão do HIV. • Orientar para o uso durante todo o tempoprescrito, mesmo que haja melho- ra dos sintomas com as primeiras doses. 
-
+• Orientar que este medicamento pode ser ingerido com ou sem alimentos
+• Orientar para não usar bebida alcoólica durante o tratamento
+• Orientar para empregar métodos contraceptivos
+• Reforçar orientações sobre prevenção da transmissão do HIV
+• Orientar para o uso durante todo o tempoprescrito, mesmo que haja melhora dos sintomas com as primeiras doses
 
 ASPECTOS FARMACEUTICOS
-• Manter à temperatura ambiente, entre 15 a 30 ºC. • A solução oral pode ser refrigerada, mas não congelada. 
-
+• Manter à temperatura ambiente, entre 15 a 30 ºC
+• A solução oral pode ser refrigerada, mas não congelada
 
 ATENÇÃO
 O sulfato de abacavir pode provocar reações graves de hiper-sensibilidade, potencialmente fatais, 
 que apresentam sintomas sistêmicos respiratórios e/ou gastrintestinais, em geral com febre e sem acometimento de mucosas .
 Sempre que houver qualquer suspeita dessas reações, o uso do medicamento deve ser imediatamente suspenso. 
-Se houver melhora após a retirada, sua reintrodução está contraindicada.', 'https://www.google.com.br/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwiN_rXEwZzUAhXKhZAKHUo3BUEQjRwIBw&url=https%3A%2F%2Fwww.tuasaude.com%2Fabacavir-ziagenavir%2F&psig=AFQjCNHWGFpAI5yy2_PMMACAsih7oL2NfA&ust=1496401863729294', 1);
+Se houver melhora após a retirada, sua reintrodução está contraindicada'
+, 'https://static.tuasaude.com/media/article/da/dc/abacavir-ziagenavir_19191_l.jpg', 1);
 
+--2
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Acetato de Medroxiprogesterona', "00000001", '
 APRESENTAÇÃO
 • Comprimido 2,5 e 10 mg. • Suspensão injetável 150 mg/mL. 
-
-
-INDICAÇÃO
-• Contracepção (injeção trimestral). • Distúrbios vasomotores da menopausa. • Endometriose. • Hemorragias uterinas. • Amenorreia secundária. 
 
 
 CONTRAINDICAÇÕES
@@ -99,17 +327,13 @@ ORIENTAÇÕES AOS PACIENTES
 
 ASPECTOS FARMACEUTICOS
 • Conservar à temperatura ambiente (15 a 30 ºC). Manter em recipientes hermeticamente fechados e ao abrigo da luz. 
-• Agitar bem, antes da utilização por via intramuscular.', 'http://linkimagem.com/img.png', 1);
+• Agitar bem, antes da utilização por via intramuscular.', 'http://www.hoyfarma.com/images/stories/virtuemart/product/depo%20provera.png', 1);
 
 
-                                                                                      
+--3                                                                                   
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Acetazolamida', "00000002",'
 APRESENTAÇÃO
 • Comprimido 250 mg
-
-
-INDICAÇÃO
-• Glaucoma de ângulo aberto crônico (adjuvante). • Glaucoma secundário. • Pré-operatório de glaucoma de ângulo fechado agudo. 
 
 
 CONTRAINDICAÇÕES
@@ -142,15 +366,12 @@ ORIENTAÇÕES AOS PACIENTES
 
 ASPECTOS FARMACEUTICOS
 • Armazenar à temperatura ambiente, entre 15 e 30 °C. Proteger do calor, da umidade e da luz direta. • Medicamentos produzidos por laboratórios diferentes só podem ser inter- cambiáveis quando houver informação sobre a bioequivalência. • Comprimidos de acetazolamida podem ser triturados. São relatadas prepa- rações extemporâneas a partir dos comprimidos, tanto sob forma de suspen- sões como de soluções (que devem ser tamponadas a pH 4,0). Trituram-se os comprimidos, suspendendo o pó resultante em xarope de gosto forte (cereja, framboesa, chocolate, etc). Pode suspender-se até 500 mg em 5 mL de xarope, mas uma suspensão que contenha 250 mg por 5 mL tem melhor palatabilida- de. Esta suspensão é estável por uma semana. A refrigeração pode melhorar o sabor, mas não aumenta a estabilidade. Os elixires ou outros veículos que contenham álcool ou glicerina não proporcionam suspensão de sabor palatável. O armazenamento deve ser feito entre 15 e 30 ºC e ao abrigo da luz direta. 
-', 'http://linkimagem.com/img.png', 1);                                                                                      
-                                                                                      
+', 'http://2.bp.blogspot.com/-sK0pCl6JZ4Q/VgFdrJ456FI/AAAAAAACBNg/3RJQezIAVbI/s1600/ACETAZOLAMIDA.jpg', 1);                                                                                      
+   
+--4
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Acido valproico (ou Valproato de sódio)',"00000003",
 'APRESENTAÇÃO
 • Comprimido ou cápsula 288 mg (equivalente a 250 mg ácido valproico). • Comprimido 576 mg (equivalente a 500 mg ácido valproico) • Solução oral ou xarope 57,624 mg/mL (equivalente a 50 mg de ácido valproico/mL) 
-
-
-INDICAÇÃO
-• Episódio convulsivo mioclônico e tônico-clônico. • Estado de ausência epiléptica, simples ou complexa. • Estado de grande mal epiléptico. • Mal epiléptico parcial complexo. • Transtorno afetivo bipolar (episódio maníaco) 
 
 
 CONTRAINDICAÇÕES
@@ -187,15 +408,13 @@ ASPECTOS FARMACEUTICOS
 
 ATENÇÃO
 ATENÇÃO: mortalidade por insuficiência hepática tem ocorrido em pacientes que fazem uso de valproato de sódio e outros derivados do ácido valproico. O risco de hepatotoxicidade fatal é maior em crianças com 2 anos e menos de idade, em pacientes que fazem uso concomitante de vários anticonvulsivantes, retardo mental ou doença orgânica de origem cerebral. Este risco diminui consideravelmente com a progressão da idade. Testes de função hepática devem ser realizados em todos os pacientes que irão receber valproato, e periodicamente nos primeiros seis meses de tratamento. Casos de pancreatite fulminante têm sido relatados com o uso de valproato, independente do período de uso e da idade do paciente. Este fármaco apresenta um número elevado de interações de medicamentos, por isso é necessário uma pesquisa específica sobre este aspecto ao avaliar a terapia com este fármaco.
-', 'http://linkimagem.com/img.png', 1);
+', 'http://www.disdroblan.com/images/vademecum/41-acido-valproico-250mg.png', 1);
 
+
+--5
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Albendazol',"00000004",
 'APRESENTAÇÃO
 • Comprimido mastigável 400 mg. • Suspensão oral 40 mg/mL. 
-
-
-INDICAÇÃO
-• Infestações helmínticas pelos nematódios Ascaris lumbricoides, Ancylostoma duodenale e Necator americanus, Larva migrans visceral, Larva migrans cutânea, Trichuris trichiura, Strongyloides stercoralis, Enterobius vermicularis, Trichinella spiralis, Wuchereria bancrofti. • Infestações helmínticas pelos cestódios Echinococcus granulosus (cisto hidá- tico), Taenia saginata, Taenia solium (neurocisticercose). • Giardia intestinalis (Giardia lamblia ou Giardia duodenalis). 
 
 
 CONTRAINDICAÇÕES
@@ -228,15 +447,12 @@ ORIENTAÇÕES AOS PACIENTES
 
 ASPECTOS FARMACEUTICOS
 • Armazenar os comprimidos em local seco, ao abrigo de luz e calor. 
-', 'http://linkimagem.com/img.png', 1);
+', 'https://t1.uc.ltmcdn.com/pt/images/8/4/3/img_albendazol_bula_17348_600.jpg', 1);
 
+--6
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Alopurinol',"00000005",
 'APRESENTAÇÃO
 • Comprimidos de 100 mg e 300 mg
-
-
-INDICAÇÃO
-• Profilaxia da gota. • Profilaxia de hiperuricemia associada à neoplasia. 
 
 
 CONTRAINDICAÇÕES
@@ -269,15 +485,13 @@ ORIENTAÇÕES AOS PACIENTES
 
 ASPECTOS FARMACEUTICOS
 • Os comprimidos devem ser armazenados em frascos bem fechados, à tempe- ratura entre 15 a 30 °C, em locais secos e protegidos da luz. • Preparação extemporânea: triturar comprimidos para fazer uma suspensão na concentração de 5 mg/mL em xarope simples; estável por 14 dias sob re- frigeração. 
-', 'http://linkimagem.com/img.png', 1);
+', 'https://2.bp.blogspot.com/-1nK_onyhyO0/VyI48meytpI/AAAAAAACNhw/8q7FGsfVpEMDzT-K5l7xtHS8hll7uzDvgCLcB/s1600/ALOPURINOL.jpg', 1);
 
+
+--7
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Amiodarona, cloridrato de',"00000006",
 'APRESENTAÇÃO
 • Comprimido de 200 mg. • Solução injetável 50 mg/mL 
-
-
-INDICAÇÃO
-• Arritmias supraventriculares • Fibrilação atrial • Taquicardia e fibrilação ventricular em parada cardíaca refratária a desfibri- lação 
 
 
 CONTRAINDICAÇÕES
@@ -314,15 +528,11 @@ ASPECTOS FARMACEUTICOS
 
 ATENÇÃO
 Amiodarona apresenta número elevado de interações de medicamentos, por isso é necessário uma pesquisa específica ao avaliar a terapia com este fármaco. Sinais/sintomas de toxicidade: alteração de ECG e PA, letargia, edema de mãos e pés, perda de peso, alterações na função pulmonar, hepática e da tireoide.
-', 'http://linkimagem.com/img.png', 1);
+', 'http://www.bulasderemedios.com/wp-content/uploads/2014/09/Cloridrato-de-Amiodarona-200mg.jpg', 1);
 
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Amitriptilina, cloridrato de',"00000007",
 'APRESENTAÇÃO
 • Comprimido 25 mg. 
-
-
-INDICAÇÃO
-• Transtornos e episódios de depressão maior, particularmente quando seda- ção é necessária. • Profilaxia de enxaqueca (tratamento intercrises). Contraindicações 1-3 • Enfarte do miocárdio recente, arritmias cardíacas. • Insuficiência hepática grave (ver apêndice C). • Fase maníaca do transtorno bipolar. • Porfiria. • Hipersensibilidade ao fármaco ou a outros antidepressivos tricíclicos. • Uso de inibidores da monoamina oxidase (IMAO) nos últimos 15 dias (a troca de um IMAO por tricíclico ou vice-versa deve guardar o intervalo mí- nimo de 15 dias). 
 
 
 CONTRAINDICAÇÕES
@@ -359,15 +569,11 @@ ASPECTOS FARMACEUTICOS
 
 ATENÇÃO
 ATENÇÃO: os efeitos terapêuticos podem demorar até 15 dias para se manifestar. Acompanhamento contínuo de pressão arterial e frequência cardíaca nas semanas iniciais.
-', 'http://linkimagem.com/img.png', 1);
+', 'http://1.bp.blogspot.com/-u2et5eZ5y-Y/Up4jYvPl80I/AAAAAAAAAGE/ZgnroXVNYPA/s1600/amitriti.jpg', 1);
 
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Amoxicilina',"00000008",
 'APRESENTAÇÃO
 • Cápsula ou comprimido 500 mg. • Pó para suspensão oral 50 mg/mL. 
-
-
-INDICAÇÃO
-• Tratamento de infecções causadas por microrganismos sensíveis no trato urinário e trato respiratório superior, incluindo bronquite, pneumonia, otite média, abscessos dentais e outras infecções orais, osteomielites, doença de Lyme, profilaxia pós-esplenotomia, infecções ginecológicas, antraz, infecções não-graves por Haemophilus influenzae e salmonelose invasiva. • Profilaxia de endocardite bacteriana. • Erradicação de Helicobacter pylori (esquema com claritromicina). 
 
 
 CONTRAINDICAÇÕES
@@ -400,15 +606,11 @@ ORIENTAÇÕES AOS PACIENTES
 
 ASPECTOS FARMACEUTICOS
 • Cada grama de amoxicilina sódica contém 2,6 mmol de sódio. • Armazenar cápsulas sob temperatura inferior a 20 ºC. Armazenar o compri- mido ou pó para suspensão oral (antes da reconstituição) sob temperatura até 25 ºC. Proteger de calor, umidade e luz direta. • Após reconstituição, a suspensão deve ser preferentemente mantida sob refrigeração (entre 2 e 8 ºC), mas também é estável à temperatura ambiente. Descartar 14 dias após a reconstituição. 
-', 'http://linkimagem.com/img.png', 1);
+', 'https://static.tuasaude.com/media/article/cb/bd/amoxicilina_19945_l.jpg', 1);
 
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Amoxicilina com Clavulanato de Potassio',"00000009",
 'APRESENTAÇÃO
 • Comprimido 500 mg + 125 mg. • Suspensão oral 50 mg + 12,5 mg/mL. 
-
-
-INDICAÇÃO
-• Infecções causadas por bactérias produtoras de betalactamase, originalmente sensíveis à amoxicilina.
 
 
 CONTRAINDICAÇÕES
@@ -441,15 +643,11 @@ ORIENTAÇÕES AOS PACIENTES
 
 ASPECTOS FARMACEUTICOS
 • Armazenar comprimidos abaixo de 25 ºC. Proteger de calor, umidade e luz direta. • Suspensão oral deve ser mantida sob refrigeração depois de reconstituída. Evitar congelamento. Descartar 10 dias depois de aberto o frasco. 
-', 'http://linkimagem.com/img.png', 1);
+', 'https://www.onofre.com.br/estatico/Produto/Normal/111848.jpg', 1);
 
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Anlodipino, besilato de',"000000010",
 'APRESENTAÇÃO
 • Comprimidos 5 mg e 10 mg. 
-
-
-INDICAÇÃO
-• Angina estável (profilaxia). • Hipertensão arterial sistêmica 
 
 
 CONTRAINDICAÇÕES
@@ -486,15 +684,11 @@ ASPECTOS FARMACEUTICOS
 
 ATENÇÃO
 Este fármaco apresenta número elevado de interações de medicamentos. Segurança e eficácia deste medicamento em menores de 6 anos ainda não foram estabelecidas . Sinal/sintoma de toxicidade: hipotensão, enrubescimento, cefaleia e edema periférico.
-', 'http://linkimagem.com/img.png', 1);
+', 'http://aumentesuasaude.com/wp-content/uploads/2015/06/Norvasc-besilato-de-anlodipino.jpg', 1);
 
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Atenolol',"000000011",
 'APRESENTAÇÃO
 • Comprimidos de 50 mg e 100 mg. 
-
-
-INDICAÇÃO
-• Cardiopatia isquêmica: enfarte agudo do miocárdio, angina. • Hipertensão arterial sistêmica: uso não recomendado para pacientes com mais de 60 anos, gravidas e aqueles com intervalo QT longo. 
 
 
 CONTRAINDICAÇÕES
@@ -531,15 +725,11 @@ ASPECTOS FARMACEUTICOS
 
 ATENÇÃO
 Atenolol é um betabloqueador cardiosseletivo sem atividadesimpaticomimética intrinseca e propriedades estabilizantes de membrana . Substituido pelo metoprolol no tratamento de arritmia . Em hipertensão não é recomendado para pacientes com mais de 60 anos, grávidas e aqueles com intervalo QT longo. A segurança e eficácia não está estabelecido em crianças
-', 'http://linkimagem.com/img.png', 1);
+', 'http://www.bulasimples.com.br/wp-content/uploads/2016/01/atenolol.png', 1);
 
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Azitromicina',"000000012",
 'APRESENTAÇÃO
 • Comprimido de 500 mg. • Pó para suspensão oral de 40 mg/mL. 
-
-
-INDICAÇÃO
-• Infecção genital por Chlamydia trachomatis não complicada. • Tracoma. • Profilaxia para endocardite em pacientes alérgicos a penicilina ou em criança em substituição a clindamicina. 
 
 
 CONTRAINDICAÇÕES
@@ -572,15 +762,11 @@ ORIENTAÇÕES AOS PACIENTES
 
 ASPECTOS FARMACEUTICOS
 • Manter ao abrigo de luz e calor. • Suspensão: manter à temperatura entre 5 e 30 °C após reconstituição. Descartar após 10 dias. • Comprimidos: manter à temperatura entre 15 e 30 °C. 
-', 'http://linkimagem.com/img.png', 1);
+', 'https://static.tuasaude.com/media/article/bd/ca/azitromicina-azi_19062_l.jpg', 1);
 
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Beclometasona, dipropionato',"000000013",
 'APRESENTAÇÃO
 • Pó, solução inalante ou aerossol 50, 200 e/ou 250 microgramas/dose. • Aerossol nasal 50 microgramas (equivalente a 42 microgramas de beclometasona/dose). 
-
-
-INDICAÇÃO
-• Asma leve persistente, moderada ou grave sem controle adequado com beta-agonista inalante de curta duração (inalante). • Rinite alérgica moderada a grave (aerossol nasal). • Rinite não alérgica (aerossol nasal). 
 
 
 CONTRAINDICAÇÕES
@@ -613,15 +799,11 @@ ORIENTAÇÕES AOS PACIENTES
 
 ASPECTOS FARMACEUTICOS
 • Armazenar as formas aerossol a temperaturas entre 15 e 30 ºC. Há risco de explosão do frasco aerossol quando exposto a temperaturas acima de 50 ºC. • Armazenar as cápsulas com o pó à temperatura ambiente, entre 15 e 30 ºC. Manter em frascos bem fechados e proteger da umidade. O frasco deve ser aberto e a cápsula inserida no dispensador somente no momento do uso. 
-', 'http://linkimagem.com/img.png', 1);
+', 'http://antiinflamatorios.com.br/wp-content/uploads/2014/11/Dipropionato-de-Beclometasona.jpg', 1);
 
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Benzilpenicilina Benzatina',"000000014",
 'APRESENTAÇÃO
 • Pó para suspensão injetável de 600.000 UI e 1.200.000 UI. 
-
-
-INDICAÇÃO
-• Faringite estreptocócica, difteria, sífilis e outras infecções treponêmicas, profilaxia de febre reumática. 
 
 
 CONTRAINDICAÇÕES
@@ -654,15 +836,11 @@ ORIENTAÇÕES AOS PACIENTES
 
 ASPECTOS FARMACEUTICOS
 • Armazenar a temperaturas entre 15 e 30 °C. • Armazenar a suspensão reconstituída sob refrigeração, entre 2 e 8 °C. • Não administrar por via intravenosa: via associada a parada cardiorespiratória e morte. • Administrar por via intramuscular profunda, longe de artérias e nervos. 
-', 'http://linkimagem.com/img.png', 1);
+', 'http://cidadeverde.com/assets/uploads/noticias/a5c5952e19d9501c729487ecb30bc001.jpg', 1);
 
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Biperideno (cloridrato/lactato)',"000000015",
 'APRESENTAÇÃO
 • Comprimido 2 mg (cloridrato de biperideno) • Solução injetável 5 mg/mL (lactato de biperideno) 
-
-
-INDICAÇÃO
-• Distúrbios motores decorrentes do uso de neurolépticos 
 
 
 CONTRAINDICAÇÕES
@@ -695,15 +873,11 @@ ORIENTAÇÕES AOS PACIENTES
 
 ASPECTOS FARMACEUTICOS
 • Conservar sob temperatura ambiente, entre 15 e 30 ºC, em recipientes bem fechados e ao abrigo da luz. Evitar o congelamento. 
-', 'http://linkimagem.com/img.png', 1);
+', 'http://www.pesquisemedicamentos.com.br/uploads/_thumb/medicamentos/akineton%20retard%2030cpr.jpg', 1);
 
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Budesonida',"000000016",
 'APRESENTAÇÃO
 • Aerossol nasal 50 microgramas (equivale a 32 microgramas de budesonida por dose). 
-
-
-INDICAÇÃO
-• Rinite alérgica moderada a grave. • Rinite não alérgica. 
 
 
 CONTRAINDICAÇÕES
@@ -736,15 +910,11 @@ ORIENTAÇÕES AOS PACIENTES
 
 ASPECTOS FARMACEUTICOS
 • Armazenar as formas aerossol a temperaturas entre 15 e 30 ºC. Há risco de explosão do frasco com aerossol quando exposto a temperaturas acima de 50ºC. Manter ao abrigo da luz. Não congelar. 
-', 'http://linkimagem.com/img.png', 1);
+', 'http://www.bulasimples.com.br/wp-content/uploads/2017/02/busonid-aerossol-nasal-bula-simples.jpg', 1);
 
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Bupropiona, cloridrato',"000000017",
 'APRESENTAÇÃO
 • Comprimido de 150 mg 
-
-
-INDICAÇÃO
-• Tratamento adjuvante na cessação do tabagismo. 
 
 
 CONTRAINDICAÇÕES
@@ -777,16 +947,12 @@ ORIENTAÇÕES AOS PACIENTES
 
 ASPECTOS FARMACEUTICOS
 • Manter ao abrigo de luz e à temperatura ambiente, entre 15 e 30 ºC. 
-', 'http://linkimagem.com/img.png', 1);
+', 'http://www.nursing.com.br/wp-content/uploads/2017/03/cloridrato-de-bupropiona.jpg', 1);
 
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Calcitriol',"000000018",
 'APRESENTAÇÃO
 • Cápsula 0,25 microgramas 
-
-
-INDICAÇÃO
-• Hipocalcemia em hipoparatireoidismo e pseudohipoparatireoidismo. • Hipocalcemia em pacientes sob diálise renal crônica. • Hiperparatireoismo secundário em pacientes com insuficiência renal crônica moderada a grave. • Tratamento e prevenção da osteoporose (uso restrito para pacientes com in- suficiência renal). 
-
+										      
 
 CONTRAINDICAÇÕES
 • Hipercalcemia. • Hipersensibilidade a calcitriol. • Hipervitaminose D. • Calcificação metastática. 
@@ -822,15 +988,11 @@ ASPECTOS FARMACEUTICOS
 
 ATENÇÃO
 Sinonímia: 1,25-dihidroxicolecalciferol, vitamina D3 ativa.
-', 'http://linkimagem.com/img.png', 1);
+', 'http://3.bp.blogspot.com/_0sQsHYMz_jQ/SKyrnd-PLBI/AAAAAAAAAJ8/98pxmOmPFbY/s400/calcitriol.jpg', 1);
 
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Captopril',"000000019",
 'APRESENTAÇÃO
 • Comprimido 25 mg. 
-
-
-INDICAÇÃO
-• Urgência hipertensiva 
 
 
 CONTRAINDICAÇÕES
@@ -863,15 +1025,11 @@ ORIENTAÇÕES AOS PACIENTES
 
 ASPECTOS FARMACEUTICOS
 • Armazenar entre 15 e 30 °C, proteger do calor, umidade e luz direta. • Comprimidos podem apresentar leve odor sulfuroso. • Existe descrita formulação extemporânea para uso em criança. 
-', 'http://linkimagem.com/img.png', 1);
+', 'http://www.acritica.com/uploads/news/image/36862/show_1.jpg', 1);
 
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Carbamazepina',"000000020",
 'APRESENTAÇÃO
 • Comprimido 200 mg. • Suspensão oral 20 mg/mL. 
-
-
-INDICAÇÃO
-• Crises convulsivas parciais simples e complexas (primeira escolha) e secundariamente generalizadas. • Convulsões tônico-clônicas generalizadas. • Transtorno bipolar, durante a latência ou em ausência de resposta ou intolerância ao lítio. 
 
 
 CONTRAINDICAÇÕES
@@ -908,15 +1066,11 @@ ASPECTOS FARMACEUTICOS
 
 ATENÇÃO
 Antes do início e durante o tratamento, a cada 6 meses, devem ser realizados hemograma (especialmente plaquetas e reticulócitos), ferro plasmático e testes de função hepática . Este medicamento possui um número elevado de interações de medicamentos: avaliar em particular cada uma .
-', 'http://linkimagem.com/img.png', 1);
+', 'http://3.bp.blogspot.com/-_5zgCqiB43U/VM5qUzZw0ZI/AAAAAAAABhI/LaYvhlXFmUw/s1600/pro116.png', 1);
 
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Carvedilol',"000000021",
 'APRESENTAÇÃO
 • Comprimido 3,125 mg, 6,25 mg, 12,5 mg e 25 mg. 
-
-
-INDICAÇÃO
-• Insuficiência cardíaca congestiva (ICC). 
 
 
 CONTRAINDICAÇÕES
@@ -953,15 +1107,11 @@ ASPECTOS FARMACEUTICOS
 
 ATENÇÃO
 Início do efeito na ICC após 3 meses; não é tratamento de emergência .
-', 'http://linkimagem.com/img.png', 1);
+', 'https://multifarmas-prod-env.s3.amazonaws.com/api/media/product/carvedilol-25-mg-com-bl-al-plas-bco-30/img/carvedilol-25-mg-com-bl-al-plas-bco-30.jpg', 1);
 
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Ciprofloxacino, cloridrato',"000000022",
 'APRESENTAÇÃO
 • Comprimido 500 mg. • Solução injetável 2 mg/mL. 
-
-
-INDICAÇÃO
-• Infecções causadas por bacilos gram-negativos aeróbios sensíveis a ciprofloxacino (infecções urinárias complicadas, geniturinárias, respiratórias, sinusite, cutâneas e de tecidos moles, ósseas e articulares, intra-abdominais – junto com metronidazol). 
 
 
 CONTRAINDICAÇÕES
@@ -994,15 +1144,11 @@ ORIENTAÇÕES AOS PACIENTES
 
 ASPECTOS FARMACEUTICOS
 • Comprimidos: Armazenar a temperatura ambiente, 15 a 25 ºC, e proteger da luz. • Solução injetável: Armazenar em local fresco, 8 a 15 ºC, ou a temperatura ambiente, 15 a 25 ºC, e proteger da luz. Não congelar. Medicamento fotos- sensível. • Observar orientação específica do produtor quanto a diluição, compatibilidade e estabilidade da solução. • Ciprofloxacino injetável é compatível com soro fisiológico 0,9%, soluções de Ringer e Ringer + lactato, soluções de glicose a 5% e 10%, solução de frutose a 10% e solução de glicose a 5% com 0,225% ou 0,45% de cloreto de sódio. • Administrar logo depois do preparo. • Incompatível com heparina. 
-', 'http://linkimagem.com/img.png', 1);
+', 'http://www.bulasimples.com.br/wp-content/uploads/2016/10/9818610.jpg', 1);
 
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Clindamicina (cloridrato/fosfato)',"000000023",
 'APRESENTAÇÃO
 • Cloridrato de clindamicina: cápsula de 150 e 300 mg • Fosfato de clindamicina: solução injetável de 150 mg/mL 
-
-
-INDICAÇÃO
-• Infecções causadas por bactérias anaeróbias e aeróbias gram positivas. • Pneumocistose. • Malária por Plasmodium falciparum (em esquema com derivados da artemisinina ou dicloridrato de quinina). • Toxoplasmose. • Profilaxia de endocardite bacteriana em pacientes alérgicos às penicilinas. 
 
 
 CONTRAINDICAÇÕES
@@ -1035,15 +1181,11 @@ ORIENTAÇÕES AOS PACIENTES
 
 ASPECTOS FARMACEUTICOS
 • Armazenar a cápsula e a solução injetável a temperatura de 20 a 25°C. • Observar orientação específica do produtor quanto a diluição, compatibilidade e estabilidade da solução. • Ao usar pela via intravenosa, a concentração final não deve exceder 18 mg/ mL. Nunca administrar a solução em bolo. • Solução injetável compatível com solução fisiológica 0,9%, glicose 5% e Ringer + lactato por 8 semanas a 10 °C, 32 dias a 4 °C e 16 dias a 25 °C, quando acondicionada em recipiente de vidro ou PVC. • Incompatível com: ampicilina, aminofilina, barbitúricos, gliconato de cálcio, ceftriaxona, idarrubicina, sulfato de magnésio, fenitoína, filgrastim, fluconazol, alopurinol e ranitidina. 
-', 'http://linkimagem.com/img.png', 1);
+', 'https://www.onofre.com.br/estatico/Produto/Normal/119920.jpg', 1);
 
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Clomipramina, cloridrato',"000000024",
 'APRESENTAÇÃO
 • Comprimido 10 e 25 mg. 
-
-
-INDICAÇÃO
-• Depressão. • Distúrbios do pânico, associados ou não a agorafobia. • Transtorno obsessivo-compulsivo. 
 
 
 CONTRAINDICAÇÕES
@@ -1081,15 +1223,11 @@ ASPECTOS FARMACEUTICOS
 ATENÇÃO
 Os efeitos terapêuticos podem demorar de 15 a 21 dias para se manifestar. Acompanhamento contínuo de pressão arterial e frequência cardíaca nas semanas iniciais. Não há informação quanto à eficácia e segurança em crianças e adolescentes. Este fármaco apresenta um número muito elevado de interações com medicamentos, sendo necessária uma pesquisa específica sobre este aspecto antes de introduzir ou descontinuar a clomipramina ou outros medicamentos no esquema do paciente.
 
-', 'http://linkimagem.com/img.png', 1);
+', 'http://alceniguerra.com.br/wp-content/uploads/2014/08/cloridrato-de-clomipramina.png', 1);
 
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Clonazepam',"000000025",
 'APRESENTAÇÃO
 • Solução oral 2,5 mg/mL 
-
-
-INDICAÇÃO
-• epilepsia em crianças (epilepsia mioclônica grave na infância, epilepsia mio- clônica juvenil e síndrome de Gasteaut-Lennox; tratamento de segunda es- colha). 
 
 
 CONTRAINDICAÇÕES
@@ -1126,15 +1264,11 @@ ASPECTOS FARMACEUTICOS
 
 ATENÇÃO
 Clonazepam é medicamento de segunda linha para a indicação apontada . Como os demais benzodiazepínicos, causa dependência física .
-', 'http://linkimagem.com/img.png', 1);
+', 'http://257cu52hn58148zsaf2jma2c-wpengine.netdna-ssl.com/wp-content/uploads/2016/05/Clonazepam.jpg', 1);
 
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Clorpromazina, cloridrato',"000000026",
 'APRESENTAÇÃO
 • Comprimido de 25 mg e 100 mg. • Solução oral 40 mg/mL. • Solução injetável 5 mg/mL. 
-
-
-INDICAÇÃO
-• Esquizofrenia e outros transtornos psicóticos. • Controle de agitação psicomotora, fase aguda de mania em transtorno bi- polar, para estabilizar o paciente até que se observem os benefícios do lítio, e em síndromes demenciais, intoxicações exógenas ou síndromes cerebrais orgânicas. • Sedação de pacientes clínicos em ventilação mecânica, quando em surtos psicóticos associados a doença grave. 
 
 
 CONTRAINDICAÇÕES
@@ -1171,15 +1305,11 @@ ASPECTOS FARMACEUTICOS
 
 ATENÇÃO
 Após injeção intramuscular o paciente deve permanecer deitado e sua pressão arterial deve ser monitorada por 30 minutos . Este medicamento apresenta interações com um grande número de fármacos, com destaque para as interações que podem resultar em aumento do risco de cardiotoxicidade . Assim, uma consulta à literatura específica deve ser realizada antes de incluir este ou outros medicamentos no esquema terapêutico do paciente . 
-', 'http://linkimagem.com/img.png', 1);
+', 'http://appsisecommerces3.s3.amazonaws.com/clientes/cliente4241/produtos/33573/Z5329.jpg', 1);
 
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Dapsona',"000000027",
 'APRESENTAÇÃO
 Apresentação • Comprimido de 50 mg e 100 mg. 
-
-
-INDICAÇÃO
-Indicações • Tratamento da hanseníase paucibacilar e multibacilar. 
 
 
 CONTRAINDICAÇÕES
@@ -1212,15 +1342,11 @@ Orientações aos pacientes • Orientar para ingerir com alimento para reduzir 
 
 ASPECTOS FARMACEUTICOS
 Aspectos farmacêuticos • Manter na embalagem original, bem fechada, ao abrigo do ar, luz e umidade e à temperatura de 15 a 30 ºC. 
-', 'http://linkimagem.com/img.png', 1);
+', 'https://3.bp.blogspot.com/-rhyrHDQctAw/V6t3DMJ6d8I/AAAAAAAAM64/AvrhRwi6pVETo7ZOfmDoPN84DXigP4iEQCLcB/s1600/92.jpg', 1);
 
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Dexametasona e Acetato de Dexametasona',"000000028",
 'APRESENTAÇÃO
 Apresentações • Comprimido 4 mg • Creme 0,1% (acetato) • Colírio 0,1% 
-
-
-INDICAÇÃO
-Indicações • Náusea e vômito induzidos por quimioterapia antineoplásica. • Diagnóstico da síndrome de Cushing. • Adjuvante do tratamento de meningite tuberculosa. • Triquinose com envolvimento neurológico e/ou miocárdico. • Micose fungoide. • Doenças inflamatórias do sistema musculoesquelético. • Púrpura trombocitopênica idiopática. • Hipercalcemia devido a câncer. • Neutropenia induzida por fármacos. • Exacerbação de esclerose múltipla. • Doenças respiratórias graves. • Doenças hematopoieticas autoimunes. • Insuficiência andrenocortical primária ou secundária; hiperplasia suprarre- nal congênita. • Exacerbação de doenças inflamatórias intestinais. • Dermatites e dermatoses (administração oral ou dermatológica). • Doenças inflamatórias e/ou alérgicas de natureza crônica ou aguda grave dos olhos (administração oral ou oftálmica). • Otite externa alérgica e/ou inflamatória. 
 
 
 CONTRAINDICAÇÕES
@@ -1257,15 +1383,11 @@ Aspecto farmacêutico • Manter todas as apresentações listadas em recipiente
 
 ATENÇÃO
 ATENÇÃO: a descontinuação deste medicamento após uso prolongado deve ser feita de forma gradual. Efeitos adversos sistêmicos associam-se ao uso do medicamento além de uma semana após sua descontinuação.
-', 'http://linkimagem.com/img.png', 1);
+', 'http://remediando.com.br/wp-content/uploads/2016/10/Dexametasona-300x200.jpg', 1);
 
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Diazepam',"000000029",
 'APRESENTAÇÃO
 Apresentações • Comprimido de 5 mg • Solução injetável 5 mg/mL 
-
-
-INDICAÇÃO
-Indicações • Adjuvante na anestesia geral (fase de pré-anestesia). • Tratamento do estado de mal epiléptico. • Ansiedade generalizada e insônia transitória (tratamento de curta duração). 
 
 
 CONTRAINDICAÇÕES
@@ -1302,15 +1424,11 @@ Aspectos farmacêuticos • Todas as formas farmacêuticas devem ser mantidas ao
 
 ATENÇÃO
 ATENÇÃO: este fármaco apresenta um número elevado de interações de medicamentos, por isto deve ser realizada pesquisa específica sobre este aspecto antes de introduzir ou descontinuar o diazepam ou outros medicamentos no esquema terapêutico do paciente.
-', 'http://linkimagem.com/img.png', 1);
+', 'http://itech.dickinson.edu/chemistry/wp-content/uploads/2008/04/v10all.jpg', 1);
 
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Digoxina',"000000030",
 'APRESENTAÇÃO
 Apresentações • Comprimido 0,25 mg. • Elixir 0,05 mg/mL. 
-
-
-INDICAÇÃO
-Indicações • Insuficiência cardíaca congestiva. • Taquicardias supraventriculares (particularmente fibrilação atrial). 
 
 
 CONTRAINDICAÇÕES
@@ -1347,15 +1465,11 @@ Aspectos farmacêuticos • Manter à temperatura entre 15 a 30 ºC. • Armazen
 
 ATENÇÃO
 ATENÇÃO: digoxina apresenta um número elevado de interações de medicamentos, por isso é necessária uma pesquisa específica quanto a este aspecto antes de introduzir ou descontinuar a digoxina ou outro medicamento no esquema do paciente. Idosos podem apresentar intoxicação digitálica em função do decréscimo da função renal e redução da massa muscular .
-', 'http://linkimagem.com/img.png', 1);
+', 'https://marcioantoniassi.files.wordpress.com/2015/06/digoxina-1.jpg', 1);
 
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Doxiciclina, cloridrato',"000000031",
 'APRESENTAÇÃO
 Apresentação • Comprimido 100 mg 
-
-
-INDICAÇÃO
-Indicações • Infecções causadas por Rickettsia, Chlamidia (psitacose, ornitose, tracoma, doença inflamatória pélvica, uretrite, salpingite, linfogranuloma venéreo, conjuntivite e prostatite) e Mycoplasma • Tratamento alternativo de sífilis e gonorreia em paciente alérgico à penicilina. • Peste (Yersinia pestis). • Granuloma inguinal (Calymatobacterium granulomatis). • Brucelose (Brucella spp). • Cólera (Vibrio cholerae). • Primeira escolha para quimioprofilaxia em viajantes que visitarão regiões de alto risco de transmissão de Plasmodium falciparum na Amazônia Legal, que permanecerão na região por tempo maior que o período de incubação da doença (e com duração inferior a seis meses) e em locais cujo acesso ao diagnóstico e tratamento de malária estejam a mais de 24 horas. • Tratamento de segunda escolha de malária por Plasmodium falciparum 
 
 
 CONTRAINDICAÇÕES
@@ -1393,15 +1507,11 @@ Aspectos farmacêuticos • Armazenar a temperatura ambiente (de 15 a 30 ºC). P
 ATENÇÃO
 ATENÇÃO: no Brasil, onde a malária tem baixa incidência e há predomínio de Plasmodium vivax em toda a árATENÇÃO: no Brasil, onde a malária tem baixa incidência e há predomínio de Plasmodium vivax em toda a área endêmica, deve-se lembrar que a eficácia da profilaxia para essa espécie de Plasmodium é baixa, não devendo ser recomendadaea endêmica, deve-se lembrar que a eficácia da profilaxia para essa espécie de Plasmodium é baixa, não devendo ser recomendada
 
-', 'http://linkimagem.com/img.png', 1);
+', 'http://www.cliquefarma.com.br/blog/wp-content/uploads/2015/07/Doxiciclina.jpg', 1);
 
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Espironolactona',"000000032",
 'APRESENTAÇÃO
 Apresentação • Comprimidos de 25 mg e 100 mg. 
-
-
-INDICAÇÃO
-Indicações • Insuficiência cardíaca congestiva grave. • Edema e ascite associados à cirrose. • Síndrome nefrótica. • Diagnóstico e tratamento de hiperaldosteronismo primário. • Hipopotassemia induzida por diuréticos espoliadores de potássio. 
 
 
 CONTRAINDICAÇÕES
@@ -1438,15 +1548,11 @@ Aspectos farmacêuticos • Armazenar à temperatura ambiente (entre 15 e 25 ºC
 
 ATENÇÃO
 ATENÇÃO: monitorar potássio sérico regularmente
-', 'http://linkimagem.com/img.png', 1);
+', 'https://static.tuasaude.com/img/co/mo/como-usar-a-espironolactona-1-640-427.jpg', 1);
 
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Estearato de eritromicina',"000000033",
                                                                                       'APRESENTAÇÃO
 Apresentações • Cápsula ou comprimido 500 mg. • Suspensão oral 50 mg/mL. 
-
-
-INDICAÇÃO
-Indicações • Alternativa para pacientes hipersensíveis à penicilina, no tratamento de infecções do trato respiratório, infecções orais, sífilis, cancro mole, clamídia, conjuntivite neonatal por clamídia, uretrite não gonocócica, prostatite, linfogranuloma venéreo, enterite por Campylobacter, febre recorrente, infecções da pele, difteria (tratamento e profilaxia), profilaxia de coqueluche e febre quartã em crianças. 
 
 
 CONTRAINDICAÇÕES
@@ -1483,15 +1589,11 @@ Aspectos farmacêuticos • Manter os comprimidos ao abrigo de luz, calor e umid
 
 ATENÇÃO
 ATENÇÃO: este fármaco apresenta um número elevado de interações de medicamentos, por isto deve ser realizada pesquisa específica sobre este aspecto antes de introduzir ou descontinuar a eritromicina ou outros medicamentos no esquema terapêutico do paciente 
-', 'http://linkimagem.com/img.png', 1);
+', 'http://www.inpharma.cv/uploads/.produtos/53/IMG_6718%20copy.jpg', 1);
 
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Estriol',"000000034",
                                                                                       'APRESENTAÇÃO
 Apresentação • Creme vaginal 1 mg/g. 
-
-
-INDICAÇÃO
-Indicação • Sintomas urogenitais decorrentes de atrofia vaginal pós-menopausa. 
 
 
 CONTRAINDICAÇÕES
@@ -1524,15 +1626,11 @@ Orientação às pacientes • A dose da forma vaginal é dada pelo aplicador qu
 
 ASPECTOS FARMACEUTICOS
 Aspecto farmacêutico • Armazenar à temperatura ambiente, de 15 a 30 ºC. Manter ao abrigo do ar e da luz. 
-', 'http://linkimagem.com/img.png', 1);
+', 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtm8Na1XbghNbIe60ogOe9m62qLW2SqqRTY_WcaOKbQ7kdGwWX', 1);
 
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Etambutol, cloridrato',"000000035",
                                                                                       'APRESENTAÇÃO
 Apresentações • Comprimido de 400 mg. • Solução oral 25 mg/mL. 
-
-
-INDICAÇÃO
-Indicação • Tratamento de tuberculose quando há intolerância a rifampicina ou a isoniazida ou a pirazinamida. 
 
 
 CONTRAINDICAÇÕES
@@ -1569,15 +1667,11 @@ Aspectos farmacêuticos • Deve ser mantido em sua embalagem original, bem fech
 
 ATENÇÃO
 ATENÇÃO: como sinonímia para etambutol (nome correspondente à Denominação Comum Brasileira) também é empregada a abreviatura E, entretanto, não se recomenda a prescrição de fármacos por abreviaturas ou siglas .
-', 'http://linkimagem.com/img.png', 1);
+', 'http://www.antibiotice.ro/wp-content/uploads/2015/07/etambutol_400.png', 1);
 
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Etinilestradiol com Levonorgestrel',"000000036",
                                                                                       'APRESENTAÇÃO
 Apresentação • Comprimido 0,03 mg + 0,15 mg. 
-
-
-INDICAÇÃO
-Indicação • Contracepção. 
 
 
 CONTRAINDICAÇÕES
@@ -1610,16 +1704,12 @@ Orientações às pacientes • Alertar a importância de obedecer rigorosamente
 
 ASPECTOS FARMACEUTICOS
 Aspecto farmacêutico • Armazenar à temperatura ambiente, entre 15 a 30 ºC. Manter ao abrigo do ar e luz. 
-', 'http://linkimagem.com/img.png', 1);
+', 'http://www.fahorro.com/media/catalog/product/cache/1/image/1280x1280/9df78eab33525d08d6e5fb8d27136e95/7/5/7502223704169.jpg', 1);
 
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Fluconazol',"000000037",
                                                                                       '
 APRESENTAÇÃO
 Apresentações • Cápsula 100 mg e 150 mg. • Solução injetável 2 mg/mL. • Pó para suspensão oral 10 mg/mL 
-
-
-INDICAÇÃO
-Indicações • Candidemia • Candidíase disseminada • Candidíase de vias urinárias. • Candidíase esofágica • Candidíase orofaríngea (tratamento em pacientes com HIV). • Candidíase vulvovaginal. • Coccidiomicose (profilaxia e tratamento em pacientes com HIV) • Criptococose pulmonar (tratamento em pacientes com HIV) • Meningite criptocócica • Prevenção de infecções fúngicas em pacientes submetidos a transplante de medula óssea. 
 
 
 CONTRAINDICAÇÕES
@@ -1656,15 +1746,11 @@ Aspectos farmacêuticos • Armazenar a cápsula e o pó para suspensão sob tem
 
 ATENÇÃO
 ATENÇÃO: este fármaco apresenta um número muito elevado de interações de medicamentos, sendo necessária uma pesquisa específica sobre este aspecto antes de introduzir ou descontinuar o fluconazol ou outros medicamentos no esquema do paciente .
-', 'http://linkimagem.com/img.png', 1);
+', 'http://www.nursing.com.br/wp-content/uploads/2016/08/fluconazol-comrpimidos.jpg', 1);
 
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Fluoxetina, cloridrato',"000000038",
                                                                                       'APRESENTAÇÃO
 Apresentação • Cápsula ou comprimido 20 mg. 
-
-
-INDICAÇÃO
-Indicações • Transtorno depressivo. • Transtorno obsessivo compulsivo (TOC). 
 
 
 CONTRAINDICAÇÕES
@@ -1701,15 +1787,11 @@ Aspectos farmacêuticos • Armazenar em recipiente hermético, à temperatura a
 
 ATENÇÃO
 ATENÇÃO: este fármaco apresenta um número elevado de interações de medicamentos e deve ser realizada uma pesquisa específica sobre este aspecto ao introduzir ou descontinuar este ou outros medicamentos no esquema terapêutico do paciente . Em pacientes com doença recidivante, a terapia por longos períodos (mínimo de 6 meses) deve ser considerada . Pacientes devem ser monitorados quando encerrado o tratamento . É recomendada diminuição gradual da dose . 
-', 'http://linkimagem.com/img.png', 1);
+', 'http://emagrecer.eco.br/wp-content/uploads/2015/11/Cloridrato-de-Fluoxetina-Prozac1.jpg', 1);
 
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Furosemida',"000000039",
                                                                                       'APRESENTAÇÃO
 Apresentações • Comprimido 40 mg • Solução injetável 10 mg/mL • Solução oral 10 mg/mL 
-
-
-INDICAÇÃO
-Indicações • Edema refratário a outros diuréticos, de diversas causas. • Edema agudo de pulmão. • Edema em insuficiência renal crônica 
 
 
 CONTRAINDICAÇÕES
@@ -1746,15 +1828,11 @@ Aspectos farmacêuticos • O armazenamento da formulação oral e parenteral de
 
 ATENÇÃO
 ATENÇÃO: este fármaco apresenta um número elevado de interações de medicamentos, sendo necessário realizar pesquisa específica sobre este aspecto, antes de introduzir ou descontinuar furosemida ou outros medicamentos no esquema terapêutico do paciente . Atentar para risco aumentado de ototoxicidade com uso simultâneo de outros fármacos ototóxicos. Sinal de distúrbio hidreletrolítico: cefaleia, hipotensão, cãibra, xerostomia, sede, fraqueza, letargia, tontura, arritmia, oligúria e distúrbio 
-', 'http://linkimagem.com/img.png', 1);
+', 'http://www.dietaja.org/wp-content/uploads/2015/03/furosemida-40mg-20-comprimidos-teuto-farmacia-robinho__37215_zoom.jpg', 1);
 
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Glibenclamida',"000000040",
                                                                                       'APRESENTAÇÃO
 Apresentação • Comprimido 5 mg. 
-
-
-INDICAÇÃO
-Indicação • Tratamento de diabete melito tipo 2. 
 
 
 CONTRAINDICAÇÕES
@@ -1791,15 +1869,11 @@ Aspecto farmacêutico • Armazenar à temperatura ambiente, entre 15 a 30 ºC. 
 
 ATENÇÃO
 ATENÇÃO: como sinonímia para a glibenclamida (Denominação Comum Brasileira) é utilizado ocasionalmente o nome gliburida . Entretanto, não se recomenda a prescrição de fármacos por outros nomes que não a denominação oficial no país .
-', 'http://linkimagem.com/img.png', 1);
+', 'http://www.drogariaminasbrasil.com.br/media/catalog/product/8/2/8286_original.jpg', 1);
 
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Gliclazida',"000000041",
                                                                                       'APRESENTAÇÃO
 Apresentações • Comprimido 30 mg (liberação controlada) • Comprimido 80 mg. 
-
-
-INDICAÇÃO
-Indicação • Tratamento de diabete melito tipo 2. 
 
 
 CONTRAINDICAÇÕES
@@ -1832,15 +1906,11 @@ Orientações aos pacientes • Orientar para a necessidade de administrar o med
 
 ASPECTOS FARMACEUTICOS
 Aspecto farmacêutico • Armazenar à temperatura ambiente, de 15 a 30 ºC. Manter ao abrigo do ar e luz. 
-', 'http://linkimagem.com/img.png', 1);
+', 'http://www.actasanitaria.com/wp-content/uploads/2014/09/gliclazida-cinfa-efg.jpg', 1);
 
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Haloperidol e Decanoato de Haloperidol',"000000042",
                                                                                       'APRESENTAÇÃO
 Apresentações Haloperidol • Comprimidos de 1 mg e 5 mg. • Solução oral 2 mg/mL. • Solução injetável 5 mg/mL. Decanoato de haloperidol • Solução injetável com 50 mg/mL (forma injetável de depósito). 
-
-
-INDICAÇÃO
-Indicações • Manifestações agudas de esquizofrenia e transtornos psicóticos. • Manutenção do controle em esquizofrenia e transtornos psicóticos. • Manutenção do controle em pacientes psicóticos sem adesão a tratamento oral (decanoato de haloperidol). 
 
 
 CONTRAINDICAÇÕES
@@ -1873,15 +1943,11 @@ Orientações aos pacientes • Orientar para evitar o uso de bebidas alcoólica
 
 ASPECTOS FARMACEUTICOS
 Aspectos farmacêuticos • Conservar a temperaturas entre 15 e 30 ºC, em recipientes bem fechados e ao abrigo da luz. • Evitar o congelamento das formas líquidas. Não refrigerar a forma injetável de deposição. • Observar orientação específica do produtor quanto a diluição, compatibilidade e estabilidade da solução. • Incompatibilidades: solução oral de haloperidol com xarope de citrato de lítio; solução injetável de haloperidol (5 mg/mL) com heparina sódica e nitroprusseto de sódio. 
-', 'http://linkimagem.com/img.png', 1);
+', 'http://3.bp.blogspot.com/-QQQYMJfFOyM/U_9arqe2NDI/AAAAAAAAC4k/L2nYgo6Uwuk/s1600/%C3%8Dndice.jpg', 1);
 
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Hidralazina, cloridrato',"000000043", 
 'APRESENTAÇÃO
 Apresentações • Comprimido 50 mg. • Solução injetável 20 mg/mL. 
-
-
-INDICAÇÃO
-Indicações • Hipertensão arterial sistêmica grave e refratária. • Emergência hipertensiva. • Pré-eclâmpsia grave e eclampsia. 
 
 
 CONTRAINDICAÇÕES
@@ -1914,15 +1980,11 @@ Orientações aos pacientes • Alertar que pode afetar a capacidade de realizar
 
 ASPECTOS FARMACEUTICOS
 Aspectos farmacêuticos • Armazenar os comprimidos e ampolas entre 15 a 30 ºC e protegidos de luz. Ampolas não devem ser congeladas. • Observar orientação específica do produtor quanto a diluição, compatibilidade e estabilidade da solução. • É estável em veículos como manitol e sorbitol por 21 dias. • Incompatível com: glicose, frutose, lactose e maltose. • A adição de fosfato e citrato à solução não tem efeito sobre a estabilidade do veículo. • Pode haver mudança de cor em solução, o que não indica perda da eficácia. • A solução injetável deve ser utilizada imediatamente após a preparação. 
-','http://linkimagem.com/img.png', 1);
+','http://saudevital.info/wp-content/uploads/2017/04/Hidralazina_50MG_20C.jpg', 1);
 
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Hidroclorotiazida',"000000044", 
 'APRESENTAÇÃO
 Apresentação • Comprimidos 12,5 mg e 25 mg. 
-
-
-INDICAÇÃO
-Indicações • Insuficiência cardíaca congestiva. • Hipertensão arterial sistêmica. • Edema de diferentes causas 
 
 
 CONTRAINDICAÇÕES
@@ -1959,15 +2021,11 @@ Aspectos farmacêuticos • Armazenar sob temperatura ambiente, entre 15 e 30 º
 
 ATENÇÃO
 ATENÇÃO: as principais reações adversas da hidroclorotiazida são dose dependentes, doses acima de 50 mg são raramente necessárias preferindo associar um diurético mais potente (por exemplo: diurético de alça) para aumentar a efetividade sem aumentar risco de reação adversa
-','http://linkimagem.com/img.png', 1);
+','http://www.drogariaminasbrasil.com.br/media/catalog/product/3/3/33631_original.jpg', 1);
 
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Ibuprofeno',"000000045", 
 'APRESENTAÇÃO
 Apresentações • Comprimidos 200 mg, 300 mg e 600 mg. • Suspensão oral 50 mg/mL (gotas) 
-
-
-INDICAÇÃO
-Indicações • Dor leve a moderada, incluindo cefaleia e dismenorréia. • Febre. • Tratamento de inflamações musculoesqueléticas. 
 
 
 CONTRAINDICAÇÕES
@@ -2000,15 +2058,11 @@ Orientações aos pacientes • Orientar para ingerir os comprimidos com 250 mL 
 
 ASPECTOS FARMACEUTICOS
 Aspectos farmacêuticos • Armazenar a suspensão oral entre 15 e 30 ºC, evitar congelamento. • Agitar a suspensão oral antes do uso. • Armazenar o comprimido à temperatura ambiente, entre 15 e 30 ºC, em embalagens bem fechadas e protegidas da luz. 
-','http://linkimagem.com/img.png', 1);
+','http://www.nursing.com.br/wp-content/uploads/2016/08/ibuprofeno-febre.jpeg', 1);
 
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Insulina humana NPH e Insulina humana regular',"000000046", 
 'APRESENTAÇÃO
 Apresentações • Suspensão injetável 100 UI/mL (NPH). • Solução injetável 100 UI/mL (Regular). 
-
-
-INDICAÇÃO
-Indicações • Diabete melito tipo 1. • Diabete melito tipo 2 em pacientes com glicemia não controlada com dieta e antidiabéticos orais. • Cetoacidose, coma hiperosmolar e na vigência de cirurgia, infecção ou traumatismo em diabéticos de tipos 1 e 2. 
 
 
 CONTRAINDICAÇÕES
@@ -2041,15 +2095,11 @@ Orientações aos pacientes • Educar o paciente para reconhecer sintomas de hi
 
 ASPECTOS FARMACEUTICOS
 Aspecto farmacêutico • Armazenar o frasco sob refrigeração, entre 2 e 8 ºC. Manter o frasco fechado ao abrigo de ar e da luz. • Manter o frasco após aberto à temperatura ambiente, entre 15 e 30 ºC, ou sob refrigeração, atentando para aquecer entres as mãos antes de administrar. • Observar orientação específica do produtor quanto a diluição, compatibilidade e estabilidade da insulina regular para administração intravenosa 
-','http://linkimagem.com/img.png', 1);
+','http://www.agravo.blog.br/wp-content/uploads/2017/03/insulina.jpg', 1);
 
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Ipratropio, brometo',"000000047", 
 'APRESENTAÇÃO
 Apresentações • Solução inalante 0,25 mg/mL (equivalente a 0,202 mg/mL). • Aerossol oral 0,02 mg/dose 
-
-
-INDICAÇÃO
-Indicações • Exacerbação aguda de asma. • Doença pulmonar obstrutiva crônica (DPOC). 
 
 
 CONTRAINDICAÇÕES
@@ -2082,15 +2132,11 @@ Orientações ao paciente • Alertar para a possibilidade de surgirem distúrbi
 
 ASPECTOS FARMACEUTICOS
 Aspectos farmacêuticos • A solução de brometo de ipratrópio para inalação deve ser conservada à temperatura de 15-30 ºC, e protegida da luz. Soluções de brometo de ipratrópio para inalação que contiverem cloreto de benzalcônio como conservante não devem ser misturadas a cromoglicato dissódico. • O aerossol deve ser conservado à temperatura de 15-30 ºC. 
-','http://linkimagem.com/img.png', 1);
+','https://multifarmas-prod-env.s3.amazonaws.com/api/media/product/brometo-de-ipratropio-solucao-inalatorio-025mg-bio/img/brometo-de-ipratropio-solucao-inalatorio-025mg-bio.jpg', 1);
 
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Isoniazida',"000000048", 
 'APRESENTAÇÃO
 Apresentação • Comprimido 100 mg. 
-
-
-INDICAÇÃO
-Indicações • Tratamento de crianças, com menos de 20 kg, em qualquer das formas de tuberculose pulmonar e extrapulmonar, incluindo meningoencefalite e pacientes infectados pelo HIV. • Tratamento de tuberculose quando há intolerância a rifampicina. • Profilaxia de tuberculose. 
 
 
 CONTRAINDICAÇÕES
@@ -2127,15 +2173,11 @@ Aspectos farmacêuticos • Manter à temperatura ambiente, de 15 a 30 ºC, prot
 
 ATENÇÃO
 ATENÇÃO: profilaxia com isoniazida pode evitar o aparecimento de doença clínica em comunicantes bacilíferos e em pessoas de alto risco, especialmente imunodeficientes . Como sinonímia para isoniazida (nome correspondente a Denominação Comum Brasileira) também é empregada a abreviatura H, entretanto, não se recomenda a prescrição de fármacos por abreviaturas ou siglas 
-','http://linkimagem.com/img.png', 1);
+','http://antibioticos.net.br/wp-content/uploads/2014/10/Isoniazida.jpg', 1);
 
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Isoniazida com Rifampicina',"000000049", 
 'APRESENTAÇÃO
 Apresentações • Comprimido 75 mg + 150 mg. • Cápsula 100 mg + 150 mg. • Cápsula 200 mg + 300 mg. 
-
-
-INDICAÇÃO
-Indicações • Tratamento de tuberculose pulmonar e extrapulmonar, incluindo meningoencefalite em pacientes infectados pelo HIV. • Tratamento de tuberculose quando há intolerância a pirazinamida ou ao cloridrato de etambutol 
 
 
 CONTRAINDICAÇÕES
@@ -2172,15 +2214,11 @@ Aspectos farmacêuticos • Armazenar à temperatura de 25 ºC, protegido de cal
 
 ATENÇÃO
 ATENÇÃO: como sinonímia para a associação isoniazida + rifampicina (nomes correspondentes a Denominação Comum Brasileira) também é empregada a abreviatura RH, entretanto, não se recomenda a prescrição de fármacos por abreviaturas ou siglas .
-','http://linkimagem.com/img.png', 1);
+','https://farmacosrifampicinas.files.wordpress.com/2010/09/rifampicina_300__4b3247ac0d4341.jpg', 1);
 
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Rifampicina com Isoniazida com Pirazinamida com CL',"000000050", 
 'APRESENTAÇÃO
 • Comprimido 150 mg (rifampicina) + 75 mg (isoniazida) + 400 mg (pirazinamida) + 275 mg (cloridrato de etambutol).
-
-
-INDICAÇÃO
-• Tratamento (fase intensiva) de adultos e crianças a partir de 10 anos de idade, em qualquer das formas de tuberculose pulmonar e extrapulmonar, incluindo meningoencefalite e pacientes infectados pelo HIV.
 
 
 CONTRAINDICAÇÕES
@@ -2217,15 +2255,11 @@ ASPECTOS FARMACEUTICOS
 
 ATENÇÃO
 ATENÇÃO: como sinonímia para a associação rifampicina + isoniazida + pirazinamida + etambutol (nomes correspondentes a Denominação Comum Brasileira) também é empregada a abreviatura RHZE, entretanto, não se re- comenda a prescrição de fármacos por abreviaturas ou siglas .
-','http://linkimagem.com/img.png', 1);
+','http://farmaciasdejalisco.com/nueva/img/p/322-184-thickbox_leoshoe.jpg', 1);
 
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Isoniazida com Rifampicina',"000000051", 
 'APRESENTAÇÃO
 Apresentações • Comprimido 75 mg + 150 mg. • Cápsula 100 mg + 150 mg. • Cápsula 200 mg + 300 mg. 
-
-
-INDICAÇÃO
-Indicações • Tratamento de tuberculose pulmonar e extrapulmonar, incluindo meningoencefalite em pacientes infectados pelo HIV. • Tratamento de tuberculose quando há intolerância a pirazinamida ou ao cloridrato de etambutol 
 
 
 CONTRAINDICAÇÕES
@@ -2262,15 +2296,11 @@ Aspectos farmacêuticos • Armazenar à temperatura de 25 ºC, protegido de cal
 
 ATENÇÃO
 ATENÇÃO: como sinonímia para a associação isoniazida + rifampicina (nomes correspondentes a Denominação Comum Brasileira) também é empregada a abreviatura RH, entretanto, não se recomenda a prescrição de fármacos por abreviaturas ou siglas .
-','http://linkimagem.com/img.png', 1);
+','https://farmacosrifampicinas.files.wordpress.com/2010/09/rifampicina_300__4b3247ac0d4341.jpg', 1);
 
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Isossorbida, dinitrato',"000000052", 
 'APRESENTAÇÃO
 Apresentação • Comprimido sublingual 5 mg. 
-
-
-INDICAÇÃO
-Indicação • Crise de dor anginosa. 
 
 
 CONTRAINDICAÇÕES
@@ -2303,15 +2333,11 @@ Orientações aos pacientes • Orientar para portar sempre os comprimidos, que 
 
 ASPECTOS FARMACEUTICOS
 Aspectos farmacêuticos • Manter à temperatura de 15 a 30 ºC, protegido de calor e umidade. 
-','http://linkimagem.com/img.png', 1);
+','https://static.tuasaude.com/img/is/os/isossorbida-isordil--640-427.jpg', 1);
 
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Isossorbida, mononitrato',"000000053", 
 'APRESENTAÇÃO
 Apresentações • Comprimido 40 mg (liberação imediata) • Solução injetável 10 mg/mL. 
-
-
-INDICAÇÃO
-Indicação • Tratamento de manutenção em angina estável. 
 
 
 CONTRAINDICAÇÕES
@@ -2344,15 +2370,11 @@ Orientação ao paciente • Orientar para ingerir o comprimido com 250 mL de á
 
 ASPECTOS FARMACEUTICOS
 Aspectos farmacêuticos • Manter à temperatura de 15 a 30 ºC, proteger da luz e umidade. • Verificar orientação do produtor quanto a soluções compatíveis para diluição. 
-','http://linkimagem.com/img.png', 1);
+','http://www.bulasderemedios.com/wp-content/uploads/2014/09/Mononitrato-de-Isossorbida-Biosintetica.jpg', 1);
 
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Itraconazol',"000000054", 
 'APRESENTAÇÃO
 Apresentações • Cápsula 100 mg. • Solução oral 10 mg/mL. 
-
-
-INDICAÇÃO
-Indicações • Uso restrito para tratamento de formas leves e moderadas de: – Esporotricose – Histoplasmose pulmonar e disseminada – Paracoccidioidomicose (blastomicose) pulmonar e extrapulmonar. • Uso restrito para prevenção secundária após a terapêutica de indução nas formas graves de esporotricose e histoplasmose. 
 
 
 CONTRAINDICAÇÕES
@@ -2389,15 +2411,11 @@ Aspectos farmacêuticos • A cápsula deve ser mantida ao abrigo de luz e umida
 
 ATENÇÃO
 ATENÇÃO: este fármaco apresenta um número muito elevado de interações de medicamentos (especialmente com fármacos metabolizados pela CYP3A4), sendo necessária uma pesquisa específica sobre este aspecto antes de introduzir ou descontinuar o itraconazol ou outros medicamentos no esquema do paciente .
-','http://linkimagem.com/img.png', 1);
+','https://www.zooloja.com.br/media/catalog/product/a/n/antifungico-itl-100-itraconazol-100mg-10-capsulas.jpg', 1);
 
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Ivermectina',"000000055", 
 'APRESENTAÇÃO
 Apresentação • Comprimidos de 6 mg. 
-
-
-INDICAÇÃO
-Indicações • Infecções helmínticas causadas por nematódeos: • Onchocerca volvulus • Filaríase linfática (Wuchereria bancrofti) • Strongyloides stercoralis • Larva migrans cutânea • Pediculose (Pediculus humanus capitis e pubis). • Escabiose (Sarcoptes scabiei). 
 
 
 CONTRAINDICAÇÕES
@@ -2430,16 +2448,12 @@ Orientações aos pacientes • Orientar para ingerir o medicamento com 250 mL d
 
 ASPECTOS FARMACEUTICOS
 Aspectos farmacêuticos • Armazenar à temperatura ambiente, de 15 a 30 ºC, ao abrigo de luz e umidade. 
-','http://linkimagem.com/img.png', 1);
+','http://www.drogasul.med.br/admin/thumb.php?acao=fill&width=300&height=300&file=webroot/upload/14044168361399653883.jpg', 1);
 
 
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Lamivudina',"000000056", 
 'APRESENTAÇÃO
 Apresentações • Comprimido 150 mg • Solução oral 10 mg/mL 
-
-
-INDICAÇÃO
-Indicações • Tratamento de infecção por HIV (em combinação com outros fármacos antirretrovirais) • Prevenção de transmissão materno-fetal do HIV (em combinação com zidovudina) • Tratamento de infecção crônica por hepatite B 
 
 
 CONTRAINDICAÇÕES
@@ -2476,16 +2490,12 @@ Aspectos farmacêuticos • Manter os comprimidos e solução oral na embalagem 
 
 ATENÇÃO
 ATENÇÃO: como sinonímia para lamivudina (nome que corresponde a denominação comum Brasileira) também é empregada a abreviatura 3TC, entretanto, não se recomenda a prescrição de fármacos por abreviaturas ou siglas .
-','http://linkimagem.com/img.png', 1);
+','http://www.ymed.ro/images/2012/01/lamivudina.jpg', 1);
 
 
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Levodopa com benserazida',"000000057", 
 'APRESENTAÇÃO
 Apresentações • Comprimido 50 mg + 12,5 mg • Comprimido 100 mg + 25 mg 
-
-
-INDICAÇÃO
-Indicação • Doença de Parkinson. 
 
 
 CONTRAINDICAÇÕES
@@ -2522,15 +2532,11 @@ Aspectos farmacêuticos • Armazenar o medicamento sob temperatura de 15 ºC e 
 
 ATENÇÃO
 ATENÇÃO: no início do tratamento pode ocorrer sedação excessiva e sono de início súbito; alertar o paciente para execução de atividades que requerem atenção e reflexos rápidos, como dirigir e/ou operar máquinas 
-','http://linkimagem.com/img.png', 1);
+','http://4.bp.blogspot.com/-N0ufYMS6wsw/UG7E8B7orLI/AAAAAAAABbA/dNI0ju1Zm5Q/s1600/Prolopa+BD.JPG', 1);
 
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Levodopa com Carbidopa',"000000058", 
 'APRESENTAÇÃO
 Apresentações • comprimido 250 mg + 25 mg • comprimido 100 mg + 25 mg • comprimido 100 mg + 10 mg 
-
-
-INDICAÇÃO
-Indicações • Doença de Parkinson. • Outras formas de parkinsonismo não induzidas por fármacos. 
 
 
 CONTRAINDICAÇÕES
@@ -2567,15 +2573,11 @@ Aspectos farmacêuticos • Armazenar o medicamento sob temperatura de 15 ºC e 
 
 ATENÇÃO
 ATENÇÃO: no início do tratamento pode ocorrer sedação excessiva e sono de início súbito; alertar o paciente para execução de atividades que requerem atenção e reflexos rápidos, como dirigir e/ou operar máquinas perigosas .
-','http://linkimagem.com/img.png', 1);
+','http://www.medicalestudy.com/wp-content/uploads/2016/07/Levodopa.jpg', 1);
 
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Etinilestradiol com Levonorgestrel',"000000059", 
 'APRESENTAÇÃO
 Apresentação • Comprimido 0,03 mg + 0,15 mg. 
-
-	
-INDICAÇÃO
-Indicação • Contracepção. 
 
 
 CONTRAINDICAÇÕES
@@ -2608,16 +2610,12 @@ Orientações às pacientes • Alertar a importância de obedecer rigorosamente
 
 ASPECTOS FARMACEUTICOS
 Aspecto farmacêutico • Armazenar à temperatura ambiente, entre 15 a 30 ºC. Manter ao abrigo do ar e luz. 
-','http://linkimagem.com/img.png', 1);
+','http://mexmeds4you.com/image/cache/data/products/474-500x500.jpg', 1);
 
 
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Levonorgestrel',"000000060", 
 'APRESENTAÇÃO
 Apresentação • Comprimido 1,5 mg. 
-
-
-INDICAÇÃO
-Indicação • Contracepção de emergência. 
 
 
 CONTRAINDICAÇÕES
@@ -2650,16 +2648,12 @@ Orientações à paciente • Orientar para ingerir no máximo até 72 horas ap�
 
 ASPECTOS FARMACEUTICOS
 Aspecto farmacêutico • Armazenar sob temperatura ambiente, em recipiente bem fechado. 
-','http://linkimagem.com/img.png', 1);
+','http://ec.princeton.edu/images/Levonorgestrel.jpg', 1);
 
 
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Lopinavir com Ritonavir',"000000061", 
 'APRESENTAÇÃO
 Apresentações • Comprimido (200 mg + 50 mg) • Solução oral (80 mg + 20 mg)/mL 
-
-
-INDICAÇÃO
-Indicação • Tratamento de infecção por HIV, em combinação com outros antirretrovirais. 
 
 
 CONTRAINDICAÇÕES
@@ -2696,15 +2690,11 @@ Aspectos farmacêuticos • Armazenar a solução oral e cápsulas, preferenteme
 
 ATENÇÃO
 ATENÇÃO: a associação lopinavir + ritonavir apresenta um número elevado de importantes interações de medicamentos, por isto deve ser realizada pesquisa específica sobre este aspecto antes de introduzir ou descontinuar a associação de lopinavir + ritonavir ou outros medicamentos no esquema terapêutico do paciente .
-','http://linkimagem.com/img.png', 1);
+','https://previews.123rf.com/images/nattapatt/nattapatt1405/nattapatt140500220/28239913-another-package-of-Lopinavir-Ritonavir-ALUVIR-from-ABBOTT-shallow-focus-Stock-Photo.jpg', 1);
 
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Loratadina',"000000062", 
 'APRESENTAÇÃO
 Apresentações • Comprimido 10 mg • Xarope 1 mg/mL. 
-
-
-INDICAÇÃO
-Indicações • Alívio de sintomas de alergia, febre do feno, rinite alérgica ou vasomotora, prurido, urticária. 
 
 
 CONTRAINDICAÇÕES
@@ -2737,17 +2727,13 @@ Orientações aos pacientes • A administração com alimentos, água ou leite 
 
 ASPECTOS FARMACEUTICOS
 Aspectos farmacêuticos • Armazenar à temperatura ambiente, entre 15 e 30 ºC. Manter em recipiente bem fechado, longe de calor e luz direta. Não congelar (xarope). 
-','http://linkimagem.com/img.png', 1);
+','http://seuguiadesaude.com.br/wp-content/uploads/2016/08/loratadina.jpg', 1);
 
 
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Maleato de Dexclorfeniramina',"000000063", 
 'APRESENTAÇÃO
 Apresentações • Comprimido 2 mg • Solução oral ou xarope 0,4 mg/mL. 
-
-
-INDICAÇÃO
-Indicações • Alívio dos sintomas de alergia, rinite alérgica, conjuntivite alérgica, urticárias, resfriado comum. • Auxiliar no tratamento de reações anafiláticas e reações alérgicas a sangue ou plasma em transfusões. 
-
+										      
 
 CONTRAINDICAÇÕES
 Contraindicações • Hipersensibilidade a qualquer anti-histamínico. • Crianças menores de 2 anos, principalmente neonatos, por sua maior susceptibilidade aos efeitos anticolinérgicos e risco de convulsões. • Uso concomitante com inibidores da monoamina oxidase (IMAO) e anticoagulantes. • Na forma de comprimido, para crianças com menos de 6 anos de idade 
@@ -2783,15 +2769,11 @@ Aspectos farmacêuticos • Clorfeniramina é uma mistura racêmica. O isômero 
 
 ATENÇÃO
 ATENÇÃO: este medicamento pode provocar tontura e sonolência . Evitar dirigir, operar maquinário ou realizar qualquer atividade que seja perigosa em caso de comprometimento da atenção ou da vigília .
-','http://linkimagem.com/img.png', 1);
+','http://www.bulasemedicamentos.com.br/wp-content/uploads/2016/06/Maleato-de-Dexclorfeniramina-Para-que-serve-Bula-e1464808770178.jpg', 1);
 
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Maleato de enalapril',"000000064", 
 'APRESENTAÇÃO
 Apresentações • Comprimidos de 5 mg, 10 mg e 20 mg. 
-
-
-INDICAÇÃO
-Indicações • Hipertensão arterial sistêmica. • Insuficiência cardíaca. • Prevenção de cardiopatia isquêmica 
 
 
 CONTRAINDICAÇÕES
@@ -2824,16 +2806,12 @@ Orientações aos pacientes • Evitar uso excessivo de alimentos que contém po
 
 ASPECTOS FARMACEUTICOS
 Aspectos farmacêuticos • Armazenar preferencialmente entre 15 e 30°C. Proteger de calor, umidade e luz direta. 
-','http://linkimagem.com/img.png', 1);
+','http://www.drogariaminasbrasil.com.br/media/catalog/product/3/6/36613_original.jpg', 1);
 
 
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Maleato de Timolol',"000000065", 
 'APRESENTAÇÃO
 • Colírio 0,25% e 0,5%.
-
-
-INDICAÇÃO
-• Hipertensão ocular. • Glaucoma crônico de ângulo aberto. • Alguns tipos de glaucoma secundário. 
 
 
 CONTRAINDICAÇÕES
@@ -2866,15 +2844,11 @@ ORIENTAÇÕES AOS PACIENTES
 
 ASPECTOS FARMACEUTICOS
 • Armazenar à temperatura ambiente e ao abrigo da luz. • O maleato de timolol é solúvel em água e álcool. Uma solução a 2% tem pH entre 3,8 e 4,3. 
-','http://linkimagem.com/img.png', 1);
+','http://vital.com.br/wp-content/uploads/2013/11/Timolol-283x300.jpg', 1);
 
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Metformina, cloridrato',"000000066", 
 'APRESENTAÇÃO
 • Comprimido 500 mg e 850 mg.
-
-
-INDICAÇÃO
-• Diabete melito tipo 2 em pacientes obesos.
 
 
 CONTRAINDICAÇÕES
@@ -2907,15 +2881,11 @@ ORIENTAÇÕES AOS PACIENTES
 
 ASPECTOS FARMACEUTICOS
 • Manter ao abrigo de ar e luz e à temperatura ambiente, de 15 a 30 ºC.
-','http://linkimagem.com/img.png', 1);
+','http://seuguiadesaude.com.br/wp-content/uploads/2016/03/metformina.jpg', 1);
 
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Metildopa',"000000067", 
 'APRESENTAÇÃO
 • Comprimido 250 mg.
-
-
-INDICAÇÃO
-• Hipertensão crônica leve a moderada na gravidez.
 
 
 CONTRAINDICAÇÕES
@@ -2948,16 +2918,12 @@ ORIENTAÇÕES AOS PACIENTES
 
 ASPECTOS FARMACEUTICOS
 • Armazenar à temperatura entre 15 e 30 ºC, proteger da umidade.
-','http://linkimagem.com/img.png', 1);
+','http://www.drogariaminasbrasil.com.br/media/catalog/product/1/4/1462_original.jpg', 1);
 
 
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Metoclopramida, cloridrato',"000000068", 
 'APRESENTAÇÃO
 • Comprimido 10 mg • Solução oral 4 mg/mL • Solução injetável 5 mg/mL 
-
-
-INDICAÇÃO
-• Náusea e vômito associados a quimioterapia ou no pós-cirúrgico, doença do refluxo gastresofágico e estase da gastroparesia diabética.
 
 
 CONTRAINDICAÇÕES
@@ -2990,17 +2956,13 @@ ORIENTAÇÕES AOS PACIENTES
 
 ASPECTOS FARMACEUTICOS
 • Armazenar à temperatura entre 20 e 25 °C. É fotossensível e deve ser protegida da luz. • Para a formulação intravenosa, observar orientação específica do produtor quanto a diluição, compatibilidade e estabilidade da solução. • Para infusão intravenosa, o fármaco pode ser diluído em 50 mL de cloreto de sódio 0,9%, glicose 5%, solução glicofisiológica, solução de Ringer ou Ringer + lactato. • Após diluição, a solução pode ser armazenada por até 48 horas, à temperatura ambiente, protegido da luz, ou por até 24 horas quando não protegida da luz. 
-','http://linkimagem.com/img.png', 1);
+','https://www.onofre.com.br/estatico/Produto/Normal/223301.jpg', 1);
 
 
 
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Metronidazol e benzoilmetronidazol',"000000069", 
 'APRESENTAÇÃO
 • Comprimido 250 mg e 400 mg. • Solução injetável 5 mg/mL. • Suspensão oral 40 mg/mL (na forma de benzoilmetronidazol). • Gel vaginal 100 mg/g. • Gel vaginal 10%. 
-
-	
-INDICAÇÃO
-• Infecções por bactérias anaeróbias (Peptococcus, Peptostreptococcus, Veillonella, Clostridium – incluindo Clostridium difficile, Fusobacterium e Bacteroides, incluindo Bacteroides fragilis, Gardnerella vaginalis, Helicobacter pylori e Campylobacter fetus). • Infecções por protozoários anaeróbios (Entamoeba histolytica, Giardia lamblia, Trichomonas vaginalis e Balantidium coli). • Erradicação de Helicobacter pylori no tratamento de úlcera péptica (com antimicrobianos e antissecretores). 
 
 
 CONTRAINDICAÇÕES
@@ -3037,15 +2999,11 @@ ASPECTOS FARMACEUTICOS
 
 ATENÇÃO
 A solução injetável pode conter sais de sódio como adjuvantes da formulação.
-','http://linkimagem.com/img.png', 1);
+','http://metronidazol.com.br/wp-content/uploads/2014/02/Metronidazol-500mg.jpg', 1);
 
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Miconazol, nitrato',"000000070", 
 'APRESENTAÇÃO
 • Creme 2% • Creme vaginal 2% • Loção 2% • Gel oral 2% • Pó 2% 
-
-
-INDICAÇÃO
-• Infecções fúngicas superficiais de pele, mucosas (oral e vaginal) ou fâneros, causadas por dermatófitos e leveduras (incluindo micoses, intertrigo, paroníquia, ptiríase versicolor, vulvovaginite por Candida e tinha).
 
 
 CONTRAINDICAÇÕES
@@ -3078,15 +3036,11 @@ Uso Vaginal • Aplicar na hora de dormir, salvo orientação diferente. • Lav
 
 ASPECTOS FARMACEUTICOS
 • Armazenar sob temperatura ambiente e protegido de calor e luz direta. 
-','http://linkimagem.com/img.png', 1);
+','http://blog.multifarmas.com.br/wp-content/uploads/2015/07/nitrato-de-miconazol.png', 1);
 
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Nicotina',"000000071", 
 'APRESENTAÇÃO
 • Adesivo transdérmico 7 mg, 14 mg e 21 mg. • Goma de mascar 2 mg e 4 mg. 
-
-
-INDICAÇÃO
-• Adjuvante no tratamento para cessação do tabagismo.
 
 
 CONTRAINDICAÇÕES
@@ -3119,15 +3073,11 @@ ORIENTAÇÕES AOS PACIENTES
 
 ASPECTOS FARMACEUTICOS
 • Manter sob temperatura ambiente, de 15 a 30 ºC. • Não cortar o adesivo, pois perde seu efeito, por evaporação. 
-','http://linkimagem.com/img.png', 1);
+','https://www.onofre.com.br/estatico/Produto/Super/084310.jpg', 1);
 
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Nifedipino',"000000072", 
 'APRESENTAÇÃO
 • Cápsula ou comprimido 10 mg.
-
-
-INDICAÇÃO
-• Tratamento tocolítico em ameaça de parto prematuro não complicado, antes de 34 semanas de gravidez.
 
 
 CONTRAINDICAÇÕES
@@ -3160,16 +3110,12 @@ ORIENTAÇÕES AOS PACIENTES
 
 ASPECTOS FARMACEUTICOS
 • Proteger da umidade e da luz, armazenar sob temperatura ambiente de 15 a 30 ºC.
-','http://linkimagem.com/img.png', 1);
+','http://elembarazo.net/wp-content/uploads/2015/07/nifepidino-embarazo-capsulas.jpg', 1);
 
 
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Nistatina',"000000073", 
 'APRESENTAÇÃO
 • Suspensão oral 100.000 UI/mL.
-
-
-INDICAÇÃO
-• Tratamento de candidíase oral, esofagiana e intestinal.
 
 
 CONTRAINDICAÇÕES
@@ -3202,15 +3148,11 @@ ORIENTAÇÕES AOS PACIENTES
 
 ASPECTOS FARMACEUTICOS
 • Hipersensibilidade à nistatina.
-','http://linkimagem.com/img.png', 1);
+','http://renjie007.com/wp-content/uploads/2017/04/thumb.php_.jpeg', 1);
 
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Noretisterona',"000000074", 
 'APRESENTAÇÃO
 • Comprimido 0,35 mg
-
-
-INDICAÇÃO
-• Contracepção durante a amamentação.
 
 
 CONTRAINDICAÇÕES
@@ -3247,16 +3189,12 @@ ASPECTOS FARMACEUTICOS
 
 ATENÇÃO
 A literatura relata diversas interações de medicamentos de contraceptivos orais combinados com antibióticos (que estes reduzem a eficácia contraceptiva, por alterar a flora intestinal e afetar a circulação entero-hepática) e fármacos indutores do metabolismo hepático (como anticonvulsivantes). Em muitas destas combinações, a noretisterona era um dos componentes, mas em muitos casos de interações relatadas, o progestogênio era diferente. As interações descritas nesta monografia foram relatadas especificamente com a noretisterona, mas isto não descarta o risco de que outras interações ainda não descritas na literatura para a noretisterona possam vir a ocorrer. Assim, o uso de método contraceptivo não hormonal (aditivo ou em substituição) deve ser considerado.
-','http://linkimagem.com/img.png', 1);
+','http://www.fahorro.com/media/catalog/product/cache/1/image/1280x1280/9df78eab33525d08d6e5fb8d27136e95/7/5/7502223706477_.JPG', 1);
 
 
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Noretisterona (Enantato) + Estradiol (Valerato)',"000000075", 
 'APRESENTAÇÃO
 • Solução injetável de (50 mg + 5 mg)/mL.
-
-
-INDICAÇÃO
-• Contracepção (mensal)
 
 
 CONTRAINDICAÇÕES
@@ -3289,15 +3227,11 @@ ORIENTAÇÕES AOS PACIENTES
 
 ASPECTOS FARMACEUTICOS
 • Manter ao abrigo de ar e luz e à temperatura ambiente, de 15 a 30 ºC.
-','http://linkimagem.com/img.png', 1);
+','http://biosynteclabs.cl/wp-content/uploads/2014/06/norest-300x257.jpg', 1);
 
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Nortriptilina, cloridrato',"000000076", 
 'APRESENTAÇÃO
 • Cápsulas 10 mg, 25 mg, 50 mg e 75 mg.
-
-
-INDICAÇÃO
-• Depressão maior.
 
 
 CONTRAINDICAÇÕES
@@ -3334,15 +3268,11 @@ ASPECTOS FARMACEUTICOS
 
 ATENÇÃO
 este fármaco apresenta um número muito elevado de interações de medicamentos, por isto deve ser feita uma pesquisa específica sobre este aspecto antes de introduzir ou descontinuar nortriptilina ou outros medicamentos no esquema terapêutico do paciente . Os efeitos terapêuticos podem demorar de 15 a 21 dias para se manifestar . Monitorizar pressão arterial e frequência cardíaca nas semanas iniciais
-','http://linkimagem.com/img.png', 1);
+','http://www.bulasimples.com.br/wp-content/uploads/2017/02/pamelor.jpg', 1);
 
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Paracetamol',"000000077", 
 'APRESENTAÇÃO
 • Comprimido 500 mg • Solução oral 200 mg/mL 
-
-
-INDICAÇÃO
-• Dor leve a moderada. • Febre. • Enxaqueca. 
 
 
 CONTRAINDICAÇÕES
@@ -3375,16 +3305,12 @@ ORIENTAÇÕES AOS PACIENTES
 
 ASPECTOS FARMACEUTICOS
 • Manter à temperatura ambiente, entre 15°C e 30°C. Proteger da luz, calor e umidade. 
-','http://linkimagem.com/img.png', 1);
+','http://www.drogamaxi.com.br/media/catalog/product/1/7/17989.jpg', 1);
 
 
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Permetrina',"000000078", 
 'APRESENTAÇÃO
 • Loção 1% e 5%.
-
-
-INDICAÇÃO
-• Escabiose • Pediculose corporal e do couro cabeludo. 
 
 
 CONTRAINDICAÇÕES
@@ -3417,15 +3343,11 @@ ORIENTAÇÕES AOS PACIENTES
 
 ASPECTOS FARMACEUTICOS
 • Conservar à temperatura ambiente, em recipientes bem fechados. Evitar congelamento. • Manter ao abrigo de luz, calor e umidade. • Agitar a loção antes do uso. 
-','http://linkimagem.com/img.png', 1);
+','http://araujo.vteximg.com.br/arquivos/ids/2771397-465-465/07899547515022img-imagem-id-50478.jpg', 1);
 
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Pirazinamida',"000000079", 
 'APRESENTAÇÃO
 • Comprimido 500 mg. • Solução oral 30 mg/mL. 
-
-
-INDICAÇÃO
-• Tratamento de crianças com menos de 20 kg em qualquer das formas de tuberculose pulmonar e extrapulmonar, incluindo meningoencefalite e pacientes infectados pelo HIV. • Tratamento de tuberculose quando há intolerância a rifampicina ou a isoniazida ou ao cloridrato de etambutol. 
 
 
 CONTRAINDICAÇÕES
@@ -3462,15 +3384,11 @@ ASPECTOS FARMACEUTICOS
 
 ATENÇÃO
 ATENÇÃO: como sinonímia para pirazinamida (nome correspondente a Denominação Comum Brasileira) também é empregada a abreviatura Z, entretanto, não se recomenda a prescrição de fármacos por abreviaturas ou siglas .
-','http://linkimagem.com/img.png', 1);
+','http://www.antibiotice.ro/wp-content/uploads/2015/07/pirazinamida_500.png', 1);
 
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Rifampicina com Isoniazida com Pirazinamida com CL',"000000080", 
 'APRESENTAÇÃO
 • Comprimido 150 mg (rifampicina) + 75 mg (isoniazida) + 400 mg (pirazinamida) + 275 mg (cloridrato de etambutol).
-
-
-INDICAÇÃO
-• Tratamento (fase intensiva) de adultos e crianças a partir de 10 anos de idade, em qualquer das formas de tuberculose pulmonar e extrapulmonar, incluindo meningoencefalite e pacientes infectados pelo HIV.
 
 
 CONTRAINDICAÇÕES
@@ -3507,15 +3425,11 @@ ASPECTOS FARMACEUTICOS
 
 ATENÇÃO
 ATENÇÃO: como sinonímia para a associação rifampicina + isoniazida + pirazinamida + etambutol (nomes correspondentes a Denominação Comum Brasileira) também é empregada a abreviatura RHZE, entretanto, não se re- comenda a prescrição de fármacos por abreviaturas ou siglas .
-','http://linkimagem.com/img.png', 1);
+','https://super.walmart.com.mx/images/product-images/img_large/00750106101920L.jpg', 1);
 
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Piridoxina, cloridrato',"000000081", 
 'APRESENTAÇÃO
 • Comprimido 50 mg. • Solução oral 1 mg/mL e 10 mg/mL 
-
-
-INDICAÇÃO
-• Profilaxia e tratamento de deficiência de piridoxina. • Prevenção de neurite periférica induzida por fármacos (isoniazida, penicilamina). • Anemia sideroblástica. 
 
 
 CONTRAINDICAÇÕES
@@ -3548,15 +3462,11 @@ ORIENTAÇÕES AOS PACIENTES
 
 ASPECTOS FARMACEUTICOS
 • Armazenar à temperatura ambiente, de 15 a 30 ºC, em recipientes herméticos e protegido da luz.
-','http://linkimagem.com/img.png', 1);
+','https://dkmedicamentos.com.br/img/produtos/001/21275.jpg', 1);
 
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Pirimetamina',"000000082", 
 'APRESENTAÇÃO
 • Comprimido 25 mg.
-
-
-INDICAÇÃO
-• Tratamento de toxoplasmose, em combinação com sulfadiazina ou clindamicina e folinato de cálcio.
 
 
 CONTRAINDICAÇÕES
@@ -3593,15 +3503,11 @@ ASPECTOS FARMACEUTICOS
 
 ATENÇÃO
 ATENÇÃO: administrar ácido folínico (5 a 10 mg/dia) durante tratamento com pirimetamina . Interromper uso de pirimetamina na presença de exantema, dor de garganta, palidez, púrpura e glossite
-','http://linkimagem.com/img.png', 1);
+','http://laboratoriosfarsiman.com/LFS/wp-content/uploads/2014/10/pirimetamina.jpg', 1);
 
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Prednisona',"000000083", 
 'APRESENTAÇÃO
 • Comprimido de 5 mg e 20 mg
-
-
-INDICAÇÃO
-• Adjuvante em processos inflamatórios do sistema musculoesquelético • Processos alérgicos e adjuvante em anafilaxia. • Adjuvante no tratamento da hanseníase. • Adjuvante no tratamento de pneumonia pneumocística moderada ou grave. • Adjuvante no tratamento com antineoplásico. • Imunossupressão em doença autoimune. • Asma grave persistente e asma aguda grave 
 
 
 CONTRAINDICAÇÕES
@@ -3638,16 +3544,12 @@ ASPECTOS FARMACEUTICOS
 
 ATENÇÃO
 ATENÇÃO: este fármaco apresenta um número elevado de interações de me- dicamentos, por isso deve ser realizada uma pesquisa específica sobre este aspecto antes de introduzir ou descontinuar a prednisona ou outros medi- camentos no esquema do paciente . O uso deste medicamento não deve ser suspenso sem orientação médica . Após uso prolongado (acima de 14 dias), a retirada do fármaco deve ser lenta e gradual, para evitar o risco de supressão suprarrenal de reversão demorada.
-','http://linkimagem.com/img.png', 1);
+','http://www.nursing.com.br/wp-content/uploads/2016/09/Prednisona-2-300x300.png', 1);
 
 
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Prometazina, cloridrato',"000000084", 
 'APRESENTAÇÃO
 • Solução injetável 25 mg/mL.
-
-
-INDICAÇÃO
-• Anafilaxia (adjuvante). • Terapêutica antineoplásica (adjuvante) 
 
 
 CONTRAINDICAÇÕES
@@ -3680,16 +3582,12 @@ ORIENTAÇÕES AOS PACIENTES
 
 ASPECTOS FARMACEUTICOS
 • Armazenar a temperatura entre 15 e 30 ºC. Não congelar. Manter ao abrigo de umidade e luz, em recipiente bem fechado. • Não utilizar se estiver com a coloração alterada ou se houver precipitação. • Observar orientação específica do produtor quanto a diluição, compatibilidade e estabilidade da solução. • Incompatibilidades em solução: alopurinol, gliconato de cálcio, cetorolaco, substâncias alcalinas, aminofilina, barbitúricos, benzilpenicilina, carbeniciina, cloranfenicol, clorotiazida, cefmetazol, cefoperazona, cefotetana, dimenidrinato, heparina, succinato sódico de hidrocortisona, meticilina, morfina, nalbufina, furosemida, doxorrubicina (formulação lipossomal), e alguns meios de contraste e soluções nutritivas. 
-','http://linkimagem.com/img.png', 1);
+','http://pfarma.com.br/images/noticias/fenergan-prometazina.png', 1);
 
 
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Propafenona, cloridrato',"000000085", 
 'APRESENTAÇÃO
 • Comprimido 150 mg e 300 mg • Solução injetável 3,5 mg/mL 
-
-	
-INDICAÇÃO
-• Fibrilação atrial e flúter. • Taquicardia supraventricular paroxística (apenas comprimido de liberação imediata). • Arritmia ventricular (apenas comprimido de liberação imediata). 
 
 
 CONTRAINDICAÇÕES
@@ -3726,15 +3624,11 @@ ASPECTOS FARMACEUTICOS
 
 ATENÇÃO
 ATENÇÃO: terapia intravenosa é superior a dose única de 600 mg por via oral apenas nas primeiras duas horas de administração . Este fármaco apresenta um número elevado de interações de medicamentos, por isso é necessário uma pesquisa específica ao avaliar a terapia com este fármaco . Sinais/ sintomas de cardiotoxicidade: prolongamento do intervalo QT, torsades de pointes, parada cardíaca.
-','http://linkimagem.com/img.png', 1);
+','http://locatelcolombia.vteximg.com.br/arquivos/ids/178059-1000-1000/7705959002503-1.png', 1);
 
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Propiltiouracila',"000000086", 
 'APRESENTAÇÃO
 • Comprimido 50 mg e 100 mg.
-
-
-INDICAÇÃO
-• Hipertireoidismo.
 
 
 CONTRAINDICAÇÕES
@@ -3771,16 +3665,12 @@ ASPECTOS FARMACEUTICOS
 
 ATENÇÃO
 ATENÇÃO: possíveis infecções durante o uso de propiltiouracila podem ser indicativas de depressão da medula óssea . Nesses casos, deve-se realizar avaliação hematológica e, se houver neutropenia ou agranulocitose, o tratamento deverá ser interrompido imediatamente .
-','http://linkimagem.com/img.png', 1);
+','http://2.bp.blogspot.com/-yKEE-8Mvy2I/UTfcUeOgQNI/AAAAAAAAAJg/4WGP2fhdv-g/s1600/035564.jpg', 1);
 
 
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Propranolol, cloridrato',"000000087", 
 'APRESENTAÇÃO
 • Comprimidos de 10 mg e 40 mg. • Solução injetável 10 mg/mL. 
-
-
-INDICAÇÃO
-• Profilaxia da enxaqueca. • Arritmias cardíacas associadas a tirotoxicose, feocromocitoma, anestesia geral, exercício, emoção e uso de cocaína. • Tratamento de cardiopatia isquêmica: angina e enfarte agudo do miocárdio. • Hipertensão arterial sistêmica, em crianças. 
 
 
 CONTRAINDICAÇÕES
@@ -3817,16 +3707,12 @@ ASPECTOS FARMACEUTICOS
 
 ATENÇÃO
 ATENÇÃO: este fármaco apresenta um número elevado de interações de medicamentos, por isto deve ser realizada pesquisa específica sobre este aspecto, antes de introduzir ou descontinuar o propranolol ou outros medicamentos no esquema terapêutico do paciente .
-','http://linkimagem.com/img.png', 1);
+','http://nootriment.com/wp-content/themes/shopperpress/thumbs/propranolol-review.gif', 1);
 
 
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Ranitidina, cloridrato',"000000088", 
 'APRESENTAÇÃO
 • Comprimido 150 mg. • Solução injetável 25 mg/mL. 
-
-
-INDICAÇÃO
-• Úlcera péptica de diversas etiologias e outras condições de hipersecreção gástrica, como síndrome de Zollinger-Ellison. • Doença do refluxo gastresofágico. • Esofagite erosiva. • Dispepsia funcional. 
 
 
 CONTRAINDICAÇÕES
@@ -3859,15 +3745,11 @@ ORIENTAÇÕES AOS PACIENTES
 
 ASPECTOS FARMACEUTICOS
 • Armazenar os comprimidos a temperaturas entre 15 e 30 °C, proteger da luz e umidade. • Armazenar a solução injetável entre 4 e 30 °C, proteger da luz e do congela- mento. Leve escurecimento da solução não afeta sua eficácia. • Observar orientação específica do produtor quanto a diluição, compatibilidade e estabilidade da solução. • É estável por até 48 horas à temperatura ambiente, quando diluída em cloreto de sódio 0,9%, glicose 5% ou solução de Ringer + lactato. 
-','http://linkimagem.com/img.png', 1);
+','http://www.bulasderemedios.com/wp-content/uploads/2014/09/Cloridrato-de-Ranitidina.jpg', 1);
 
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Isoniazida com Rifampicina',"000000089", 
 'APRESENTAÇÃO
 Apresentações • Comprimido 75 mg + 150 mg. • Cápsula 100 mg + 150 mg. • Cápsula 200 mg + 300 mg. 
-
-
-INDICAÇÃO
-Indicações • Tratamento de tuberculose pulmonar e extrapulmonar, incluindo meningoencefalite em pacientes infectados pelo HIV. • Tratamento de tuberculose quando há intolerância a pirazinamida ou ao cloridrato de etambutol 
 
 
 CONTRAINDICAÇÕES
@@ -3904,15 +3786,11 @@ Aspectos farmacêuticos • Armazenar à temperatura de 25 ºC, protegido de cal
 
 ATENÇÃO
 ATENÇÃO: como sinonímia para a associação isoniazida + rifampicina (nomes correspondentes a Denominação Comum Brasileira) também é empregada a abreviatura RH, entretanto, não se recomenda a prescrição de fármacos por abreviaturas ou siglas .
-','http://linkimagem.com/img.png', 1);
+','https://farmacosrifampicinas.files.wordpress.com/2010/09/rifampicina_300__4b3247ac0d4341.jpg', 1);
 
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Rifampicina',"000000090", 
 'APRESENTAÇÃO
 • Cápsula 300 mg. • Suspensão oral 20 mg/mL. 
-
-
-INDICAÇÃO
-• Tratamento de crianças, com menos de 20 kg, em qualquer das formas de tuberculose pulmonar e extrapulmonar, incluindo meningoencefalite e pacientes infectados pelo HIV. • Tratamento de tuberculose quando há intolerância a isoniazida. • Tratamento de hanseníase, em combinações com outros quimioterápicos. • Profilaxia após contato com indivíduo afetado por meningite (Neisseria meningitidis ou Haemophilus influenzae tipo B) e portador assintomático. 
 
 
 CONTRAINDICAÇÕES
@@ -3949,16 +3827,12 @@ ASPECTOS FARMACEUTICOS
 
 ATENÇÃO
 ATENÇÃO: este fármaco apresenta um número muito elevado de interações de medicamentos, devendo-se realizar pesquisa específica quanto a este aspecto ao considerar a introdução ou descontinuação de outros medicamentos no esquema terapêutico do paciente. A rifampicina induz o metabolismo pelo complexo CYP450, reduzindo a concentração de outros fármacos metabolizados por estas enzimas. Na presente monografia estão descritas apenas as interações classificadas como contraindicadas e graves, não sendo incluídas aquelas de gravidade moderada.
-','http://linkimagem.com/img.png', 1);
+','http://www.tqconfiable.com/images/default-source/imagenes-productos-final/416.jpg?sfvrsn=2', 1);
 
 
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Rifampicina com Isoniazida com Pirazinamida com CL',"000000091", 
 'APRESENTAÇÃO
 • Comprimido 150 mg (rifampicina) + 75 mg (isoniazida) + 400 mg (pirazinamida) + 275 mg (cloridrato de etambutol).
-
-
-INDICAÇÃO
-• Tratamento (fase intensiva) de adultos e crianças a partir de 10 anos de idade, em qualquer das formas de tuberculose pulmonar e extrapulmonar, incluindo meningoencefalite e pacientes infectados pelo HIV.
 
 
 CONTRAINDICAÇÕES
@@ -3995,15 +3869,11 @@ ASPECTOS FARMACEUTICOS
 
 ATENÇÃO
 ATENÇÃO: como sinonímia para a associação rifampicina + isoniazida + pirazinamida + etambutol (nomes correspondentes a Denominação Comum Brasileira) também é empregada a abreviatura RHZE, entretanto, não se re- comenda a prescrição de fármacos por abreviaturas ou siglas .
-','http://linkimagem.com/img.png', 1);
+','https://super.walmart.com.mx/images/product-images/img_large/00750106101920L.jpg', 1);
 
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Risperidona',"000000092", 
 'APRESENTAÇÃO
 • Comprimido 1 mg e 3 mg • Solução oral 1 mg/mL 
-
-
-INDICAÇÃO
-• Esquizofrenia resistente ao tratamento com antipsicóticos típicos
 
 
 CONTRAINDICAÇÕES
@@ -4040,16 +3910,12 @@ ASPECTOS FARMACEUTICOS
 
 ATENÇÃO
 ATENÇÃO: este fármaco apresenta um número elevado de interações de medicamentos, devendo-se realizar pesquisa específica quanto a este aspecto ao considerar a introdução ou descontinuação da risperidona ou de outros medicamentos no esquema terapêutico do paciente. 
-','http://linkimagem.com/img.png', 1);
+','http://www.cliquefarma.com.br/blog/wp-content/uploads/2015/03/Risperidona-300x129.jpg', 1);
 
 
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Lopinavir com Ritonavir',"000000093", 
 'APRESENTAÇÃO
 Apresentações • Comprimido (200 mg + 50 mg) • Solução oral (80 mg + 20 mg)/mL 
-
-
-INDICAÇÃO
-Indicação • Tratamento de infecção por HIV, em combinação com outros antirretrovirais. 
 
 
 CONTRAINDICAÇÕES
@@ -4086,15 +3952,11 @@ Aspectos farmacêuticos • Armazenar a solução oral e cápsulas, preferenteme
 
 ATENÇÃO
 ATENÇÃO: a associação lopinavir + ritonavir apresenta um número elevado de importantes interações de medicamentos, por isto deve ser realizada pesquisa específica sobre este aspecto antes de introduzir ou descontinuar a associação de lopinavir + ritonavir ou outros medicamentos no esquema terapêutico do paciente .
-','http://linkimagem.com/img.png', 1);
+','http://lawcaspharmacy.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/l/o/lopinavir-ritonavir-tablets-200mg.jpg', 1);
 
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Ritonavir',"000000094", 
 'APRESENTAÇÃO
 • Cápsula 100 mg. • Solução oral 80 mg/mL. 
-
-
-INDICAÇÃO
-• Tratamento de infecção por HIV em combinação com outros antirretrovirais.
 
 
 CONTRAINDICAÇÕES
@@ -4131,16 +3993,12 @@ ASPECTOS FARMACEUTICOS
 
 ATENÇÃO
 ATENÇÃO: este fármaco apresenta um número elevado de interações de medicamentos, devendo-se realizar pesquisa específica sobre potenciais interações antes de prescrever outros medicamentos a usuários de ritonavir, ou antes de introduzir ou retirar qualquer medicamento do esquema do paciente . 
-','http://linkimagem.com/img.png', 1);
+','http://agenciaaids.com.br/usermedia/images/Ritonavir.jpg', 1);
 
 
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Salbutamol, sulfato',"000000095", 
 'APRESENTAÇÃO
 • Aerossol 100 microgramas/dose • Solução inalante 6 mg/mL (equivalente a 5 mg de salbutamol/mL) • Solução injetável 0,5 mg/mL 
-
-
-INDICAÇÃO
-• Tratamento de manutenção e da exarcerbação aguda da asma. • Profilaxia da asma induzida por exercícios. • Tratamento de doença pulmonar obstrutiva crônica (DPOC). 
 
 
 CONTRAINDICAÇÕES
@@ -4173,15 +4031,11 @@ ORIENTAÇÕES AOS PACIENTES
 
 ASPECTOS FARMACEUTICOS
 • Armazenar o sulfato de salbutamol (aerossol sem clorofluorcarbono como propelente) à temperatura ambiente, entre 15 e 25 ºC, longe da umidade. Não expor o inalador a altas temperaturas (aproximadamente 50 ºC). • Armazenar o sulfato de salbutamol (solução inalante gotas) à temperatura entre 2 e 25 ºC e longe de luz direta. • Na concentração de 200 microgramas/mL em solução salina 0,9%, o sulfato de salbutamol permanece estável por 7 dias sob temperatura ambiente e sobre refrigeração (situações em que nebulização contínua é necessário). • Armazenar a solução injetável de sulfato de salbutamol à temperaturas ambiente, entre 15 e 30 ºC, e protegida da luz. • Observar orientação específica do produtor quanto a diluição, compatibilidade e estabilidade da solução. • A solução para infusão deve ser preparada a partir da diluição de uma ampola (0,5 mg/mL) de sulfato de salbutamol em 500 mL de solução injetável de cloreto de sódio 0.9% ou glicose 5%, permanecendo estável por 24 horas sob temperatura ambiente. 
-','http://linkimagem.com/img.png', 1);
+','http://kcra-kw.com/en/wp-content/uploads/2011/04/images215712_salbutamol.gif', 1);
 
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Sinvastatina',"000000096", 
 'APRESENTAÇÃO
 • Comprimidos de 10 mg, 20 mg e 40 mg.
-
-
-INDICAÇÃO
-• Prevenção primária e secundária de cardiopatia isquêmica. • Dislipidemias, associado a dieta. 
 
 
 CONTRAINDICAÇÕES
@@ -4218,16 +4072,12 @@ ASPECTOS FARMACEUTICOS
 
 ATENÇÃO
 ATENÇÃO: segurança e eficácia não foram estabelecidas em pacientes com menos de 10 anos de idade. Utilizar com precaução em paciente idoso, devido à maior predisposição a miopatias. Este fármaco apresenta número elevado de interações de medicamentos potencialmente graves, devendo ser realizada pesquisa específica sobre este aspecto antes de introduzir ou descontinuar a sinvastatina ou outro medicamento no esquema terapêutico do paciente. 
-','http://linkimagem.com/img.png', 1);
+','http://seuguiadesaude.com.br/wp-content/uploads/2016/10/sinvastatina.jpg', 1);
 
 
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Sulfadiazina',"000000097", 
 'APRESENTAÇÃO
 • Comprimido 500 mg.
-
-
-INDICAÇÃO
-• Infecções urinárias agudas não complicadas. • Toxoplasmose. 
 
 
 CONTRAINDICAÇÕES
@@ -4260,16 +4110,12 @@ ORIENTAÇÕES AOS PACIENTES
 
 ASPECTOS FARMACEUTICOS
 • Manter à temperatura ambiente, entre 15 a 30 °C, proteger da luz.
-','http://linkimagem.com/img.png', 1);
+','http://www.espacovital.com.br/images/201312091301320.jpg', 1);
 
 
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Sulfadiazina de prata',"000000098", 
 'APRESENTAÇÃO
 • Creme 1%
-
-
-INDICAÇÃO
-• Profilaxia e tratamento de infecção em queimaduras. • Tratamento adjuvante, de curto prazo, para infecção em úlcera de perna e úlcera de decúbito. • Profilaxia de infecção em áreas de abrasão em enxerto de pele. 
 
 
 CONTRAINDICAÇÕES
@@ -4302,15 +4148,11 @@ ORIENTAÇÕES AOS PACIENTES
 
 ASPECTOS FARMACEUTICOS
 • Conservar à temperatura ambiente, em recipientes bem fechados. Manter ao abrigo de luz, calor e umidade. Não congelar. • Conservar à temperatura ambiente, em recipientes bem fechados. Manter ao abrigo de luz, calor e umidade. Não congelar. 
-','http://linkimagem.com/img.png', 1);
+','https://c1.staticflickr.com/8/7132/6849299158_5db8bceed9_b.jpg', 1);
 
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Sulfametoxazol com Trimetoprima',"000000099", 
 'APRESENTAÇÃO
 • Comprimido 400 mg + 80 mg. • Suspensão oral (40 mg + 8 mg)/mL. • Solução injetável (80 mg + 16 mg)/mL. 
-
-
-INDICAÇÃO
-• Infecções por microrganismos sensíveis • Tratamento pneumocistose. • Profilaxia de pneumocistose em pessoas com Aids. 
 
 
 CONTRAINDICAÇÕES
@@ -4343,16 +4185,12 @@ ORIENTAÇÕES AOS PACIENTES
 
 ASPECTOS FARMACEUTICOS
 • Armazenar à temperatura ambiente, entre 15 e 30 °C, proteger do calor, umidade e luz direta. • Observar orientação específica do produtor quanto a diluição, compatibilidade e estabilidade da solução. • Para cada ampola de 5 mL deve-se adicionar 125 mL de glicose 5%. Após diluição, a solução não deve ser refrigerada. Administrar dentro de 6 horas. • Em caso de paciente com restrição hídrica, para cada ampola de 5 mL deve-se adicionar 75 mL de glicose 5%. Administrar dentro de 2 horas. • Descartar a solução se cristalizar. • A infusão intravenosa deve ser feita durante 60 a 90 minutos. Devem-se evitar infusões rápidas ou injeções em bolo. 
-','http://linkimagem.com/img.png', 1);
+','http://galenox.com/images/farmacos/img/DEF59/Liomont_ectaprim_tabletas.png', 1);
 
 
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Sulfato ferroso',"000000100", 
 'APRESENTAÇÃO
 • Comprimido de 40 mg Fe2+ • Solução oral a 25 mg/mL Fe2+ 
-
-
-INDICAÇÃO
-• Tratamento de anemia associada à deficiência de ferro. • Profilaxia em situações de alto risco para deficiência de ferro (casos de deficiência dietética, síndrome de má-absorção, menorragia, após gastrectomia total ou subtotal) 
 
 
 CONTRAINDICAÇÕES
@@ -4385,17 +4223,13 @@ ORIENTAÇÕES AOS PACIENTES
 
 ASPECTOS FARMACEUTICOS
 • Manter à temperatura ambiente, de 15 a 30 ºC, em recipiente bem fechado. • Não congelar a solução. 
-','http://linkimagem.com/img.png', 1);
+','http://glicose.com.br/wp-content/uploads/2015/05/sulfato-ferroso-vitafer.jpg', 1);
 
 
 
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Talidomida',"000000101", 
 'APRESENTAÇÃO
 • Comprimido 100 mg
-
-
-INDICAÇÃO
-• Tratamento de eritema nodoso hansênico moderado a grave.
 
 
 CONTRAINDICAÇÕES
@@ -4428,16 +4262,12 @@ ORIENTAÇÕES AOS PACIENTES
 
 ASPECTOS FARMACEUTICOS
 • Armazenar à temperatura ambiente, de 15 a 30 ºC. Manter ao abrigo da luz.
-','http://linkimagem.com/img.png', 1);
+','https://static.tuasaude.com/img/ta/li/talidomida-1-1-640-427.jpg', 1);
 
 
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Tiamina (cloridrato/palmitato)',"000000102", 
 'APRESENTAÇÃO
 • Cloridrato de tiamina: comprimido de 300 mg e solução oral 10 mg/mL. • Palmitato de tiamina: solução injetável 100.000 UI/mL (100 mg/mL). 
-
-
-INDICAÇÃO
-• Prevenção e tratamento de deficiência da tiamina: pelagra, encefalopatia de Wernicke e síndrome de Korsakoff (em alcoólicos), neuropatia periférica (beribéri, grávidas). • Distúrbios genéticos metabólicos. 
 
 
 CONTRAINDICAÇÕES
@@ -4467,16 +4297,12 @@ ORIENTAÇÕES AOS PACIENTES
 
 ASPECTOS FARMACEUTICOS
 • Armazenar à temperatura entre 15 a 30 °C, e protegido da luz. • A forma farmacêutica injetável pode ser administrada por via intravenosa ou intramuscular. • Observar orientação específica do produtor quanto a diluição, compatibilidade e estabilidade da solução. • É instável em soluções neutras ou alcalinas. • Incompatibilidades: agentes oxidantes e redutores (sais de ferro), bicarbonato, carbonatos, citratos, eritromicina, metoexital, pentobarbital, fenobarbital, secobarbital, tiopental. Em soluções com sulfitos e bissulfitos se torna rapidamente inativo. • Compatibilidades: solução de glicose 5%, glicose 10%, cloreto de sódio 0,9%, Ringer + lactato. • A estabilidade das soluções é de aproximadamente 100 dias. • Coloração azulada indica oxidação, sendo aconselhável o descarte da solução. 
-','http://linkimagem.com/img.png', 1);
+','http://2.bp.blogspot.com/_cu4KhRGihFM/TRdNNcgyIFI/AAAAAAAAAJk/Rw-_L-sF1K0/s1600/benerva.jpg', 1);
 
 
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Tuberculina (Derivado proteico purificado) PPD RT',"000000103", 
 'APRESENTAÇÃO
 • Solução injetável 0,1 mL (PPD-Rt 23, 2 UT – unidades de tuberculina para via intradérmica)
-
-
-INDICAÇÃO
-• Teste de hipersensibilidade a tuberculoproteína, para auxiliar no diagnóstico da tuberculose.
 
 
 CONTRAINDICAÇÕES
@@ -4513,17 +4339,13 @@ ASPECTOS FARMACEUTICOS
 
 ATENÇÃO
 ATENÇÃO: é necessária a disponibilidade de epinefrina para tratamento de possível anafilaxia. Caso ocorram reações fortemente positivas, podem ser usadas preparações tópicas de corticosteroide para alívio sintomático da dor associada, prurido e desconforto. Pacientes que apresentam reação positiva devem ser avaliados por outro diagnóstico complementar. A reação positiva pode não aparecer no período de duas a dez semanas depois da infecção (falso-negativo). Pacientes que apresentam reação positiva não devem ser vacinados com BCG. Tem valor de diagnóstico para tuberculose limitado. Não discrimina exposição prévia a antígenos micobacterianos de infecção com bacilo ou pela vacina BCG. Não distingue entre uma infecção pelo bacilo da tuberculose e outras infecções micobacterianas. 
-','http://linkimagem.com/img.png', 1);
+','http://www.br.all.biz/img/br/catalog/84837.jpeg', 1);
 
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Valproato de Sodio (Acido Valproico)',"000000104", 
 'APRESENTAÇÃO
 • Comprimido ou cápsula 288 mg (equivalente a 250 mg ácido valproico). • Comprimido 576 mg (equivalente a 500 mg ácido valproico) • Solução oral ou xarope 57,624 mg/mL (equivalente a 50 mg de ácido valproico/mL) 
 
-
-INDICAÇÃO
-• Episódio convulsivo mioclônico e tônico-clônico. • Estado de ausência epiléptica, simples ou complexa. • Estado de grande mal epiléptico. • Mal epiléptico parcial complexo. • Transtorno afetivo bipolar (episódio maníaco) 
-
-
+										      
 CONTRAINDICAÇÕES
 • Hipersensibilidade ao valproato de sódio ou ao ácido valproico. • Doença hepática ativa, disfunção hepática significante, ou história familiar de hepatopatias. • Encefalopatia hepática ou distúrbios no ciclo da ureia não diagnosticados. • Porfiria. 
 
@@ -4558,16 +4380,12 @@ ASPECTOS FARMACEUTICOS
 
 ATENÇÃO
 ATENÇÃO: mortalidade por insuficiência hepática tem ocorrido em pacientes que fazem uso de valproato de sódio e outros derivados do ácido valproico. O risco de hepatotoxicidade fatal é maior em crianças com 2 anos e menos de idade, em pacientes que fazem uso concomitante de vários anticonvulsivantes, retardo mental ou doença orgânica de origem cerebral. Este risco diminui consideravelmente com a progressão da idade. Testes de função hepática devem ser realizados em todos os pacientes que irão receber valproato, e periodicamente nos primeiros seis meses de tratamento. Casos de pancreatite fulminante têm sido relatados com o uso de valproato, independente do período de uso e da idade do paciente. Este fármaco apresenta um número elevado de interações de medicamentos, por isso é necessário uma pesquisa específica sobre este aspecto ao avaliar a terapia com este fármaco.
-','http://linkimagem.com/img.png', 1);
+','http://www.hipolabor.com.br/wp-content/uploads/2013/10/img3.jpg', 1);
 
 
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Verapamil, cloridrato',"000000105", 
 'APRESENTAÇÃO
 • Comprimidos 80 mg e 120 mg. • Solução injetável 2,5 mg/mL. 
-
-
-INDICAÇÃO
-• Taquiarritmias supraventriculares. • Angina estável, instável e de Prinzmetal. • Hipertensão arterial sistêmica. 
 
 
 CONTRAINDICAÇÕES
@@ -4604,7 +4422,7 @@ ASPECTOS FARMACEUTICOS
 
 ATENÇÃO
 ATENÇÃO: este fármaco apresenta um número muito elevado de interações de medicamentos, sendo necessária uma pesquisa específica sobre este aspecto antes de considerar a introdução ou descontinuação do verapamil ou de outros medicamentos no esquema terapêutico do paciente. Sugere-se considerar, além dos medicamentos individualmente, os grupos na avaliação da interação. O efeito adverso edema periférico ocorre dentro de 2 a 3 semanas após o início do tratamento.
-','http://linkimagem.com/img.png', 1);
+','http://2.bp.blogspot.com/_SuEM_1DgB7Y/TBPB6305zFI/AAAAAAAAAPs/xbuBRhClgJY/s320/verapamil.jpg', 1);
 
 
 
@@ -4618,8 +4436,14 @@ insert into medicamento_has_principioativo (medicamento, principioativo) values 
 insert into medicamento_has_principioativo (medicamento, principioativo) values (3, 3);
 insert into medicamento_has_principioativo (medicamento, principioativo) values (2, 1);
 
--- Tabela medicamento_has_contraindicacao
+-- Tabela medicamento_has_contraindicacao ==================================================================================================================
 insert into medicamento_has_contraindicacao (medicamento, contraindicacao) values (1, 1);
+insert into medicamento_has_contraindicacao (medicamento, contraindicacao) values (2, 2);
+insert into medicamento_has_contraindicacao (medicamento, contraindicacao) values (3, 3);
+insert into medicamento_has_contraindicacao (medicamento, contraindicacao) values (4, 4);
+insert into medicamento_has_contraindicacao (medicamento, contraindicacao) values (5, 5);
+
+
 insert into medicamento_has_contraindicacao (medicamento, contraindicacao) values (2, 2);
 insert into medicamento_has_contraindicacao (medicamento, contraindicacao) values (3, 3);
 
