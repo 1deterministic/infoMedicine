@@ -24,6 +24,9 @@
   </div>
 
   <?php
+
+    include 'functions.php';
+
     $tentativas = 
     [
       0 => "select * from medicamento where nome like '%",
@@ -53,8 +56,51 @@
 
     if ($conexao->connect_error)
       echo "Erro na conexao com o banco de dados<br>";
-  
+
     else
+    {
+      $sql = "select * from medicamento where nome like '%".$_GET["search"]."%';";
+      $resultado = $conexao->query($sql);
+      if ($resultado->num_rows > 0)
+      {
+        while ($row = $resultado->fetch_assoc())
+        {
+          drawLinkCard($row["nome"]."<br>"."Medicamento", $row["imagem"], "details.php?type=medicamento&value=".$row["id"]);
+        }
+      }
+
+      $sql = "select * from principioativo where nome like '%".$_GET["search"]."%';";
+      $resultado = $conexao->query($sql);
+      if ($resultado->num_rows > 0)
+      {
+        while ($row = $resultado->fetch_assoc())
+        {
+          drawLinkCard($row["nome"]."<br>"."Princípio ativo", $row["imagem"], "details.php?type=principioativo&value=".$row["id"]);
+        }
+      }
+
+      $sql = "select * from fabricante where nome like '%".$_GET["search"]."%';";
+      $resultado = $conexao->query($sql);
+      if ($resultado->num_rows > 0)
+      {
+        while ($row = $resultado->fetch_assoc())
+        {
+          drawLinkCard($row["nome"]."<br>"."Fabricante", $row["imagem"], "details.php?type=fabricante&value=".$row["id"]);
+        }
+      }
+
+      $sql = "select * from contraindicacao where nome like '%".$_GET["search"]."%';";
+      $resultado = $conexao->query($sql);
+      if ($resultado->num_rows > 0)
+      {
+        while ($row = $resultado->fetch_assoc())
+        {
+          drawLinkCard($row["nome"]."<br>"."Contra-indicação", $row["imagem"], "details.php?type=contraindicacao&value=".$row["id"]);
+        }
+      }
+    }
+  
+    /*else
     {
       $i = 0;
       while ($i < 16)
@@ -66,23 +112,13 @@
         {
           while ($row = $resultado->fetch_assoc())
           {
-            echo "<div class=\"py-5\">
-                    <div class=\"container\" onclick=\"location.href='details.php?type=".$tentativas[$i + 3]."&value=".$row["id"]."'\">
-                      <div class=\"row\">
-                        <div class=\"col-md-6 w-25\"><img src=\"".$row["imagem"]."\" class=\"img-fluid d-block rounded\"></div>
-                          <div class=\"col-md-6 w-75\">
-                            <p class=\"\">".$row["nome"]."<br>".$tentativas[$i + 2]."</p>
-                          </div>
-                        </div>
-                      <div class=\"row\"> </div>
-                    </div>
-                  </div>";
+            drawLinkCard($row["nome"]."<br>".$tentativas[$i + 2], $row["imagem"], $tentativas[$i + 3]."&value=".$row["id"]);
           }
         }
 
         $i = $i + 4;
-      }     
-    }
+      }   
+    }*/
   ?>
   
   <script src="https://code.jquery.com/jquery-3.1.1.slim.min.js"></script>

@@ -34,10 +34,8 @@
 
       else // usuário redirecionado da página results
         $sql = "select * from ".$_GET["type"]." where id = ".$_GET["value"].";";
-
         
       $resultado = $conexao->query($sql); // faz a busca no banco de dados
-      mysqli_close(); // fecha a conexão (para permitir que outra seja feita)
       if ($resultado->num_rows > 0) // se há resultados
       {
         while ($row = $resultado->fetch_assoc()) // para cada resultado da busca
@@ -48,28 +46,38 @@
                 drawCard("Nome: ".$row["nome"]."<br>"."Código de barras: ".$row["codigodebarras"]."<br>", $row["imagem"]); // desenha um card com a foto do medicamento e algumas informações ao lado
 
                 $resultado2 = $conexao->query("select * from fabricante where id = ".$row["fabricante"].";"); // além do medicamento, também mostrar o laboratório
-                mysqli_close();
                 if ($resultado2->num_rows > 0)
                 {
                   while ($row2 = $resultado2->fetch_assoc())
                   {
-                    drawCard("Fabricante: ".$row2["nome"]."<br>", $row2["imagem"]); // desenha um card com a logo do fabricante e algumas informações ao lado
+                    drawSmallCard("Fabricante: ".$row2["nome"]."<br>", $row2["imagem"]); // desenha um card com a logo do fabricante e algumas informações ao lado
                   }
                 }
+                break;
 
-                $resultado3 = $conexao->query("select * from contraindicacao as c inner join medicamento_has_contraindicacao as mc on c.id = mc.contraindicacao and mc.medicamento = ".$row["id"].";"); // mostrar também todas as contra-indicações do medicamento
-                mysqli_close();
+            case "principioativo":
+                drawCard($row["nome"], $row["imagem"]);
+
+                $resultado3 = $conexao->query("select * from contraindicacao as c inner join principioativo_has_contraindicacao as pc on c.id = pc.contraindicacao and pc.principioativo = ".$row["id"].";"); // mostrar também todas as contra-indicações do medicamento
                 if ($resultado3->num_rows > 0)
                 {
                   while ($row3 = $resultado3->fetch_assoc())
                   {
-                    drawCard("Contra-indicação: ".$row3["nome"]."<br>", $row3["imagem"]); // desenha um card com uma imagem de alerta e a contra-indicação ao lado
+                    drawSmallCard("Contra-indicação: ".$row3["nome"]."<br>", $row3["imagem"]); // desenha um card com uma imagem de alerta e a contra-indicação ao lado
                   }
                 }
                 break;
+
+            case "fabricante":
+              drawCard($row["nome"], $row["imagem"]);
+              break;
+
+            case "contraindicacao":
+              drawCard($row["nome"], $row["imagem"]);
+              break;
           }
 
-          drawText(nl2br($row["descricao"])); // exibe o texto descrição do medicamento, quebrando as linhas corretamente
+          drawText($row["descricao"]); // exibe o texto descrição do medicamento, quebrando as linhas corretamente
           //$textprint = strtr($textprint, array("_" => "<br>&emsp;-", "•" => "•")); //"•" => "<br>•"
         }
       }
