@@ -34,34 +34,35 @@ insert into contraindicacao (nome, imagem) values ('• Gota aguda. • Hipersen
 insert into contraindicacao (nome, imagem) values ('• Hipersensibilidade a amiodarona. • Hipersensibilidade ao iodo. • Bloqueio atrioventricular de 2º e 3º graus. • Bradicardia sinusal grave. • Disfunção grave do nó sinusal e atrioventricular. • Distúrbio de condução infranodal. • Choque cardiogênico. • Episódios de bradicardia com síncope. • Hipotensão arterial grave. • Doença pulmonar. • Gravidez. Categoria de risco na gravidez (FDA): D (ver Apêndice A). '
 						   , 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
 --8
-insert into contraindicacao (nome, imagem) values (''
+insert into contraindicacao (nome, imagem) values ('• Enfarte do miocárdio recente, arritmias cardíacas. • Insuficiência hepática grave (ver apêndice C). • Fase maníaca do transtorno bipolar. • Porfiria. • Hipersensibilidade ao fármaco ou a outros antidepressivos tricíclicos. • Uso de inibidores da monoamina oxidase (IMAO) nos últimos 15 dias (a troca de um IMAO por tricíclico ou vice-versa deve guardar o intervalo mí- nimo de 15 dias). '
 						   , 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
 --9
-insert into contraindicacao (nome, imagem) values ('Alergia a Y'
+insert into contraindicacao (nome, imagem) values ('• Hipersensibilidade a amoxicilina ou a outras penicilinas.'
 						   , 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
 --10
-insert into contraindicacao (nome, imagem) values ('Alergia a Y'
+insert into contraindicacao (nome, imagem) values ('• Hipersensibilidade à amoxicilina e a outras penicilinas ou ao ácido clavulânico. • História de icterícia colestática ou disfunção hepática induzidas por penicilina ou pela associação dos fármacos. '
 						   , 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
 --11
-insert into contraindicacao (nome, imagem) values ('Alergia a Y'
+insert into contraindicacao (nome, imagem) values ('• Hipersensibilidade ao anlodipino. • Choque cardiogênico. • Angina instável. • Estenose aórtica significante. • Porfiria aguda. '
 						   , 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
 --12
-insert into contraindicacao (nome, imagem) values ('Alergia a Y'
+insert into contraindicacao (nome, imagem) values ('• Hipersensibilidade ao atenolol. • Choque cardiogênico. • Bradicardia sinusal grave. • Insuficiência cardíaca congestiva descompensada. • Bloqueio atrioventricular de 2º e 3º graus. • Asma brônquica ou doença pulmonar obstrutiva crônica. • Acidose metabólica. '
 						   , 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
 --13
-insert into contraindicacao (nome, imagem) values ('Alergia a Y'
+insert into contraindicacao (nome, imagem) values ('• Hipersensibilidade a azitromicina e outros macrolídeos. • Insuficiência hepática (ver apêndice C). '
 						   , 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
 --14
-insert into contraindicacao (nome, imagem) values ('Alergia a Y'
+insert into contraindicacao (nome, imagem) values ('• Hipersensibilidade à beclometasona ou a qualquer componente do produto. 
+'
 						   , 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
 --15
-insert into contraindicacao (nome, imagem) values ('Alergia a Y'
+insert into contraindicacao (nome, imagem) values ('• História de hipersensibilidade a qualquer penicilina. • njeção intravenosa. • Neurossífilis. '
 						   , 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
 --16
-insert into contraindicacao (nome, imagem) values ('Alergia a Y'
+insert into contraindicacao (nome, imagem) values ('• Glaucoma de ângulo fechado. • Retenção urinária. • Hipertrofia prostática. • Miastenia grave. • Obstrução gastrintestinal, megacólon. '
 						   , 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
 --17
-insert into contraindicacao (nome, imagem) values ('Alergia a Y'
+insert into contraindicacao (nome, imagem) values ('• Alergia grave a proteínas do leite. • Hipersensibilidade à budesonida ou a qualquer componente do produto. '
 						   , 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
 --18
 insert into contraindicacao (nome, imagem) values ('Alergia a Y'
