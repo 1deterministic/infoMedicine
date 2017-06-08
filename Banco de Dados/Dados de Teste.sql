@@ -13,265 +13,325 @@ insert into principioativo (nome, descricao, imagem) values ('Paracetamol', 'Ana
 insert into principioativo (nome, descricao, imagem) values ('Cafeína', 'Estimulante bla bla bla', 'http://linkimagem.com/img.png');
 
 -- Tabela contraindicacao ==================================================================================================================================
+-- 0
+insert into contraindicacao (nome, imagem) values ('• Hipersensibilidade ao abacavir. • Insuficiência hepática moderada e grave.'
+						   , 'https://static.tuasaude.com/media/article/da/dc/abacavir-ziagenavir_19191_l.jpg');
 -- 1
-insert into contraindicacao (nome, imagem) values ('Hipersensibilidade ao abacavir, Insuficiência hepática moderada e grave', 'https://static.tuasaude.com/media/article/da/dc/abacavir-ziagenavir_19191_l.jpg');
--- 2
-insert into contraindicacao (nome, imagem) values ('Hipersensibilidade ao acetato de medroxiprogesterona ou a qualquer componente da formulação. Tumores malignos de mama ou em órgãos genitais. Disfunções hepáticas. Porfiria. Tromboembolismo venoso e doenças arteriais. Hemorragia geniturinária não diagnosticada. Histórico de abortos espontâneos. Histórico de prurido ou icterícia idiopática durante a gravidez. Gravidez. Categoria de risco na gravidez (FDA): X (ver Apêndice A). 
+insert into contraindicacao (nome, imagem) values ('• Hipersensibilidade ao acetato de medroxiprogesterona ou a qualquer componente da formulação. • Tumores malignos de mama ou em órgãos genitais. • Disfunções hepáticas. • Porfiria. • Tromboembolismo venoso e doenças arteriais. • Hemorragia geniturinária não diagnosticada. • Histórico de abortos espontâneos. • Histórico de prurido ou icterícia idiopática durante a gravidez. • Gravidez. • Categoria de risco na gravidez (FDA): X (ver Apêndice A). 
 ', 'http://www.hoyfarma.com/images/stories/virtuemart/product/depo%20provera.png');
--- 3
+-- 2
 insert into contraindicacao (nome, imagem) values ('• Hipersensibilidade a acetazolamida, sulfonamidas ou inibidores da anidrase carbônica, ou a qualquer componente da formulação. • Glaucoma de ângulo fechado crônico (pode mascarar deterioração). • Hipopotassemia. • Hiponatremia. • Acidose hiperclorêmica. • Insuficiência renal grave. • Insuficiência hepática grave. • Insuficiência adrenocortical (doença de Addison). • Cirrose hepática. '
-						   , 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
---4
+						   , 'http://2.bp.blogspot.com/-sK0pCl6JZ4Q/VgFdrJ456FI/AAAAAAACBNg/3RJQezIAVbI/s1600/ACETAZOLAMIDA.jpg');
+--3
 insert into contraindicacao (nome, imagem) values ('• Hipersensibilidade ao valproato de sódio ou ao ácido valproico. • Doença hepática ativa, disfunção hepática significante, ou história familiar de hepatopatias. • Encefalopatia hepática ou distúrbios no ciclo da ureia não diagnosticados. • Porfiria. '
-						   , 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
---5
+						   , 'http://www.disdroblan.com/images/vademecum/41-acido-valproico-250mg.png');
+--4
 insert into contraindicacao (nome, imagem) values ('• Hipersensibilidade a algum dos componentes da formulação. '
-						   , 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
---6
+						   , 'https://t1.uc.ltmcdn.com/pt/images/8/4/3/img_albendazol_bula_17348_600.jpg');
+--5
 insert into contraindicacao (nome, imagem) values ('• Gota aguda. • Hipersensibilidade ao alopurinol ou a qualquer componente da formulação. '
-						   , 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
---7
+						   , 'https://2.bp.blogspot.com/-1nK_onyhyO0/VyI48meytpI/AAAAAAACNhw/8q7FGsfVpEMDzT-K5l7xtHS8hll7uzDvgCLcB/s1600/ALOPURINOL.jpg');
+--6
 insert into contraindicacao (nome, imagem) values ('• Hipersensibilidade a amiodarona. • Hipersensibilidade ao iodo. • Bloqueio atrioventricular de 2º e 3º graus. • Bradicardia sinusal grave. • Disfunção grave do nó sinusal e atrioventricular. • Distúrbio de condução infranodal. • Choque cardiogênico. • Episódios de bradicardia com síncope. • Hipotensão arterial grave. • Doença pulmonar. • Gravidez. Categoria de risco na gravidez (FDA): D (ver Apêndice A). '
-						   , 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
---8
+						   , 'http://www.bulasderemedios.com/wp-content/uploads/2014/09/Cloridrato-de-Amiodarona-200mg.jpg');
+--7
 insert into contraindicacao (nome, imagem) values ('• Enfarte do miocárdio recente, arritmias cardíacas. • Insuficiência hepática grave (ver apêndice C). • Fase maníaca do transtorno bipolar. • Porfiria. • Hipersensibilidade ao fármaco ou a outros antidepressivos tricíclicos. • Uso de inibidores da monoamina oxidase (IMAO) nos últimos 15 dias (a troca de um IMAO por tricíclico ou vice-versa deve guardar o intervalo mí- nimo de 15 dias). '
-						   , 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
---9
+						   , 'http://1.bp.blogspot.com/-u2et5eZ5y-Y/Up4jYvPl80I/AAAAAAAAAGE/ZgnroXVNYPA/s1600/amitriti.jpg');
+--8
 insert into contraindicacao (nome, imagem) values ('• Hipersensibilidade a amoxicilina ou a outras penicilinas.'
-						   , 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
---10
+						   , 'https://static.tuasaude.com/media/article/cb/bd/amoxicilina_19945_l.jpg');
+--9
 insert into contraindicacao (nome, imagem) values ('• Hipersensibilidade à amoxicilina e a outras penicilinas ou ao ácido clavulânico. • História de icterícia colestática ou disfunção hepática induzidas por penicilina ou pela associação dos fármacos. '
-						   , 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
---11
+						   , 'https://www.onofre.com.br/estatico/Produto/Normal/111848.jpg');
+--10
 insert into contraindicacao (nome, imagem) values ('• Hipersensibilidade ao anlodipino. • Choque cardiogênico. • Angina instável. • Estenose aórtica significante. • Porfiria aguda. '
-						   , 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
---12
+						   , 'http://aumentesuasaude.com/wp-content/uploads/2015/06/Norvasc-besilato-de-anlodipino.jpg');
+--11
 insert into contraindicacao (nome, imagem) values ('• Hipersensibilidade ao atenolol. • Choque cardiogênico. • Bradicardia sinusal grave. • Insuficiência cardíaca congestiva descompensada. • Bloqueio atrioventricular de 2º e 3º graus. • Asma brônquica ou doença pulmonar obstrutiva crônica. • Acidose metabólica. '
-						   , 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
---13
+						   , 'http://www.bulasimples.com.br/wp-content/uploads/2016/01/atenolol.png');
+--12
 insert into contraindicacao (nome, imagem) values ('• Hipersensibilidade a azitromicina e outros macrolídeos. • Insuficiência hepática (ver apêndice C). '
-						   , 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
---14
+						   , 'https://static.tuasaude.com/media/article/bd/ca/azitromicina-azi_19062_l.jpg');
+--13
 insert into contraindicacao (nome, imagem) values ('• Hipersensibilidade à beclometasona ou a qualquer componente do produto. 
 '
-						   , 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
---15
+						   , 'http://antiinflamatorios.com.br/wp-content/uploads/2014/11/Dipropionato-de-Beclometasona.jpg');
+--14
 insert into contraindicacao (nome, imagem) values ('• História de hipersensibilidade a qualquer penicilina. • njeção intravenosa. • Neurossífilis. '
-						   , 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
---16
+						   , 'http://cidadeverde.com/assets/uploads/noticias/a5c5952e19d9501c729487ecb30bc001.jpg');
+--15
 insert into contraindicacao (nome, imagem) values ('• Glaucoma de ângulo fechado. • Retenção urinária. • Hipertrofia prostática. • Miastenia grave. • Obstrução gastrintestinal, megacólon. '
-						   , 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
---17
+						   , 'http://www.pesquisemedicamentos.com.br/uploads/_thumb/medicamentos/akineton%20retard%2030cpr.jpg');
+--16
 insert into contraindicacao (nome, imagem) values ('• Alergia grave a proteínas do leite. • Hipersensibilidade à budesonida ou a qualquer componente do produto. '
-						   , 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+						   , 'http://www.bulasimples.com.br/wp-content/uploads/2017/02/busonid-aerossol-nasal-bula-simples.jpg');
+--17
+insert into contraindicacao (nome, imagem) values ('• Crises convulsivas. • História de descontinuação abrupta de álcool ou sedativos, incluindo benzodiazepínicos. • Bulimia ou anorexia. • Transtorno bipolar. • Hipersensibilidade à bupropiona. • Uso de inibidores da monoamina oxidase (IMAO) nos últimos 14 dias. • Uso de outros produtos contendo bupropiona.'
+						   ,  'http://www.nursing.com.br/wp-content/uploads/2017/03/cloridrato-de-bupropiona.jpg');
 --18
-insert into contraindicacao (nome, imagem) values ('Alergia a Y'
-						   , 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+insert into contraindicacao (nome, imagem) values ('• Hipercalcemia. • Hipersensibilidade a calcitriol. • Hipervitaminose D. • Calcificação metastática. '
+						   , 'http://3.bp.blogspot.com/_0sQsHYMz_jQ/SKyrnd-PLBI/AAAAAAAAAJ8/98pxmOmPFbY/s400/calcitriol.jpg');
 --19
-insert into contraindicacao (nome, imagem) values ('Alergia a Y'
-						   , 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+insert into contraindicacao (nome, imagem) values ('• Hipersensibilidade ao captopril ou outros inibidores da ECA. • Hipersensibilidade a sulfonamidas. • História de angioedema '
+						   , 'http://www.acritica.com/uploads/news/image/36862/show_1.jpg');
 --20
-insert into contraindicacao (nome, imagem) values ('Alergia a Y'
-						   , 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+insert into contraindicacao (nome, imagem) values ('• Antecedentes de mielossupressão. • Alterações hematológicas, como agranulocitose, leucopenia e porfiria. • Anomalias na condução atrioventricular. • Hipersensibilidade a carbamazepina ou a antidepressivos tricíclicos. • Uso de inibidores da monoamina oxidase, concomitante ou nos últimos 14 dias.'
+						   , 'http://3.bp.blogspot.com/-_5zgCqiB43U/VM5qUzZw0ZI/AAAAAAAABhI/LaYvhlXFmUw/s1600/pro116.png');
 --21
-insert into contraindicacao (nome, imagem) values ('Alergia a Y'
-						   , 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+insert into contraindicacao (nome, imagem) values ('• Hipersensibilidade ao carvedilol ou a outros betabloqueadores. • Bloqueio atrioventricular de segundo ou terceiro grau. • Bradicardia grave. • Asma brônquica ou broncoespasmo. • Choque cardiogênico. • Insuficiência cardíaca descompensada e necessitando de terapia inotrópica intravenosa. • Insuficiência hepática grave (ver Apêndice C). • Síndrome do nó sinoatrial.'
+						   , 'https://multifarmas-prod-env.s3.amazonaws.com/api/media/product/carvedilol-25-mg-com-bl-al-plas-bco-30/img/carvedilol-25-mg-com-bl-al-plas-bco-30.jpg');
 --22
-insert into contraindicacao (nome, imagem) values ('Alergia a Y'
-						   , 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+insert into contraindicacao (nome, imagem) values ('• Hipersensibilidade ao ciprofloxacino ou a qualquer outra quinolona. • Histórico de doença nos tendões associada ao uso de quinolonas. • Gravidez a termo. '
+						   , 'http://www.bulasimples.com.br/wp-content/uploads/2016/10/9818610.jpg');
 --23
-insert into contraindicacao (nome, imagem) values ('Alergia a Y'
-						   , 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+insert into contraindicacao (nome, imagem) values ('• Hipersensibilidade a clindamicina ou lincosamidas. • Colite pseudomembranosa prévia. • Colite ulcerativa e enterite. '
+						   , 'https://www.onofre.com.br/estatico/Produto/Normal/119920.jpg');
 --24
-insert into contraindicacao (nome, imagem) values ('Alergia a Y'
-						   , 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+insert into contraindicacao (nome, imagem) values ('• Distúrbios da condução cardíaca e enfarte do miocárdio recente. • Insuficiência hepática. • Hipersensibilidade ao fármaco ou a outros antidepressivos tricíclicos. • Fase maníaca do transtorno bipolar. • Uso de inibidores da monoamina oxidase (IMAO) nos últimos 15 dias (a troca de um IMAO pelo tricíclico ou vice-versa deve guardar o intervalo mínimo de 15 dias). • Porfiria. • Crianças com menos de 12 anos. '
+						   , 'http://alceniguerra.com.br/wp-content/uploads/2014/08/cloridrato-de-clomipramina.png');
 --25
-insert into contraindicacao (nome, imagem) values ('Alergia a Y'
-						   , 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+insert into contraindicacao (nome, imagem) values ('• Hipersensibilidade a clonazepam ou outros benzodiazepínicos. • Glaucoma de ângulo fechado. • Insuficiência hepática grave (ver Apêndice C). • Categoria de risco na gravidez (FDA): D (ver Apêndice A). '
+						   , 'http://257cu52hn58148zsaf2jma2c-wpengine.netdna-ssl.com/wp-content/uploads/2016/05/Clonazepam.jpg');
 --26
-insert into contraindicacao (nome, imagem) values ('Alergia a Y'
-						   , 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+insert into contraindicacao (nome, imagem) values ('• Psicoses com sintomas negativos. • Feocromocitoma. • Depressão medular. • Depressão do sistema nervoso central. • Hipersensibilidade a clorpromazina e outras fenotiazinas. • Coma. • Histórico de tumores dependentes de prolactina. '
+						   , 'http://appsisecommerces3.s3.amazonaws.com/clientes/cliente4241/produtos/33573/Z5329.jpg');
 --27
-insert into contraindicacao (nome, imagem) values ('Alergia a Y'
-						   , 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+insert into contraindicacao (nome, imagem) values ('• Hipersensibilidade a dapsona ou a sulfonas. • Anemia grave. • Porfiria aguda '
+						   , 'https://3.bp.blogspot.com/-rhyrHDQctAw/V6t3DMJ6d8I/AAAAAAAAM64/AvrhRwi6pVETo7ZOfmDoPN84DXigP4iEQCLcB/s1600/92.jpg');
 --28
-insert into contraindicacao (nome, imagem) values ('Alergia a Y'
-						   , 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+insert into contraindicacao (nome, imagem) values ('• Hipersensibilidade à dexametasona. • Infecções fúngicas, bacterianas e virais sistêmicas, oculares e auriculares não tratadas com antimicrobianos. • Administração de vacinas com vírus vivos. '
+						   , 'http://remediando.com.br/wp-content/uploads/2016/10/Dexametasona-300x200.jpg');
 --29
-insert into contraindicacao (nome, imagem) values ('Alergia a Y'
-						   , 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+insert into contraindicacao (nome, imagem) values ('• Depressão maior. • Coma. • Choque. • Insuficiência pulmonar aguda. • Depressão respiratória. • Miastenia grave. • Apneia do sono. • Hepatopatia grave (ver Apêndice C). • Glaucoma de ângulo fechado. • Gravidez. Categoria de risco na gravidez (FDA): D. (ver Apêndice A). • Hipersensibilidade a diazepam e outros benzodiazepínicos. '
+						   , 'http://itech.dickinson.edu/chemistry/wp-content/uploads/2008/04/v10all.jpg');
 --30
-insert into contraindicacao (nome, imagem) values ('Alergia a Y'
-						   , 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+insert into contraindicacao (nome, imagem) values ('• Hipersensibilidade à digoxina. • Cardiomiopatia hipertrófica obstrutiva (exceto quando concomitante a fibrilação atrial ou insuficiência cardíaca congestiva). • Síndrome de Wolff-Parkinson-White, ou outra arritmia associada com vias acessórias de condução. • Taquicardia ou fibrilação ventricular. • Bloqueio completo intermitente. • Bloqueio atrioventricular de segundo grau'
+						   , 'https://marcioantoniassi.files.wordpress.com/2015/06/digoxina-1.jpg');
 --31
-insert into contraindicacao (nome, imagem) values ('Alergia a Y'
-						   , 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+insert into contraindicacao (nome, imagem) values ('• Hipersensibilidade a doxiciclina, tetraciclinas ou outros componentes da fórmula. • Crianças com menos de 8 anos de idade (provoca alterações no crescimento ósseo e durante o desenvolvimento da dentição, com descoloração temporária ou permanente dos dentes e hipoplasia do esmalte). • Gravidez (ver apêndice A) • Insuficiência hepática grave (ver Apêndice C). • Porfiria. • Lupus eritematoso sistêmico. '
+						   , 'http://www.cliquefarma.com.br/blog/wp-content/uploads/2015/07/Doxiciclina.jpg');
 --32
-insert into contraindicacao (nome, imagem) values ('Alergia a Y'
-						   , 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+insert into contraindicacao (nome, imagem) values ('• Hipersensibilidade a espironolactona. • Hiperpotassemia. • Hiponatremia. • Anúria e insuficiência renal grave (taxa de filtração glomerular inferior a 10 mL/minuto). • Doença de Addison. '
+						   , 'https://static.tuasaude.com/img/co/mo/como-usar-a-espironolactona-1-640-427.jpg');
 --33
-insert into contraindicacao (nome, imagem) values ('Alergia a Y'
-						   , 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+insert into contraindicacao (nome, imagem) values ('• Hipersensibilidade a eritromicina e a outros macrolídeos. • Porfiria. '
+						   , 'http://www.inpharma.cv/uploads/.produtos/53/IMG_6718%20copy.jpg');
 --34
-insert into contraindicacao (nome, imagem) values ('Alergia a Y'
-						   , 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+insert into contraindicacao (nome, imagem) values ('• Tumores estrógeno-dependentes. • Histórico de tumor mamário. • Tromboembolismo venoso ou histórico de recorrência. • Tromboembolismo arterial ativo ou recente. • Distúrbios hepáticos. • Hiperplasia endometrial. • Hemorragias vaginais não diagnosticadas. • Gravidez. Categoria de risco na gravidez (FDA): X (ver Apêndice A). • Lactação (ver Apêndice B). '
+						   , 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtm8Na1XbghNbIe60ogOe9m62qLW2SqqRTY_WcaOKbQ7kdGwWX');
 --35
-insert into contraindicacao (nome, imagem) values ('Alergia a Y'
-						   , 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+insert into contraindicacao (nome, imagem) values ('• Hipersensibilidade ao etambutol. • Neurite óptica. • Pacientes incapazes de relatar alterações visuais, como idosos e menores de 5 anos de idade. '
+						   , 'http://www.antibiotice.ro/wp-content/uploads/2015/07/etambutol_400.png');
 --36
-insert into contraindicacao (nome, imagem) values ('Alergia a Y'
-						   , 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+insert into contraindicacao (nome, imagem) values ('• Hipersensibilidade aos componentes da formulação. • Arritmias. • Valvopatias. • Distúrbios tromboembólicos. • Hipertensão arterial sistêmica não controlada. • Doença cardíaca associada com hipertensão pulmonar ou risco de embolia. • Neoplasia cérebro-vascular. • Enxaqueca com sintomas neurológicos focais. • Diabetes com comprometimento vascular. • Adenomas ou carcinomas hepáticos. • Insuficiência hepática (ver Apêndice C). • Cálculos biliares. • Doença trofoblástica ativa. • Lupus eritematoso sistêmico. • Porfiria. • Tumores mamários ou geniturinários. • Hemorragia vaginal não diagnosticada. • Categoria de risco na gravidez (FDA): X (ver Apêndice A). • Lactação (ver Apêndice B). '
+						   , 'http://www.fahorro.com/media/catalog/product/cache/1/image/1280x1280/9df78eab33525d08d6e5fb8d27136e95/7/5/7502223704169.jpg');
 --37
-insert into contraindicacao (nome, imagem) values ('Alergia a Y'
-						   , 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+insert into contraindicacao (nome, imagem) values ('• Hipersensibilidade ao fármaco ou a outro componente da fórmula. • Porfirias agudas. '
+						   , 'http://www.nursing.com.br/wp-content/uploads/2016/08/fluconazol-comrpimidos.jpg');
 --38
-insert into contraindicacao (nome, imagem) values ('Alergia a Y'
-						   , 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+insert into contraindicacao (nome, imagem) values ('• Hipersensibilidade ao fármaco. • Uso de inibidores da monoamina oxidase nos últimos 14 dias. • Fase de mania da doença bipolar. '
+						   , 'http://emagrecer.eco.br/wp-content/uploads/2015/11/Cloridrato-de-Fluoxetina-Prozac1.jpg');
 --39
-insert into contraindicacao (nome, imagem) values ('Alergia a Y'
-						   , 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+insert into contraindicacao (nome, imagem) values ('• Insuficiência renal com anúria (ver Apêndice D). • Estado pré-comatoso associado a cirrose hepática. • Hipersensibilidade a furosemida e sulfonamidas.'
+						   , 'http://www.dietaja.org/wp-content/uploads/2015/03/furosemida-40mg-20-comprimidos-teuto-farmacia-robinho__37215_zoom.jpg');
 --40
-insert into contraindicacao (nome, imagem) values ('Alergia a Y'
-						   , 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+insert into contraindicacao (nome, imagem) values ('• Cetoacidose. • Diabete melito tipo 1 (dependente de insulina). • Porfiria. • Insuficiência hepática grave (ver Apêndice C). • Insuficiência renal grave (ver Apêndice D). • Tratamento simultâneo com bosentana. • Hipersensibilidade ao fármaco ou a outras sulfoniluréias. '
+						   , 'http://www.drogariaminasbrasil.com.br/media/catalog/product/8/2/8286_original.jpg');
 --41
-insert into contraindicacao (nome, imagem) values ('Alergia a Y'
-						   , 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+insert into contraindicacao (nome, imagem) values ('• Diabete melito tipo 1. • Cetoacidose. • Hipersensibilidade ao fármaco e outras sulfonilureias. • Porfiria. • Insuficiência hepática grave (ver Apêndice C). • Insuficiência renal grave (ver Apêndice D). • Gravidez (ver Apêndice A). Categoria de risco na gravidez (ADEC): C. • lactação (ver Apêndice B). '
+						   , 'http://www.actasanitaria.com/wp-content/uploads/2014/09/gliclazida-cinfa-efg.jpg');
 --42
-insert into contraindicacao (nome, imagem) values ('Alergia a Y'
-						   , 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+insert into contraindicacao (nome, imagem) values ('• Coma ou depressão do sistema nervoso central. • Supressão medular. • Porfiria. • Feocromocitoma. • Lesão nos gânglios de base. • Hipersensibilidade a haloperidol. • Doença de Parkinson. '
+						   , 'http://3.bp.blogspot.com/-QQQYMJfFOyM/U_9arqe2NDI/AAAAAAAAC4k/L2nYgo6Uwuk/s1600/%C3%8Dndice.jpg');
 --43
-insert into contraindicacao (nome, imagem) values ('Alergia a Y'
-						   , 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+insert into contraindicacao (nome, imagem) values ('• Hipersensibilidade a hidralazina. • Taquicardia grave. • Insuficiência miocárdica por obstrução mecânica. • Cor pulmonale. • Aneurisma aórtico dissecado. • Doença reumática de valva mitral. • Porfiria. • Lupus eritematoso sistêmico. • Insuficiência cardíaca grave. '
+						   , 'http://saudevital.info/wp-content/uploads/2017/04/Hidralazina_50MG_20C.jpg');
 --44
-insert into contraindicacao (nome, imagem) values ('Alergia a Y'
-						   , 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+insert into contraindicacao (nome, imagem) values ('• Hipersensibilidade a hidroclorotiazida ou sulfonamidas. • Insuficiência hepática grave (ver Apêndice C). • Insuficiência renal grave (anúria) (ver Apêndice D). • Estado pré-comatoso (a hipopotassemia provocada pela hidroclorotiazida pode precipitar o coma).'
+						   , 'http://www.drogariaminasbrasil.com.br/media/catalog/product/3/3/33631_original.jpg');
 --45
-insert into contraindicacao (nome, imagem) values ('Alergia a Y'
-						   , 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+insert into contraindicacao (nome, imagem) values ('• Hipersensibilidade a ácido acetilsalicílico ou qualquer outro anti-inflamatório não esteroide. • Ulceração péptica ou sangramento intestinal ativos. • Terceiro trimestre da gravidez. '
+						   , 'http://www.nursing.com.br/wp-content/uploads/2016/08/ibuprofeno-febre.jpeg');
 --46
-insert into contraindicacao (nome, imagem) values ('Alergia a Y'
-						   , 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+insert into contraindicacao (nome, imagem) values ('• Hipersensibilidade a algum componente da formulação. • Hipoglicemia. '
+						   , 'http://www.agravo.blog.br/wp-content/uploads/2017/03/insulina.jpg');
 --47
-insert into contraindicacao (nome, imagem) values ('Alergia a Y'
-						   , 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+insert into contraindicacao (nome, imagem) values ('• Hipersensibilidade a ipratrópio, atropina e seus derivados, ou a qualquer componente da formulação. • Hipersensibilidade a lecitina de soja ou alimentos relacionados, como grão de soja e/ou amendoim (somente a forma aerossol, por conter lecitina na formulação). '
+						   , 'https://multifarmas-prod-env.s3.amazonaws.com/api/media/product/brometo-de-ipratropio-solucao-inalatorio-025mg-bio/img/brometo-de-ipratropio-solucao-inalatorio-025mg-bio.jpg');
 --48
-insert into contraindicacao (nome, imagem) values ('Alergia a Y'
-						   , 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+insert into contraindicacao (nome, imagem) values ('• Doença hepática aguda. • Hepatite associada ao uso prévio de isoniazida. • Hipersensibilidade a isoniazida ou a algum componente da fórmula. '
+						   , 'http://antibioticos.net.br/wp-content/uploads/2014/10/Isoniazida.jpg');
 --49
-insert into contraindicacao (nome, imagem) values ('Alergia a Y'
-						   , 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+insert into contraindicacao (nome, imagem) values ('• Doença hepática aguda. • História de hepatite associada ao uso de isoniazida. • Hipersensibilidade a isoniazida ou a rifampicina. • Crianças com menos de 20 kg (pela impossibilidade de ajuste de doses). • Icterícia. '
+						   , 'https://farmacosrifampicinas.files.wordpress.com/2010/09/rifampicina_300__4b3247ac0d4341.jpg');
 --50
-insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+insert into contraindicacao (nome, imagem) values ('• Consultar as monografias individuais referentes aos fármacos desta associação.'
+						   , 'http://farmaciasdejalisco.com/nueva/img/p/322-184-thickbox_leoshoe.jpg');
 --51
-insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+insert into contraindicacao (nome, imagem) values ('• Doença hepática aguda. • História de hepatite associada ao uso de isoniazida. • Hipersensibilidade a isoniazida ou a rifampicina. • Crianças com menos de 20 kg (pela impossibilidade de ajuste de doses). • Icterícia. '
+						   , 'https://farmacosrifampicinas.files.wordpress.com/2010/09/rifampicina_300__4b3247ac0d4341.jpg');
 --52
-insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+insert into contraindicacao (nome, imagem) values ('• Hipersensibilidade a isossorbida e nitratos orgânicos. • Uso concomitante de sildenafila e correlatos. • Glaucoma de ângulo fechado. • Anemia grave. • Trauma craniano, hemorragia cerebral, pressão intracraniana aumentada. '
+						   , 'https://static.tuasaude.com/img/is/os/isossorbida-isordil--640-427.jpg');
 --53
-insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+insert into contraindicacao (nome, imagem) values ('• Hipersensibilidade a isossorbida ou a nitratos orgânicos. • Uso concomitante de sildenafila e análogos. • Glaucoma de ângulo fechado. • Anemia grave. • Trauma craniano e hemorragia cerebral. '
+						   , 'http://www.bulasderemedios.com/wp-content/uploads/2014/09/Mononitrato-de-Isossorbida-Biosintetica.jpg');
 --54
-insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+insert into contraindicacao (nome, imagem) values ('• Hipersensibilidade ao itraconazol. • Uso concomitante com fármacos biotransformados pelo citocromo CYP3A4, tais como os inibidores da HMGCoA redutase (lovastatina, sinvastatina), ergotamina e análogos (di-hidroergotamina, ergometrina, ergotamina e metilergometrina), midazolam, triazolam e quinidina (ver Interações de me- dicamentos). • Insuficiência cardíaca congestiva ou história desta doença. • Mulheres grávidas ou que planejam engravidar. Categoria de risco na gravidez (FDA): C (ver Apêndice A). '
+						   , 'https://www.zooloja.com.br/media/catalog/product/a/n/antifungico-itl-100-itraconazol-100mg-10-capsulas.jpg');
 --55
-insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+insert into contraindicacao (nome, imagem) values ('• Hipersensibilidade ao fármaco. • Dano na barreira hematoencefálica, pois a ivermectina pode interagir com os receptores do GABA. • Gravidez. Fator de risco na gravidez (FDA): C (ver Apêndice A). '
+						   , 'http://www.drogasul.med.br/admin/thumb.php?acao=fill&width=300&height=300&file=webroot/upload/14044168361399653883.jpg');
 --56
-insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+insert into contraindicacao (nome, imagem) values ('• Hipersensibilidade à lamivudina. '
+						   , 'http://www.ymed.ro/images/2012/01/lamivudina.jpg');
 --57
-insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+insert into contraindicacao (nome, imagem) values ('• Hipersensibilidade conhecida a levodopa ou benserazida. • Lesões de pele não diagnosticadas, melanoma maligno ou história prévia desta doença. • Glaucoma de ângulo fechado. • Uso concomitante de reserpina e inibidores da monoamina oxidase (inclusive duas semanas antes de iniciar levodopa+benserazida). '
+						   , 'http://4.bp.blogspot.com/-N0ufYMS6wsw/UG7E8B7orLI/AAAAAAAABbA/dNI0ju1Zm5Q/s1600/Prolopa+BD.JPG');
 --58
-insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+insert into contraindicacao (nome, imagem) values ('• Hipersensibilidade conhecida a levodopa ou carbidopa. • Lesões de pele não diagnosticadas, melanoma maligno ou história prévia desta doença. • Glaucoma de ângulo fechado. • Uso concomitante de reserpina e inibidores da monoamina oxidase (inclusive duas semanas antes de iniciar levodopa + carbidopa). '
+						   , 'http://www.medicalestudy.com/wp-content/uploads/2016/07/Levodopa.jpg');
 --59
-insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+insert into contraindicacao (nome, imagem) values ('• Hipersensibilidade aos componentes da formulação. • Arritmias. • Valvopatias. • Distúrbios tromboembólicos. • Hipertensão arterial sistêmica não controlada. • Doença cardíaca associada com hipertensão pulmonar ou risco de embolia. • Neoplasia cérebro-vascular. • Enxaqueca com sintomas neurológicos focais. • Diabetes com comprometimento vascular. • Adenomas ou carcinomas hepáticos. • Insuficiência hepática (ver Apêndice C). • Cálculos biliares. • Doença trofoblástica ativa. • Lupus eritematoso sistêmico. • Porfiria. • Tumores mamários ou geniturinários. • Hemorragia vaginal não diagnosticada. • Categoria de risco na gravidez (FDA): X (ver Apêndice A). • Lactação (ver Apêndice B). '
+						   , 'http://mexmeds4you.com/image/cache/data/products/474-500x500.jpg');
 --60
-insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+insert into contraindicacao (nome, imagem) values ('• Hipersensibilidade a qualquer componente da fórmula. • Sangramento genital de etiologia desconhecida. • Porfiria. • Doença arterial grave, distúrbios tromboembólicos • Gravidez. Fator de risco na gravidez (FDA): X (ver apêndice A). '
+						   , 'http://ec.princeton.edu/images/Levonorgestrel.jpg');
 --61
-insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+insert into contraindicacao (nome, imagem) values ('• Hipersensibilidade a lopinavir ou ritonavir. • Porfiria aguda. '
+						   , 'https://previews.123rf.com/images/nattapatt/nattapatt1405/nattapatt140500220/28239913-another-package-of-Lopinavir-Ritonavir-ALUVIR-from-ABBOTT-shallow-focus-Stock-Photo.jpg');
 --62
-insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+insert into contraindicacao (nome, imagem) values ('• Hipersensibilidade à loratadina. • Porfiria. • Recém-nascidos e bebês prematuros.'
+						   , 'http://seuguiadesaude.com.br/wp-content/uploads/2016/08/loratadina.jpg');
 --63
-insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+insert into contraindicacao (nome, imagem) values ('• Hipersensibilidade a qualquer anti-histamínico. • Crianças menores de 2 anos, principalmente neonatos, por sua maior susceptibilidade aos efeitos anticolinérgicos e risco de convulsões. • Uso concomitante com inibidores da monoamina oxidase (IMAO) e anticoagulantes. • Na forma de comprimido, para crianças com menos de 6 anos de idade '
+						   , 'http://www.bulasemedicamentos.com.br/wp-content/uploads/2016/06/Maleato-de-Dexclorfeniramina-Para-que-serve-Bula-e1464808770178.jpg');
 --64
-insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+insert into contraindicacao (nome, imagem) values ('• Hipersensibilidade ao enalapril ou a outros inibidores da ECA. • Gravidez (ver Apêndice A). • Doença renovascular. • Angioedema induzido por inibidores da ECA. • Angioedema hereditário ou idiopático.'
+						   , 'http://www.drogariaminasbrasil.com.br/media/catalog/product/3/6/36613_original.jpg');
 --65
-insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+insert into contraindicacao (nome, imagem) values ('• Insuficiência cardíaca congestiva não controlada. • Choque cardiogênico. • Bradicardia sinusal grave. • Bloqueio cardíaco. • Asma ou história de doença obstrutiva das vias aéreas. '
+						   , 'http://vital.com.br/wp-content/uploads/2013/11/Timolol-283x300.jpg');
 --66
-insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+insert into contraindicacao (nome, imagem) values ('• Cetoacidose. • Insuficiência renal (ver Apêndice D). • Administração concomitante com contrastes radiológicos iodados. • Anestesia geral. • Alcoolismo. • Hipersensibilidade à metformina. • Diabete gestacional. '
+						   , 'http://seuguiadesaude.com.br/wp-content/uploads/2016/03/metformina.jpg');
 --67
-insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+insert into contraindicacao (nome, imagem) values ('• Hipersensibilidade à metildopa. • Doença hepática ativa. • Pacientes em uso de inibidor da monoamina oxidase (IMAO). • Feocromocitoma. • Porfiria. '
+						   , 'http://www.drogariaminasbrasil.com.br/media/catalog/product/1/4/1462_original.jpg');
 --68
-insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+insert into contraindicacao (nome, imagem) values ('• Hipersensibilidade à metoclopramida. • Hemorragia, obstrução ou perfuração gastrintestinal. • Feocromocitoma. • Epilepsia e outros distúrbios convulsivos. • Três a quatro dias após cirurgia gastrintestinal. • Uso concomitante de fármacos com efeitos extrapiramidais, como fenotiazinas. '
+						   , 'https://www.onofre.com.br/estatico/Produto/Normal/223301.jpg');
 --69
-insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+insert into contraindicacao (nome, imagem) values ('• Dependência crônica de álcool. • Hipersensibilidade ao metronidazol. • Primeiro trimestre da gravidez.'
+						   , 'http://metronidazol.com.br/wp-content/uploads/2014/02/Metronidazol-500mg.jpg');
 --70
-insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+insert into contraindicacao (nome, imagem) values ('• Hipersensibilidade a algum dos componentes da fórmula. • Vulvovaginites causadas por Trichomonas vaginalis (os antifúngicos azólicos são ineficazes). • Porfiria (miconazol é porfirinogênico em testes in vitro). • Crianças prematuras não devem utilizar o gel oral nos primeiros 5 a 6 meses de vida. '
+						   , 'http://blog.multifarmas.com.br/wp-content/uploads/2015/07/nitrato-de-miconazol.png');
 --71
-insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+insert into contraindicacao (nome, imagem) values ('• Hipersensibilidade a nicotina ou a algum componentes da fórmula. • Período pós-enfarte do miocárdio. • Angina de peito e arritmias graves. • Comprometimento da articulação temporomandibular (goma de mascar). • Gravidez (ver Apêndice A). • Lactação (ver Apêndice B). '
+						   , 'https://www.onofre.com.br/estatico/Produto/Super/084310.jpg');
 --72
-insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+insert into contraindicacao (nome, imagem) values ('• Choque cardiogênico. • Estenose aórtica avançada. • Ocorrência de enfarte do miocárdio no último mês. • Angina instável ou com crises agudas. • Porfiria. • Hipersensibilidade ao nifedipino ou a componentes da fórmula. '
+						   , 'http://elembarazo.net/wp-content/uploads/2015/07/nifepidino-embarazo-capsulas.jpg');
 --73
-insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+insert into contraindicacao (nome, imagem) values ('• Hipersensibilidade à nistatina.'
+						   ,'http://renjie007.com/wp-content/uploads/2017/04/thumb.php_.jpeg');
 --74
-insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+insert into contraindicacao (nome, imagem) values ('• Doença hepática aguda (ver Apêndice C). • Tumores hepáticos benignos ou malignos. • Hipersensibilidade a qualquer componente do produto. • Carcinoma de mama, conhecido ou suspeito. • Sangramento genital anormal de causa desconhecida. • Porfiria aguda. • Gravidez. Categoria de risco na gravidez (FDA): X (ver Apêndice A). '
+						   , 'http://www.fahorro.com/media/catalog/product/cache/1/image/1280x1280/9df78eab33525d08d6e5fb8d27136e95/7/5/7502223706477_.JPG');
 --75
-insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+insert into contraindicacao (nome, imagem) values ('• Tumores hepáticos benignos ou malignos. • Insuficiência hepática (ver Apêndice C) • Hipersensibilidade ao enantato de noretisterona, ao valerato de estradiol ou a qualquer componente da fórmula. • Porfiria. • Tumores de mama. • Neoplasias estrógeno-dependentes. • Hemorragia vaginal não diagnosticada. • Distúrbios tromboembólicos. • Doença cardiovascular. • Gravidez. Categoria de risco na gravidez (FDA): X (ver Apêndice A). '
+						   , 'http://biosynteclabs.cl/wp-content/uploads/2014/06/norest-300x257.jpg');
 --76
-insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+insert into contraindicacao (nome, imagem) values ('• Distúrbios da condução cardíaca, após enfarte do miocárdio, arritmias cardíacas, doença hepática grave (ver apêndice C), fase de mania da doença bipolar, porfiria. • Hipersensibilidade ao fármaco ou a outros antidepressivos tricíclicos. • Uso de inibidores da monoamina oxidase (IMAO) nos últimos 15 dias (a troca de um IMAO pelo tricíclico ou vice-versa deve guardar o intervalo mínimo de 15 dias). • Crianças e adolescentes. '
+						   , 'http://www.bulasimples.com.br/wp-content/uploads/2017/02/pamelor.jpg');
 --77
-insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+insert into contraindicacao (nome, imagem) values ('• Hipersensibilidade ao paracetamol.'
+						   , 'http://www.drogamaxi.com.br/media/catalog/product/1/7/17989.jpg');
 --78
-insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+insert into contraindicacao (nome, imagem) values ('• Hipersensibilidade à permetrina ou a outras piretrinas, sintéticas ou naturais. • Crianças com menos de 2 meses de idade. '
+						   , 'http://araujo.vteximg.com.br/arquivos/ids/2771397-465-465/07899547515022img-imagem-id-50478.jpg');
 --79
-insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+insert into contraindicacao (nome, imagem) values ('• Insuficiência hepática grave. • Porfiria. • Gota aguda.'
+						   , 'http://www.antibiotice.ro/wp-content/uploads/2015/07/pirazinamida_500.png');
 --80
-insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+insert into contraindicacao (nome, imagem) values ('• Consultar as monografias individuais referentes aos fármacos desta associação.'
+						   , 'https://super.walmart.com.mx/images/product-images/img_large/00750106101920L.jpg');
 --81
-insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+insert into contraindicacao (nome, imagem) values ('• Hipersensibilidade à piridoxina ou a qualquer componente da formulação.'
+						   , 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
 --82
-insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+insert into contraindicacao (nome, imagem) values ('• Primeiro trimestre de gravidez. Categoria de risco na gravidez (FDA): C (ver Apêndice A). • Insuficiência hepática (ver Apêndice C). • Insuficiência renal. • Hipersensibilidade a pirimetamina ou a algum componente da formulação. • Anemia megaloblástica por deficiência de ácido fólico. • Uso concomitante de aurotioglicose. '
+						   , 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
 --83
-insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+insert into contraindicacao (nome, imagem) values ('• Hipersensibilidade ao fármaco ou a algum dos componentes da formulação. • Infecções sistêmicas. • Uso concomitante com vacinas de vírus vivos (ex.: varíola), pois a resposta imune pode estar diminuída. • Varicela.'
+						   , 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
 --84
-insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+insert into contraindicacao (nome, imagem) values ('• Hipersensibilidade ou história de reação idiossincrática a prometazina ou a outras fenotiazinas e a sulfitos (ampolas contêm metabissulfito). • Injeção subcutânea ou intra-arterial. • Estado comatoso. • Sintomas do trato respiratório baixo, incluindo asma. • Crianças com menos de 2 anos apresentam maior risco potencial de depressão respiratória fatal. '
+						   , 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
 --85
-insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+insert into contraindicacao (nome, imagem) values ('• Hipersensibilidade ao fármaco. • Bradicardia sinusal. • Distúrbios broncoespásticos. • Choque cardiogênico. • Desequilíbrio eletrolítico. • Insuficiência cardíaca congestiva não controlada. • Hipotensão grave. • Distúrbios de geração de impulso e/ou de condução sinoatrial, atrioventricular e intraventricular (ex.: bloqueio atrioventricular, síndrome do nó sino- atrial) na ausência de marca-passo artificial. '
+						   , 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
 --86
-insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+insert into contraindicacao (nome, imagem) values ('• Hipersensibilidade à propiltiouracila.'
+						   , 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
 --87
-insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+insert into contraindicacao (nome, imagem) values ('• Hipersensibilidade ao propranolol. • Hipotensão. • Insuficiência cardíaca descompensada. • Choque cardiogênico. • Bradicardia sinusal grave. • Sindrome do nó sinoatrial • Bloqueio atrioventricular de 2º e 3º graus. • Asma ou história de doença pulmonar obstrutiva crônica. • Acidose metabólica. • Angina de Prinzmetal • Doença arterial periférica grave. '
+						   , 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
 --88
-insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+insert into contraindicacao (nome, imagem) values ('• Hipersensibilidade à ranitidina.'
+						   , 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
 --89
-insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+insert into contraindicacao (nome, imagem) values ('• Doença hepática aguda. • História de hepatite associada ao uso de isoniazida. • Hipersensibilidade a isoniazida ou a rifampicina. • Crianças com menos de 20 kg (pela impossibilidade de ajuste de doses). • Icterícia. '
+						   , 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
 --90
-insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+insert into contraindicacao (nome, imagem) values ('• Hipersensibilidade a rifampicina. • Icterícia. • Infecção ativa por Neisseria meningitidis. • Uso concomitante com inibidores da protease (saquinavir, lopinavir, atazanavir, fosamprenavir, tipranavir e darunavir) e voriconazol. '
+						   , 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
 --91
-insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+insert into contraindicacao (nome, imagem) values ('• Consultar as monografias individuais referentes aos fármacos desta associação.'
+						   , 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
 --92
-insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+insert into contraindicacao (nome, imagem) values ('• Hipersensibilidade a risperidona.'
+						   , 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
 --93
-insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+insert into contraindicacao (nome, imagem) values ('• Hipersensibilidade a lopinavir ou ritonavir. • Porfiria aguda. '
+						   , 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
 --94
-insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+insert into contraindicacao (nome, imagem) values ('• Hipersensibilidade ao ritonavir. • Porfiria. • Insuficiência hepática grave (ver Apêndice C). • Uso concomitante com os seguintes fármacos: quinidina, bosentana, pimozida, erva-de-são-joão (Hypericum perforatum), ergotamina e análogos e voriconazol. '
+						   , 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
 --95
-insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+insert into contraindicacao (nome, imagem) values ('• Hipersensibilidade ao sulfato de salbutamol ou a qualquer componente da formulação.'
+						   , 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
 --96
-insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+insert into contraindicacao (nome, imagem) values ('• Hipersensibilidade à sinvastatina. • Doença hepática aguda. • Gravidez. Categoria de risco na gravidez (FDA): X (ver Apêndice A). • Lactação (ver Apêndice B). '
+						   , 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
 --97
-insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+insert into contraindicacao (nome, imagem) values ('• Porfiria. • Hipersensibilidade a sulfadiazina ou a outras sulfonamidas. • Crianças com menos de 2 meses (exceto com toxoplasmose congênita). • Terceiro trimestre de gravidez. Categoria de risco na gravidez (FDA): C (ver Apêndice A). '
+						   , 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
 --98
-insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+insert into contraindicacao (nome, imagem) values ('• Hipersensibilidade à prata ou a sulfonamidas. • Bebês até 2 meses de idade (segurança e eficácia não foram estabelecidas). '
+						   , 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
 --99
-insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+insert into contraindicacao (nome, imagem) values ('• Hipersensibilidade à sulfonamida ou trimetoprima. • Porfiria. • Anemia megaloblástica por deficiência de folato. '
+						   , 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
 --100
-insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+insert into contraindicacao (nome, imagem) values ('• Hemossiderose, hemocromatose hemoglobinopatias. • Qualquer forma de anemia não associada à deficiência de ferro. • Pacientes que receberam repetidas transfusões sanguíneas. • Ferroterapia parenteral. • Hipersensibilidade ao ferro. '
+						   , 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
 --101
-insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+insert into contraindicacao (nome, imagem) values ('• Neuropatia prévia. • Reações de hipersensibilidade. • Crianças com idade inferior a 12 anos. • Gravidez. Categoria de risco na gravidez (FDA): X (ver Apêndice A). • Lactação (ver Apêndice B). • Doação de sangue. '
+						   , 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
 --102
-insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+insert into contraindicacao (nome, imagem) values ('• Hipersensibilidade a tiamina ou a qualquer componente da formulação'
+						   , 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
 --103
-insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+insert into contraindicacao (nome, imagem) values ('• Até quatro semanas após administração de vacinas de vírus vivos. • Hipersensibilidade ao PPD (risco de reações graves). • Histórico de reação grave (necrólise, ulceração e formação de vesículas). '
+						   , 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
 --104
-insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+insert into contraindicacao (nome, imagem) values ('• Hipersensibilidade ao valproato de sódio ou ao ácido valproico. • Doença hepática ativa, disfunção hepática significante, ou história familiar de hepatopatias. • Encefalopatia hepática ou distúrbios no ciclo da ureia não diagnosticados. • Porfiria. '
+						   , 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
 --105
-insert into contraindicacao (nome, imagem) values ('Alergia a Y', 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+insert into contraindicacao (nome, imagem) values ('• Hipersensibilidade ao fármaco ou a outros antagonistas do canal de cálcio. • Hipotensão sintomática. • Bradicardia. • Bloqueio atrioventricular de segundo ou terceiro graus. • Choque cardiogênico • Insuficiência cardíaca descompensada • Síndrome do nó sinoatrial • Disfunção de nós sinusal e atrioventricular. • Distúrbio de condução infranodal. • Síndrome de Wolf-Parkinson-White. • Obstipação crônica. • Taquicardia supraventricular paroxística em menores de 2 anos. '
+						   , 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
 
 
 
