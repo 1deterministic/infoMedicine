@@ -47,10 +47,12 @@
       15 => "contraindicacao",
     ];
     
-    $server = "mysql4.gear.host";
+    $server = "localhost";
     $nomebd = "infomedicine";
-    $user = "anonnymous";
+    $user = "infomedicine";
     $senha = "He!!oWor!d";
+
+    echo $_GET["search"];
 
     $conexao = new mysqli($server, $user, $senha, $nomebd);
 
@@ -59,16 +61,17 @@
 
     else
     {
-      $sql = "select * from medicamento where nome like '%".$_GET["search"]."%';";
+      $sql = "select * from Medicamento where Nome like '%".$_GET["search"]."%';";
       $resultado = $conexao->query($sql);
       if ($resultado->num_rows > 0)
       {
         while ($row = $resultado->fetch_assoc())
         {
-          drawLinkCard($row["nome"]."<br>"."Medicamento", $row["imagem"], "details.php?type=medicamento&value=".$row["id"]);
+          drawCard($row["Nome"]."<br>", "https://s3-us-west-1.amazonaws.com/powr/defaults/image-slider1.jpg");
         }
       }
-
+    }
+/*
       $sql = "select * from principioativo where nome like '%".$_GET["search"]."%';";
       $resultado = $conexao->query($sql);
       if ($resultado->num_rows > 0)
@@ -99,7 +102,7 @@
         }
       }
     }
-  
+  */
     /*else
     {
       $i = 0;

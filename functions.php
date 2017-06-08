@@ -44,3 +44,19 @@
             .nl2br($text).
             "</div></div></div></div>";
     }
+
+    function drawForm($fields, $names, $target)
+    {
+        for ($i = 0; $i < count(fields); $i++)
+        {
+            echo "<div class=\"\"><div class=\"container\"><div class=\"row\"><div class=\"col-md-12 bg-faded\"><form class=\"\" method=\"GET\" action=\""
+            .$target.
+            "\"><div class=\"form-group\"> <label></label> <input class=\"form-control\" placeholder=\""
+            .$names[$i].
+            "\" type=\"text\" name=\""
+            .$fields[$i].
+            "\" id=\"".$fields[$i].
+            "\"></div><input type=\"submit\" class=\"btn btn-primary\" style=\"float: right;\"></form></div></div></div></div>";
+        }
+                
+    }

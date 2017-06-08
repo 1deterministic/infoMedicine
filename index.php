@@ -16,19 +16,12 @@
       </div>
     </div>
   </div>
-  <div class="">
-    <div class="container">
-      <div class="row">
-        <div class="col-md-12 bg-faded">
-          <form class="" method="GET" action="results.php">
-            <div class="form-group"> <label></label> <input class="form-control" placeholder="Pesquise qualquer informação :)" type="text" name="search" id="search"></div>
-            <input type="submit" class="btn btn-primary" style="float: right;">
-          </form>
-          <a href="barcode.php" class="btn btn-outline-primary">Possuo o código de barras</a>
-        </div>
-      </div>
-    </div>
-  </div>
+  <?php
+  include 'functions.php';
+
+  drawForm(array("search"), array("Pesquise qualquer informação"), "results.php");
+  ?>
+  
   <div class="py-5 bg-faded">
     <div class="container">
       <div class="row">
