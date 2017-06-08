@@ -25,10 +25,10 @@
             <div class="form-group"> <label></label> <input type="email" class="form-control" placeholder="Nome?"> </div>
             <div class="form-group"> <label></label> <input type="email" class="form-control" placeholder="Fabricante?"> </div>
             <div class="form-group"> <label></label> <input type="email" class="form-control" placeholder="Princípio ativo?"> </div>
-            <div class="form-group"> <label></label> <input type="email" class="form-control" placeholder="Contra indicações?"> </div> 
+            <div class="form-group"> <label></label> <input type="email" class="form-control" placeholder="Medicamento de referência?"> </div> 
           </form>
           <a href="results.php" class="btn btn-primary" style="float: right;">Pesquisar</a>
-          <a href="barcode.php" class="btn btn-outline-primary">Possuo o código de barras</a>          
+          <a href="barcode.php" class="btn btn-outline-primary">Possuo o Número de Registro do Medicamento</a>          
         </div>
       </div>
     </div>
