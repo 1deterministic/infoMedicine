@@ -336,7 +336,7 @@ insert into contraindicacao (nome, imagem) values ('• Hipersensibilidade ao f�
 
 
 -- Tabela medicamento ======================================================================================================================================
--- 1
+-- 0
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Abacavir, sulfato de', "00000000",
 'APRESENTAÇÃO
 • Comprimido 300 mg
@@ -399,7 +399,7 @@ Sempre que houver qualquer suspeita dessas reações, o uso do medicamento deve 
 Se houver melhora após a retirada, sua reintrodução está contraindicada'
 , 'https://static.tuasaude.com/media/article/da/dc/abacavir-ziagenavir_19191_l.jpg', 1);
 
---2
+--1
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Acetato de Medroxiprogesterona', "00000001", '
 APRESENTAÇÃO
 • Comprimido 2,5 e 10 mg. • Suspensão injetável 150 mg/mL. 
@@ -434,7 +434,7 @@ ASPECTOS FARMACEUTICOS
 • Agitar bem, antes da utilização por via intramuscular.', 'http://www.hoyfarma.com/images/stories/virtuemart/product/depo%20provera.png', 1);
 
 
---3                                                                                   
+--2                                                                                  
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Acetazolamida', "00000002",'
 APRESENTAÇÃO
 • Comprimido 250 mg
@@ -468,7 +468,7 @@ ASPECTOS FARMACEUTICOS
 • Armazenar à temperatura ambiente, entre 15 e 30 °C. Proteger do calor, da umidade e da luz direta. • Medicamentos produzidos por laboratórios diferentes só podem ser inter- cambiáveis quando houver informação sobre a bioequivalência. • Comprimidos de acetazolamida podem ser triturados. São relatadas prepa- rações extemporâneas a partir dos comprimidos, tanto sob forma de suspen- sões como de soluções (que devem ser tamponadas a pH 4,0). Trituram-se os comprimidos, suspendendo o pó resultante em xarope de gosto forte (cereja, framboesa, chocolate, etc). Pode suspender-se até 500 mg em 5 mL de xarope, mas uma suspensão que contenha 250 mg por 5 mL tem melhor palatabilida- de. Esta suspensão é estável por uma semana. A refrigeração pode melhorar o sabor, mas não aumenta a estabilidade. Os elixires ou outros veículos que contenham álcool ou glicerina não proporcionam suspensão de sabor palatável. O armazenamento deve ser feito entre 15 e 30 ºC e ao abrigo da luz direta. 
 ', 'http://2.bp.blogspot.com/-sK0pCl6JZ4Q/VgFdrJ456FI/AAAAAAACBNg/3RJQezIAVbI/s1600/ACETAZOLAMIDA.jpg', 1);                                                                                      
    
---4
+--3
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Acido valproico (ou Valproato de sódio)',"00000003",
 'APRESENTAÇÃO
 • Comprimido ou cápsula 288 mg (equivalente a 250 mg ácido valproico). • Comprimido 576 mg (equivalente a 500 mg ácido valproico) • Solução oral ou xarope 57,624 mg/mL (equivalente a 50 mg de ácido valproico/mL) 
@@ -507,7 +507,7 @@ ATENÇÃO: mortalidade por insuficiência hepática tem ocorrido em pacientes qu
 ', 'http://www.disdroblan.com/images/vademecum/41-acido-valproico-250mg.png', 1);
 
 
---5
+--4
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Albendazol',"00000004",
 'APRESENTAÇÃO
 • Comprimido mastigável 400 mg. • Suspensão oral 40 mg/mL. 
@@ -541,7 +541,7 @@ ASPECTOS FARMACEUTICOS
 • Armazenar os comprimidos em local seco, ao abrigo de luz e calor. 
 ', 'https://t1.uc.ltmcdn.com/pt/images/8/4/3/img_albendazol_bula_17348_600.jpg', 1);
 
---6
+--5
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Alopurinol',"00000005",
 'APRESENTAÇÃO
 • Comprimidos de 100 mg e 300 mg
@@ -576,7 +576,7 @@ ASPECTOS FARMACEUTICOS
 ', 'https://2.bp.blogspot.com/-1nK_onyhyO0/VyI48meytpI/AAAAAAACNhw/8q7FGsfVpEMDzT-K5l7xtHS8hll7uzDvgCLcB/s1600/ALOPURINOL.jpg', 1);
 
 
---7
+--6
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Amiodarona, cloridrato de',"00000006",
 'APRESENTAÇÃO
 • Comprimido de 200 mg. • Solução injetável 50 mg/mL 
@@ -3760,6 +3760,7 @@ ORIENTAÇÕES AOS PACIENTES
 ASPECTOS FARMACEUTICOS
 • Armazenar o sulfato de salbutamol (aerossol sem clorofluorcarbono como propelente) à temperatura ambiente, entre 15 e 25 ºC, longe da umidade. Não expor o inalador a altas temperaturas (aproximadamente 50 ºC). • Armazenar o sulfato de salbutamol (solução inalante gotas) à temperatura entre 2 e 25 ºC e longe de luz direta. • Na concentração de 200 microgramas/mL em solução salina 0,9%, o sulfato de salbutamol permanece estável por 7 dias sob temperatura ambiente e sobre refrigeração (situações em que nebulização contínua é necessário). • Armazenar a solução injetável de sulfato de salbutamol à temperaturas ambiente, entre 15 e 30 ºC, e protegida da luz. • Observar orientação específica do produtor quanto a diluição, compatibilidade e estabilidade da solução. • A solução para infusão deve ser preparada a partir da diluição de uma ampola (0,5 mg/mL) de sulfato de salbutamol em 500 mL de solução injetável de cloreto de sódio 0.9% ou glicose 5%, permanecendo estável por 24 horas sob temperatura ambiente. 
 ','http://kcra-kw.com/en/wp-content/uploads/2011/04/images215712_salbutamol.gif', 1);
+
 
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Sinvastatina',"000000096", 
 'APRESENTAÇÃO
