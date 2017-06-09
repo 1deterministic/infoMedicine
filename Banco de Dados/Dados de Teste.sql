@@ -259,79 +259,79 @@ insert into contraindicacao (nome, imagem) values ('• Consultar as monografias
 						   , 'https://super.walmart.com.mx/images/product-images/img_large/00750106101920L.jpg');
 --81
 insert into contraindicacao (nome, imagem) values ('• Hipersensibilidade à piridoxina ou a qualquer componente da formulação.'
-						   , 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+						   , 'https://dkmedicamentos.com.br/img/produtos/001/21275.jpg');
 --82
 insert into contraindicacao (nome, imagem) values ('• Primeiro trimestre de gravidez. Categoria de risco na gravidez (FDA): C (ver Apêndice A). • Insuficiência hepática (ver Apêndice C). • Insuficiência renal. • Hipersensibilidade a pirimetamina ou a algum componente da formulação. • Anemia megaloblástica por deficiência de ácido fólico. • Uso concomitante de aurotioglicose. '
-						   , 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+						   , 'http://laboratoriosfarsiman.com/LFS/wp-content/uploads/2014/10/pirimetamina.jpg');
 --83
 insert into contraindicacao (nome, imagem) values ('• Hipersensibilidade ao fármaco ou a algum dos componentes da formulação. • Infecções sistêmicas. • Uso concomitante com vacinas de vírus vivos (ex.: varíola), pois a resposta imune pode estar diminuída. • Varicela.'
-						   , 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+						   , 'http://www.nursing.com.br/wp-content/uploads/2016/09/Prednisona-2-300x300.png');
 --84
 insert into contraindicacao (nome, imagem) values ('• Hipersensibilidade ou história de reação idiossincrática a prometazina ou a outras fenotiazinas e a sulfitos (ampolas contêm metabissulfito). • Injeção subcutânea ou intra-arterial. • Estado comatoso. • Sintomas do trato respiratório baixo, incluindo asma. • Crianças com menos de 2 anos apresentam maior risco potencial de depressão respiratória fatal. '
-						   , 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+						   , 'http://pfarma.com.br/images/noticias/fenergan-prometazina.png');
 --85
 insert into contraindicacao (nome, imagem) values ('• Hipersensibilidade ao fármaco. • Bradicardia sinusal. • Distúrbios broncoespásticos. • Choque cardiogênico. • Desequilíbrio eletrolítico. • Insuficiência cardíaca congestiva não controlada. • Hipotensão grave. • Distúrbios de geração de impulso e/ou de condução sinoatrial, atrioventricular e intraventricular (ex.: bloqueio atrioventricular, síndrome do nó sino- atrial) na ausência de marca-passo artificial. '
-						   , 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+						   ,'http://locatelcolombia.vteximg.com.br/arquivos/ids/178059-1000-1000/7705959002503-1.png');
 --86
 insert into contraindicacao (nome, imagem) values ('• Hipersensibilidade à propiltiouracila.'
-						   , 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+						   , 'http://2.bp.blogspot.com/-yKEE-8Mvy2I/UTfcUeOgQNI/AAAAAAAAAJg/4WGP2fhdv-g/s1600/035564.jpg');
 --87
 insert into contraindicacao (nome, imagem) values ('• Hipersensibilidade ao propranolol. • Hipotensão. • Insuficiência cardíaca descompensada. • Choque cardiogênico. • Bradicardia sinusal grave. • Sindrome do nó sinoatrial • Bloqueio atrioventricular de 2º e 3º graus. • Asma ou história de doença pulmonar obstrutiva crônica. • Acidose metabólica. • Angina de Prinzmetal • Doença arterial periférica grave. '
-						   , 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+						   , 'http://nootriment.com/wp-content/themes/shopperpress/thumbs/propranolol-review.gif');
 --88
 insert into contraindicacao (nome, imagem) values ('• Hipersensibilidade à ranitidina.'
-						   , 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+						   , 'http://www.bulasderemedios.com/wp-content/uploads/2014/09/Cloridrato-de-Ranitidina.jpg');
 --89
 insert into contraindicacao (nome, imagem) values ('• Doença hepática aguda. • História de hepatite associada ao uso de isoniazida. • Hipersensibilidade a isoniazida ou a rifampicina. • Crianças com menos de 20 kg (pela impossibilidade de ajuste de doses). • Icterícia. '
-						   , 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+						   , 'https://farmacosrifampicinas.files.wordpress.com/2010/09/rifampicina_300__4b3247ac0d4341.jpg');
 --90
 insert into contraindicacao (nome, imagem) values ('• Hipersensibilidade a rifampicina. • Icterícia. • Infecção ativa por Neisseria meningitidis. • Uso concomitante com inibidores da protease (saquinavir, lopinavir, atazanavir, fosamprenavir, tipranavir e darunavir) e voriconazol. '
-						   , 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+						   , 'http://www.tqconfiable.com/images/default-source/imagenes-productos-final/416.jpg?sfvrsn=2');
 --91
 insert into contraindicacao (nome, imagem) values ('• Consultar as monografias individuais referentes aos fármacos desta associação.'
-						   , 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+						   , 'https://super.walmart.com.mx/images/product-images/img_large/00750106101920L.jpg');
 --92
 insert into contraindicacao (nome, imagem) values ('• Hipersensibilidade a risperidona.'
-						   , 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+						   , 'http://www.cliquefarma.com.br/blog/wp-content/uploads/2015/03/Risperidona-300x129.jpg');
 --93
 insert into contraindicacao (nome, imagem) values ('• Hipersensibilidade a lopinavir ou ritonavir. • Porfiria aguda. '
-						   , 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+						   , 'http://lawcaspharmacy.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/l/o/lopinavir-ritonavir-tablets-200mg.jpg');
 --94
 insert into contraindicacao (nome, imagem) values ('• Hipersensibilidade ao ritonavir. • Porfiria. • Insuficiência hepática grave (ver Apêndice C). • Uso concomitante com os seguintes fármacos: quinidina, bosentana, pimozida, erva-de-são-joão (Hypericum perforatum), ergotamina e análogos e voriconazol. '
-						   , 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+						   , 'http://agenciaaids.com.br/usermedia/images/Ritonavir.jpg');
 --95
 insert into contraindicacao (nome, imagem) values ('• Hipersensibilidade ao sulfato de salbutamol ou a qualquer componente da formulação.'
-						   , 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+						   , 'http://kcra-kw.com/en/wp-content/uploads/2011/04/images215712_salbutamol.gif');
 --96
 insert into contraindicacao (nome, imagem) values ('• Hipersensibilidade à sinvastatina. • Doença hepática aguda. • Gravidez. Categoria de risco na gravidez (FDA): X (ver Apêndice A). • Lactação (ver Apêndice B). '
-						   , 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+						   , 'http://seuguiadesaude.com.br/wp-content/uploads/2016/10/sinvastatina.jpg');
 --97
 insert into contraindicacao (nome, imagem) values ('• Porfiria. • Hipersensibilidade a sulfadiazina ou a outras sulfonamidas. • Crianças com menos de 2 meses (exceto com toxoplasmose congênita). • Terceiro trimestre de gravidez. Categoria de risco na gravidez (FDA): C (ver Apêndice A). '
-						   , 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+						   , 'http://www.espacovital.com.br/images/201312091301320.jpg');
 --98
 insert into contraindicacao (nome, imagem) values ('• Hipersensibilidade à prata ou a sulfonamidas. • Bebês até 2 meses de idade (segurança e eficácia não foram estabelecidas). '
-						   , 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+						   , 'https://c1.staticflickr.com/8/7132/6849299158_5db8bceed9_b.jpg');
 --99
 insert into contraindicacao (nome, imagem) values ('• Hipersensibilidade à sulfonamida ou trimetoprima. • Porfiria. • Anemia megaloblástica por deficiência de folato. '
-						   , 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+						   , 'http://galenox.com/images/farmacos/img/DEF59/Liomont_ectaprim_tabletas.png');
 --100
 insert into contraindicacao (nome, imagem) values ('• Hemossiderose, hemocromatose hemoglobinopatias. • Qualquer forma de anemia não associada à deficiência de ferro. • Pacientes que receberam repetidas transfusões sanguíneas. • Ferroterapia parenteral. • Hipersensibilidade ao ferro. '
-						   , 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+						   , 'http://glicose.com.br/wp-content/uploads/2015/05/sulfato-ferroso-vitafer.jpg');
 --101
 insert into contraindicacao (nome, imagem) values ('• Neuropatia prévia. • Reações de hipersensibilidade. • Crianças com idade inferior a 12 anos. • Gravidez. Categoria de risco na gravidez (FDA): X (ver Apêndice A). • Lactação (ver Apêndice B). • Doação de sangue. '
-						   , 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+						   , 'https://static.tuasaude.com/img/ta/li/talidomida-1-1-640-427.jpg');
 --102
 insert into contraindicacao (nome, imagem) values ('• Hipersensibilidade a tiamina ou a qualquer componente da formulação'
-						   , 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+						   , 'http://2.bp.blogspot.com/_cu4KhRGihFM/TRdNNcgyIFI/AAAAAAAAAJk/Rw-_L-sF1K0/s1600/benerva.jpg');
 --103
 insert into contraindicacao (nome, imagem) values ('• Até quatro semanas após administração de vacinas de vírus vivos. • Hipersensibilidade ao PPD (risco de reações graves). • Histórico de reação grave (necrólise, ulceração e formação de vesículas). '
-						   , 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+						   , 'http://www.br.all.biz/img/br/catalog/84837.jpeg');
 --104
 insert into contraindicacao (nome, imagem) values ('• Hipersensibilidade ao valproato de sódio ou ao ácido valproico. • Doença hepática ativa, disfunção hepática significante, ou história familiar de hepatopatias. • Encefalopatia hepática ou distúrbios no ciclo da ureia não diagnosticados. • Porfiria. '
-						   , 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+						   , 'http://www.hipolabor.com.br/wp-content/uploads/2013/10/img3.jpg');
 --105
 insert into contraindicacao (nome, imagem) values ('• Hipersensibilidade ao fármaco ou a outros antagonistas do canal de cálcio. • Hipotensão sintomática. • Bradicardia. • Bloqueio atrioventricular de segundo ou terceiro graus. • Choque cardiogênico • Insuficiência cardíaca descompensada • Síndrome do nó sinoatrial • Disfunção de nós sinusal e atrioventricular. • Distúrbio de condução infranodal. • Síndrome de Wolf-Parkinson-White. • Obstipação crônica. • Taquicardia supraventricular paroxística em menores de 2 anos. '
-						   , 'http://www.freeiconspng.com/uploads/alert-icon-red-11.png');
+						   , 'http://2.bp.blogspot.com/_SuEM_1DgB7Y/TBPB6305zFI/AAAAAAAAAPs/xbuBRhClgJY/s320/verapamil.jpg');
 
 
 
@@ -405,10 +405,6 @@ APRESENTAÇÃO
 • Comprimido 2,5 e 10 mg. • Suspensão injetável 150 mg/mL. 
 
 
-CONTRAINDICAÇÕES
-• Hipersensibilidade ao acetato de medroxiprogesterona ou a qualquer componente da formulação. • Tumores malignos de mama ou em órgãos genitais. • Disfunções hepáticas. • Porfiria. • Tromboembolismo venoso e doenças arteriais. • Hemorragia geniturinária não diagnosticada. • Histórico de abortos espontâneos. • Histórico de prurido ou icterícia idiopática durante a gravidez. • Gravidez. Categoria de risco na gravidez (FDA): X (ver Apêndice A). 
-
-
 PRECAUÇÕES
 • Usar com cuidado nos casos de: – perda de densidade óssea, risco de tromboembolismo, retenção de fluidos orgânicos, asma, depressão, convulsões, epilepsia, enxaqueca, diabetes, hiperlipidemias, disfunções cardíacas, hipertensão, histórico de desenvolvimento de tumor de mama e distúrbios oftálmicos. – distúrbios de sangramento menstrual. – insuficiência hepática e renal (ver Apêndice D). – climatério (sinais e sintomas do climatério podem ser mascarados). • Evitar terapia prolongada. 
 
@@ -444,10 +440,6 @@ APRESENTAÇÃO
 • Comprimido 250 mg
 
 
-CONTRAINDICAÇÕES
-• Hipersensibilidade a acetazolamida, sulfonamidas ou inibidores da anidrase carbônica, ou a qualquer componente da formulação. • Glaucoma de ângulo fechado crônico (pode mascarar deterioração). • Hipopotassemia. • Hiponatremia. • Acidose hiperclorêmica. • Insuficiência renal grave. • Insuficiência hepática grave. • Insuficiência adrenocortical (doença de Addison). • Cirrose hepática. 
-
-
 PRECAUÇÕES
 • Usar com cuidado nos casos de: – idosos, diabete melito, obstrução pulmonar ou enfizema, insuficiência renal leve ou moderada (ver Apêndice D), insuficiência hepática (leve ou moderada). – dose elevada (pode aumentar sonolência e/ou parestesia e diminuir diurese). – uso prolongado (monitorar contagem sanguínea e eletrólitos). – lactação (ver Apêndice B). • Categoria de risco na gravidez (FDA): C (ver Apêndice A). • Pode diminuir a capacidade de dirigir veículos e operar máquinas. 
 
@@ -480,10 +472,6 @@ ASPECTOS FARMACEUTICOS
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Acido valproico (ou Valproato de sódio)',"00000003",
 'APRESENTAÇÃO
 • Comprimido ou cápsula 288 mg (equivalente a 250 mg ácido valproico). • Comprimido 576 mg (equivalente a 500 mg ácido valproico) • Solução oral ou xarope 57,624 mg/mL (equivalente a 50 mg de ácido valproico/mL) 
-
-
-CONTRAINDICAÇÕES
-• Hipersensibilidade ao valproato de sódio ou ao ácido valproico. • Doença hepática ativa, disfunção hepática significante, ou história familiar de hepatopatias. • Encefalopatia hepática ou distúrbios no ciclo da ureia não diagnosticados. • Porfiria. 
 
 
 PRECAUÇÕES
@@ -525,10 +513,6 @@ insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) va
 • Comprimido mastigável 400 mg. • Suspensão oral 40 mg/mL. 
 
 
-CONTRAINDICAÇÕES
-• Hipersensibilidade a algum dos componentes da formulação. 
-
-
 PRECAUÇÕES
 • Usar com cuidado nos casos de: – tratamento para neurocisticercose (tratar previamente com corticosteroi- des, por vários dias, para minimizar episódios de hipertensão cerebral e minimizar reações alérgicas; pode ser considerado o uso de anticonvul- sivantes). – cisticercose (aumento do risco de lesões na retina). – tratamento prolongado (monitorar função hepática e toxicidade medu- lar). • Categoria de risco na gravidez (FDA): C (ver Apêndice A). 
 
@@ -561,10 +545,6 @@ ASPECTOS FARMACEUTICOS
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Alopurinol',"00000005",
 'APRESENTAÇÃO
 • Comprimidos de 100 mg e 300 mg
-
-
-CONTRAINDICAÇÕES
-• Gota aguda. • Hipersensibilidade ao alopurinol ou a qualquer componente da formulação. 
 
 
 PRECAUÇÕES
@@ -600,10 +580,6 @@ ASPECTOS FARMACEUTICOS
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Amiodarona, cloridrato de',"00000006",
 'APRESENTAÇÃO
 • Comprimido de 200 mg. • Solução injetável 50 mg/mL 
-
-
-CONTRAINDICAÇÕES
-• Hipersensibilidade a amiodarona. • Hipersensibilidade ao iodo. • Bloqueio atrioventricular de 2º e 3º graus. • Bradicardia sinusal grave. • Disfunção grave do nó sinusal e atrioventricular. • Distúrbio de condução infranodal. • Choque cardiogênico. • Episódios de bradicardia com síncope. • Hipotensão arterial grave. • Doença pulmonar. • Gravidez. Categoria de risco na gravidez (FDA): D (ver Apêndice A). 
 
 
 PRECAUÇÕES
@@ -643,10 +619,6 @@ insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) va
 • Comprimido 25 mg. 
 
 
-CONTRAINDICAÇÕES
-• Enfarte do miocárdio recente, arritmias cardíacas. • Insuficiência hepática grave (ver apêndice C). • Fase maníaca do transtorno bipolar. • Porfiria. • Hipersensibilidade ao fármaco ou a outros antidepressivos tricíclicos. • Uso de inibidores da monoamina oxidase (IMAO) nos últimos 15 dias (a troca de um IMAO por tricíclico ou vice-versa deve guardar o intervalo mí- nimo de 15 dias). 
-
-
 PRECAUÇÕES
 • Usar com cuidado nos casos de: – menores de 12 anos. – lactação (ver Apêndice B). – cardiopatia, retenção urinária, insuficiência hepática (ver Apêndice C), insuficiência renal crônica (ver Apêndice D), epilepsia, hipertrofia pros- tática, hipertireoidismo, glaucoma de ângulo fechado, diabete melito, his- tória de hipertensão intraocular, ideação suicida, sintomas de paranoia, transtorno bipolar, esquizofrenia ou distúrbios cognitivos. – idosos (reduzir doses). – suspensão do tratamento (deve ser gradual). – eletrochoque concomitante (pode aumentar os riscos da terapia com ele- trochoque). – feocromocitoma. • Categoria de risco na gravidez (FDA): C (ver Apêndice A). • Perigo ao dirigir ou realizar outras tarefas que exijam atenção e coordenação motora. 
 
@@ -684,10 +656,6 @@ insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) va
 • Cápsula ou comprimido 500 mg. • Pó para suspensão oral 50 mg/mL. 
 
 
-CONTRAINDICAÇÕES
-• Hipersensibilidade a amoxicilina ou a outras penicilinas. 
-
-
 PRECAUÇÕES
 • Usar com cuidado nos casos de: – hipersensibilidade às penicilinas (obter história prévia para prevenir no- vas reações). – mononucleose infecciosa, leucemia linfocítica aguda ou crônica, infecção por citomegalovírus ou portadores de HIV (há risco elevado de exantema eritematoso).– uso de altas doses de amoxicilina (manter hidratação adequada para re- duzir risco de cristalúria). – insuficiência renal (ver Apêndice D). – lactação (ver Apêndice B). • Hipersensibilidade cruzada com cefalosporinas (menos de 10%): não utilizar cefalosporinas em pacientes com reações de hipersensibilidade imediata às penicilinas. • Categoria de risco na gravidez (FDA): B. 
 
@@ -721,10 +689,6 @@ insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) va
 • Comprimido 500 mg + 125 mg. • Suspensão oral 50 mg + 12,5 mg/mL. 
 
 
-CONTRAINDICAÇÕES
-• Hipersensibilidade à amoxicilina e a outras penicilinas ou ao ácido clavulânico. • História de icterícia colestática ou disfunção hepática induzidas por penicilina ou pela associação dos fármacos. 
-
-
 PRECAUÇÕES
 • Usar com cuidado nos casos de: – hipersensibilidade às penicilinas (obter história prévia para prevenir novas reações). – mononucleose infecciosa, leucemia linfocítica aguda ou crônica, infecção por citomegalovírus ou portadores de HIV (há risco elevado de exantema eritematoso). – uso de altas doses de amoxicilina (manter hidratação adequada para re- duzir risco de cristalúria). – insuficiência hepática (ver Apêndice C) ou insuficiência renal (ver Apêndice D). • Hipersensibilidade cruzada com cefalosporinas (menos de 10%): não utilizar cefalosporinas em pacientes com reações de hipersensibilidade imediata às penicilinas. • Categoria de risco na gravidez (FDA): B. 
 
@@ -756,10 +720,6 @@ ASPECTOS FARMACEUTICOS
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Anlodipino, besilato de',"000000010",
 'APRESENTAÇÃO
 • Comprimidos 5 mg e 10 mg. 
-
-
-CONTRAINDICAÇÕES
-• Hipersensibilidade ao anlodipino. • Choque cardiogênico. • Angina instável. • Estenose aórtica significante. • Porfiria aguda. 
 
 
 PRECAUÇÕES
@@ -799,10 +759,6 @@ insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) va
 • Comprimidos de 50 mg e 100 mg. 
 
 
-CONTRAINDICAÇÕES
-• Hipersensibilidade ao atenolol. • Choque cardiogênico. • Bradicardia sinusal grave. • Insuficiência cardíaca congestiva descompensada. • Bloqueio atrioventricular de 2º e 3º graus. • Asma brônquica ou doença pulmonar obstrutiva crônica. • Acidose metabólica. 
-
-
 PRECAUÇÕES
 • Usar com cuidado nos casos de: – uso de anestésicos que diminuam a função do miocárdio. – interrupção do tratamento (risco de hipertensão rebote; suspender o fár- maco gradualmente, no decurso de 1 a 2 semanas). – uso concomitante com clonidina (interromper o uso do atenolol alguns dias antes da retirada da clonidina). – história de doença broncoespástica, diabete melito (pode mascarar os sintomas de hipoglicemia), hipertireoidismo, doença vascular periférica e insuficiência cardíaca congestiva. – insuficiência renal (ver Apêndice D). – lactação (ver Apêndice B). • Categoria de risco na gravidez (FDA): D (ver Apêndice A) 
 
@@ -840,10 +796,6 @@ insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) va
 • Comprimido de 500 mg. • Pó para suspensão oral de 40 mg/mL. 
 
 
-CONTRAINDICAÇÕES
-• Hipersensibilidade a azitromicina e outros macrolídeos. • Insuficiência hepática (ver apêndice C). 
-
-
 PRECAUÇÕES
 • Usar com cuidado nos casos de: – insuficiência renal (ver Apêndice D). – crianças com menos de 6 meses de idade (não foi estabelecida a segurança do medicamento). – suspeita de gonorréia concomitante (evitar uso de azitromicina devido ao rápido aparecimento de resistência). – lactação (ver Apêndice B). – miastenia grave. • Categoria de risco na gravidez (FDA): B. 
 
@@ -875,10 +827,6 @@ ASPECTOS FARMACEUTICOS
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Beclometasona, dipropionato',"000000013",
 'APRESENTAÇÃO
 • Pó, solução inalante ou aerossol 50, 200 e/ou 250 microgramas/dose. • Aerossol nasal 50 microgramas (equivalente a 42 microgramas de beclometasona/dose). 
-
-
-CONTRAINDICAÇÕES
-• Hipersensibilidade à beclometasona ou a qualquer componente do produto. 
 
 
 PRECAUÇÕES
@@ -913,11 +861,7 @@ insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) va
 'APRESENTAÇÃO
 • Pó para suspensão injetável de 600.000 UI e 1.200.000 UI. 
 
-
-CONTRAINDICAÇÕES
-• História de hipersensibilidade a qualquer penicilina. • njeção intravenosa. • Neurossífilis. 
-
-
+										      
 PRECAUÇÕES
 • Usar com cuidado nos casos de: – hipersensibilidade às penicilinas (obter história prévia para prevenir no- vas reações). – insuficiência renal (ver Apêndice D). – lactação. – asma ou alergia significante. • Hipersensibilidade cruzada com cefalosporinas (menos de 10%): não utilizar cefalosporinas em pacientes com reações de hipersensibilidade imediata às penicilinas. • Pode haver resultado falso-positivo para glicosúria se for usado teste baseado em oxiredução. • Categoria de risco na gravidez (FDA): B. 
 
@@ -949,10 +893,6 @@ ASPECTOS FARMACEUTICOS
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Biperideno (cloridrato/lactato)',"000000015",
 'APRESENTAÇÃO
 • Comprimido 2 mg (cloridrato de biperideno) • Solução injetável 5 mg/mL (lactato de biperideno) 
-
-
-CONTRAINDICAÇÕES
-• Glaucoma de ângulo fechado. • Retenção urinária. • Hipertrofia prostática. • Miastenia grave. • Obstrução gastrintestinal, megacólon. 
 
 
 PRECAUÇÕES
@@ -988,10 +928,6 @@ insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) va
 • Aerossol nasal 50 microgramas (equivale a 32 microgramas de budesonida por dose). 
 
 
-CONTRAINDICAÇÕES
-• Alergia grave a proteínas do leite. • Hipersensibilidade à budesonida ou a qualquer componente do produto. 
-
-
 PRECAUÇÕES
 • Usar com cuidado nos casos de: – infecções virais (varicela, sarampo, herpes simples ocular), fúngicas (candidíase) e bacterianas (risco de exacerbação da infecção).– tuberculose, ativa ou latente (risco de exacerbação ou reativação). – trauma, cirurgia, infecção ou estresse (resposta suprarrenal inadequada em razão de absorção sistêmica). – crianças (pode ocorrer redução na velocidade de crescimento, especial- mente em uso prolongado ou em dose alta; acompanhar). – cirurgia nasal (aguardar cicatrização). – mudança de via de administração – sistêmica para nasal (pode ocorrer exacerbação dos sintomas). – disfunção hepática (ver Apêndice C). – lactação. • Suspender o medicamento se não houver resposta clínica em 3 semanas. • Categoria de risco na gravidez (FDA): C (ver Apêndice A). 
 
@@ -1023,10 +959,6 @@ ASPECTOS FARMACEUTICOS
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Bupropiona, cloridrato',"000000017",
 'APRESENTAÇÃO
 • Comprimido de 150 mg 
-
-
-CONTRAINDICAÇÕES
-• Crises convulsivas. • História de descontinuação abrupta de álcool ou sedativos, incluindo benzodiazepínicos. • Bulimia ou anorexia. • Transtorno bipolar. • Hipersensibilidade à bupropiona. • Uso de inibidores da monoamina oxidase (IMAO) nos últimos 14 dias. • Uso de outros produtos contendo bupropiona. 
 
 
 PRECAUÇÕES
@@ -1061,10 +993,6 @@ insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) va
 'APRESENTAÇÃO
 • Cápsula 0,25 microgramas 
 										      
-
-CONTRAINDICAÇÕES
-• Hipercalcemia. • Hipersensibilidade a calcitriol. • Hipervitaminose D. • Calcificação metastática. 
-
 
 PRECAUÇÕES
 • Usar com cuidado nos casos de: – hipoparatireoidismo e diálise (instituir rotina de monitoria de cálcio e fosfato séricos). – idosos com comprometimento coronário, hepático ou renal (ver Apêndice D). – doença hepática grave (evitar o uso de calcitriol). (ver Apêndice C). – síndromes de má-absorção (resposta terapêutica pode ser limitada ou imprevisível). – lactação (ver Apêndice B). • Avaliar a quantidade de vitamina D ingerida na dieta e em suplementos alimentícios. • Adequada resposta a calcitriol depende de adequada ingestão de cálcio na dieta. • Iniciar tratamento com a menor dose possível (monitoria do cálcio sérico é necessário para orientar aumento da dose). • Doses excessivas podem levar a hipercalcemia crônica, calcificação vascular generalizada, nefrocalcinose e calcificações em outros tecidos. • Manter adequada ingestão de água. • Categoria de risco na gravidez (FDA): C (ver Apêndice A). 
@@ -1103,10 +1031,6 @@ insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) va
 • Comprimido 25 mg. 
 
 
-CONTRAINDICAÇÕES
-• Hipersensibilidade ao captopril ou outros inibidores da ECA. • Hipersensibilidade a sulfonamidas. • História de angioedema 
-
-
 PRECAUÇÕES
 • Usar com cuidado nos casos de: – uso concomitante com diurético (pode causar hipotensão mesmo com a primeira dose; reduzir a dose do diurético e iniciar o captopril em dose baixa e acompanhar pressão arterial). – elevação das enzimas hepáticas ou ocorrência de icterícia durante o tra- tamento (monitorar função hepática; retirar imediatamente o captopril nesses casos). – doença vascular periférica; cardiomiopatia hiperrarófica; estenose de arteria aórtica ou renal; angioedema intestinal, de cabeça e de pescoço; cirurgia/anestesia. – história de alergias (atenção, pode ocorrer angioedema mesmo com a primeira dose). – crianças (segurança e eficácia não estabelecidas). – insuficiência renal (ver Apêndice D) – lactação (ver Apêncice B). • Monitorar níveis de potássio, especialmente se houver insuficiência renal. • Categoria de risco na gravidez (FDA): C, para o primeiro trimestre; e D, para segundo e terceiro trimestres (ver Apêndice A). 
 
@@ -1138,10 +1062,6 @@ ASPECTOS FARMACEUTICOS
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Carbamazepina',"000000020",
 'APRESENTAÇÃO
 • Comprimido 200 mg. • Suspensão oral 20 mg/mL. 
-
-
-CONTRAINDICAÇÕES
-• Antecedentes de mielossupressão. • Alterações hematológicas, como agranulocitose, leucopenia e porfiria. • Anomalias na condução atrioventricular. • Hipersensibilidade a carbamazepina ou a antidepressivos tricíclicos. • Uso de inibidores da monoamina oxidase, concomitante ou nos últimos 14 dias. 
 
 
 PRECAUÇÕES
@@ -1181,10 +1101,6 @@ insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) va
 • Comprimido 3,125 mg, 6,25 mg, 12,5 mg e 25 mg. 
 
 
-CONTRAINDICAÇÕES
-• Hipersensibilidade ao carvedilol ou a outros betabloqueadores. • Bloqueio atrioventricular de segundo ou terceiro grau. • Bradicardia grave. • Asma brônquica ou broncoespasmo. • Choque cardiogênico. • Insuficiência cardíaca descompensada e necessitando de terapia inotrópica intravenosa. • Insuficiência hepática grave (ver Apêndice C). • Síndrome do nó sinoatrial. 
-
-
 PRECAUÇÕES
 • Usar com cuidado nos casos de: – retirada do medicamento (deve ser gradual, principalmente em pacientes com doença da artéria coronária; retirada abrupta pode exacerbar angina e pode desencadear enfarte do miocárdio e arritmia ventricular). – história de reação anafilática a vários alérgenos (pode aumentar a reativi- dade e diminuir a resposta à epinefrina). – bradicardia – abaixo de 55 batimentos por minuto (reduzir dose, se ne- cessário). – diabete melito (o carvedilol pode mascarar sintoma de hipoglicemia, como a taquicardia, e pode piorara hiperglicemia em pacientes com ICC). – doença cardíaca isquêmica, doença vascular difusa, insuficiência renal e hipotensão (pressão sistólica abaixo 100 mmHg) pode piorar função renal de paciente com ICC (reduzir dose ou interromper o uso). – feocromocitoma. – tirotoxicose (o carvedilol pode mascarar sinais de hipertireoidismo). – lactação (ver Apêndice B). • Categoria de risco na gravidez (FDA): C e D (ver Apêndice A). 
 
@@ -1222,10 +1138,6 @@ insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) va
 • Comprimido 500 mg. • Solução injetável 2 mg/mL. 
 
 
-CONTRAINDICAÇÕES
-• Hipersensibilidade ao ciprofloxacino ou a qualquer outra quinolona. • Histórico de doença nos tendões associada ao uso de quinolonas. • Gravidez a termo. 
-
-
 PRECAUÇÕES
 • Usar com cuidado nos casos de: – histórico de epilepsia ou convulsões (diminui o limiar), miastenia grave. – insuficiência renal (ver Apêndice D). – crianças e adolescentes (não é antibiótico de primeira escolha; risco de efeitos adversos sobre as articulações). – exposição à luz solar (risco de fotossensibilidade). – alcalinização excessiva da urina (risco de cristalúria). – uso prolongado (risco de desenvolver colite pseudomembranosa – superinfecção). – ocorrência de reações psiquiátricas, neurológicas ou de hipersensibilidade (suspender o tratamento). – lactação (ver Apêndice B). • Potencial de desenvolver graves reações de hipersensibilidade, inclusive anafiláticas. • Categoria de risco na gravidez (FDA): C (ver apêndice A). epilepsia ou convulsões (diminui o limiar), miastenia grave. – insuficiência renal (ver Apêndice D). – crianças e adolescentes (não é antibiótico de primeira escolha; risco de efeitos adversos sobre as articulações). – exposição à luz solar (risco de fotossensibilidade). – alcalinização excessiva da urina (risco de cristalúria). – uso prolongado (risco de desenvolver colite pseudomembranosa – superinfecção). – ocorrência de reações psiquiátricas, neurológicas ou de hipersensibilidade (suspender o tratamento). – lactação (ver Apêndice B). • Potencial de desenvolver graves reações de hipersensibilidade, inclusive anafiláticas. • Categoria de risco na gravidez (FDA): C (ver apêndice A). 
 
@@ -1259,10 +1171,6 @@ insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) va
 • Cloridrato de clindamicina: cápsula de 150 e 300 mg • Fosfato de clindamicina: solução injetável de 150 mg/mL 
 
 
-CONTRAINDICAÇÕES
-• Hipersensibilidade a clindamicina ou lincosamidas. • Colite pseudomembranosa prévia. • Colite ulcerativa e enterite. 
-
-
 PRECAUÇÕES
 • Usar com cuidado nos casos de: – ocorrência de diarreia, cólica abdominal e perda de sangue/muco nas fezes (risco potencial de colite pseudomembranosa; suspender imediatamente o tratamento). – recém-nascidos, crianças, idosos e pacientes com atopia. – insuficiência renal. – insuficiência hepática (ver Apêndice C). • Evitar a administração intravenosa rápida. • Categoria de risco na gravidez (FDA): B. 
 
@@ -1294,10 +1202,6 @@ ASPECTOS FARMACEUTICOS
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Clomipramina, cloridrato',"000000024",
 'APRESENTAÇÃO
 • Comprimido 10 e 25 mg. 
-
-
-CONTRAINDICAÇÕES
-• Distúrbios da condução cardíaca e enfarte do miocárdio recente. • Insuficiência hepática. • Hipersensibilidade ao fármaco ou a outros antidepressivos tricíclicos. • Fase maníaca do transtorno bipolar. • Uso de inibidores da monoamina oxidase (IMAO) nos últimos 15 dias (a troca de um IMAO pelo tricíclico ou vice-versa deve guardar o intervalo mínimo de 15 dias). • Porfiria. • Crianças com menos de 12 anos. 
 
 
 PRECAUÇÕES
@@ -1338,10 +1242,6 @@ insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) va
 • Solução oral 2,5 mg/mL 
 
 
-CONTRAINDICAÇÕES
-• Hipersensibilidade a clonazepam ou outros benzodiazepínicos. • Glaucoma de ângulo fechado. • Insuficiência hepática grave (ver Apêndice C). • Categoria de risco na gravidez (FDA): D (ver Apêndice A). 
-
-
 PRECAUÇÕES
 • Usar com cuidado nos casos de: – insuficiência renal (ver Apêndice D). – insuficiência hepática (ver Apêndice C). – doença respiratória, porfiria, histórico de dependência de álcool e/ou psicofármacos, depressão, e pacientes em uso de álcool e outros depressores do SNC. – pacientes com múltiplos tipos de convulsões (pode ocorrer piora das convulsões). – interrupção do tratamento (deve ser gradual, 0,125 mg, 2 vezes ao dia, a cada 3 dias). • Encontra-se no leite materno, não sendo recomendado o uso em lactantes (ver apêndice B). 
 
@@ -1377,10 +1277,6 @@ Clonazepam é medicamento de segunda linha para a indicação apontada . Como os
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Clorpromazina, cloridrato',"000000026",
 'APRESENTAÇÃO
 • Comprimido de 25 mg e 100 mg. • Solução oral 40 mg/mL. • Solução injetável 5 mg/mL. 
-
-
-CONTRAINDICAÇÕES
-• Psicoses com sintomas negativos. • Feocromocitoma. • Depressão medular. • Depressão do sistema nervoso central. • Hipersensibilidade a clorpromazina e outras fenotiazinas. • Coma. • Histórico de tumores dependentes de prolactina. 
 
 
 PRECAUÇÕES
@@ -1420,10 +1316,6 @@ insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) va
 Apresentação • Comprimido de 50 mg e 100 mg. 
 
 
-CONTRAINDICAÇÕES
-Contraindicações • Hipersensibilidade a dapsona ou a sulfonas. • Anemia grave. • Porfiria aguda 
-
-
 PRECAUÇÕES
 Precauções • Usar com cuidado nos casos de: – deficiência de glicose-6-fosfato desidrogenase, de metemoglobina redutase ou de hemoglobina M (pode ocorrer aumento dose-dependente dos Corpos de Heinz e de hemólise). – anemia (tratar anemia antes do uso de dapsona e monitorar a contagem de hemácias durante o tratamento). – uso concomitante a antagonistas de ácido fólico (pode aumentar o risco de reações hematológicas). – sinais como dor de garganta, palidez, febre, púrpura ou icterícia. – doença cardíaca ou pulmonar. – lactação (ver Apêndice B). • A dapsona pode causar agranulocitose, anemia aplástica e outras discrasias sanguíneas. • Categoria de risco na gravidez (FDA): C (ver Apêndice A). 
 
@@ -1455,10 +1347,6 @@ Aspectos farmacêuticos • Manter na embalagem original, bem fechada, ao abrigo
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Dexametasona e Acetato de Dexametasona',"000000028",
 'APRESENTAÇÃO
 Apresentações • Comprimido 4 mg • Creme 0,1% (acetato) • Colírio 0,1% 
-
-
-CONTRAINDICAÇÕES
-Contraindicações • Hipersensibilidade à dexametasona. • Infecções fúngicas, bacterianas e virais sistêmicas, oculares e auriculares não tratadas com antimicrobianos. • Administração de vacinas com vírus vivos. 
 
 
 PRECAUÇÕES
@@ -1498,10 +1386,6 @@ insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) va
 Apresentações • Comprimido de 5 mg • Solução injetável 5 mg/mL 
 
 
-CONTRAINDICAÇÕES
-Contraindicações • Depressão maior. • Coma. • Choque. • Insuficiência pulmonar aguda. • Depressão respiratória. • Miastenia grave. • Apneia do sono. • Hepatopatia grave (ver Apêndice C). • Glaucoma de ângulo fechado. • Gravidez. Categoria de risco na gravidez (FDA): D. (ver Apêndice A). • Hipersensibilidade a diazepam e outros benzodiazepínicos. 
-
-
 PRECAUÇÕES
 Precauções • Usar com cuidado nos casos de: – doença respiratória; insuficiência pulmonar crônica; histórico de dependência a álcool e/ou psicotrópicos; porfiria. – insuficiência hepática (ver Apêndice C). – insuficiência renal. – idosos ou pacientes enfraquecidos (reduzir a dose à metade). – suspensão do tratamento (evitar a retirada abrupta). – crianças, adolescentes e pacientes psiquiátricos (risco de reação paradoxal). – neonatos e lactentes com menos de 6 meses de idade (há risco de icterícia grave). – lactação, evitar o uso do diazepam (ver Apêndice B). • Evitar o uso continuado por período superior a 6 meses. • Pode induzir dependência física e tem efeito cumulativo se não for corretamente intervalado. 
 
@@ -1539,10 +1423,6 @@ insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) va
 Apresentações • Comprimido 0,25 mg. • Elixir 0,05 mg/mL. 
 
 
-CONTRAINDICAÇÕES
-Contraindicações • Hipersensibilidade à digoxina. • Cardiomiopatia hipertrófica obstrutiva (exceto quando concomitante a fibrilação atrial ou insuficiência cardíaca congestiva). • Síndrome de Wolff-Parkinson-White, ou outra arritmia associada com vias acessórias de condução. • Taquicardia ou fibrilação ventricular. • Bloqueio completo intermitente. • Bloqueio atrioventricular de segundo grau 
-
-
 PRECAUÇÕES
 Precauções • Usar com cuidado nos casos de: – enfarte do miocárdio recente, cardioversão elétrica (baixa voltagem), síndrome do nó sinoatrial, doença respiratória grave, pericardite constritiva crônica, disfunção tireoidiana, hipopotassemia (favorece intoxicação digitálica, o potássio pode ser suplementado ou preservado pela administração de diuréticos poupadores do íon), hipomagnesemia, hipercalcemia e hipóxia. – insuficiência renal grave e em idosos com deficiência de função renal (ver Apêndice D). – idosos (calcular e ajustar a dose de acordo com peso de massa magra e função renal). – lactação. • Monitoramento sérico do fármaco. A coleta do material deve ser realizada pelo menos 6 horas após a administração da dose; a determinação da concentração plasmática de digoxina é especialmente útil em pacientes com disfunção renal e diminui o risco de intoxicação digitálica de 25% para 2%. • Neonatos prematuros são especialmente sensíveis ao fármaco. Ajustar a dose de acordo com o grau de maturidade, já que a depuração renal aumenta com o desenvolvimento. • Crianças com mais de 1 mês de idade normalmente necessitam de doses proporcionalmente maiores com base no peso corporal e área de superfície corporal. • Categoria de risco na gravidez (FDA): C. 
 
@@ -1578,10 +1458,6 @@ ATENÇÃO: digoxina apresenta um número elevado de interações de medicamentos
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Doxiciclina, cloridrato',"000000031",
 'APRESENTAÇÃO
 Apresentação • Comprimido 100 mg 
-
-
-CONTRAINDICAÇÕES
-Contraindicações • Hipersensibilidade a doxiciclina, tetraciclinas ou outros componentes da fórmula. • Crianças com menos de 8 anos de idade (provoca alterações no crescimento ósseo e durante o desenvolvimento da dentição, com descoloração temporária ou permanente dos dentes e hipoplasia do esmalte). • Gravidez (ver apêndice A) • Insuficiência hepática grave (ver Apêndice C). • Porfiria. • Lupus eritematoso sistêmico. 
 
 
 PRECAUÇÕES
@@ -1622,10 +1498,6 @@ insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) va
 Apresentação • Comprimidos de 25 mg e 100 mg. 
 
 
-CONTRAINDICAÇÕES
-Contraindicações • Hipersensibilidade a espironolactona. • Hiperpotassemia. • Hiponatremia. • Anúria e insuficiência renal grave (taxa de filtração glomerular inferior a 10 mL/minuto). • Doença de Addison. 
-
-
 PRECAUÇÕES
 Precauções • Usar com cuidado nos casos de: – diabetes e nefropatia diabética. – idosos (diminuir a dose – ver esquema de administração – e monitorar estes pacientes pelo risco aumentado de hiperpotassemia). – insuficiência hepática (ver Apêndice C). – insuficiência renal leve e moderada (ver Apêndice D). – lactação. • Evitar o uso em pacientes com porfiria. • Evitar suplementos de potássio e dieta rica em potássio, pelo risco de hiper- potassemia (se ocorrer, suspender o medicamento). • Monitorar eletrólitos sanguíneos em relação à hiperpotassemia, hiponatre- mia e hipocloremia. • Categoria de risco na gravidez (FDA): C/D. 
 
@@ -1661,10 +1533,6 @@ ATENÇÃO: monitorar potássio sérico regularmente
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Estearato de eritromicina',"000000033",
                                                                                       'APRESENTAÇÃO
 Apresentações • Cápsula ou comprimido 500 mg. • Suspensão oral 50 mg/mL. 
-
-
-CONTRAINDICAÇÕES
-Contraindicações • Hipersensibilidade a eritromicina e a outros macrolídeos. • Porfiria. 
 
 
 PRECAUÇÕES
@@ -1704,10 +1572,6 @@ insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) va
 Apresentação • Creme vaginal 1 mg/g. 
 
 
-CONTRAINDICAÇÕES
-Contraindicações • Tumores estrógeno-dependentes. • Histórico de tumor mamário. • Tromboembolismo venoso ou histórico de recorrência. • Tromboembolismo arterial ativo ou recente. • Distúrbios hepáticos. • Hiperplasia endometrial. • Hemorragias vaginais não diagnosticadas. • Gravidez. Categoria de risco na gravidez (FDA): X (ver Apêndice A). • Lactação (ver Apêndice B). 
-
-
 PRECAUÇÕES
 Precauções • Usar com cuidado nos casos de: – uso prolongado de estriol ou qualquer estrógeno (aumenta o risco de desenvolvimento de tumores no endométrio; pacientes em uso prolongado de creme vaginal devem ser avaliadas quanto à proliferação endometrial; considerar a possibilidade de administrar simultaneamente progestógeno para reduzir o risco). – diabetes melito, histórico de nódulos mamários, enxaqueca, endometriose, predisposição a tromboembolismos, doenças da vesícula biliar e porfiria. 
 
@@ -1739,10 +1603,6 @@ Aspecto farmacêutico • Armazenar à temperatura ambiente, de 15 a 30 ºC. Man
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Etambutol, cloridrato',"000000035",
                                                                                       'APRESENTAÇÃO
 Apresentações • Comprimido de 400 mg. • Solução oral 25 mg/mL. 
-
-
-CONTRAINDICAÇÕES
-Contraindicações • Hipersensibilidade ao etambutol. • Neurite óptica. • Pacientes incapazes de relatar alterações visuais, como idosos e menores de 5 anos de idade. 
 
 
 PRECAUÇÕES
@@ -1782,10 +1642,6 @@ insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) va
 Apresentação • Comprimido 0,03 mg + 0,15 mg. 
 
 
-CONTRAINDICAÇÕES
-Contraindicações • Hipersensibilidade aos componentes da formulação. • Arritmias. • Valvopatias. • Distúrbios tromboembólicos. • Hipertensão arterial sistêmica não controlada. • Doença cardíaca associada com hipertensão pulmonar ou risco de embolia. • Neoplasia cérebro-vascular. • Enxaqueca com sintomas neurológicos focais. • Diabetes com comprometimento vascular. • Adenomas ou carcinomas hepáticos. • Insuficiência hepática (ver Apêndice C). • Cálculos biliares. • Doença trofoblástica ativa. • Lupus eritematoso sistêmico. • Porfiria. • Tumores mamários ou geniturinários. • Hemorragia vaginal não diagnosticada. • Categoria de risco na gravidez (FDA): X (ver Apêndice A). • Lactação (ver Apêndice B). 
-
-
 PRECAUÇÕES
 Precauções • Usar com cuidado nos casos de: – tabagismo (especialmente acima de 15 cigarros/dia). – idade superior a 35 anos. – depressão, diabetes, obesidade, hipertensão, enxaqueca, histórico familiar de tumor de mama e de tromboembolismo, hiperlipidemias. • Pode ocorrer aumento do risco de tromboembolismo venoso, retenção de fluidos e alterações visuais, especialmente com o uso de lentes de contato. 
 
@@ -1818,10 +1674,6 @@ insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) va
                                                                                       '
 APRESENTAÇÃO
 Apresentações • Cápsula 100 mg e 150 mg. • Solução injetável 2 mg/mL. • Pó para suspensão oral 10 mg/mL 
-
-
-CONTRAINDICAÇÕES
-Contraindicações • Hipersensibilidade ao fármaco ou a outro componente da fórmula. • Porfirias agudas. 
 
 
 PRECAUÇÕES
@@ -1861,10 +1713,6 @@ insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) va
 Apresentação • Cápsula ou comprimido 20 mg. 
 
 
-CONTRAINDICAÇÕES
-Contraindicações • Hipersensibilidade ao fármaco. • Uso de inibidores da monoamina oxidase nos últimos 14 dias. • Fase de mania da doença bipolar. 
-
-
 PRECAUÇÕES
 Precauções • Usar com cuidado nos casos de: – insuficiência hepática (ver Apêndice C). – lactação. – epilepsia, doença cardíaca, distúrbios hemorrágicos, diabete melito, susceptibilidade ao glaucoma de ângulo fechado, histórico de mania, transtorno bipolar e pensamentos suicidas. – eletrochoque concomitante (pode aumentar os riscos da terapia). – uso concomitante de anti-inflamatórios não-esteroides, ácido acetilsalicílico ou outros fármacos que afetam a coagulação. • Perigo ao dirigir veículo automotor ou ao realizar outras tarefas que exijam atenção e coordenação motora. • Categoria de risco na gravidez (FDA): C. 
 
@@ -1900,10 +1748,6 @@ ATENÇÃO: este fármaco apresenta um número elevado de interações de medicam
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Furosemida',"000000039",
                                                                                       'APRESENTAÇÃO
 Apresentações • Comprimido 40 mg • Solução injetável 10 mg/mL • Solução oral 10 mg/mL 
-
-
-CONTRAINDICAÇÕES
-Contraindicações • Insuficiência renal com anúria (ver Apêndice D). • Estado pré-comatoso associado a cirrose hepática. • Hipersensibilidade a furosemida e sulfonamidas. 
 
 
 PRECAUÇÕES
@@ -1943,10 +1787,6 @@ insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) va
 Apresentação • Comprimido 5 mg. 
 
 
-CONTRAINDICAÇÕES
-Contraindicações • Cetoacidose. • Diabete melito tipo 1 (dependente de insulina). • Porfiria. • Insuficiência hepática grave (ver Apêndice C). • Insuficiência renal grave (ver Apêndice D). • Tratamento simultâneo com bosentana. • Hipersensibilidade ao fármaco ou a outras sulfoniluréias. 
-
-
 PRECAUÇÕES
 Precauções • Usar com cuidado nos casos de: – idosos e pacientes com insuficiência suprarrenal ou hipofisária (maior risco de hipoglicemia). – obesidade (preferência por metformina). – períodos de estresse (risco de descontrole glicêmico). – lactação (ver Apêndice B). • Categoria de risco na gravidez (FDA): B (ADEC): C (ver Apêndice A). 
 
@@ -1984,10 +1824,6 @@ insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) va
 Apresentações • Comprimido 30 mg (liberação controlada) • Comprimido 80 mg. 
 
 
-CONTRAINDICAÇÕES
-Contraindicações • Diabete melito tipo 1. • Cetoacidose. • Hipersensibilidade ao fármaco e outras sulfonilureias. • Porfiria. • Insuficiência hepática grave (ver Apêndice C). • Insuficiência renal grave (ver Apêndice D). • Gravidez (ver Apêndice A). Categoria de risco na gravidez (ADEC): C. • lactação (ver Apêndice B). 
-
-
 PRECAUÇÕES
 Precauções • Usar com cuidado nos casos de: – idosos (risco de hipoglicemia). – obesidade (preferência por metformina). – períodos de estresse (risco de descontrole glicêmico). 
 
@@ -2019,10 +1855,6 @@ Aspecto farmacêutico • Armazenar à temperatura ambiente, de 15 a 30 ºC. Man
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Haloperidol e Decanoato de Haloperidol',"000000042",
                                                                                       'APRESENTAÇÃO
 Apresentações Haloperidol • Comprimidos de 1 mg e 5 mg. • Solução oral 2 mg/mL. • Solução injetável 5 mg/mL. Decanoato de haloperidol • Solução injetável com 50 mg/mL (forma injetável de depósito). 
-
-
-CONTRAINDICAÇÕES
-Contraindicações • Coma ou depressão do sistema nervoso central. • Supressão medular. • Porfiria. • Feocromocitoma. • Lesão nos gânglios de base. • Hipersensibilidade a haloperidol. • Doença de Parkinson. 
 
 
 PRECAUÇÕES
@@ -2058,10 +1890,6 @@ insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) va
 Apresentações • Comprimido 50 mg. • Solução injetável 20 mg/mL. 
 
 
-CONTRAINDICAÇÕES
-Contraindicações • Hipersensibilidade a hidralazina. • Taquicardia grave. • Insuficiência miocárdica por obstrução mecânica. • Cor pulmonale. • Aneurisma aórtico dissecado. • Doença reumática de valva mitral. • Porfiria. • Lupus eritematoso sistêmico. • Insuficiência cardíaca grave. 
-
-
 PRECAUÇÕES
 Precauções • Usar com cuidado nos casos de: – insuficiência hepática e acetiladores lentos (ver Apêndice C). – insuficiência renal (ver Apêndice D). – doença coronariana, doença cerebrovascular e doença da valva mitral. – uso intravenoso (monitorar pressão arterial). – lactação. • Categoria de risco na gravidez (FDA): C. (ver Apêndice A). 
 
@@ -2093,10 +1921,6 @@ Aspectos farmacêuticos • Armazenar os comprimidos e ampolas entre 15 a 30 ºC
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Hidroclorotiazida',"000000044", 
 'APRESENTAÇÃO
 Apresentação • Comprimidos 12,5 mg e 25 mg. 
-
-
-CONTRAINDICAÇÕES
-Contraindicações • Hipersensibilidade a hidroclorotiazida ou sulfonamidas. • Insuficiência hepática grave (ver Apêndice C). • Insuficiência renal grave (anúria) (ver Apêndice D). • Estado pré-comatoso (a hipopotassemia provocada pela hidroclorotiazida pode precipitar o coma). 
 
 
 PRECAUÇÕES
@@ -2136,10 +1960,6 @@ insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) va
 Apresentações • Comprimidos 200 mg, 300 mg e 600 mg. • Suspensão oral 50 mg/mL (gotas) 
 
 
-CONTRAINDICAÇÕES
-Contraindicações • Hipersensibilidade a ácido acetilsalicílico ou qualquer outro anti-inflamatório não esteroide. • Ulceração péptica ou sangramento intestinal ativos. • Terceiro trimestre da gravidez. 
-
-
 PRECAUÇÕES
 Precauções • Usar com cuidado nos casos de: – distúrbios de coagulação, predisposição a alergias, história de ulceração, perfuração ou sangramento gastrintestinal, doença cardíaca, tratamento com anti-hipertensivos, anemia, asma brônquica e desidratação. – insuficiência renal DCE inferior a 30 mL/minuto (ver Apêndice D). – insuficiência hepática (ver Apêndice C). – idosos (toleram menos os efeitos gastrintestinais associados ao fármaco). • Evitar o uso prolongado devido ao aumento do risco de efeitos gastrintestinais, dano renal e anemia. • Categoria de risco na gravidez (FDA): B – primeiro e segundo trimestres – e D – terceiro trimestre – (ver Apêndice A). 
 
@@ -2171,10 +1991,6 @@ Aspectos farmacêuticos • Armazenar a suspensão oral entre 15 e 30 ºC, evita
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Insulina humana NPH e Insulina humana regular',"000000046", 
 'APRESENTAÇÃO
 Apresentações • Suspensão injetável 100 UI/mL (NPH). • Solução injetável 100 UI/mL (Regular). 
-
-
-CONTRAINDICAÇÕES
-Contraindicações • Hipersensibilidade a algum componente da formulação. • Hipoglicemia. 
 
 
 PRECAUÇÕES
@@ -2210,10 +2026,6 @@ insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) va
 Apresentações • Solução inalante 0,25 mg/mL (equivalente a 0,202 mg/mL). • Aerossol oral 0,02 mg/dose 
 
 
-CONTRAINDICAÇÕES
-Contraindicações • Hipersensibilidade a ipratrópio, atropina e seus derivados, ou a qualquer componente da formulação. • Hipersensibilidade a lecitina de soja ou alimentos relacionados, como grão de soja e/ou amendoim (somente a forma aerossol, por conter lecitina na formulação). 
-
-
 PRECAUÇÕES
 Precauções • Usar com cuidado nos casos de: – broncoespasmo agudo (não usar como tratamento inicial). – hipertrofia prostática benigna, obstrução do colo vesical, glaucoma de ângulo fechado e retenção urinária. – primeira aplicação (risco de broncoespasmo paradoxal). – crianças (eficácia e segurança não estabelecidas). – lactação (ver Apêndice B). • Evitar contato direto do ipratrópio (aerossol ou nebulização) com os olhos, para prevenir precipitação ou exacerbação de glaucoma de ângulo fechado e o aparecimento de outros distúrbios visuais (visão borrada, midríase, dor ocular, congestão conjuntival ou corneal). • Categoria de risco na gravidez (FDA): B. 
 
@@ -2245,10 +2057,6 @@ Aspectos farmacêuticos • A solução de brometo de ipratrópio para inalaçã
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Isoniazida',"000000048", 
 'APRESENTAÇÃO
 Apresentação • Comprimido 100 mg. 
-
-
-CONTRAINDICAÇÕES
-Contraindicações • Doença hepática aguda. • Hepatite associada ao uso prévio de isoniazida. • Hipersensibilidade a isoniazida ou a algum componente da fórmula. 
 
 
 PRECAUÇÕES
@@ -2288,10 +2096,6 @@ insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) va
 Apresentações • Comprimido 75 mg + 150 mg. • Cápsula 100 mg + 150 mg. • Cápsula 200 mg + 300 mg. 
 
 
-CONTRAINDICAÇÕES
-Contraindicações • Doença hepática aguda. • História de hepatite associada ao uso de isoniazida. • Hipersensibilidade a isoniazida ou a rifampicina. • Crianças com menos de 20 kg (pela impossibilidade de ajuste de doses). • Icterícia. 
-
-
 PRECAUÇÕES
 Precauções • Usar com cuidado nos casos de: – insuficiência hepática. – insuficiência renal (ver Apêndice D). – alcoolismo crônico, porfiria, infecções por meningococos (só em portadores sãos). – idosos. • Ficar atento para os sintomas prodrômicos de hepatite associada ao fármaco: fadiga, anorexia, mal-estar, náusea e vômito. • A suplementação de piridoxina previne o aparecimento de neurite periférica. • Diminui a efetividade dos contraceptivos orais. • Categoria de risco na gravidez (FDA): C. 
 
@@ -2327,10 +2131,6 @@ ATENÇÃO: como sinonímia para a associação isoniazida + rifampicina (nomes c
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Rifampicina com Isoniazida com Pirazinamida com CL',"000000050", 
 'APRESENTAÇÃO
 • Comprimido 150 mg (rifampicina) + 75 mg (isoniazida) + 400 mg (pirazinamida) + 275 mg (cloridrato de etambutol).
-
-
-CONTRAINDICAÇÕES
-• Consultar as monografias individuais referentes aos fármacos desta associação.
 
 
 PRECAUÇÕES
@@ -2370,10 +2170,6 @@ insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) va
 Apresentações • Comprimido 75 mg + 150 mg. • Cápsula 100 mg + 150 mg. • Cápsula 200 mg + 300 mg. 
 
 
-CONTRAINDICAÇÕES
-Contraindicações • Doença hepática aguda. • História de hepatite associada ao uso de isoniazida. • Hipersensibilidade a isoniazida ou a rifampicina. • Crianças com menos de 20 kg (pela impossibilidade de ajuste de doses). • Icterícia. 
-
-
 PRECAUÇÕES
 Precauções • Usar com cuidado nos casos de: – insuficiência hepática. – insuficiência renal (ver Apêndice D). – alcoolismo crônico, porfiria, infecções por meningococos (só em portadores sãos). – idosos. • Ficar atento para os sintomas prodrômicos de hepatite associada ao fármaco: fadiga, anorexia, mal-estar, náusea e vômito. • A suplementação de piridoxina previne o aparecimento de neurite periférica. • Diminui a efetividade dos contraceptivos orais. • Categoria de risco na gravidez (FDA): C. 
 
@@ -2411,10 +2207,6 @@ insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) va
 Apresentação • Comprimido sublingual 5 mg. 
 
 
-CONTRAINDICAÇÕES
-Contraindicações • Hipersensibilidade a isossorbida e nitratos orgânicos. • Uso concomitante de sildenafila e correlatos. • Glaucoma de ângulo fechado. • Anemia grave. • Trauma craniano, hemorragia cerebral, pressão intracraniana aumentada. 
-
-
 PRECAUÇÕES
 Precauções • Usar com cuidado nos casos de: – hipotensão, hipovolemia, aumento da pressão intraocular e intracraniana, hipermotilidade gástrica, enfarte agudo do miocárdio, cardiomiopatia hipertrófica. – lactação. – uso constante (produz tolerância ao fármaco). – nefropatia (ver apêndice D) • Monitorar atividade do fármaco (sensação de queimação na região bucal em contato com o fármaco). • Categoria de risco na gravidez (FDA): C. 
 
@@ -2448,10 +2240,6 @@ insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) va
 Apresentações • Comprimido 40 mg (liberação imediata) • Solução injetável 10 mg/mL. 
 
 
-CONTRAINDICAÇÕES
-Contraindicações • Hipersensibilidade a isossorbida ou a nitratos orgânicos. • Uso concomitante de sildenafila e análogos. • Glaucoma de ângulo fechado. • Anemia grave. • Trauma craniano e hemorragia cerebral. 
-
-
 PRECAUÇÕES
 Precauções • Usar com cuidado nos casos de: – hipotensão, hipovolemia, aumento da pressão intraocular e intracraniana, hipermotilidade gástrica, enfarte agudo do miocárdio, cardiomiopatia hipertrófica, insuficiência cardíaca congestiva, hipertireoidismo. – uso de álcool ou bloqueador de canal de cálcio. – uso de elevadas doses (pode surgir dor anginosa). – lactação. • Desenvolve-se tolerância ao fármaco e tolerância cruzada com outros nitratos. Manter intervalo de pelo menos 12 horas sem uso do fármaco para evitar tolerância. • Os principais efeitos adversos são dependentes de dose. • Categoria de risco na gravidez (FDA): C. 
 
@@ -2483,10 +2271,6 @@ Aspectos farmacêuticos • Manter à temperatura de 15 a 30 ºC, proteger da lu
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Itraconazol',"000000054", 
 'APRESENTAÇÃO
 Apresentações • Cápsula 100 mg. • Solução oral 10 mg/mL. 
-
-
-CONTRAINDICAÇÕES
-Contraindicações • Hipersensibilidade ao itraconazol. • Uso concomitante com fármacos biotransformados pelo citocromo CYP3A4, tais como os inibidores da HMGCoA redutase (lovastatina, sinvastatina), ergotamina e análogos (di-hidroergotamina, ergometrina, ergotamina e metilergometrina), midazolam, triazolam e quinidina (ver Interações de me- dicamentos). • Insuficiência cardíaca congestiva ou história desta doença. • Mulheres grávidas ou que planejam engravidar. Categoria de risco na gravidez (FDA): C (ver Apêndice A). 
 
 
 PRECAUÇÕES
@@ -2526,10 +2310,6 @@ insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) va
 Apresentação • Comprimidos de 6 mg. 
 
 
-CONTRAINDICAÇÕES
-Contraindicações • Hipersensibilidade ao fármaco. • Dano na barreira hematoencefálica, pois a ivermectina pode interagir com os receptores do GABA. • Gravidez. Fator de risco na gravidez (FDA): C (ver Apêndice A). 
-
-
 PRECAUÇÕES
 Precauções • Usar com cuidado nos casos de: – crianças pesando menos de 15 kg (segurança não definida). – lactação (ver Apêndice B). • O uso de anti-histamínicos ou corticosteroides reduz as reações alérgicas ocasionadas pela desintegração das microfilárias. • O tratamento com ivermectina para infecções causadas por Onchocerca volvulus pode causar danos sistêmicos (reação de Mazzotti) e reações oftálmi- cas. 
 
@@ -2562,10 +2342,6 @@ Aspectos farmacêuticos • Armazenar à temperatura ambiente, de 15 a 30 ºC, a
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Lamivudina',"000000056", 
 'APRESENTAÇÃO
 Apresentações • Comprimido 150 mg • Solução oral 10 mg/mL 
-
-
-CONTRAINDICAÇÕES
-Contraindicação • Hipersensibilidade à lamivudina. 
 
 
 PRECAUÇÕES
@@ -2606,10 +2382,6 @@ insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) va
 Apresentações • Comprimido 50 mg + 12,5 mg • Comprimido 100 mg + 25 mg 
 
 
-CONTRAINDICAÇÕES
-Contraindicações • Hipersensibilidade conhecida a levodopa ou benserazida. • Lesões de pele não diagnosticadas, melanoma maligno ou história prévia desta doença. • Glaucoma de ângulo fechado. • Uso concomitante de reserpina e inibidores da monoamina oxidase (inclusive duas semanas antes de iniciar levodopa+benserazida). 
-
-
 PRECAUÇÕES
 Precauções • Usar com cuidado nos casos de: – doenças pulmonares. – úlcera péptica ativa. – doenças graves hepáticas, renais, cardiovasculares e medulares ósseas. – diabete melito, hipertireoidismo, feocromocitoma, osteomalácia. – depressão e outras doenças psiquiátricas graves. – glaucoma de ângulo aberto. – retirada do medicamento (deve ser gradual para reduzir risco de síndrome neuroléptica maligna e rabdomiólise). – anestesia com narcóticos (suspender o medicamento pelo menos oito horas antes da anestesia). – idosos (introduzir com incrementos graduais das doses). – lactação (ver Apêndice B). • Categoria de risco na gravidez (FDA): C (ver Apêndice A). 
 
@@ -2645,10 +2417,6 @@ ATENÇÃO: no início do tratamento pode ocorrer sedação excessiva e sono de i
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Levodopa com Carbidopa',"000000058", 
 'APRESENTAÇÃO
 Apresentações • comprimido 250 mg + 25 mg • comprimido 100 mg + 25 mg • comprimido 100 mg + 10 mg 
-
-
-CONTRAINDICAÇÕES
-Contraindicações • Hipersensibilidade conhecida a levodopa ou carbidopa. • Lesões de pele não diagnosticadas, melanoma maligno ou história prévia desta doença. • Glaucoma de ângulo fechado. • Uso concomitante de reserpina e inibidores da monoamina oxidase (inclusive duas semanas antes de iniciar levodopa + carbidopa). 
 
 
 PRECAUÇÕES
@@ -2688,10 +2456,6 @@ insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) va
 Apresentação • Comprimido 0,03 mg + 0,15 mg. 
 
 
-CONTRAINDICAÇÕES
-Contraindicações • Hipersensibilidade aos componentes da formulação. • Arritmias. • Valvopatias. • Distúrbios tromboembólicos. • Hipertensão arterial sistêmica não controlada. • Doença cardíaca associada com hipertensão pulmonar ou risco de embolia. • Neoplasia cérebro-vascular. • Enxaqueca com sintomas neurológicos focais. • Diabetes com comprometimento vascular. • Adenomas ou carcinomas hepáticos. • Insuficiência hepática (ver Apêndice C). • Cálculos biliares. • Doença trofoblástica ativa. • Lupus eritematoso sistêmico. • Porfiria. • Tumores mamários ou geniturinários. • Hemorragia vaginal não diagnosticada. • Categoria de risco na gravidez (FDA): X (ver Apêndice A). • Lactação (ver Apêndice B). 
-
-
 PRECAUÇÕES
 Precauções • Usar com cuidado nos casos de: – tabagismo (especialmente acima de 15 cigarros/dia). – idade superior a 35 anos. – depressão, diabetes, obesidade, hipertensão, enxaqueca, histórico familiar de tumor de mama e de tromboembolismo, hiperlipidemias. • Pode ocorrer aumento do risco de tromboembolismo venoso, retenção de fluidos e alterações visuais, especialmente com o uso de lentes de contato. 
 
@@ -2726,10 +2490,6 @@ insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) va
 Apresentação • Comprimido 1,5 mg. 
 
 
-CONTRAINDICAÇÕES
-Contraindicações • Hipersensibilidade a qualquer componente da fórmula. • Sangramento genital de etiologia desconhecida. • Porfiria. • Doença arterial grave, distúrbios tromboembólicos • Gravidez. Fator de risco na gravidez (FDA): X (ver apêndice A). 
-
-
 PRECAUÇÕES
 Precauções • Usar com cuidado nos casos de: – diabetes. – insuficiência hepática (ver Apêndice C). – ocorrência de vômito em até 2 horas após a administração (a dose poderá ser repetida; se necessário, administrar antiemético). • Não é recomendado antes da menarca, mas pode ser usado durante o ciclo menstrual. 
 
@@ -2762,10 +2522,6 @@ Aspecto farmacêutico • Armazenar sob temperatura ambiente, em recipiente bem 
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Lopinavir com Ritonavir',"000000061", 
 'APRESENTAÇÃO
 Apresentações • Comprimido (200 mg + 50 mg) • Solução oral (80 mg + 20 mg)/mL 
-
-
-CONTRAINDICAÇÕES
-Contraindicações • Hipersensibilidade a lopinavir ou ritonavir. • Porfiria aguda. 
 
 
 PRECAUÇÕES
@@ -2805,10 +2561,6 @@ insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) va
 Apresentações • Comprimido 10 mg • Xarope 1 mg/mL. 
 
 
-CONTRAINDICAÇÕES
-Contraindicações • Hipersensibilidade à loratadina. • Porfiria. • Recém-nascidos e bebês prematuros.
-
-
 PRECAUÇÕES
 Precauções • Usar com cuidado nos casos de: – hipertrofia prostática, retenção urinária, glaucoma, obstrução piloro-duodenal e epilepsia. – insuficiência hepática (ver Apêndice C). – insuficiência renal (ver Apêndice D). – crianças e idosos (podem desenvolver reação paradoxal de hiperexcitabilidade). – direção de veículo ou operação de maquinário (risco de acidentes por eventual efeito sedativo da loratadina). – lactação (ver Apêndice B). • Fator de risco na gravidez (FDA): B. 
 
@@ -2842,10 +2594,6 @@ insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) va
 'APRESENTAÇÃO
 Apresentações • Comprimido 2 mg • Solução oral ou xarope 0,4 mg/mL. 
 										      
-
-CONTRAINDICAÇÕES
-Contraindicações • Hipersensibilidade a qualquer anti-histamínico. • Crianças menores de 2 anos, principalmente neonatos, por sua maior susceptibilidade aos efeitos anticolinérgicos e risco de convulsões. • Uso concomitante com inibidores da monoamina oxidase (IMAO) e anticoagulantes. • Na forma de comprimido, para crianças com menos de 6 anos de idade 
-
 
 PRECAUÇÕES
 Precauções • Usar com cuidado nos casos de: – hipertrofia prostática, retenção urinária, obstrução piloro-duodenal, susceptibilidade a glaucoma, insuficiência hepática (ver Apêndice C) ou renal (ver Apêndice D), epilepsia, asma brônquica e úlcera péptica. – crianças e idosos (são mais Susceptíveis aos efeitos adversos; pode ocorrer reação paradoxal de hiperexcitabilidade). – lactação (ver Apêndice B). • Fator de risco na gravidez (FDA): B. 
@@ -2884,10 +2632,6 @@ insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) va
 Apresentações • Comprimidos de 5 mg, 10 mg e 20 mg. 
 
 
-CONTRAINDICAÇÕES
-Contraindicações • Hipersensibilidade ao enalapril ou a outros inibidores da ECA. • Gravidez (ver Apêndice A). • Doença renovascular. • Angioedema induzido por inibidores da ECA. • Angioedema hereditário ou idiopático. 
-
-
 PRECAUÇÕES
 Precauções • Usar com cuidado nos casos de: – hiponatremia, hipovolemia, diminuição de função renal (ver Apêndice D) ou uso de diuréticos (usar a menor dose efetiva). – doença vascular periférica, cardiomiopatia hipertrófica, estenose da artéria aórtica ou renal, insuficiência hepática, cirurgia/anestesia e em situações com risco aumentado de hipotensão. – história de alergias (pode ocorrer angioedema mesmo após a primeira dose). – crianças (segurança e eficácia não estabelecidas). – elevação de enzimas hepáticas ou icterícia (ver apêndice C) – lactação. • Iniciar tratamento com dose baixa (ajustar a cada 2 ou 4 semanas), e monitorar pressão arterial após a primeira dose. • Monitorar potássio sérico, especialmente se houver insuficiência renal. • Categoria de risco na gravidez (FDA): C (primeiro trimestre) e D (segundo e terceiro trimestres) (ver Apêndice A). 
 
@@ -2920,10 +2664,6 @@ Aspectos farmacêuticos • Armazenar preferencialmente entre 15 e 30°C. Proteg
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Maleato de Timolol',"000000065", 
 'APRESENTAÇÃO
 • Colírio 0,25% e 0,5%.
-
-
-CONTRAINDICAÇÕES
-• Insuficiência cardíaca congestiva não controlada. • Choque cardiogênico. • Bradicardia sinusal grave. • Bloqueio cardíaco. • Asma ou história de doença obstrutiva das vias aéreas. 
 
 
 PRECAUÇÕES
@@ -2959,10 +2699,6 @@ insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) va
 • Comprimido 500 mg e 850 mg.
 
 
-CONTRAINDICAÇÕES
-• Cetoacidose. • Insuficiência renal (ver Apêndice D). • Administração concomitante com contrastes radiológicos iodados. • Anestesia geral. • Alcoolismo. • Hipersensibilidade à metformina. • Diabete gestacional. 
-
-
 PRECAUÇÕES
 • Usar com cuidado nos casos de: – insuficiência renal (avaliar a função renal antes do início do tratamento e uma a duas vezes durante o ano – ver Apêndice D). – idosos, especialmente acima de 80 anos (é maior o risco de acidose lática pela redução da função renal). – ingestão excessiva de álcool, distúrbios hepáticos (ver Apêndice C), hipoxemia, desidratação e septicemia (condições que elevam o risco de acidose lática). – durante infecções, cirurgias ou traumas (substituir por insulina). – lactação. • Pode haver redução da absorção de vitamina B12. • Categoria de risco na gravidez (FDA): B. 
 
@@ -2994,10 +2730,6 @@ ASPECTOS FARMACEUTICOS
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Metildopa',"000000067", 
 'APRESENTAÇÃO
 • Comprimido 250 mg.
-
-
-CONTRAINDICAÇÕES
-• Hipersensibilidade à metildopa. • Doença hepática ativa. • Pacientes em uso de inibidor da monoamina oxidase (IMAO). • Feocromocitoma. • Porfiria. 
 
 
 PRECAUÇÕES
@@ -3034,10 +2766,6 @@ insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) va
 • Comprimido 10 mg • Solução oral 4 mg/mL • Solução injetável 5 mg/mL 
 
 
-CONTRAINDICAÇÕES
-• Hipersensibilidade à metoclopramida. • Hemorragia, obstrução ou perfuração gastrintestinal. • Feocromocitoma. • Epilepsia e outros distúrbios convulsivos. • Três a quatro dias após cirurgia gastrintestinal. • Uso concomitante de fármacos com efeitos extrapiramidais, como fenotiazinas. 
-
-
 PRECAUÇÕES
 • Usar com cuidado nos casos de: – doença de Parkinson, comprometimento da habilidade mental e/ou física. – idosos (maior risco de parkinsonismo e discinesia tardia). – crianças e adultos jovens (maior incidência de reações distônicas). – neonatos (maior risco de metemoglobinemia). – depressão. – insuficiência cardíaca congestiva. – porfiria. – cirrose. – lactação (ver Apêndice B). – insuficiência hepática (ver Apêndice C). – insuficiência renal (ver Apêndice D). • Categoria de risco na gravidez (FDA): B. 
 
@@ -3071,10 +2799,6 @@ ASPECTOS FARMACEUTICOS
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Metronidazol e benzoilmetronidazol',"000000069", 
 'APRESENTAÇÃO
 • Comprimido 250 mg e 400 mg. • Solução injetável 5 mg/mL. • Suspensão oral 40 mg/mL (na forma de benzoilmetronidazol). • Gel vaginal 100 mg/g. • Gel vaginal 10%. 
-
-
-CONTRAINDICAÇÕES
-• Dependência crônica de álcool. • Hipersensibilidade ao metronidazol. • Primeiro trimestre da gravidez. 
 
 
 PRECAUÇÕES
@@ -3114,10 +2838,6 @@ insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) va
 • Creme 2% • Creme vaginal 2% • Loção 2% • Gel oral 2% • Pó 2% 
 
 
-CONTRAINDICAÇÕES
-• Hipersensibilidade a algum dos componentes da fórmula. • Vulvovaginites causadas por Trichomonas vaginalis (os antifúngicos azólicos são ineficazes). • Porfiria (miconazol é porfirinogênico em testes in vitro). • Crianças prematuras não devem utilizar o gel oral nos primeiros 5 a 6 meses de vida. 
-
-
 PRECAUÇÕES
 • Usar com cuidado nos casos de: – uso de preservativos de látex (as preparações intravaginais podem causar danos aos preservativos de látex; usar método contraceptivo adicional durante a administração do creme vaginal). – insuficiência hepática (evitar uso de miconazol em gel oral) (ver Apêndice C). • Monitorar a função hepática durante o tratamento, porém, não há ajuste de dose específico preconizado. • Evitar contato com olhos e membranas mucosas. • Categoria de risco na gravidez (FDA): C. 
 
@@ -3151,10 +2871,6 @@ insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) va
 • Adesivo transdérmico 7 mg, 14 mg e 21 mg. • Goma de mascar 2 mg e 4 mg. 
 
 
-CONTRAINDICAÇÕES
-• Hipersensibilidade a nicotina ou a algum componentes da fórmula. • Período pós-enfarte do miocárdio. • Angina de peito e arritmias graves. • Comprometimento da articulação temporomandibular (goma de mascar). • Gravidez (ver Apêndice A). • Lactação (ver Apêndice B). 
-
-
 PRECAUÇÕES
 • Usar com cuidado nos casos de: – orofaringite, esofagite, úlcera péptica, doença coronariana e vascular periférica, acidente vascular encefálico recente, angina de peito, hipertensão arterial sistêmica, hipertireoidismo, feocromocitoma, diabete tipo I. – insuficiência hepática. – insuficiência renal. – alergia ao material adesivo (pode conter um metal, como o alumínio). – idosos (não requer ajuste de dose, mas o uso deve ser cauteloso se houver comorbidades). • Categoria de risco na gravidez (FDA): D. 
 
@@ -3186,10 +2902,6 @@ ASPECTOS FARMACEUTICOS
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Nifedipino',"000000072", 
 'APRESENTAÇÃO
 • Cápsula ou comprimido 10 mg.
-
-
-CONTRAINDICAÇÕES
-• Choque cardiogênico. • Estenose aórtica avançada. • Ocorrência de enfarte do miocárdio no último mês. • Angina instável ou com crises agudas. • Porfiria. • Hipersensibilidade ao nifedipino ou a componentes da fórmula. 
 
 
 PRECAUÇÕES
@@ -3226,10 +2938,6 @@ insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) va
 • Suspensão oral 100.000 UI/mL.
 
 
-CONTRAINDICAÇÕES
-• Hipersensibilidade à nistatina.
-
-
 PRECAUÇÕES
 • Usar com cuidado no caso de lactação. • Categoria de risco na gravidez (FDA): C. 
 
@@ -3261,10 +2969,6 @@ ASPECTOS FARMACEUTICOS
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Noretisterona',"000000074", 
 'APRESENTAÇÃO
 • Comprimido 0,35 mg
-
-
-CONTRAINDICAÇÕES
-• Doença hepática aguda (ver Apêndice C). • Tumores hepáticos benignos ou malignos. • Hipersensibilidade a qualquer componente do produto. • Carcinoma de mama, conhecido ou suspeito. • Sangramento genital anormal de causa desconhecida. • Porfiria aguda. • Gravidez. Categoria de risco na gravidez (FDA): X (ver Apêndice A). 
 
 
 PRECAUÇÕES
@@ -3305,10 +3009,6 @@ insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) va
 • Solução injetável de (50 mg + 5 mg)/mL.
 
 
-CONTRAINDICAÇÕES
-• Tumores hepáticos benignos ou malignos. • Insuficiência hepática (ver Apêndice C) • Hipersensibilidade ao enantato de noretisterona, ao valerato de estradiol ou a qualquer componente da fórmula. • Porfiria. • Tumores de mama. • Neoplasias estrógeno-dependentes. • Hemorragia vaginal não diagnosticada. • Distúrbios tromboembólicos. • Doença cardiovascular. • Gravidez. Categoria de risco na gravidez (FDA): X (ver Apêndice A). 
-
-
 PRECAUÇÕES
 • Usar com cuidado nos casos de: – tabagismo (acima de 15 cigarros/dia), idade superior a 35 anos, obesidade, diabetes, hipertensão, cistos ovarianos, endometriose, hiperlipidemia, hipotireoidismo e hipocalcemia. • Pode ocorrer aumento de risco para tromboembolismo venoso e doenças cardiovasculares. • Pode ocorrer aumento da incidência de demência. • Pode ocorrer exacerbação de crises de asma, epilepsia e enxaqueca. • Pode ocorrer aumento da incidência de gravidez ectópica. 
 
@@ -3340,10 +3040,6 @@ ASPECTOS FARMACEUTICOS
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Nortriptilina, cloridrato',"000000076", 
 'APRESENTAÇÃO
 • Cápsulas 10 mg, 25 mg, 50 mg e 75 mg.
-
-
-CONTRAINDICAÇÕES
-• Distúrbios da condução cardíaca, após enfarte do miocárdio, arritmias cardíacas, doença hepática grave (ver apêndice C), fase de mania da doença bipolar, porfiria. • Hipersensibilidade ao fármaco ou a outros antidepressivos tricíclicos. • Uso de inibidores da monoamina oxidase (IMAO) nos últimos 15 dias (a troca de um IMAO pelo tricíclico ou vice-versa deve guardar o intervalo mínimo de 15 dias). • Crianças e adolescentes. 
 
 
 PRECAUÇÕES
@@ -3383,10 +3079,6 @@ insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) va
 • Comprimido 500 mg • Solução oral 200 mg/mL 
 
 
-CONTRAINDICAÇÕES
-• Hipersensibilidade ao paracetamol.
-
-
 PRECAUÇÕES
 • Usar com cuidado nos casos de: – insuficiência hepática (ver Apêndice C). – insuficiência renal (ver Apêndice D). – alcoolismo. – pacientes asmáticos com hipersensibilidade ao ácido acetilsalicílico (risco de hipersensibilidade cruzada). – lactação. • O paracetamol tem pouco ou nenhum efeito anti-inflamatório ou antirreumático. • Categoria de risco na gravidez (FDA): B. 
 
@@ -3421,10 +3113,6 @@ insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) va
 • Loção 1% e 5%.
 
 
-CONTRAINDICAÇÕES
-• Hipersensibilidade à permetrina ou a outras piretrinas, sintéticas ou naturais. • Crianças com menos de 2 meses de idade. 
-
-
 PRECAUÇÕES
 • Usar com cuidado nos casos de: – inflamação ou corte na pele ou escalpo (pode exacerbar prurido, edema e eritema da lesão). – crianças até 2 anos de idade (usar somente sob supervisão médica). – pediculose pubiana para menores de 18 anos (uso não recomendado). • Evitar contato com olhos e mucosas. • Fator de risco na gravidez (FDA): B. 
 
@@ -3456,10 +3144,6 @@ ASPECTOS FARMACEUTICOS
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Pirazinamida',"000000079", 
 'APRESENTAÇÃO
 • Comprimido 500 mg. • Solução oral 30 mg/mL. 
-
-
-CONTRAINDICAÇÕES
-• Insuficiência hepática grave. • Porfiria. • Gota aguda. 
 
 
 PRECAUÇÕES
@@ -3499,10 +3183,6 @@ insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) va
 • Comprimido 150 mg (rifampicina) + 75 mg (isoniazida) + 400 mg (pirazinamida) + 275 mg (cloridrato de etambutol).
 
 
-CONTRAINDICAÇÕES
-• Consultar as monografias individuais referentes aos fármacos desta associação.
-
-
 PRECAUÇÕES
 • Consultar as monografias individuais referentes aos fármacos desta associação.
 
@@ -3540,10 +3220,6 @@ insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) va
 • Comprimido 50 mg. • Solução oral 1 mg/mL e 10 mg/mL 
 
 
-CONTRAINDICAÇÕES
-• Hipersensibilidade à piridoxina ou a qualquer componente da formulação.
-
-
 PRECAUÇÕES
 • Usar com cuidado nos casos de: – uso prolongado de doses diárias de 50 mg a 2 g (pode ocorrer neurite sensorial). – adultos recebendo doses diárias acima de 200 mg (podem ocorrer dependência e síndrome de retirada). – insuficiência renal (ver Apêndice D). • Categoria de risco na gravidez: A e C (dose superior a dietética recomendada) (ver Apêndice A). 
 
@@ -3575,10 +3251,6 @@ ASPECTOS FARMACEUTICOS
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Pirimetamina',"000000082", 
 'APRESENTAÇÃO
 • Comprimido 25 mg.
-
-
-CONTRAINDICAÇÕES
-• Primeiro trimestre de gravidez. Categoria de risco na gravidez (FDA): C (ver Apêndice A). • Insuficiência hepática (ver Apêndice C). • Insuficiência renal. • Hipersensibilidade a pirimetamina ou a algum componente da formulação. • Anemia megaloblástica por deficiência de ácido fólico. • Uso concomitante de aurotioglicose. 
 
 
 PRECAUÇÕES
@@ -3616,10 +3288,6 @@ ATENÇÃO: administrar ácido folínico (5 a 10 mg/dia) durante tratamento com p
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Prednisona',"000000083", 
 'APRESENTAÇÃO
 • Comprimido de 5 mg e 20 mg
-
-
-CONTRAINDICAÇÕES
-• Hipersensibilidade ao fármaco ou a algum dos componentes da formulação. • Infecções sistêmicas. • Uso concomitante com vacinas de vírus vivos (ex.: varíola), pois a resposta imune pode estar diminuída. • Varicela. 
 
 
 PRECAUÇÕES
@@ -3660,10 +3328,6 @@ insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) va
 • Solução injetável 25 mg/mL.
 
 
-CONTRAINDICAÇÕES
-• Hipersensibilidade ou história de reação idiossincrática a prometazina ou a outras fenotiazinas e a sulfitos (ampolas contêm metabissulfito). • Injeção subcutânea ou intra-arterial. • Estado comatoso. • Sintomas do trato respiratório baixo, incluindo asma. • Crianças com menos de 2 anos apresentam maior risco potencial de depressão respiratória fatal. 
-
-
 PRECAUÇÕES
 • Usar com cuidado nos casos de: – pacientes com hipertrofia prostática, retenção urinária, glaucoma de ângulo fechado, úlcera péptica estenosante e obstrução piloroduodenal, devido aos efeitos anticolinérgicos. – durante a indução e a recuperação de anestesia (devido aos efeitos muscarínicos, pode aumentar o risco de regurgitação e aspiração do conteúdo gástrico). – pacientes com convulsões, depressão da medula óssea, agranulocitose, leucopenia, disfunção hepática (ver Apêndice C) e renal, doença cardiovascular e função respiratória comprometida. – crianças e idosos (apresentam maior susceptibilidade aos efeitos anticolinérgicos e sobre o sistema nervoso central, podendo ocorrer reação paradoxal). – pacientes pediátricos com doença aguda associada a desidratação ou com sinais e sintomas sugestivos da síndrome de Reye ou outras doenças hepáticas. – uso concomitante de outros fármacos que afetam o limiar epileptogênico (exemplo: narcóticos ou anestésicos locais). – pacientes pediátricos com vômito não complicado (uso não recomendado); limitar o uso em vômito prolongado de etiologia desconhecida. – síndrome neuroléptica maligna. – lactação (ver Apêndice B). – porfiria. • Monitorar a pressão arterial. • Reações graves podem ocorrer no lugar da injeção (após injeção única pelas vias intravenosa, subcutânea ou intra-arterial inadvertida); pode ser necessária intervenção cirúrgica como fasciotomia, enxerto cutâneo e amputação; o risco é aumentado com concentrações acima de 25 mg/mL e com taxas de infusão superior a 25 mg/min. • Categoria de risco na gravidez (FDA): C (ver Apêndice A). 
 
@@ -3696,10 +3360,6 @@ ASPECTOS FARMACEUTICOS
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Propafenona, cloridrato',"000000085", 
 'APRESENTAÇÃO
 • Comprimido 150 mg e 300 mg • Solução injetável 3,5 mg/mL 
-
-
-CONTRAINDICAÇÕES
-• Hipersensibilidade ao fármaco. • Bradicardia sinusal. • Distúrbios broncoespásticos. • Choque cardiogênico. • Desequilíbrio eletrolítico. • Insuficiência cardíaca congestiva não controlada. • Hipotensão grave. • Distúrbios de geração de impulso e/ou de condução sinoatrial, atrioventricular e intraventricular (ex.: bloqueio atrioventricular, síndrome do nó sino- atrial) na ausência de marca-passo artificial. 
 
 
 PRECAUÇÕES
@@ -3737,10 +3397,6 @@ ATENÇÃO: terapia intravenosa é superior a dose única de 600 mg por via oral 
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Propiltiouracila',"000000086", 
 'APRESENTAÇÃO
 • Comprimido 50 mg e 100 mg.
-
-
-CONTRAINDICAÇÕES
-• Hipersensibilidade à propiltiouracila.
 
 
 PRECAUÇÕES
@@ -3781,10 +3437,6 @@ insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) va
 • Comprimidos de 10 mg e 40 mg. • Solução injetável 10 mg/mL. 
 
 
-CONTRAINDICAÇÕES
-• Hipersensibilidade ao propranolol. • Hipotensão. • Insuficiência cardíaca descompensada. • Choque cardiogênico. • Bradicardia sinusal grave. • Sindrome do nó sinoatrial • Bloqueio atrioventricular de 2º e 3º graus. • Asma ou história de doença pulmonar obstrutiva crônica. • Acidose metabólica. • Angina de Prinzmetal • Doença arterial periférica grave. 
-
-
 PRECAUÇÕES
 • Usar com cuidado em pacientes em uso de anestésicos que diminuam a função do miocárdio. • Suspender o fármaco no decurso de 1 a 2 semanas. A suspensão súbita pode gerar efeito rebote, com piora de angina de peito, arritmias cardíacas e surgimento de enfarte do miocárdio. • Deve ser utilizado com cautela em pacientes com história de insuficiência cardíaca congestiva, insuficiência cerebrovascular, doença vascular periférica, miastenia grave, bloqueio atrioventricular de 1º grau, hipertensão portal, reações de hipersensibilidade, hipertireoidismo/tirotoxicose, diabetes melito (pode mascarar sintomas de hipoglicemia). • Usar com cuidado em pacientes com doença hepática (ver apêndice C) e insuficiência renal (não é necessário ajuste de dose). • Quando usado por via intravenosa, fazer monitoria eletrocardiográfica e da pressão arterial. • O risco de efeitos adversos é aumentado em pacientes idosos. • Categoria de risco na gravidez (FDA): C e D (ver apêndice A). • Lactação. 
 
@@ -3823,10 +3475,6 @@ insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) va
 • Comprimido 150 mg. • Solução injetável 25 mg/mL. 
 
 
-CONTRAINDICAÇÕES
-• Hipersensibilidade à ranitidina.
-
-
 PRECAUÇÕES
 • Usar com cuidado nos casos de: – história de porfiria aguda. – insuficiência hepática (ver Apêndice C). – insuficiência renal (ver Apêndice D). – crianças (segurança e eficácia não estão estabelecidas para tratamentos longos e para lactentes com menos de um mês). – uso prolongado (pode causar deficiência de vitamina B12). – terapia intravenosa prolongada (ocorre aumento de transaminases hepáticas). – predisposição a distúrbios do ritmo cardíaco (administração intravenosa rápida pode produzir bradicardia). – fenilcetonúricos (algumas formulações contêm fenilalanina). – lactação (distribuído no leite, mas não se conhecem efeitos sobre o lactente). • Pode mascarar sintomas de neoplasia gástrica. • Categoria de risco na gravidez (FDA): B. 
 
@@ -3858,10 +3506,6 @@ ASPECTOS FARMACEUTICOS
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Isoniazida com Rifampicina',"000000089", 
 'APRESENTAÇÃO
 Apresentações • Comprimido 75 mg + 150 mg. • Cápsula 100 mg + 150 mg. • Cápsula 200 mg + 300 mg. 
-
-
-CONTRAINDICAÇÕES
-Contraindicações • Doença hepática aguda. • História de hepatite associada ao uso de isoniazida. • Hipersensibilidade a isoniazida ou a rifampicina. • Crianças com menos de 20 kg (pela impossibilidade de ajuste de doses). • Icterícia. 
 
 
 PRECAUÇÕES
@@ -3899,10 +3543,6 @@ ATENÇÃO: como sinonímia para a associação isoniazida + rifampicina (nomes c
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Rifampicina',"000000090", 
 'APRESENTAÇÃO
 • Cápsula 300 mg. • Suspensão oral 20 mg/mL. 
-
-
-CONTRAINDICAÇÕES
-• Hipersensibilidade a rifampicina. • Icterícia. • Infecção ativa por Neisseria meningitidis. • Uso concomitante com inibidores da protease (saquinavir, lopinavir, atazanavir, fosamprenavir, tipranavir e darunavir) e voriconazol. 
 
 
 PRECAUÇÕES
@@ -3943,10 +3583,6 @@ insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) va
 • Comprimido 150 mg (rifampicina) + 75 mg (isoniazida) + 400 mg (pirazinamida) + 275 mg (cloridrato de etambutol).
 
 
-CONTRAINDICAÇÕES
-• Consultar as monografias individuais referentes aos fármacos desta associação.
-
-
 PRECAUÇÕES
 • Consultar as monografias individuais referentes aos fármacos desta associação.
 
@@ -3982,10 +3618,6 @@ ATENÇÃO: como sinonímia para a associação rifampicina + isoniazida + pirazi
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Risperidona',"000000092", 
 'APRESENTAÇÃO
 • Comprimido 1 mg e 3 mg • Solução oral 1 mg/mL 
-
-
-CONTRAINDICAÇÕES
-• Hipersensibilidade a risperidona
 
 
 PRECAUÇÕES
@@ -4026,10 +3658,6 @@ insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) va
 Apresentações • Comprimido (200 mg + 50 mg) • Solução oral (80 mg + 20 mg)/mL 
 
 
-CONTRAINDICAÇÕES
-Contraindicações • Hipersensibilidade a lopinavir ou ritonavir. • Porfiria aguda. 
-
-
 PRECAUÇÕES
 Precauções • Usar com cuidado nos casos de: – distúrbios na condução cardíaca. – insuficiência hepática (ver Apêndice C), hepatites B e C crônicas, cirrose ou pancreatite recente. – insuficiência renal (ver Apêndice D). – hemofilia A e B. – diabetes melito ou hiperglicemia. – pancreatite (suspender o tratamento). • Há risco de resistência cruzada com outros inibidores de protease. • A solução oral contém propilenoglicol, pelo que deve ser evitada em grávidas e lactantes (ver Apêndice B). • Categoria de risco na gravidez (FDA): C (ver Apêndice A). 
 
@@ -4065,10 +3693,6 @@ ATENÇÃO: a associação lopinavir + ritonavir apresenta um número elevado de 
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Ritonavir',"000000094", 
 'APRESENTAÇÃO
 • Cápsula 100 mg. • Solução oral 80 mg/mL. 
-
-
-CONTRAINDICAÇÕES
-• Hipersensibilidade ao ritonavir. • Porfiria. • Insuficiência hepática grave (ver Apêndice C). • Uso concomitante com os seguintes fármacos: quinidina, bosentana, pimozida, erva-de-são-joão (Hypericum perforatum), ergotamina e análogos e voriconazol. 
 
 
 PRECAUÇÕES
@@ -4109,10 +3733,6 @@ insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) va
 • Aerossol 100 microgramas/dose • Solução inalante 6 mg/mL (equivalente a 5 mg de salbutamol/mL) • Solução injetável 0,5 mg/mL 
 
 
-CONTRAINDICAÇÕES
-• Hipersensibilidade ao sulfato de salbutamol ou a qualquer componente da formulação.
-
-
 PRECAUÇÕES
 • Usar com cuidado nos casos de: – transtornos convulsivos como epilepsia. – hipertireoidismo. – doenças cardiovasculares, insuficiência do miocárdio, arritmias, susceptibilidade a prolongação do intervalo QT e hipertensão. – asma grave (hipopotassemia pode ser potencializada por hipóxia ou pelo efeito de outros medicamentos anti-asmáticos; monitorar o potássio sérico e evitar a indução de hipopotassemia). – diabete melito (especialmente administração intravenosa; monitorar glicose sanguínea e risco de cetoacidose). – cetoacidose pré-existente. – ocorrência de broncoespasmo paradoxal (pode ser fatal; se ocorrer, interromper imediatamente o uso de salbutamol e utilizar tratamento alternativo). • Categoria de risco na gravidez (FDA): C. 
 
@@ -4144,10 +3764,6 @@ ASPECTOS FARMACEUTICOS
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Sinvastatina',"000000096", 
 'APRESENTAÇÃO
 • Comprimidos de 10 mg, 20 mg e 40 mg.
-
-
-CONTRAINDICAÇÕES
-• Hipersensibilidade à sinvastatina. • Doença hepática aguda. • Gravidez. Categoria de risco na gravidez (FDA): X (ver Apêndice A). • Lactação (ver Apêndice B). 
 
 
 PRECAUÇÕES
@@ -4188,10 +3804,6 @@ insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) va
 • Comprimido 500 mg.
 
 
-CONTRAINDICAÇÕES
-• Porfiria. • Hipersensibilidade a sulfadiazina ou a outras sulfonamidas. • Crianças com menos de 2 meses (exceto com toxoplasmose congênita). • Terceiro trimestre de gravidez. Categoria de risco na gravidez (FDA): C (ver Apêndice A). 
-
-
 PRECAUÇÕES
 • Usar com cuidado nos casos de: – insuficiência hepática (ver Apêndice C). – insuficiência renal (ver Apêndice D). – deficiência de glicose-6-fosfato desidrogenase, distúrbios hematológicos e predisposição a deficiência de folato. – lactação (ver Apêndice B). 
 
@@ -4224,10 +3836,6 @@ ASPECTOS FARMACEUTICOS
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Sulfadiazina de prata',"000000098", 
 'APRESENTAÇÃO
 • Creme 1%
-
-
-CONTRAINDICAÇÕES
-• Hipersensibilidade à prata ou a sulfonamidas. • Bebês até 2 meses de idade (segurança e eficácia não foram estabelecidas). 
 
 
 PRECAUÇÕES
@@ -4263,10 +3871,6 @@ insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) va
 • Comprimido 400 mg + 80 mg. • Suspensão oral (40 mg + 8 mg)/mL. • Solução injetável (80 mg + 16 mg)/mL. 
 
 
-CONTRAINDICAÇÕES
-• Hipersensibilidade à sulfonamida ou trimetoprima. • Porfiria. • Anemia megaloblástica por deficiência de folato. 
-
-
 PRECAUÇÕES
 • Usar com cuidado nos casos de: – insuficiência renal (ver Apêndice D). – insuficiência hepática grave (uso não recomendado). – deficiência de glicose-6-fosfato desidrogenase, predisposição a deficiência de folato, hiperpotassemia, alterações hematológicas, asma e idosos. – crianças com menos de 6 semanas de vida (uso não recomendado). • Suspender o uso, imediatamente, se ocorrer exantema e alterações hematológicas. • Manter adequada hidratação para evitar cristalúria. • Categoria de risco na gravidez (FDA): C. 
 
@@ -4299,10 +3903,6 @@ ASPECTOS FARMACEUTICOS
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Sulfato ferroso',"000000100", 
 'APRESENTAÇÃO
 • Comprimido de 40 mg Fe2+ • Solução oral a 25 mg/mL Fe2+ 
-
-
-CONTRAINDICAÇÕES
-• Hemossiderose, hemocromatose hemoglobinopatias. • Qualquer forma de anemia não associada à deficiência de ferro. • Pacientes que receberam repetidas transfusões sanguíneas. • Ferroterapia parenteral. • Hipersensibilidade ao ferro. 
 
 
 PRECAUÇÕES
@@ -4340,10 +3940,6 @@ insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) va
 • Comprimido 100 mg
 
 
-CONTRAINDICAÇÕES
-• Neuropatia prévia. • Reações de hipersensibilidade. • Crianças com idade inferior a 12 anos. • Gravidez. Categoria de risco na gravidez (FDA): X (ver Apêndice A). • Lactação (ver Apêndice B). • Doação de sangue. 
-
-
 PRECAUÇÕES
 • Usar com cuidado nos casos de: – mulheres em idade fértil (evitar prescrição). Em casos excepcionais, quando se fizer indispensável a utilização do medicamento por mulheres em idade fértil, seu uso deve ser acompanhado de práticas contraceptivas (para mulheres, dois métodos – de barreira e hormonal, um mês antes do início, durante, e um mês após o fim do tratamento; para homens – preservativo durante e 1 semana após fim do tratamento). – insuficiência hepática grave. – insuficiência renal grave. • Recomenda-se a tromboprofilaxia pelo menos durante os 5 primeiros meses de tratamento, principalmente, em pacientes com risco tromboembólico adicional. Os pacientes e seus cuidadores devem estar atentos para sintomas de tromboembolismo, tais como: falta de ar, dor no peito e inchaço de membros. • Deve-se monitorar os pacientes para sinais e sintomas de neuropatia periférica. Os pacientes e seus cuidadores devem estar atentos para sintomas como parestesia, coordenação anormal e fraqueza. Pode ser necessária diminuição da dose ou mesmo descontinuação do tratamento. Pacientes com neuropatia periférica pré-existente não devem ser tratados com talidomida a menos que os potenciais benefícios clínicos superem os riscos. 
 
@@ -4378,10 +3974,6 @@ insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) va
 • Cloridrato de tiamina: comprimido de 300 mg e solução oral 10 mg/mL. • Palmitato de tiamina: solução injetável 100.000 UI/mL (100 mg/mL). 
 
 
-CONTRAINDICAÇÕES
-• Hipersensibilidade a tiamina ou a qualquer componente da formulação
-
-
 PRECAUÇÕES
 • Usar com cuidado nos casos de: – insuficiência renal – lactação. • Reservar a via parenteral para casos de coma ou hipotermia de etiologia desconhecida, pois reações anafiláticas podem ocorrer durante ou imediatamente após administração intravenosa ou intramuscular. • Injeções intravenosas devem ser lentas (em torno de 10 minutos); manter recursos para o tratamento de eventual anafilaxia. • Realizar teste intradérmico antes da administração parenteral de tiamina em pacientes com suspeita de hipersensibilidade à mesma. • Lactação: não deve ocorrer em situação de grave deficiência de tiamina. • Categoria de risco na gravidez: A e C (quando a dose ultrapassar a recomendada) (ver Apêndice A). 
 
@@ -4411,10 +4003,6 @@ ASPECTOS FARMACEUTICOS
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Tuberculina (Derivado proteico purificado) PPD RT',"000000103", 
 'APRESENTAÇÃO
 • Solução injetável 0,1 mL (PPD-Rt 23, 2 UT – unidades de tuberculina para via intradérmica)
-
-
-CONTRAINDICAÇÕES
-• Até quatro semanas após administração de vacinas de vírus vivos. • Hipersensibilidade ao PPD (risco de reações graves). • Histórico de reação grave (necrólise, ulceração e formação de vesículas). 
 
 
 PRECAUÇÕES
@@ -4453,10 +4041,6 @@ insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) va
 'APRESENTAÇÃO
 • Comprimido ou cápsula 288 mg (equivalente a 250 mg ácido valproico). • Comprimido 576 mg (equivalente a 500 mg ácido valproico) • Solução oral ou xarope 57,624 mg/mL (equivalente a 50 mg de ácido valproico/mL) 
 
-										      
-CONTRAINDICAÇÕES
-• Hipersensibilidade ao valproato de sódio ou ao ácido valproico. • Doença hepática ativa, disfunção hepática significante, ou história familiar de hepatopatias. • Encefalopatia hepática ou distúrbios no ciclo da ureia não diagnosticados. • Porfiria. 
-
 
 PRECAUÇÕES
 • Usar com cuidado nos casos de: – doença hepática; crianças com menos de 2 anos de idade; uso concomitante de vários anticonvulsivantes; distúrbios metabólicos congênitos; doenças orgânicas de origem cerebral; e epilepsia grave acompanhada de retardo mental (aumento do risco de hepatotoxicidade). – pancreatite fulminante. – lactação. – descontinuação em pacientes epilépticos (deve ser gradual; suspensão abrupta pode desencadear estado epiléptico). – traumatismo craniano (não usar o fármaco). – ataxia, vômito cíclico, letargia, irritabilidade, retardo mental não explicado, concentrações plasmáticas elevadas de amônia ou glutamina, baixas concentrações de ureia sérica. – história de encefalopatia. – terapia com altas doses (acima de 50 mg/kg/dia). – até 40 dias do início do tratamento (podem ocorrer reações de hipersensibilidade). – pacientes com potencial para hemorragias ou em uso de anticoagulantes. – insuficiência renal. – lupus eritematoso sistêmico. • A função hepática deve ser monitorada antes e durante os primeiros 6 meses da terapia. • Pode ocorrer pancreatite, por vezes com risco de morte. • Categoria de risco na gravidez (FDA): D (Ver Apêndice A). 
@@ -4494,10 +4078,6 @@ ATENÇÃO: mortalidade por insuficiência hepática tem ocorrido em pacientes qu
 insert into medicamento (nome, codigodebarras, descricao, imagem, fabricante) values ('Verapamil, cloridrato',"000000105", 
 'APRESENTAÇÃO
 • Comprimidos 80 mg e 120 mg. • Solução injetável 2,5 mg/mL. 
-
-
-CONTRAINDICAÇÕES
-• Hipersensibilidade ao fármaco ou a outros antagonistas do canal de cálcio. • Hipotensão sintomática. • Bradicardia. • Bloqueio atrioventricular de segundo ou terceiro graus. • Choque cardiogênico • Insuficiência cardíaca descompensada • Síndrome do nó sinoatrial • Disfunção de nós sinusal e atrioventricular. • Distúrbio de condução infranodal. • Síndrome de Wolf-Parkinson-White. • Obstipação crônica. • Taquicardia supraventricular paroxística em menores de 2 anos. 
 
 
 PRECAUÇÕES
