@@ -4,6 +4,7 @@ insert into fabricante (nome, descricao, imagem, contato) values ('ICU-Vita', 'L
 -- 2
 insert into fabricante (nome, descricao, imagem, contato) values ('Neo Quimica', 'Fabricante brasileiro bla bla ba bla bla bla', 'http://linkimagem.com/img.png', 'http://www.neoquimica.com');
 
+
 -- Tabela principioativo ==================================================================================================================================
 -- 1
 insert into principioativo (nome, descricao, imagem) values ('Amoxicilina', 'Antibiótico bla bla bla', 'http://linkimagem.com/img.png');
@@ -11,6 +12,7 @@ insert into principioativo (nome, descricao, imagem) values ('Amoxicilina', 'Ant
 insert into principioativo (nome, descricao, imagem) values ('Paracetamol', 'Analgésico bla bla bla', 'http://linkimagem.com/img.png');
 -- 3
 insert into principioativo (nome, descricao, imagem) values ('Cafeína', 'Estimulante bla bla bla', 'http://linkimagem.com/img.png');
+
 
 -- Tabela contraindicacao ==================================================================================================================================
 -- 0
@@ -4125,14 +4127,6 @@ insert into medicamento_has_principioativo (medicamento, principioativo) values 
 insert into medicamento_has_principioativo (medicamento, principioativo) values (3, 3);
 insert into medicamento_has_principioativo (medicamento, principioativo) values (2, 1);
 
--- Tabela medicamento_has_contraindicacao ==================================================================================================================
-insert into medicamento_has_contraindicacao (medicamento, contraindicacao) values (1, 1);
-insert into medicamento_has_contraindicacao (medicamento, contraindicacao) values (2, 2);
-insert into medicamento_has_contraindicacao (medicamento, contraindicacao) values (3, 3);
-insert into medicamento_has_contraindicacao (medicamento, contraindicacao) values (4, 4);
-insert into medicamento_has_contraindicacao (medicamento, contraindicacao) values (5, 5);
 
 
-insert into medicamento_has_contraindicacao (medicamento, contraindicacao) values (2, 2);
-insert into medicamento_has_contraindicacao (medicamento, contraindicacao) values (3, 3);
 
