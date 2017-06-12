@@ -14,7 +14,7 @@ SET @OLD_SQL_MODE=@@SQL_MODE, SQL_MODE='TRADITIONAL,ALLOW_INVALID_DATES';
 -- -----------------------------------------------------
 -- Schema infomedicine
 -- -----------------------------------------------------
-CREATE SCHEMA IF NOT EXISTS `infomedicine` DEFAULT CHARACTER SET latin1 ;
+CREATE SCHEMA IF NOT EXISTS `infomedicine` CHARACTER SET utf8 COLLATE utf8_general_ci;
 USE `infomedicine` ;
 
 -- -----------------------------------------------------
