@@ -19,19 +19,11 @@ $nome=$_POST['nome'];
 $url=$_POST['url'];
 $registro=$_POST['registro'];
 $referencia=$_POST['referencia'];
-$apresentacao=$_POST['apresentacao'];
-$precaucoes=$_POST['precaucoes'];
-$esquemas=$_POST['esquemas'];
-$aspectos=$_POST['aspectos'];
-$efeitos=$_POST['efeitos'];
-$interacoes=$_POST['interacoes'];
-$orientacoes=$_POST['orientacoes'];
-$farma=$_POST['farma'];
-$advertencias=$_POST['advertencias'];
+$descricao=$_POST['descricao'];
 $principio=$_POST['principio'];
 $fabricante=$_POST['fabricante'];
 
-$sql = "INSERT INTO medicamento (Nome, Imagem_URL, Codigo_de_Registro, Referencia, Apresentacao, Precaucoes, Esquemas_de_Administracao, Aspectos_Framacologico_Clinicamente_Relevantes, Efeitos_Adversos, Interacoe_Medicamentosas, Orientacoes_aos_Pacientes, Aspectos_Farmaceuticos, Advertencias, Fabricante, Principio_Ativo) VALUES('$nome', '$url', '$registro', '$referencia', '$apresentacao', '$precaucoes', '$esquemas', '$aspectos', '$efeitos', '$interacoes', '$orientacoes', '$farma', '$advertencias', '$fabricante', '$principio')";
+$sql = "INSERT INTO medicamento (Nome, Imagem_URL, Codigo_de_Registro, Referencia, Descricao, Fabricante, Principio_Ativo) VALUES('$nome', '$url', '$registro', '$referencia', '$descricao', '$fabricante', '$principio')";
 
   if(!mysqli_query($conn,$sql))
   {
