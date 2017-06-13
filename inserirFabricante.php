@@ -25,7 +25,8 @@
 
 Nome: <input type="text" name="nome"><br/></br>
 URL da Imagem: <input type="URL" name="url"></br></br>
-Descricao: <input type="text" name="descricao"></br></br>
+Descricao: <textarea name="descricao" rows="10" cols="100">
+</textarea></br></br>
 Contato: <input type="text" name="contato"></br></br>
 Endereco: <input type="text" name="endereco"></br></br>
 <input type="submit" name="Enviar">
