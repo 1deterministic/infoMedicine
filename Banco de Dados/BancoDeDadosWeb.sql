@@ -45,8 +45,8 @@ ENGINE = InnoDB;
 -- -----------------------------------------------------
 CREATE TABLE IF NOT EXISTS `infomedicine`.`Medicamento` (
   `Nome` VARCHAR(100) NOT NULL,
-  `Imagem_URL` VARCHAR(45) NULL,
-  `Codigo_de_Registro` VARCHAR(45) NULL,
+  `Imagem_URL` VARCHAR(200) NULL,
+  `Codigo_de_Registro` VARCHAR(100) NULL,
   `Referencia` VARCHAR(100) NULL,
   `Descricao` TEXT NULL,
   `Fabricante` VARCHAR(100) NOT NULL,
