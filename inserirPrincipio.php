@@ -24,7 +24,8 @@
 <form name="Principio_Ativo" method="post" action="cadastrarPrincipio.php">
 
 Nome: <input type="text" name="nome"><br/></br>
-Descricao: <input type="text" name="descricao"></br></br>
+Descricao: <textarea name="descricao" rows="10" cols="100">
+</textarea></br></br>
 <input type="submit" name="Enviar">
 </form>
 </br></br>
