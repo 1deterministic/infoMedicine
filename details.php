@@ -26,58 +26,77 @@
   
     else // se a conexão funcionar
     {
-      if (!empty($_GET["barcode"])) // busca por código de barras
+      if (!empty($_GET["medicamento"]))
       {
-        $sql = "select * from medicamento where codigodebarras = ".$_GET["barcode"]; 
-        $_GET["type"] = "medicamento"; // entrada por código de barras sempre resultará na busca por um medicamento
-      }
-
-      else // usuário redirecionado da página results
-        $sql = "select * from ".$_GET["type"]." where id = ".$_GET["value"].";";
-        
-      $resultado = $conexao->query($sql); // faz a busca no banco de dados
-      if ($resultado->num_rows > 0) // se há resultados
-      {
-        while ($row = $resultado->fetch_assoc()) // para cada resultado da busca
+        $sql = "select * from Medicamento where Nome = '".$_GET["medicamento"]."';";
+        $resultado = $conexao->query($sql); // faz a busca no banco de dados
+        if ($resultado->num_rows > 0) // se há resultados
         {
-          switch ($_GET["type"]) // verifica qual o tipo de dado recuperado
+          while ($row = $resultado->fetch_assoc()) // para cada resultado da busca
           {
-            case "medicamento":
-                drawCard("Nome: ".$row["nome"]."<br>"."Código de barras: ".$row["codigodebarras"]."<br>", $row["imagem"]); // desenha um card com a foto do medicamento e algumas informações ao lado
+            drawCard("Nome: ".$row["Nome"]."<br>"."Código de registro: ".$row["Codigo_de_Registro"]."<br>", $row["Imagem_URL"]); // desenha um card com a foto do medicamento e algumas informações ao lado
 
-                $resultado2 = $conexao->query("select * from fabricante where id = ".$row["fabricante"].";"); // além do medicamento, também mostrar o laboratório
-                if ($resultado2->num_rows > 0)
-                {
-                  while ($row2 = $resultado2->fetch_assoc())
-                  {
-                    drawSmallCard("Fabricante: ".$row2["nome"]."<br>", $row2["imagem"]); // desenha um card com a logo do fabricante e algumas informações ao lado
-                  }
-                }
-                break;
-
-            case "principioativo":
-                drawCard($row["nome"], $row["imagem"]);
-
-                $resultado3 = $conexao->query("select * from contraindicacao as c inner join principioativo_has_contraindicacao as pc on c.id = pc.contraindicacao and pc.principioativo = ".$row["id"].";"); // mostrar também todas as contra-indicações do medicamento
-                if ($resultado3->num_rows > 0)
-                {
-                  while ($row3 = $resultado3->fetch_assoc())
-                  {
-                    drawSmallCard("Contra-indicação: ".$row3["nome"]."<br>", $row3["imagem"]); // desenha um card com uma imagem de alerta e a contra-indicação ao lado
-                  }
-                }
-                break;
-
-            case "fabricante":
-              drawCard($row["nome"], $row["imagem"]);
-              break;
-
-            case "contraindicacao":
-              drawCard($row["nome"], $row["imagem"]);
-              break;
+            $resultado2 = $conexao->query("select * from fabricante where Nome = ".$row["Fabricante"].";"); // além do medicamento, também mostrar o laboratório
+            if ($resultado2->num_rows > 0)
+            {
+              while ($row2 = $resultado2->fetch_assoc())
+              {
+                drawSmallCard("Fabricante: ".$row2["Nome"]."<br>", $row2["Imagem_URL"]); // desenha um card com a logo do fabricante e algumas informações ao lado
+              }
+            }
           }
 
-          drawText($row["descricao"]); // exibe o texto descrição do medicamento, quebrando as linhas corretamente
+          drawText($row["Descricao"]); // exibe o texto descrição do medicamento, quebrando as linhas corretamente
+          //$textprint = strtr($textprint, array("_" => "<br>&emsp;-", "•" => "•")); //"•" => "<br>•"
+        }
+      }
+
+      else if (!empty($_GET["fabricante"]))
+      {
+        $sql = "select * from Fabricante where Nome = ".$_GET["fabricante"].";";
+        $resultado = $conexao->query($sql); // faz a busca no banco de dados
+        if ($resultado->num_rows > 0) // se há resultados
+        {
+          while ($row = $resultado->fetch_assoc()) // para cada resultado da busca
+          {
+            drawCard("Nome: ".$row["Nome"]."<br>"."Código de registro: ".$row["Codigo_de_Registro"]."<br>", $row["Imagem_URL"]); // desenha um card com a foto do medicamento e algumas informações ao lado
+
+            /*$resultado2 = $conexao->query("select * from fabricante where Nome = ".$row["Fabricante"].";"); // além do medicamento, também mostrar o laboratório
+            if ($resultado2->num_rows > 0)
+            {
+              while ($row2 = $resultado2->fetch_assoc())
+              {
+                drawSmallCard("Fabricante: ".$row2["Nome"]."<br>", $row2["Imagem_URL"]); // desenha um card com a logo do fabricante e algumas informações ao lado
+              }
+            }*/
+          }
+
+          drawText($row["Descricao"]); // exibe o texto descrição do medicamento, quebrando as linhas corretamente
+          //$textprint = strtr($textprint, array("_" => "<br>&emsp;-", "•" => "•")); //"•" => "<br>•"
+        }
+      }
+
+      else if (!empty($_GET["principioativo"]))
+      {
+        $sql = "select * from Principio_Ativo where Nome = ".$_GET["principioativo"].";";
+        $resultado = $conexao->query($sql); // faz a busca no banco de dados
+        if ($resultado->num_rows > 0) // se há resultados
+        {
+          while ($row = $resultado->fetch_assoc()) // para cada resultado da busca
+          {
+            drawCard($row["Nome"]."<br>", $principioativo_imagem); // desenha um card com a foto do medicamento e algumas informações ao lado
+
+            /*$resultado2 = $conexao->query("select * from fabricante where Nome = ".$row["Fabricante"].";"); // além do medicamento, também mostrar o laboratório
+            if ($resultado2->num_rows > 0)
+            {
+              while ($row2 = $resultado2->fetch_assoc())
+              {
+                drawSmallCard("Fabricante: ".$row2["Nome"]."<br>", $row2["Imagem_URL"]); // desenha um card com a logo do fabricante e algumas informações ao lado
+              }
+            }*/
+          }
+
+          drawText($row["Descricao"]); // exibe o texto descrição do medicamento, quebrando as linhas corretamente
           //$textprint = strtr($textprint, array("_" => "<br>&emsp;-", "•" => "•")); //"•" => "<br>•"
         }
       }

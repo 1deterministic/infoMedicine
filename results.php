@@ -27,33 +27,6 @@
 
     include 'functions.php';
 
-    $tentativas = 
-    [
-      0 => "select * from medicamento where nome like '%",
-      1 => "%';",
-      2 => "Medicamento",
-      3 => "medicamento",
-      4 => "select * from fabricante where nome like '%",
-      5 => "%';",
-      6 => "Fabricante",
-      7 => "fabricante",
-      8 => "select * from principioativo where nome like '%",
-      9 => "%';",
-      10 => "Princípio ativo",
-      11 => "principioativo",
-      12 => "select * from contraindicacao where nome like '%",
-      13 => "%';",
-      14 => "Contra indicação",
-      15 => "contraindicacao",
-    ];
-    
-    $server = "localhost";
-    $nomebd = "infomedicine";
-    $user = "infomedicine";
-    $senha = "He!!oWor!d";
-
-    echo $_GET["search"];
-
     $conexao = new mysqli($server, $user, $senha, $nomebd);
 
     if ($conexao->connect_error)
@@ -67,61 +40,37 @@
       {
         while ($row = $resultado->fetch_assoc())
         {
-          drawCard($row["Nome"]."<br>", "https://s3-us-west-1.amazonaws.com/powr/defaults/image-slider1.jpg");
+          //drawCard($row["Nome"]."<br>", "https://s3-us-west-1.amazonaws.com/powr/defaults/image-slider1.jpg");
+          drawLinkCard($row["Nome"]."<br>"."Medicamento", 
+                       $row["Imagem_URL"], 
+                       "details.php?medicamento=".$row["Nome"]);
+        }
+      }
+
+      $sql = "select * from Fabricante where Nome like '%".$_GET["search"]."%';";
+      $resultado = $conexao->query($sql);
+      if ($resultado->num_rows > 0)
+      {
+        while ($row = $resultado->fetch_assoc())
+        {
+          drawLinkCard($row["Nome"]."<br>"."Fabricante", 
+                       $row["Imagem_URL"], 
+                       "details.php?fabricante=".$row["Nome"]);
+        }
+      }
+
+      $sql = "select * from Principio_Ativo where Nome like '%".$_GET["search"]."%';";
+      $resultado = $conexao->query($sql);
+      if ($resultado->num_rows > 0)
+      {
+        while ($row = $resultado->fetch_assoc())
+        {
+          drawLinkCard($row["Nome"]."<br>"."Princípio ativo", 
+                       $principioativo_imagem, 
+                       "details.php?principioativo=".$row["Nome"]);
         }
       }
     }
-/*
-      $sql = "select * from principioativo where nome like '%".$_GET["search"]."%';";
-      $resultado = $conexao->query($sql);
-      if ($resultado->num_rows > 0)
-      {
-        while ($row = $resultado->fetch_assoc())
-        {
-          drawLinkCard($row["nome"]."<br>"."Princípio ativo", $row["imagem"], "details.php?type=principioativo&value=".$row["id"]);
-        }
-      }
-
-      $sql = "select * from fabricante where nome like '%".$_GET["search"]."%';";
-      $resultado = $conexao->query($sql);
-      if ($resultado->num_rows > 0)
-      {
-        while ($row = $resultado->fetch_assoc())
-        {
-          drawLinkCard($row["nome"]."<br>"."Fabricante", $row["imagem"], "details.php?type=fabricante&value=".$row["id"]);
-        }
-      }
-
-      $sql = "select * from contraindicacao where nome like '%".$_GET["search"]."%';";
-      $resultado = $conexao->query($sql);
-      if ($resultado->num_rows > 0)
-      {
-        while ($row = $resultado->fetch_assoc())
-        {
-          drawLinkCard($row["nome"]."<br>"."Contra-indicação", $row["imagem"], "details.php?type=contraindicacao&value=".$row["id"]);
-        }
-      }
-    }
-  */
-    /*else
-    {
-      $i = 0;
-      while ($i < 16)
-      {
-        $sql = $tentativas[$i].$_GET["search"].$tentativas[$i + 1];
-
-        $resultado = $conexao->query($sql);
-        if ($resultado->num_rows > 0)
-        {
-          while ($row = $resultado->fetch_assoc())
-          {
-            drawLinkCard($row["nome"]."<br>".$tentativas[$i + 2], $row["imagem"], $tentativas[$i + 3]."&value=".$row["id"]);
-          }
-        }
-
-        $i = $i + 4;
-      }   
-    }*/
   ?>
   
   <script src="https://code.jquery.com/jquery-3.1.1.slim.min.js"></script>

@@ -1,8 +1,17 @@
 <?php
-    $server = "mysql4.gear.host";
+    //$server = "mysql4.gear.host";
+    //$nomebd = "infomedicine";
+    //$user = "anonnymous";
+    //$senha = "He!!oWor!d";
+
+    $server = "localhost:3306";
     $nomebd = "infomedicine";
-    $user = "anonnymous";
-    $senha = "He!!oWor!d";
+    $user = "root";
+    $senha = "";
+
+    $medicamento_imagem = "http://guiasaudero.com.br/arquivos/imagens/Z1B_MEDICAMENTOS.JPG";
+    $principioativo_imagem = "https://upload.wikimedia.org/wikipedia/commons/f/ff/Pyridoxine_structure_ver2.svg";
+    $fabricante_imagem = "https://s-media-cache-ak0.pinimg.com/originals/35/7f/52/357f526df7755b609c95bd0641b1e15f.jpg";
 
     function drawCard($text, $image)
     {
