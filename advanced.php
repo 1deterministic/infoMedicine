@@ -1,10 +1,11 @@
-﻿<html>
+<html>
 
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" type="text/css">
-  <link rel="stylesheet" href="main.css" type="text/css"> </head>
+  <link rel="stylesheet" href="main.css" type="text/css"> 
+  </head>
 
 <body class="bg-faded">
   <div class="p-1">
@@ -21,13 +22,13 @@
       <div class="row">
         <div class="col-md-12 bg-faded">
           <p class="text-muted">Dica: você não precisa preencher todas as informações</p>
-          <form class="">
-            <div class="form-group"> <label></label> <input type="email" class="form-control" placeholder="Nome?"> </div>
-            <div class="form-group"> <label></label> <input type="email" class="form-control" placeholder="Fabricante?"> </div>
-            <div class="form-group"> <label></label> <input type="email" class="form-control" placeholder="Princípio ativo?"> </div>
-            <div class="form-group"> <label></label> <input type="email" class="form-control" placeholder="Medicamento de referência?"> </div> 
-          </form>
-          <a href="results.php" class="btn btn-primary" style="float: right;">Pesquisar</a>
+          <form name="Principio_Ativo" method="post" action="advancedResults.php">
+           <input type="text" name="nome" placeholder="Nome do Medicamento" size="125"><br/></br>
+		   <input type="text" name="fabricante" placeholder="Fabricante do Medicamento" size="125"><br/></br>
+		   <input type="text" name="principio" placeholder="Principio Ativo do Medicamento" size="125"><br/></br>
+		   <input type="text" name="referencia" placeholder="Medicamento de Referência, em caso de Medicamento Genérico" size="125"><br/></br>
+		   <input class="btn btn-primary" type="submit" name="Pesquisar" style="float: right;">
+		  </form>
           <a href="barcode.php" class="btn btn-outline-primary">Possuo o Número de Registro do Medicamento</a>          
         </div>
       </div>
