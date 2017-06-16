@@ -23,10 +23,10 @@
         <div class="col-md-12 bg-faded">
           <p class="text-muted">Dica: você não precisa preencher todas as informações</p>
           <form name="Principio_Ativo" method="post" action="advancedResults.php">
-           <input type="text" name="nome" placeholder="Nome do Medicamento" size="125"><br/></br>
-		   <input type="text" name="fabricante" placeholder="Fabricante do Medicamento" size="125"><br/></br>
-		   <input type="text" name="principio" placeholder="Principio Ativo do Medicamento" size="125"><br/></br>
-		   <input type="text" name="referencia" placeholder="Medicamento de Referência, em caso de Medicamento Genérico" size="125"><br/></br>
+           <input type="text" name="nome" placeholder="Nome do Medicamento"><br/></br>
+		   <input type="text" name="fabricante" placeholder="Fabricante"><br/></br>
+		   <input type="text" name="principio" placeholder="Principio Ativo"><br/></br>
+		   <input type="text" name="referencia" placeholder="Medicamento Referência"><br/></br>
 		   <input class="btn btn-primary" type="submit" name="Pesquisar" style="float: right;">
 		  </form>
           <a href="barcode.php" class="btn btn-outline-primary">Possuo o Número de Registro do Medicamento</a>          
