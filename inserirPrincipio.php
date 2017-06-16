@@ -23,14 +23,14 @@
         <div class="col-md-12 bg-faded">
 <form name="Principio_Ativo" method="post" action="cadastrarPrincipio.php">
 
-Nome: <input type="text" name="nome"><br/></br>
-Descricao: <textarea name="descricao" rows="10" cols="100">
+Nome: <input type="text" name="nome" placeholder="Nome do Medicamento" size="125"><br/></br>
+Descricao: <textarea name="descricao" placeholder="Descrição do Principio Ativo" rows="10" cols="125">
 </textarea></br></br>
-<input type="submit" name="Enviar">
+<input class="btn btn-primary" type="submit" name="Enviar" style="float: left;">
 </form>
 </br></br>
           <a href="inserirMedicamento.php" class="btn btn-primary" style="float: right;">Inserir Medicamento</a>
-          <a href="inserirFabricante.php" class="btn btn-outline-primary">Inserir fabricante</a>          
+          <a href="inserirFabricante.php" class="btn btn-outline-primary">Inserir Fabricante</a>          
         </div>
       </div>
     </div>
