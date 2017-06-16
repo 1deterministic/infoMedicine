@@ -42,11 +42,11 @@ $resultado2 = mysqli_query($conn, $query2);
         <div class="col-md-12 bg-faded">
 <form name="Fabricante" method="post" action="cadastrarMedicamento.php">
 
-Nome: <input type="text" name="nome"><br/></br>
-Imagem_URL: <input type="URL" name="url"></br></br>
-Codigo de Registro: <input type="text" name="registro"></br></br>
-Referência: <input type="text" name="referencia"></br></br>
-<textarea name="descricao" rows="10" cols="100">
+Nome: <input type="text" name="nome" placeholder="Nome do Medicamento" size="125"><br/></br>
+Imagem_URL: <input type="URL" name="url" placeholder="URL da Imagem" size="125"></br></br>
+Codigo de Registro: <input type="text" name="registro" placeholder="Código de Registro do Medicamento: MS - #.####.####.###-#" size="125"></br></br>
+Referência: <input type="text" name="referencia" placeholder="Medicamento de Referência caso seja um remédio Genérico" size="125"></br></br>
+Descrição: <textarea name="descricao" placeholder="Descrição do Medicamento" rows="10" cols="125">
 </textarea></br></br>
 Fabricante: <select type="text" name="fabricante">
 <?php while($row1 = mysqli_fetch_array($resultado1)):;?>
@@ -54,12 +54,12 @@ Fabricante: <select type="text" name="fabricante">
 <?php endwhile; ?>
 </select></br></br>
 
-Principio: <select name="principio">
+Principio Ativo: <select name="principio">
 <?php while($row2 = mysqli_fetch_array($resultado2)):;?>
 <option><?php echo $row2[0];?></option>
 <?php endwhile; ?>
 </select></br></br>
-<input type="submit" name="Enviar">
+<input class="btn btn-primary" type="submit" name="Enviar" style="float: left;">
 </form>
 </br></br>
           <a href="inserirPrincipio.php" class="btn btn-primary" style="float: right;">Inserir Principio Ativo</a>
