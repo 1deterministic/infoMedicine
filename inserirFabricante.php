@@ -23,13 +23,13 @@
         <div class="col-md-12 bg-faded">
 <form name="Fabricante" method="post" action="cadastrarFabricante.php">
 
-Nome: <input type="text" name="nome"><br/></br>
-URL da Imagem: <input type="URL" name="url"></br></br>
-Descricao: <textarea name="descricao" rows="10" cols="100">
+Nome: <input type="text" name="nome" placeholder="Nome do Fabricante" size="125"><br/></br>
+URL da Imagem: <input type="URL" name="url" placeholder="URL da Imagem" size="125"></br></br>
+Descricao: <textarea name="descricao" placeholder="Descrição do Fabricante" rows="10" cols="125">
 </textarea></br></br>
-Contato: <input type="text" name="contato"></br></br>
-Endereco: <input type="text" name="endereco"></br></br>
-<input type="submit" name="Enviar">
+Contato: <input type="text" name="contato" placeholder="Contato do Fabricante: Telefone, Email, etc..." size="125"></br></br>
+Endereco: <input type="text" name="endereco" placeholder="Endereço do Fabricante" size="125"></br></br>
+ <input class="btn btn-primary" type="submit" name="Enviar" style="float: left;">
 </form>
 </br></br>
           <a href="inserirMedicamento.php" class="btn btn-primary" style="float: right;">Inserir Medicamento</a>
