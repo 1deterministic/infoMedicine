@@ -1,11 +1,7 @@
 <?php
 
-$host="localhost";
-$user="root";
-$pass="";
-$dbname="infomedicine";
+include 'conection.php';
 
-$conn= mysqli_connect($host,$user,$pass,$dbname);
 $query = "SELECT * FROM `fabricante`";
 
 $resultado1 = mysqli_query($conn, $query);
