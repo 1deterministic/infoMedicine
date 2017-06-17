@@ -1,3 +1,27 @@
+<html>
+
+<head>
+<meta charset="UTF-8"> 
+<meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="main.css" type="text/css"> 
+</head>
+
+<body class="bg-faded">
+  <div class="p-1">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-12">
+          <h1 class="text-center">infoMedicine</h1>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-12 bg-faded">
+
 <?php
 
 include 'conection.php';
@@ -37,13 +61,29 @@ if(count($cond) > 0){
 	$FabMed = $row['Fabricante'];
 	
 	echo "<a href='advancedDetails.php?nome=$NomeD' target=_blank>"."<img src='$Ur' width=150 height=150 />"."</br>".$NomeD."</br>".$FabMed."</a>"."</br>"; 
-    echo "<hr></br></br>";
+    echo "<hr></br>";
  }
  
  if(mysqli_num_rows($result) == 0) {
-  echo "<h2>NENHUM RESULTADO ENCONTRADO</h2>";
-  echo "</br><h3>REDIRECIONANDO PARA A PÁGINA DE PESQUISA ...</h3>";
-  header("refresh:3; url=advanced.php");
+  echo "</br><h3>NENHUM RESULTADO ENCONTRADO</h3>";
 }
  
 ?>
+       
+        </div>
+      </div>
+    </div>
+  </div>
+    <div class="py-5 bg-faded">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-12"><a href="advanced.php" class="btn btn-block btn-primary btn-sm" data-toggle="">Voltar a Página de Pesquisa</a></div>
+      </div>
+    </div>
+  </div>
+  <script src="https://code.jquery.com/jquery-3.1.1.slim.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/tether/1.4.0/js/tether.min.js"></script>
+  <script src="https://pingendo.com/assets/bootstrap/bootstrap-4.0.0-alpha.6.min.js"></script>
+</body>
+
+</html>
