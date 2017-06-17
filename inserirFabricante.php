@@ -27,7 +27,8 @@ Nome:</br> <input type="text" name="nome" placeholder="Nome do Fabricante"><br/>
 URL da Imagem:</br> <input type="URL" name="url" placeholder="URL da Imagem"></br></br>
 Descricao:</br> <textarea name="descricao" placeholder="Descrição do Fabricante">
 </textarea></br></br>
-Contato:</br> <input type="text" name="contato" placeholder="Telefone, Email, etc..."></br></br>
+Contato:</br> <textarea name="contato" placeholder="Contato">
+</textarea></br></br>
 Endereco:</br> <input type="text" name="endereco" placeholder="Endereço do Fabricante"></br></br>
  <input class="btn btn-primary" type="submit" name="Enviar" style="float: left;">
 </form>
