@@ -20,8 +20,8 @@
     <div class="container">
       <div class="row">
         <div class="col-md-12 bg-faded">
-          <form class="" method="GET" action="details.php">
-            <div class="form-group"> <label></label> <input type="text" class="form-control" placeholder="Insira o código de barras aqui" type="text" name="barcode" id="barcode"> </div>
+          <form class="" method="POST" action="barcode.php">
+            <div class="form-group"> <label></label> <input type="text" class="form-control" placeholder="Insira o Número de Registro aqui" name="barcode"> </div>
             <input type="submit" class="btn btn-primary" style="float: right;">
           </form>
         </div>
@@ -39,5 +39,22 @@
   <script src="https://cdnjs.cloudflare.com/ajax/libs/tether/1.4.0/js/tether.min.js"></script>
   <script src="https://pingendo.com/assets/bootstrap/bootstrap-4.0.0-alpha.6.min.js"></script>
 </body>
+
+<?php
+
+include 'conection.php';
+
+if (isset($_POST['barcode'])) {
+$codig=$_POST['barcode'];
+
+$cod_query = "SELECT * FROM `medicamento` WHERE Codigo_de_Registro='$codig'";
+
+$resultcod = mysqli_query($conn,$cod_query);
+while ($rowc = $resultcod->fetch_assoc()) {
+	$bar = $rowc['Nome'];
+	header("refresh:0; url='advancedDetails.php?nome=$bar'");
+}
+}
+?>
 
 </html>
