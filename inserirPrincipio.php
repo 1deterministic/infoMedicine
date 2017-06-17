@@ -23,8 +23,8 @@
         <div class="col-md-12 bg-faded">
 <form name="Principio_Ativo" method="post" action="cadastrarPrincipio.php">
 
-Nome: <input type="text" name="nome" placeholder="Nome do Medicamento" size="125"><br/></br>
-Descricao: <textarea name="descricao" placeholder="Descrição do Principio Ativo" rows="10" cols="125">
+Nome:</br> <input type="text" name="nome" placeholder="Nome do Medicamento"><br/></br>
+Descricao:</br> <textarea name="descricao" placeholder="Descrição do Principio Ativo">
 </textarea></br></br>
 <input class="btn btn-primary" type="submit" name="Enviar" style="float: left;">
 </form>
