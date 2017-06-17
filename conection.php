@@ -10,7 +10,7 @@ if(!$conn)
 	echo "A conexão falhou";
 }
 else{
-	echo "A conexão foi bem succedida</br></br>";
+	//echo "A conexão foi bem succedida</br></br>";
 }
 
 mysqli_set_charset($conn,"utf8");
