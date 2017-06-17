@@ -54,6 +54,10 @@ while ($rowc = $resultcod->fetch_assoc()) {
 	$bar = $rowc['Nome'];
 	header("refresh:0; url='advancedDetails.php?nome=$bar'");
 }
+if(mysqli_num_rows($resultcod) == 0) {
+  echo "<h2>NENHUM RESULTADO ENCONTRADO</h2>";
+  header("refresh:3; url=barcode.php");
+}
 }
 ?>
 
