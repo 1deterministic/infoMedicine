@@ -10,7 +10,7 @@ if(!$conn)
 	echo "A conexão falhou";
 }
 else{
-	echo "A conxão foi bem succedida";
+	echo "A conxão foi bem succedida</br></br>";
 }
 
 mysqli_set_charset($conn,"utf8");
@@ -30,6 +30,6 @@ $sql = "INSERT INTO fabricante (Nome, Imagem_URL, Descricao, Contato, Endereco) 
   else{
 	  echo ' Fabricante inserido';
   }
-  
+  echo "</br></br><h3>REDIRECIONANDO PARA A PÁGINA DE FORMULÁRIO ...</h3>";
   header("refresh:2; url=inserirFabricante.php");
   ?>
