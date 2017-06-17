@@ -1,20 +1,7 @@
 
 <?php
 
-$host="localhost";
-$user="root";
-$pass="";
-$dbname="infomedicine";
-$conn= mysqli_connect($host,$user,$pass,$dbname);
-if(!$conn)
-{
-	echo "A conexão falhou";
-}
-else{
-	echo "A conxão foi bem succedida</br></br>";
-}
-
-mysqli_set_charset($conn,"utf8");
+include 'conection.php';
 
 $nome=$_POST['nome'];
 $descricao=$_POST['descricao'];
