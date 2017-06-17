@@ -10,7 +10,7 @@ if(!$conn)
 	echo "A conexão falhou";
 }
 else{
-	echo "A conxão foi bem succedida";
+	echo "A conxão foi bem succedida</br></br>";
 }
 
 mysqli_set_charset($conn,"utf8");
@@ -32,6 +32,6 @@ $sql = "INSERT INTO medicamento (Nome, Imagem_URL, Codigo_de_Registro, Referenci
   else{
 	  echo ' Medicamento inserido';
   }
-  
+  echo "</br></br><h3>REDIRECIONANDO PARA A PÁGINA DE FORMULÁRIO ...</h3>";
   header("refresh:2; url=inserirMedicamento.php");
   ?>
