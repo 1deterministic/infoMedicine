@@ -29,7 +29,8 @@ Descricao:</br> <textarea name="descricao" placeholder="Descrição do Fabricant
 </textarea></br></br>
 Contato:</br> <textarea name="contato" placeholder="Contato">
 </textarea></br></br>
-Endereco:</br> <input type="text" name="endereco" placeholder="Endereço do Fabricante"></br></br>
+Endereco:</br> <textarea name="endereco" placeholder="Endereço do Fabricante">
+</textarea></br></br>
  <input class="btn btn-primary" type="submit" name="Enviar" style="float: left;">
 </form>
 </br></br>
