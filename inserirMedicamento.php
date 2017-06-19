@@ -2,13 +2,9 @@
 
 include 'conection.php';
 
-$query = "SELECT * FROM `fabricante`";
+$resultado1 = mysqli_query($conn, "SELECT * FROM `fabricante`");
 
-$resultado1 = mysqli_query($conn, $query);
-
-$query2 = "SELECT * FROM `principio_ativo`";
-
-$resultado2 = mysqli_query($conn, $query2);
+$resultado2 = mysqli_query($conn, "SELECT * FROM `principio_ativo`");
 
 ?>
 
