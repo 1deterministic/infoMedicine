@@ -1,8 +1,8 @@
 <?php
 
-$host="localhost";
-$user="root";
-$pass="";
+$host="mysql4.gear.host";
+$user="infomedicine";
+$pass="Ht0Jo!kl80y?";
 $dbname="infomedicine";
 $conn= mysqli_connect($host,$user,$pass,$dbname);
 if(!$conn)
