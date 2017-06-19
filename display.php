@@ -20,7 +20,7 @@
   <div class="py-5 bg-faded">
     <div class="container">
       <div class="row">
-        <div class="col-md-12"><a href="crud.php" class="btn btn-block btn-primary btn-sm" data-toggle="">Voltar</a></div>
+        <div class="col-md-12"><a href="crud.php" class="btn btn-block btn-primary btn-sm" data-toggle="">Voltar ao Menu</a></div>
       </div>
     </div>
   </div>
@@ -31,7 +31,7 @@
 		  <?php
   include 'conection.php';
   
- // if (isset($_POST['dispm'])){
+  if (isset($_GET['rem'])){
   
   $displaym_query = "SELECT * FROM `medicamento`";
   
@@ -53,9 +53,9 @@
     echo "</br><hr></br>";
  }
   
-  //}
+  }
   
-   // if (isset($_POST['dispf'])){
+    if (isset($_GET['ref'])){
   
   $displayf_query = "SELECT * FROM `fabricante`";
   
@@ -74,9 +74,9 @@
 	echo "</br><hr></br>";
  }
   
-  //}
+  }
   
-   // if (isset($_POST['dispp'])){
+    if (isset($_GET['rep'])){
   
   $displayp_query = "SELECT * FROM `principio_ativo`";
   
@@ -94,7 +94,7 @@
 	echo "</br><hr></br>";
  }
   
-  //}
+  }
   
   ?>
 		 </div>
