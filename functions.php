@@ -1,14 +1,6 @@
 <?php
-    //$server = "mysql4.gear.host";
-    //$nomebd = "infomedicine";
-    //$user = "anonnymous";
-    //$senha = "He!!oWor!d";
-
-    $server = "localhost:3306";
-    $nomebd = "infomedicine";
-    $user = "root";
-    $senha = "";
-
+    include 'connection.php';
+    
     $medicamento_imagem = "http://guiasaudero.com.br/arquivos/imagens/Z1B_MEDICAMENTOS.JPG";
     $principioativo_imagem = "https://upload.wikimedia.org/wikipedia/commons/f/ff/Pyridoxine_structure_ver2.svg";
     $fabricante_imagem = "https://s-media-cache-ak0.pinimg.com/originals/35/7f/52/357f526df7755b609c95bd0641b1e15f.jpg";
@@ -44,7 +36,13 @@
 
     function drawSmallLinkCard($text, $image, $link)
     {
-        return "ok";
+        echo "<div class=\"py-0\"><div class=\"container\" onclick=\"location.href='"
+             .$link.
+             "'\"><div class=\"row\"><div class=\"col-md-6 w-25\"><img src=\""
+             .$image.
+             "\" class=\"img-fluid d-block rounded\"></div><div class=\"col-md-6 w-75\"><p class=\"\">"
+             .$text.
+             "</p></div></div><div class=\"row\"> </div></div></div>";
     }
 
     function drawText($text)
@@ -56,7 +54,7 @@
 
     function drawForm($fields, $names, $target)
     {
-        for ($i = 0; $i < count(fields); $i++)
+        for ($i = 0; $i < count($fields); $i++)
         {
             echo "<div class=\"\"><div class=\"container\"><div class=\"row\"><div class=\"col-md-12 bg-faded\"><form class=\"\" method=\"GET\" action=\""
             .$target.
