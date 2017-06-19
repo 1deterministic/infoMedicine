@@ -21,30 +21,40 @@
     <div class="container">
       <div class="row">
         <div class="col-md-12 bg-faded">
-     <h2 class="text-center">Tem Certesa Que Deseja Apagar Este Registro?</h2>
+
 <?php
 
+include 'conection.php';
+
 if(isset($_GET['med'])){
-	$con1=$_GET['med'];
-	echo "<a href='display.php' class='btn btn-primary' style='float: right;'>Não</a>"; 
-	echo "<a href='remover.php?med=$con1' class='btn btn-outline-primary'>Sim</a>";	
 	
+$myvar=$_GET['med'];
+
+mysqli_query($conn,"DELETE FROM `medicamento` WHERE Codigo_de_Registro='$myvar'");
+echo "<h3>Medicamento Deletado</br></br>Voltando para a Página de Display...</h3>";
+header("refresh:2; url=display.php");
 }
 
 if(isset($_GET['fab'])){
-	$con2=$_GET['fab'];
-	echo "<a href='display.php' class='btn btn-primary' style='float: right;'>Não</a>"; 
-	echo "<a href='remover.php?fab=$con2' class='btn btn-outline-primary'>Sim</a>";	
 	
+$myvar=$_GET['fab'];
+
+mysqli_query($conn,"DELETE FROM `fabricante` WHERE Nome='$myvar'");
+echo "<h3>Fabricante Deletado</br></br>Voltando para a Página de Display...</h3>";
+header("refresh:2; url=display.php");
 }
 
 if(isset($_GET['pi'])){
-	$con3=$_GET['pi'];
-	echo "<a href='display.php' class='btn btn-primary' style='float: right;'>Não</a>"; 
-	echo "<a href='remover.php?pi=$con3' class='btn btn-outline-primary'>Sim</a>";	
+	
+$myvar=$_GET['pi'];
+
+mysqli_query($conn,"DELETE FROM `principio_ativo` WHERE Nome='$myvar'");
+echo "<h3>Principio Ativo Deletado</br></br>Voltando para a Página de Display...</h3>";
+header("refresh:2; url=display.php");
 }
+
 ?>
-       
+
         </div>
       </div>
     </div>
