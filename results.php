@@ -32,7 +32,7 @@
         {
           drawLinkCard($row["Nome"]."<br>"."Medicamento", 
                        $row["Imagem_URL"], 
-                       "details.php?medicamento=".$row["Nome"]);
+                       "details.php?medicamento=".$row["Nome"]."&fabricante=".$row["Fabricante"]."&principioativo=".$row["Principio_Ativo"]);
         }
       }
 

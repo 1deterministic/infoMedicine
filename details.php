@@ -23,9 +23,9 @@
   
     else // se a conexão funcionar
     {
-      if (!empty($_GET["medicamento"])) // detalhes sobre um medicamento
+      if ((!empty($_GET["medicamento"])) && (!empty($_GET["fabricante"])) && (!empty($_GET["principioativo"]))) // detalhes sobre um medicamento
       {
-        $sql = "select * from Medicamento where Nome = '".$_GET["medicamento"]."';";
+        $sql = "select * from Medicamento where Nome = '".$_GET["medicamento"]."' and Fabricante = '".$_GET["fabricante"]."' and Principio_Ativo = '".$_GET["principioativo"]."';";
         $resultado = $conexao->query($sql); // faz a busca no banco de dados
         if ($resultado->num_rows > 0) // se há resultados
         {
