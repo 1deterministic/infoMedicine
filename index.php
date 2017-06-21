@@ -26,7 +26,7 @@
       <div class="row">
         <div class="col-md-12"><a href="advanced.php" class="btn btn-block btn-primary btn-sm" data-toggle="">Pesquisa avançada</a>
 		</br></br>
-		<a href="crud.php" class="btn btn-block btn-primary btn-sm" data-toggle="">CRUD</a>
+		<!--<a href="crud.php" class="btn btn-block btn-primary btn-sm" data-toggle="">CRUD</a>-->
 		</div>
       </div>
     </div>
