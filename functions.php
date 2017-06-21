@@ -11,7 +11,7 @@
             .$image.
             "\" class=\"img-fluid d-block rounded\"></div><div class=\"col-md-6 w-75\"><p class=\"\">"
             .$text.
-            "</p></div></div><div class=\"row\"> </div></div></div>";
+            "</p></div></div><div class=\"row\"> </div></div></div><hr>";
     }
 
     function drawLinkCard($text, $image, $link)
@@ -22,32 +22,32 @@
              .$image.
              "\" class=\"img-fluid d-block rounded\"></div><div class=\"col-md-6 w-75\"><p class=\"\">"
              .$text.
-             "</p></div></div><div class=\"row\"> </div></div></div>";
+             "</p></div></div><div class=\"row\"> </div></div></div><hr>";
     }
 
     function drawSmallCard($text, $image)
     {
-        echo "<div class=\"py-0\"><div class=\"container\"><div class=\"row\"><div class=\"col-md-6 w-25\"><img src=\""
+        echo "<div class=\"py-1\"><div class=\"container\"><div class=\"row\"><div class=\"col-md-6 w-25\"><img src=\""
             .$image.
             "\" class=\"img-fluid d-block rounded\"></div><div class=\"col-md-6 w-75\"><p class=\"\">"
             .$text.
-            "</p></div></div><div class=\"row\"> </div></div></div>";
+            "</p></div></div><div class=\"row\"> </div></div></div><hr>";
     }
 
     function drawSmallLinkCard($text, $image, $link)
     {
-        echo "<div class=\"py-0\"><div class=\"container\" onclick=\"location.href='"
+        echo "<div class=\"py-1\"><div class=\"container\" onclick=\"location.href='"
              .$link.
              "'\"><div class=\"row\"><div class=\"col-md-6 w-25\"><img src=\""
              .$image.
              "\" class=\"img-fluid d-block rounded\"></div><div class=\"col-md-6 w-75\"><p class=\"\">"
              .$text.
-             "</p></div></div><div class=\"row\"> </div></div></div>";
+             "</p></div></div><div class=\"row\"> </div></div></div><hr>";
     }
 
     function drawText($text)
     {
-        echo "<div class=\"\"><div class=\"container\"><div class=\"row\"><div class=\"col-md-12\"><p class=\"\">"
+        echo "<div class=\"\"><div class=\"container\"><div class=\"row\"><div class=\"col-md-12\"><p class=\"\"><br><br><br>"
             .nl2br($text).
             "</div></div></div></div>";
     }

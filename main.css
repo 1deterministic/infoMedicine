@@ -2373,7 +2373,7 @@ select.form-control-lg:not([size]):not([multiple]), .input-group-lg > select.for
     margin-left: 91.66667%; } }
 
 .img-fluid {
-  object-fit: cover;
+  object-fit: scale-down;
   //width: 100%;
   //height: auto;
   width: 70px;
@@ -3424,9 +3424,10 @@ body {
   outline: none !important; }
 
 hr {
-  box-sizing: content-box;
-  height: 0;
-  overflow: visible; }
+  margin-top: 0;
+  margin-bottom: 0;
+  border: 0;
+  border-top: 1px solid rgba(0, 0, 0, 0.1); }
 
 h1, h2, h3, h4, h5, h6 {
   margin-top: 0;
@@ -3529,7 +3530,9 @@ figure {
 
 img {
   vertical-align: middle;
-  border-style: none; }
+  border-style: solid;
+  border-width: 1px;
+  border-color: #0275d8; }
 
 svg:not(:root) {
   overflow: hidden; }
@@ -3979,8 +3982,8 @@ h6, .h6 {
   line-height: 1.1; }
 
 hr {
-  margin-top: 1rem;
-  margin-bottom: 1rem;
+  margin-top: 0;
+  margin-bottom: 0;
   border: 0;
   border-top: 1px solid rgba(0, 0, 0, 0.1); }
 

@@ -17,23 +17,30 @@
   <?php
     include 'functions.php';
 
-    drawForm(array("search"), array("Pesquise qualquer informação"), "results.php");
+    drawForm(array("search"), array($_GET["search"]), "results.php");
+
+    $medicamentos_encontrados = true;
 
     if ($erro_conexao)
       echo "Erro na conexao com o banco de dados<br>";
 
     else
     {
-      $sql = "select * from Medicamento where Nome like '%".$_GET["search"]."%';";
+      $sql = "select * from Medicamento where Nome like '%".$_GET["search"]."%';"; // pesquisa por medicamentos com nome parecido
       $resultado = $conexao->query($sql);
       if ($resultado->num_rows > 0)
       {
         while ($row = $resultado->fetch_assoc())
         {
-          drawLinkCard($row["Nome"]."<br>"."Medicamento", 
+          drawLinkCard($row["Nome"]."<br>".
+                       "Medicamento", 
                        $row["Imagem_URL"], 
                        "details.php?medicamento=".$row["Nome"]."&fabricante=".$row["Fabricante"]."&principioativo=".$row["Principio_Ativo"]);
         }
+      }
+      else
+      {
+        $medicamentos_encontrados = false;
       }
 
       $sql = "select * from Fabricante where Nome like '%".$_GET["search"]."%';";
@@ -57,6 +64,37 @@
           drawLinkCard($row["Nome"]."<br>"."Princípio ativo", 
                        $principioativo_imagem, 
                        "details.php?principioativo=".$row["Nome"]);
+        }
+      }
+
+      if ($medicamentos_encontrados == false) // caso a busca não tenha retornado medicamentos, comece a buscar por medicamentos com laboratório ou princípio ativo que se se pareçam com a busca
+      {
+        $sql = "select * from Medicamento where Fabricante like '%".$_GET["search"]."%';"; // pesquisa por medicamentos com fabricante parecido com o termo de busca
+        $resultado = $conexao->query($sql);
+        if ($resultado->num_rows > 0)
+        {
+          while ($row = $resultado->fetch_assoc())
+          {
+            drawLinkCard($row["Nome"]."<br>".
+                         "Medicamento<br>
+                         (o laboratório deste medicamento se parece com seu termo de busca)", 
+                         $row["Imagem_URL"], 
+                         "details.php?medicamento=".$row["Nome"]."&fabricante=".$row["Fabricante"]."&principioativo=".$row["Principio_Ativo"]);
+          }
+        }
+
+        $sql = "select * from Medicamento where Principio_Ativo like '%".$_GET["search"]."%';"; // pesquisa por medicamentos com principio ativo parecido com o termo de busca
+        $resultado = $conexao->query($sql);
+        if ($resultado->num_rows > 0)
+        {
+          while ($row = $resultado->fetch_assoc())
+          {
+            drawLinkCard($row["Nome"]."<br>".
+                         "Medicamento<br>
+                         (o princípio ativo deste medicamento se parece com seu termo de busca)", 
+                         $row["Imagem_URL"], 
+                         "details.php?medicamento=".$row["Nome"]."&fabricante=".$row["Fabricante"]."&principioativo=".$row["Principio_Ativo"]);
+          }
         }
       }
     }

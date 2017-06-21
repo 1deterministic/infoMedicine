@@ -19,6 +19,6 @@ $sql = "INSERT INTO medicamento (Nome, Imagem_URL, Codigo_de_Registro, Referenci
   else{
 	  echo ' Medicamento inserido';
   }
-  echo "</br></br><h3>REDIRECIONANDO PARA A PÁGINA DE FORMULÁRIO ...</h3>";
-  header("refresh:2; url=inserirMedicamento.php");
+  //echo "</br></br><h3>REDIRECIONANDO PARA A PÁGINA DE FORMULÁRIO ...</h3>";
+  //header("refresh:2; url=inserirMedicamento.php");
   ?>

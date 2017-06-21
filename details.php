@@ -32,14 +32,18 @@
           while ($row = $resultado->fetch_assoc()) // para cada resultado da busca
           {
             drawCard($row["Nome"]."<br>".
-                     $row["Codigo_de_Registro"]."<br>", $row["Imagem_URL"]); // desenha um card com a foto e p nome do medicamento
+                     "Registro ANVISA: ".$row["Codigo_de_Registro"]."<br>", 
+                     $row["Imagem_URL"]); // desenha um card com a foto e p nome do medicamento
 
             $resultado2 = $conexao->query("select * from Principio_Ativo where Nome = '".$row["Principio_Ativo"]."';"); // além do medicamento, também mostrar o princípio ativo
             if ($resultado2->num_rows > 0)
             {
               while ($row2 = $resultado2->fetch_assoc())
               {
-                drawSmallLinkCard($row2["Nome"]."<br>", $principioativo_imagem, "details.php?principioativo=".$row2["Nome"]); // desenha um card com o princípio ativo e uma imagem simbólica
+                drawSmallLinkCard($row2["Nome"]."<br>
+                                  Princípio ativo deste medicamento<br>", 
+                                  $principioativo_imagem, 
+                                  "details.php?principioativo=".$row2["Nome"]); // desenha um card com o princípio ativo e uma imagem simbólica
               }
             }
 
@@ -48,7 +52,10 @@
             {
               while ($row2 = $resultado2->fetch_assoc())
               {
-                drawLinkCard($row2["Nome"]."<br>", $row2["Imagem_URL"], "details.php?fabricante=".$row2["Nome"]); // desenha um card com o nome e a a logo do fabricante
+                drawSmallLinkCard($row2["Nome"]."<br>
+                                  Fabricante deste medicamento<br>", 
+                                  $row2["Imagem_URL"], 
+                                  "details.php?fabricante=".$row2["Nome"]); // desenha um card com o nome e a a logo do fabricante
               }
             }
 
@@ -66,14 +73,18 @@
           while ($row = $resultado->fetch_assoc()) // para cada resultado da busca
           {
             drawCard($row["Nome"]."<br>"./*"Código de registro: ".$row["Codigo_de_Registro"]."<br>"*/
-                     $row["Contato"]."<br>", $row["Imagem_URL"]); // desenha um card com a foto do medicamento e algumas informações ao lado
+                     "Contato: ".$row["Contato"]."<br>".
+                     "Endereço: ".$row["Endereco"]."<br>", 
+                     $row["Imagem_URL"]); // desenha um card com a foto do medicamento e algumas informações ao lado
 
             $resultado2 = $conexao->query("select count(Nome) from Medicamento where Fabricante = '".$_GET["fabricante"]."';"); // mostrar uma contagem de medicamentos desse laboratório
             if ($resultado2->num_rows > 0)
             {
               while ($row2 = $resultado2->fetch_assoc())
               {
-                drawCard("Possui ".$row2["count(Nome)"]." medicamento(s) cadastrados<br>", $medicamento_imagem); // desenha um card com o número de medicamentos encontrados
+                drawSmallLinkCard("Possui ".$row2["count(Nome)"]." medicamento(s) cadastrados<br>", 
+                         $medicamento_imagem,
+                         "results.php?search=".$_GET["fabricante"]); // desenha um card com o número de medicamentos encontrados
               }
             }
 
@@ -90,14 +101,17 @@
         {
           while ($row = $resultado->fetch_assoc()) // para cada resultado da busca
           {
-            drawCard($row["Nome"]."<br>", $principioativo_imagem); // desenha um card com a foto do medicamento e algumas informações ao lado
+            drawCard($row["Nome"]."<br>", 
+                     $principioativo_imagem); // desenha um card com a foto do medicamento e algumas informações ao lado
 
             $resultado2 = $conexao->query("select count(Nome) from Medicamento where Principio_Ativo = '".$_GET["principioativo"]."';"); // mostrar uma contagem de medicamentos com este princípio ativo
             if ($resultado2->num_rows > 0)
             {
               while ($row2 = $resultado2->fetch_assoc())
               {
-                drawCard("Presente em ".$row2["count(Nome)"]." medicamento(s) cadastrados<br>", $medicamento_imagem); // desenha um card com o número de medicamentos encontrados
+                drawSmallLinkCard("Presente em ".$row2["count(Nome)"]." medicamento(s) cadastrados<br>", 
+                             $medicamento_imagem,
+                             "results.php?search=".$_GET["principioativo"]); // desenha um card com o número de medicamentos encontrados
               }
             }
 
