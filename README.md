@@ -21,6 +21,7 @@ informações digitadas, serão mostrados todos os registros do banco que possua
 Assim como na pesquisa básica há a comparação de resultados parcialmente combinados e todos os registros de medicamentos serão
 mostrados se nada for digitado nos campos de busca, ao clicar na imagem ou no nome do medicamento, o usuário será redirecionado
 para uma página de detalhes em uma nova guia.
+Há também um botão na pagina advanced.php (pagina inicial da pesquisa avançada), que redireciona o usuário para uma pagina onde ele pode pesquisar um medicamento a partir de seu código de registro. 
 
 
 
