@@ -1,4 +1,6 @@
 # infoMedicine
+
+# Descrição de alto nivel
 Sistema web projeto da disciplina de Desenvolvimento Web - UniCEUB 2017-1
 
 Descrição em alto nível do ponto de vista do usuário:
@@ -22,6 +24,8 @@ para uma página de detalhes em uma nova guia.
 
 
 
+
+# implementação
 A página advanced.php contém a implementação do formulário de pesquisa avançada, é um formulário simples, com 4 campos, que utiliza o método POST e envia os dados do formulário para a página advancedResults.php. A página advancedResults.php contém a implementação da pesquisa e mostra os resultados como links para a página de detalhes do item selecionado. 
 
 Para fins de demonstração as páginas advancedResults.php e advancedDetails.php foram feitas em php e html puro, sem utilizar as funções de display usadas na busca simples.
