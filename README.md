@@ -27,6 +27,14 @@ Há também um botão na pagina advanced.php (pagina inicial da pesquisa avança
 
 
 # implementação
+
+
+
+
+
+
+
+________________________________________________________________________________________________________________________________________
 A página advanced.php contém a implementação do formulário de pesquisa avançada, é um formulário simples, com 4 campos, que utiliza o método POST e envia os dados do formulário para a página advancedResults.php. A página advancedResults.php contém a implementação da pesquisa e mostra os resultados como links para a página de detalhes do item selecionado. 
 
 Para fins de demonstração as páginas advancedResults.php e advancedDetails.php foram feitas em php e html puro, sem utilizar as funções de display usadas na busca simples.
@@ -58,3 +66,10 @@ A página remover.php recebe o parâmetro do item a ser removido utilizando a su
 
 A página alterar.php recebe o parâmetro url do item a ser alterado utilizando a superglobal $_GET, a partir do parâmetro os dados do item são puxados do banco de maneira similar a utilizada nas páginas de pesquisa e são passados como os valores dos campos do formulário de alteração, para mostar o que está atualmente armazenado no banco, o formulário é então enviado para a mesma página com o método POST, com um valor escondido (hidden) para informar a página que ação executar.
 Ainda na página alterar.php há uma sequência de ifs que verificam se parâmetros específicos foram passados pelos formulários utilizando a superglobal $_POST com o comando if(isset($_POST['x'])){...}, caso recebam seu parâmetro especifico os ifs alocam os valores enviados pelo formulário para suas variáveis com comandos $a=$_POST['b'];, e utilizam estas variáveis para atualizar os dados do banco através do comando "UPDATE `x` SET a='$b', c='$d' WHERE e='$y'" utilizando uma mysqli_query, depois de tudo isto feito  usuário recebe uma mensagem de status informando se a operação foi ou não efetuada com sucesso e outra informando que ele será redirecionado para a página de display, o usuário é então redirecionado para a página de display depois de 2 segundos com o comando header("refresh:2; url=display.php").
+
+________________________________________________________________________________________________________________________________________
+
+A págia conection.php configura uma conexão com o banco de dados e é incluida nas págias que utilizem desta coexão atravéz do comado
+include 'conection.php';, ela tliza 4 variáveis ($host, $user, $pass e $dbname) para passar as configurações do banco, estabelece uma conexão utilisando o comando mysqli_connect($host,$user,$pass,$dbname) e armazenado-o na váriavel $conn para utilização nos códigos, foram implementados também uma menssagem de erro caso a conexão não seja bem sucedida e o comado mysqli_set_charset($conn,"utf8"); para configurar os cáracteres como utf8.
+
+Nota: está foi uma escolha de projeto, a conexão pode ser configurada manualmete em cada página mas tendo um arquivo separado facilita realizar alterações no código. Imagine um serviço com 50 páginas que utilzam a conexão, após um tempo é nescessário uma atualização do método de coexão devido a uma mudança o banco de dados uma uma mudança na tecnologia utilizada, seria muito mais facil mudar somente o arquivo contendo a configuração da conexão do que alterar a conexão em cada uma das 50 páginas.
