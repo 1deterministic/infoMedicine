@@ -69,7 +69,7 @@ Ainda na página alterar.php há uma sequência de ifs que verificam se parâmet
 
 ________________________________________________________________________________________________________________________________________
 
-A págia conection.php configura uma conexão com o banco de dados e é incluida nas págias que utilizem desta coexão atravéz do comado
+A página conection.php configura uma conexão com o banco de dados e é incluida nas págias que utilizem desta coexão atravéz do comado
 include 'conection.php';, ela tliza 4 variáveis ($host, $user, $pass e $dbname) para passar as configurações do banco, estabelece uma conexão utilisando o comando mysqli_connect($host,$user,$pass,$dbname) e armazenado-o na váriavel $conn para utilização nos códigos, foram implementados também uma menssagem de erro caso a conexão não seja bem sucedida e o comado mysqli_set_charset($conn,"utf8"); para configurar os cáracteres como utf8.
 
 Nota: está foi uma escolha de projeto, a conexão pode ser configurada manualmete em cada página mas tendo um arquivo separado facilita realizar alterações no código. Imagine um serviço com 50 páginas que utilzam a conexão, após um tempo é nescessário uma atualização do método de coexão devido a uma mudança o banco de dados uma uma mudança na tecnologia utilizada, seria muito mais facil mudar somente o arquivo contendo a configuração da conexão do que alterar a conexão em cada uma das 50 páginas.
